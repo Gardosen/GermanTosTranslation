@@ -1,16 +1,26 @@
 Regeln für das Arbeiten am deutschen Tree of Savior Übersetzungsprojekt
-
+<br>
 1. Git Berechtigungen
+
 1.1 Es werden nur Dateien modifiziert, keine hinzugefügt.
+
 1.2 Personen die mit dem Arbeiten in GitHub Gruppen Erfahrung haben, erhalten Commitrechte. Sollte ein Spieler helfen wollen, aber die Erfahrung oder das Verständnis für GitHub fehlt, kann er dennoch helfen indem er die Dateien mit den Änderungen an gardosen@gmx.de schickt.
 Diese werden dann geprüft und in das Repository eingefügt.
+
 2. Commits
+
 2.1 Mit jedem Commit immer nur eine Datei commiten
+
 2.2 Wartet nicht zulange mit dem commiten. Es ist immer besser jeden Abend einmal zu commiten anstelle die Woche durchzuarbeiten und dann in einem Schwung 5 Tage Arbeit hochzuladen.
+
 3. Übersetzung
+
 3.1 NPC Namen: Es werden keine Eigennamen übersetzt. Ähnlich wie bei Pokémon wird Nurse Joy in Schwester Joy übersetzt. Aber Übersetzungen von Eigennamen wie bei Game of Thrones, wo aus Theon Greyjoy Theon Graufreud wird, sind untersagt.
+
 3.2 Items: Achtet auf Regel 3.1 besonders bei Itemnamen. Eine Health Potion kann in „Heiltrank„ übersetzt werden, aber Waffennamen wie „Doomslayer„ sind Prägungstitel und sollten nicht übersetzt werden. (Hierbei sollte die Gruppe zusammen bestimmte commits in regelmäßigen Abständen prüfen und sich gegenseitig helfen)
+
 3.3 Kartennamen: Das Wort Dungeon kann multilingual verwendet werden. Es ist nicht nötig dieses in Kerker oder Verließ zu übersetzten
+
 3.4 Monsternamen: Genau wie bei NPC und Itemnamen können NPCs mit Füllwörtern wie das „Big Red Kapa„ in „Großes rotes Kapa„ übersetzt werden. Aber der Namen Kapa selbst, bleibt hierbei dem Orginal entsprechend.
 
 Zusätzliche generelle Regeln von IMC Games
