@@ -206,28 +206,28 @@ ITEM_20150317_000205	$Verleiht denjenigen Kraft die nicht dem Reich des Tages od
 ITEM_20150317_000206	$Gravity 
 ITEM_20150317_000207	$Niemand kann sich gegen die Schwerkraft wehren. Sollte es jemand versuchen, kann die Kraft nichtmehr unterschätzt werden.
 ITEM_20150317_000208	{memo X}$Primitiver Kurzstab 
-ITEM_20150317_000209	$Stab [Strike] 
-ITEM_20150317_000210	$Ein Stab welchen einst jeder Zauberer besaß. 
+ITEM_20150317_000209	$Stab [Hieb] 
+ITEM_20150317_000210	$Ein Stab welchen einst jeder Magier besaß. 
 ITEM_20150317_000211	$Kurzstab
-ITEM_20150317_000212	$Zauberer welche ihre Prüfungen bereits abgelegt haben wechseln zu diesem Stab. 
+ITEM_20150317_000212	$Magier welche ihre Prüfungen bereits abgelegt haben wechseln zu diesem Stab. 
 ITEM_20150317_000213	{memo X}$Minderwertiger Langstab
-ITEM_20150317_000214	$Verzierungen der Rüstungen eines Zauberers dienen einem Zweck, sie sind nicht nur da um betrachtet zu werden.
+ITEM_20150317_000214	$Verzierungen der Rüstungen eines Magiers dienen einem Zweck, sie sind nicht nur da um betrachtet zu werden.
 ITEM_20150317_000215	{memo X}$Minderwertiger Wanderstock 
-ITEM_20150317_000216	$Ein Stab welcher sorgfältig verziert wurde durch einen berühmten Zauberer, ist vorherbestimmt magische Kraft zu bergen.
+ITEM_20150317_000216	$Ein Stab welcher sorgfältig verziert wurde durch einen berühmten Magier, ist vorherbestimmt magische Kraft zu bergen.
 ITEM_20150317_000217	$Stock 
 ITEM_20150317_000218	$Mit den nötigen materialien kannst du den Stock verbessern. 
 ITEM_20150317_000219	$Crook 
 ITEM_20150317_000220	$Die Legende besagt dass die bösen Magier die ersten waren welche diese Waffe benutzt haben. 
-ITEM_20150317_000221	$Pewter Rod 
-ITEM_20150317_000222	$It was once a popular weapon among ambitious young wizards. 
-ITEM_20150317_000223	$Owl Rod 
-ITEM_20150317_000224	$The decoration is popular among experienced wizards. 
-ITEM_20150317_000225	$Rune Rod 
-ITEM_20150317_000226	$A magical rune is used to amplify the power of the rod. 
-ITEM_20150317_000227	$Crystal Rod 
-ITEM_20150317_000228	$A precise fitting of the jewel to the shaft is required to craft this rod. 
-ITEM_20150317_000229	{memo X}$Crude Pewter Rod 
-ITEM_20150317_000230	{memo X}$Crude Owl Rod 
+ITEM_20150317_000221	$Pewter Stab 
+ITEM_20150317_000222	$Es war einst ein beliebter Stab bei jungen Magiern. 
+ITEM_20150317_000223	$Owl Stab 
+ITEM_20150317_000224	$Die Verzierungen sind beliebt bei erfahrenen Magiern. 
+ITEM_20150317_000225	$Rune Stab 
+ITEM_20150317_000226	$Es wurde eine magische Rune benutzt um die Kraft des Stabs zu verstärken.
+ITEM_20150317_000227	$Crystal Stab 
+ITEM_20150317_000228	$Ein prezise angepasstes Juwel wird benötigt um diesen Stab herzustellen. 
+ITEM_20150317_000229	{memo X}$Primitiver Pewter Stab 
+ITEM_20150317_000230	{memo X}$Primitiver Owl Stab 
 ITEM_20150317_000231	$Soldier's Short Rod 
 ITEM_20150317_000232	{memo X}$This rod was given to magicians who joined the army. Though the procedure has been abolished since the Great Plant Cataclysm, an abundant stock still remains. 
 ITEM_20150317_000233	$Chieftain's Long Rod 
