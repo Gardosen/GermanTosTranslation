@@ -15,13 +15,10 @@ Diese werden dann geprüft und in das Repository eingefügt.
 
 3. Übersetzung
 
-3.1 NPC Namen: Es werden keine Eigennamen übersetzt. Ähnlich wie bei Pokémon wird Nurse Joy in Schwester Joy übersetzt. Aber Übersetzungen von Eigennamen wie bei Game of Thrones, wo aus Theon Greyjoy Theon Graufreud wird, sind untersagt.
-
-3.2 Items: Achtet auf Regel 3.1 besonders bei Itemnamen. Eine Health Potion kann in „Heiltrank„ übersetzt werden, aber Waffennamen wie „Doomslayer„ sind Prägungstitel und sollten nicht übersetzt werden. (Hierbei sollte die Gruppe zusammen bestimmte commits in regelmäßigen Abständen prüfen und sich gegenseitig helfen)
-
-3.3 Kartennamen: Das Wort Dungeon kann multilingual verwendet werden. Es ist nicht nötig dieses in Kerker oder Verließ zu übersetzten
-
-3.4 Monsternamen: Genau wie bei NPC und Itemnamen können NPCs mit Füllwörtern wie das „Big Red Kapa„ in „Großes rotes Kapa„ übersetzt werden. Aber der Namen Kapa selbst, bleibt hierbei dem Orginal entsprechend.
+3.1 NPC Namen Items Kartennamen Monsternamen: Diese Elemente werden nicht übersetzt. Ünterstützungswörter werden übersetzt, jedoch keine Monsternamen selbst. 
+Beispiel:
+"Das verängstigte Blue Kapa floh vor dem bösen Endgegner"
+Der Monstername "Blue Kapa" wird nicht übersetzt in "Blaues Kapa"
 
 Zusätzliche generelle Regeln von IMC Games
 ##NOTICE (Updated 02-10-2015)
