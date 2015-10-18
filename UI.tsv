@@ -335,12 +335,12 @@ UI_20150317_000334	{@st41b}Sockel hinzufügen
 UI_20150317_000335	{@st41b}Gem extrahieren
 UI_20150317_000336	{@st41}Schmieden{/}
 UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Gebiets-Map
+UI_20150317_000338	Gebietskarte
 UI_20150317_000339	{memo X}Gebiet erkundschaftet : 95.5%
 UI_20150317_000340	{memo X}{@st45tw}Gebiet erkundschaftet %s% {/}
-UI_20150317_000341	{@st59}Schließe die Map (M){/}
-UI_20150317_000342	{@st41}Map{/}
-UI_20150317_000343	Shift(löschen), Strg(mid fill)
+UI_20150317_000341	{@st59}Karte schließen (M){/}
+UI_20150317_000342	{@st41}Karte{/}
+UI_20150317_000343	Shift(clear), Strg(mid fill)
 UI_20150317_000344	{ol}Titel
 UI_20150317_000345	{@st41}Hinzufügen{/}
 UI_20150317_000346	{@st41}Löschen{/}
