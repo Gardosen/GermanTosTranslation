@@ -818,53 +818,53 @@ QUEST_JOBSTEP_20150317_000817	Han Steel
 QUEST_JOBSTEP_20150317_000818	temporarily. {nl}{nl}
 QUEST_JOBSTEP_20150317_000819	Basic Type
 QUEST_JOBSTEP_20150317_000820	Rough Advancement [Barbarian Advancement]
-QUEST_JOBSTEP_20150317_000821	Accept the battle with the Master
-QUEST_JOBSTEP_20150317_000822	Avoid the battle
-QUEST_JOBSTEP_20150317_000823	Bright Future [Hoplite Advancement]
+QUEST_JOBSTEP_20150317_000821	Nimm die Herausforderung des Meisters an
+QUEST_JOBSTEP_20150317_000822	Weiche dem Kampf aus
+QUEST_JOBSTEP_20150317_000823	Helle Zukunft [Hoplite Advancement]
 QUEST_JOBSTEP_20150317_000824	I'll take on the assignment
-QUEST_JOBSTEP_20150317_000825	Bothersome Mission [Psychokino Advancement](1)
-QUEST_JOBSTEP_20150317_000826	I'll be the assistant
-QUEST_JOBSTEP_20150317_000827	I don't need it
+QUEST_JOBSTEP_20150317_000825	Störende Mission [Psychokino Advancement](1)
+QUEST_JOBSTEP_20150317_000826	Ich werde der Assistent sein
+QUEST_JOBSTEP_20150317_000827	Ich brauch das nicht
 QUEST_JOBSTEP_20150317_000828	{memo X}Bothering Mission[Psychokino Advancement](2)
 QUEST_JOBSTEP_20150317_000829	{memo X}I will check out the results of the research
 QUEST_JOBSTEP_20150317_000830	{memo X}Tell him that it looks somewhat dangerous
 QUEST_JOBSTEP_20150317_000831	Non-existent Book [Linker Advancement](1)
-QUEST_JOBSTEP_20150317_000832	Prepare the materials for the test
-QUEST_JOBSTEP_20150317_000833	I need more time to think
-QUEST_JOBSTEP_20150317_000834	Non-existent Book [Linker Advancement](2)
-QUEST_JOBSTEP_20150317_000835	I'll take the test
-QUEST_JOBSTEP_20150317_000836	I'm not so sure about it
-QUEST_JOBSTEP_20150317_000837	Guilty Conscience [Sapper Advancement](1)
+QUEST_JOBSTEP_20150317_000832	Bereite die Materialien für den Test vor
+QUEST_JOBSTEP_20150317_000833	Ich brauche mehr Bedenkzeit
+QUEST_JOBSTEP_20150317_000834	Das Nicht-Existierende Buch [Linker Advancement](2)
+QUEST_JOBSTEP_20150317_000835	Ich mache den Test
+QUEST_JOBSTEP_20150317_000836	Ich bin mir nicht sicher
+QUEST_JOBSTEP_20150317_000837	Schlechtes Gewissen [Sapper Advancement](1)
 QUEST_JOBSTEP_20150317_000838	{memo X}I will hand over the object on behalf of him
-QUEST_JOBSTEP_20150317_000839	Guilty Conscience [Sapper Advancement](2)
+QUEST_JOBSTEP_20150317_000839	Schlechtes Gewissen [Sapper Advancement](2)
 QUEST_JOBSTEP_20150317_000840	{memo X}Notice/Deliver the Sapper Master's stuff to Klaipeda Residents! #10
 QUEST_JOBSTEP_20150317_000841	{memo X}Notice/Gather donations and give it to the Cleric Master!#7
-QUEST_JOBSTEP_20150317_000842	Guilty Conscience [Sapper Advancement](3)
-QUEST_JOBSTEP_20150317_000843	Guilty Conscience [Sapper Advancement](4)
-QUEST_JOBSTEP_20150317_000844	Bow's Book of Dream [Hunter Advancement](1)
-QUEST_JOBSTEP_20150317_000845	I'll go find the book
-QUEST_JOBSTEP_20150317_000846	I don't have time for that
-QUEST_JOBSTEP_20150317_000847	Bow's Book of Dream [Hunter Advancement](2)
-QUEST_JOBSTEP_20150317_000848	I will get the leather and bring the book.
-QUEST_JOBSTEP_20150317_000849	Bow's Book of Dream [Hunter Advancement](3)
-QUEST_JOBSTEP_20150317_000850	I'll go to the Archer Master
-QUEST_JOBSTEP_20150317_000851	Bow's Book of Dream [Hunter Advancement] (4)
-QUEST_JOBSTEP_20150317_000852	I'll deliver the pouch
-QUEST_JOBSTEP_20150317_000853	Bow's Book of Dream2 [Quarrel Shooter Advancement](1)
-QUEST_JOBSTEP_20150317_000854	Bow's Book of Dream2 [Quarrel Shooter Advancement](2)
-QUEST_JOBSTEP_20150317_000855	I'll pay for the book
-QUEST_JOBSTEP_20150317_000856	I don't have money either
-QUEST_JOBSTEP_20150317_000857	Bow's Book of Dream2 [Quarrel Shooter Advancement](3)
-QUEST_JOBSTEP_20150317_000858	I'll go to the Archer Master
-QUEST_JOBSTEP_20150317_000859	I'll quit here
-QUEST_JOBSTEP_20150317_000860	Bow's Book of Dream2 [Quarrel Shooter Advancement](4)
-QUEST_JOBSTEP_20150317_000861	Bow's Book of Dream3 [Archer Advancement](1)
-QUEST_JOBSTEP_20150317_000862	I will get it again later
-QUEST_JOBSTEP_20150317_000863	Bow's Book of Dream3 [Archer Advancement](2)
-QUEST_JOBSTEP_20150317_000864	I need time to prepare money for the book
-QUEST_JOBSTEP_20150317_000865	Bow's Book of Dream3 [Archer Advancement](3)
-QUEST_JOBSTEP_20150317_000866	I need some time to prepare
-QUEST_JOBSTEP_20150317_000867	Bow's Book of Dream3 [Archer Advancement](4)
+QUEST_JOBSTEP_20150317_000842	Schlechtes Gewissen [Sapper Advancement](3)
+QUEST_JOBSTEP_20150317_000843	Schlechtes Gewissen [Sapper Advancement](4)
+QUEST_JOBSTEP_20150317_000844	Bow's Buch der Träume [Hunter Advancement](1)
+QUEST_JOBSTEP_20150317_000845	Ich werde das Buch finden
+QUEST_JOBSTEP_20150317_000846	Ich habe keine Zeit für so etwas
+QUEST_JOBSTEP_20150317_000847	Bow's Buch der Träume [Hunter Advancement](2)
+QUEST_JOBSTEP_20150317_000848	Ich werde das Leder bekommen und dir das Buch bringen.
+QUEST_JOBSTEP_20150317_000849	Bow's Buch der Träume [Hunter Advancement](3)
+QUEST_JOBSTEP_20150317_000850	Ich werde zum Archer Master gehen
+QUEST_JOBSTEP_20150317_000851	Bow's Buch der Träume [Hunter Advancement] (4)
+QUEST_JOBSTEP_20150317_000852	Ich werde die Tasche ausliefern
+QUEST_JOBSTEP_20150317_000853	Bow's Buch der Träume Teil 2 [Quarrel Shooter Advancement](1)
+QUEST_JOBSTEP_20150317_000854	Bow's Buch der Träume Teil 2 [Quarrel Shooter Advancement](2)
+QUEST_JOBSTEP_20150317_000855	Ich werde für das Buch zahlen
+QUEST_JOBSTEP_20150317_000856	Ich habe auch kein Geld
+QUEST_JOBSTEP_20150317_000857	Bow's Buch der Träume Teil 2 [Quarrel Shooter Advancement](3)
+QUEST_JOBSTEP_20150317_000858	Ich werde zum Archer Master gehen
+QUEST_JOBSTEP_20150317_000859	Ich breche hier ab
+QUEST_JOBSTEP_20150317_000860	Bow's Buch der Träume Teil 2 [Quarrel Shooter Advancement](4)
+QUEST_JOBSTEP_20150317_000861	Bow's Buch der Träume Teil 3 [Archer Advancement](1)
+QUEST_JOBSTEP_20150317_000862	Ich werde es später bekommen
+QUEST_JOBSTEP_20150317_000863	Bow's Buch der Träume Teil 3 [Archer Advancement](2)
+QUEST_JOBSTEP_20150317_000864	Ich brauche Zeit um Geld für das Buch zu bekommen
+QUEST_JOBSTEP_20150317_000865	Bow's Buch der Träume Teil 3 [Archer Advancement](3)
+QUEST_JOBSTEP_20150317_000866	Ich brauche etwas Vorbereitungszeit
+QUEST_JOBSTEP_20150317_000867	Bow's Buch der Träume Teil 3 [Archer Advancement](4)
 QUEST_JOBSTEP_20150317_000868	Bow's Book of Dream4 [Ranger Advancement](1)
 QUEST_JOBSTEP_20150317_000869	Bow's Book of Dream4 [Ranger Advancement](2)
 QUEST_JOBSTEP_20150317_000870	Bow's Book of Dream4 [Ranger Advancement](3)
