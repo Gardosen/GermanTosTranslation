@@ -325,139 +325,139 @@ UI_20150317_000324	{@st56}Tot{/}
 UI_20150317_000325	Magiestärke
 UI_20150317_000326	Defensive
 UI_20150317_000327	Magieresistenz
-UI_20150317_000328	Critical Rate
-UI_20150317_000329	${@st43}Socket{/}
-UI_20150317_000330	{@st59}Close the Socket Management{/}
-UI_20150317_000331	Please insert your items
+UI_20150317_000328	Kritische Trefferrate
+UI_20150317_000329	${@st43}Sockel{/}
+UI_20150317_000330	{@st59}Sockel-Verwaltung schließen{/}
+UI_20150317_000331	Bitte füge deine Items ein
 UI_20150317_000332	Potential
-UI_20150317_000333	{memo X}Additional socket cost : {#ff9933}%s{/}{nl}Gem extraction cost : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Add Socket
-UI_20150317_000335	{@st41b}Extract Gem
-UI_20150317_000336	{@st41}Craft{/}
+UI_20150317_000333	{memo X}Zusätzliche Sockelkosten : {#ff9933}%s{/}{nl}Gem Extraktionskosten : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Sockel hinzufügen
+UI_20150317_000335	{@st41b}Gem extrahieren
+UI_20150317_000336	{@st41}Schmieden{/}
 UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Area Map
-UI_20150317_000339	{memo X}Area Explored : 95.5%
-UI_20150317_000340	{memo X}{@st45tw}Area Explored %s% {/}
-UI_20150317_000341	{@st59}Close the map (M){/}
+UI_20150317_000338	Gebiets-Map
+UI_20150317_000339	{memo X}Gebiet erkundschaftet : 95.5%
+UI_20150317_000340	{memo X}{@st45tw}Gebiet erkundschaftet %s% {/}
+UI_20150317_000341	{@st59}Schließe die Map (M){/}
 UI_20150317_000342	{@st41}Map{/}
-UI_20150317_000343	Shift(clear), Ctrl(mid fill)
-UI_20150317_000344	{ol}Title
-UI_20150317_000345	{@st41}Add{/}
-UI_20150317_000346	{@st41}Delete{/}
-UI_20150317_000347	{@st41}Save{/}
+UI_20150317_000343	Shift(löschen), Strg(mid fill)
+UI_20150317_000344	{ol}Titel
+UI_20150317_000345	{@st41}Hinzufügen{/}
+UI_20150317_000346	{@st41}Löschen{/}
+UI_20150317_000347	{@st41}Speichern{/}
 UI_20150317_000348	{@st41}Auto{/}
 UI_20150317_000349	{@st41}Reset{/}
-UI_20150317_000350	{@st59}Set quantity.{/}
-UI_20150317_000351	{ol}Group
-UI_20150317_000352	{ol}Message
+UI_20150317_000350	{@st59}Menge bestimmen.{/}
+UI_20150317_000351	{ol}Gruppe
+UI_20150317_000352	{ol}Nachricht
 UI_20150317_000353	{ol}Sound
-UI_20150317_000354	{@st41}Create Minimap{/}
-UI_20150317_000355	{@st55}Area Map
+UI_20150317_000354	{@st41}Minimap erstellen{/}
+UI_20150317_000355	{@st55}Gebiets-Map
 UI_20150317_000356	{@st43}{s22}Market{/}
 UI_20150317_000357	{@st43}{s24}Market{/}
 UI_20150317_000358	{@st42b}Filter{/}
-UI_20150317_000359	{@st42b}Type{/}
-UI_20150317_000360	{@st42b}Req. Lv{/}
-UI_20150317_000361	{@st42b}Enhance Lv{/}
+UI_20150317_000359	{@st42b}Typ{/}
+UI_20150317_000360	{@st42b}Ben. Lv{/}
+UI_20150317_000361	{@st42b}Verstärk. Lv{/}
 UI_20150317_000362	{@st42b}Name
 UI_20150317_000363	{@st41b}Item Cabinet%s
-UI_20150317_000364	{@st41b}Sell
-UI_20150317_000365	{@st41b}Search
-UI_20150317_000366	{@st59}Close the Market window{/}
-UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Items for Sale
+UI_20150317_000364	{@st41b}Verkaufen
+UI_20150317_000365	{@st41b}Suchen
+UI_20150317_000366	{@st59}Markt Fenster schließen{/}
+UI_20150317_000367	{@st42b}Sortieren
+UI_20150317_000368	{@st41b}Items zu verkaufen
 UI_20150317_000369	{@st43}{s22}Item Cabinet
-UI_20150317_000370	{@st41b}Receive All
-UI_20150317_000371	{@st41b} Receive
-UI_20150317_000372	{@st43}{s22}Sell
-UI_20150317_000373	{@st42b}Quantity
-UI_20150317_000374	{@st42b}Price
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}
-UI_20150317_000376	{@st41b}Add
+UI_20150317_000370	{@st41b}Alles erhalten
+UI_20150317_000371	{@st41b} Erhalten
+UI_20150317_000372	{@st43}{s22}Verkaufen
+UI_20150317_000373	{@st42b}Menge
+UI_20150317_000374	{@st42b}Preis
+UI_20150317_000375	{@st42b}Verkäufername verbergen{/}
+UI_20150317_000376	{@st41b}Hinzufügen
 UI_20150317_000377	Siege Coin
-UI_20150317_000378	Someone killed someone
+UI_20150317_000378	Jemand hat jemanden getötet
 UI_20150317_000379	{@st43}Minigames{/}
-UI_20150317_000380	{@st49}Fire Catapult{/}
-UI_20150317_000381	{@st44}Control directions{/}
-UI_20150317_000382	{@st44}Fire{/}
+UI_20150317_000380	{@st49}Katapult feuern{/}
+UI_20150317_000381	{@st44}Richtung steuern{/}
+UI_20150317_000382	{@st44}Feuern{/}
 UI_20150317_000383	Minigame
-UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-game?
-UI_20150317_000386	{s16}Participants : (0/5)
-UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
+UI_20150317_000384	{s18}{ol}{gr gradation1}Versteckspiel Minigame{/}
+UI_20150317_000385	{s16}Möchtest du dem Minigame beitreten?
+UI_20150317_000386	{s16}Teilnehmer : (0/5)
+UI_20150317_000387	{s16}Teilnehmer : (%s /%s)
+UI_20150317_000388	{s16}Das Spiel startet nach 1 Sekunde.
+UI_20150317_000389	{s16}Das Spiel startet nach %s Sekunden.
+UI_20150317_000390	{@st59}Reinzoomen{/}
+UI_20150317_000391	{@st59}Rauszoomen{/}
 UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
+UI_20150317_000393	{@st42b} Gebiets-Map
 UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
-UI_20150317_000400	Kepa or ...
+UI_20150317_000395	{s16}{#FFcc66}{ol}Bitte wähle das Item, das du herstellen willst{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Ziehe die Zutaten in die Slots
+UI_20150317_000397	{@st42}Herstellen{/}
+UI_20150317_000398	{@st42} Abbrechen {/}
+UI_20150317_000399	Angabe in %s
+UI_20150317_000400	Kepa oder ...
 UI_20150317_000401	{@st41}{Details}
-UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
+UI_20150317_000402	{s20}{#050505}Monsterbeschreibung Monsterbeschreibung Monsterbeschreibung Monsterbeschreibung
 UI_20150317_000403	{@st41} Kill {/}
 UI_20150317_000404	{@st41} Overkill {/}
-UI_20150317_000405	{@st41} Normal Kill {/}
-UI_20150317_000406	{@st41} Area {/}
+UI_20150317_000405	{@st41} Normaler Kill {/}
+UI_20150317_000406	{@st41} Gebiet {/}
 UI_20150317_000407	{@st41} Item {/}
 UI_20150317_000408	{@st41} Achievement {/}
-UI_20150317_000409	Object
+UI_20150317_000409	Objekt
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Close Necronomicon UI{/}
-UI_20150317_000412	{memo X}{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoning Item : {#ffcc33}%s{/}
-UI_20150317_000414	{memo X}Undead Harpy
+UI_20150317_000411	{@st59}Necronomicon UI schließen{/}
+UI_20150317_000412	{memo X}{@st59}Ich bin zu faul zum denken.{/}
+UI_20150317_000413	Beschwörungs-Item : {#ffcc33}%s{/}
+UI_20150317_000414	{memo X}Untote Harpie
 UI_20150317_000415	{memo X}Skill : %s
 UI_20150317_000416	{memo X}Skill 1, Skill 2
-UI_20150317_000417	{memo X}Fragments needed : %s
-UI_20150317_000418	{memo X}Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of fragments
-UI_20150317_000420	{memo X}Parts 1
-UI_20150317_000421	{memo X}Parts 2
-UI_20150317_000422	{memo X}Parts 3
-UI_20150317_000423	Congratulations! Your level has increased.
-UI_20150317_000424	Item Alarm
+UI_20150317_000417	{memo X}Fragmente benötigt : %s
+UI_20150317_000418	{memo X}Biest 60 / Insekt 20/ Mutant 10
+UI_20150317_000419	Zahl der Fragmente
+UI_20150317_000420	{memo X}Teile 1
+UI_20150317_000421	{memo X}Teile 2
+UI_20150317_000422	{memo X}Teile 3
+UI_20150317_000423	Gratulation! Dein Level hat sich erhöht.
+UI_20150317_000424	Item-Alarm
 UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	${@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	${@st42b}         Use a basic attack{/}
-UI_20150317_000429	${@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
-UI_20150317_000431	Fog Map Tool
-UI_20150317_000432	Tool for killing monsters
-UI_20150317_000433	Tool for making minimap
-UI_20150317_000434	Dialogue tool
-UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
+UI_20150317_000426	Wie man Spielt
+UI_20150317_000427	${@st42b}          Bewege dich einmal mit jeder Taste{/}
+UI_20150317_000428	${@st42b}         Benutze einen Grundangriff{/}
+UI_20150317_000429	${@st42b}                Spring hoch{/}
+UI_20150317_000430	{@st42b}     Benutze zwei Tasten um diagonal zu gehen{/}
+UI_20150317_000431	Nebel-Map-Tool
+UI_20150317_000432	Tool um Monster zu töten
+UI_20150317_000433	Tool um Minimaps zu erstellen
+UI_20150317_000434	Dialog Tool
+UI_20150317_000435	{@st43}GM Einstellungen{/}
+UI_20150317_000436	{@st59}Party Information schließen{/}
+UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Klicke auf den "Party erstellen" Button weiter unten um eine Party zu erstellen. {nl} - Rechtsklicke auf andere Spieler um Party-Einladungen zu senden. {nl} - Anpassungen an der Party können im Einstellungen-Tab gemacht werden. {nl} - Setze Spezifikationen der Party-Mitgliedersuche in der Öffentlichen-Party-Liste fest. {/}
 UI_20150317_000438	{@st43}Party Information{/}
-UI_20150317_000439	{@st41b}Members{/}
+UI_20150317_000439	{@st41b}Mitglieder{/}
 UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
-UI_20150317_000442	{memo X}{@st41}Members{/}
-UI_20150317_000443	{memo X}{@st41}Conditions for joining party
-UI_20150317_000444	{memo X}{@st41b}Public
-UI_20150317_000445	{memo X}{@st41b}Private
-UI_20150317_000446	{memo X}Required Level ~
-UI_20150317_000447	{memo X}{@st41}Item Priority
-UI_20150317_000448	{memo X}{@st41b}Individual Loot
+UI_20150317_000441	{@st41b}Einstellungen{/}
+UI_20150317_000442	{memo X}{@st41}Mitglieder{/}
+UI_20150317_000443	{memo X}{@st41}Beitrittsbedingungen für die Party
+UI_20150317_000444	{memo X}{@st41b}Öffentlich
+UI_20150317_000445	{memo X}{@st41b}Privat
+UI_20150317_000446	{memo X}Benötigtes Level ~
+UI_20150317_000447	{memo X}{@st41}Item Priorität
+UI_20150317_000448	{memo X}{@st41b}Individueller Loot
 UI_20150317_000449	{memo X}{@st41b}Round Robin
 UI_20150317_000450	{memo X}{@st41b}Random
 UI_20150317_000451	{memo X}{@st41}EXP Priority
-UI_20150317_000452	{memo X}{@st41b}Individual EXP
-UI_20150317_000453	{memo X}{@st41b}Equal EXP
-UI_20150317_000454	{memo X}{@st41b}By Level
-UI_20150317_000455	{memo X}{@st41}Quest Sharing
-UI_20150317_000456	{memo X}{@st41b}Enabled
-UI_20150317_000457	{memo X}{@st41b}Disabled
-UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
+UI_20150317_000452	{memo X}{@st41b}Individuelle EXP
+UI_20150317_000453	{memo X}{@st41b}Gleiche EXP
+UI_20150317_000454	{memo X}{@st41b}Nach Level
+UI_20150317_000455	{memo X}{@st41}Quest-Sharing
+UI_20150317_000456	{memo X}{@st41b}Aktiviert
+UI_20150317_000457	{memo X}{@st41b}Deaktiviert
+UI_20150317_000458	{@st41b}Party erstellen
+UI_20150317_000459	{@st43}Öffentliche-Party-Liste {/}
+UI_20150317_000460	${@st59b}Öffentliche-Party-Liste{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
 UI_20150317_000461	{@st59}Close Party List{/}
 UI_20150317_000462	Use Search
 UI_20150317_000463	Quest Sharing
