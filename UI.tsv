@@ -1777,38 +1777,38 @@ UI_20150918_001776	Effect
 UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.
 UI_20150918_001778	Personal Warehouse
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}
-UI_20150918_001780	{@st41b}Difficulty : {@sti7}%s{/}
-UI_20150918_001781	{#ffff00}{ol}%s{/}{/} players like this character
+UI_20150918_001780	{@st41b}Schwierigkeitsgrad : {@sti7}%s{/}
+UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Spieler mögen diesen Charakter
 UI_20150918_001782	{@st43}Instanced Dungeons
-UI_20150918_001783	{@st41}Check Location
+UI_20150918_001783	{@st41}untersuche Standort
 UI_20150918_001784	{#000000}Dungeon Name{/}
 UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
-UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
-UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Nearby Party Info
-UI_20150918_001790	Fragments needed : %s 
-UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Nearby Parties{/}
-UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
-UI_20150918_001794	Friendship
-UI_20150918_001795	{@st41b}Obtained material for crafting an item!
+UI_20150918_001787	{#000000}Die Anzahl der Einträge wird zurückgesetzt bei %s.{/}
+UI_20150918_001788	{img silver 20 20} Preis
+UI_20150918_001789	Information von nahegelegenen Partys
+UI_20150918_001790	Fragmente erforderlich : %s 
+UI_20150918_001791	{@st66b}Leer
+UI_20150918_001792	{@st42}Zeige Partys in der Nähe an{/}
+UI_20150918_001793	Freundschaft mit {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
+UI_20150918_001794	Freundschaft
+UI_20150918_001795	{@st41b}Du hast einen Crafting Gegenstand erhalten!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
-UI_20150918_001797	{@st66b}Restart from the nearest Revival Point{/}
-UI_20150918_001798	{@st66b}Restart here (requires %s iCoins){/}
-UI_20150918_001799	{@st66b}Return to the field{/}
-UI_20150918_001800	{@st66b}Abandon the quest and try again{/}
-UI_20150918_001801	{@st66b}Try Again{/}
-UI_20150918_001802	{@st66b}Items Sold{/}
-UI_20150918_001803	{@st53}Ranking Points : %s
-UI_20150918_001804	Total Untradable: %s
-UI_20150918_001805	{@st42b}Check Dialogue{/}
-UI_20150918_001806	{@st66b}Give food to outside party{/}
-UI_20150918_001807	{@st41b}Change Signboard Title
-UI_20150918_001808	{@sti9}My Rank
-UI_20150918_001809	{@sti9}Kill Rank
-UI_20150918_001810	{@sti9}Damage Rank
-UI_20151001_001811	{@st43}Key Settings{/}
-UI_20151001_001812	{@st45tw2}Category
-UI_20151001_001813	Action
-UI_20151001_001814	Restore defaults
+UI_20150918_001797	{@st66b}Erneut anfangen vom nächstgelegenen Revival Point{/}
+UI_20150918_001798	{@st66b}Hier erneut anfangen  (kostet %s iCoins){/}
+UI_20150918_001799	{@st66b}Zurück zum Bereich{/}
+UI_20150918_001800	{@st66b}Beendet das Quest und versuche es noch einmal{/}
+UI_20150918_001801	{@st66b}Versuche es noch einmal{/}
+UI_20150918_001802	{@st66b}Gegenstände verkauft{/}
+UI_20150918_001803	{@st53}Ranking Punkte : %s
+UI_20150918_001804	Gesamt handelbar: %s
+UI_20150918_001805	{@st42b}Dialoge überprüfen{/}
+UI_20150918_001806	{@st66b}Gebe Food einen außenstehenden der Party{/}
+UI_20150918_001807	{@st41b}Schild Titel ändern
+UI_20150918_001808	{@sti9}Mein Rang
+UI_20150918_001809	{@sti9}Kill Rang
+UI_20150918_001810	{@sti9}Damage Rang
+UI_20151001_001811	{@st43}Schlüssel Einstellungen{/}
+UI_20151001_001812	{@st45tw2}kategorie
+UI_20151001_001813	Handlung
+UI_20151001_001814	Standardeinstellungen wiederherstellen
