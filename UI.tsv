@@ -1704,8 +1704,8 @@ UI_20150717_001703	{@st59}Schließe Joypad Control Info.{/}
 UI_20150717_001704	{@st59}Schließe Keyboard Control info.{/}
 UI_20150717_001705	Mouse Tutorial
 UI_20150717_001706	{@st59}Schließe Mouse Control Info.{/}
-UI_20150717_001707	Attacke : %s
-UI_20150717_001708	Abwehr : %s
+UI_20150717_001707	Angriff : %s
+UI_20150717_001708	Verteidigung : %s
 UI_20150717_001709	STR : %s
 UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
