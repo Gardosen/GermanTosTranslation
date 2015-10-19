@@ -100,13 +100,13 @@ UI_20150317_000099	{@st59}Rufen (/y chat){/}
 UI_20150317_000100	{@st59}Party (/p chat){/}
 UI_20150317_000101	{@st59}Flüstern (/w team name chat){/}
 UI_20150317_000102	{@st59}Anpassen des Chat Fensters{/}
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}
+UI_20150317_000103	{@st43}{s22}Chat Makro{/}
 UI_20150317_000104	{@st43}Makro{/}
-UI_20150317_000105	{@st59b}Makro {nl} {@st59s} - Anleitung: {nl} 1. Drag the gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
+UI_20150317_000105	{@st59b}Makro {nl} {@st59s} - Anleitung: {nl} 1. Ziehe das Gesten Symbol an die Unterseite in einen Slot. {nl} 2. Schreibe deinen Ausdruck und speichere ihn. {nl} 3. Benutze die Tastenkombination um deine Geste auszuführen. {/}
 UI_20150317_000106	{@st59}Makro schließen{/}
-UI_20150317_000107	{@st41b}Speichern {/}
+UI_20150317_000107	{@st41b}Speichern{/}
 UI_20150317_000108	{@st59}Speichere deine Änderungen{/}
-UI_20150317_000109	{@st41b}Abbrechen {/}
+UI_20150317_000109	{@st41b}Abbrechen{/}
 UI_20150317_000110	{@st59}Abbrechen deiner Änderungen{/}
 UI_20150317_000111	{@st42}Chateinstellungen
 UI_20150317_000112	{@st42}Transparenz
@@ -127,7 +127,7 @@ UI_20150317_000126	{memo X}{s16}{b}ea
 UI_20150317_000127	{s16}{b}Wähle ein gewünschtes Gebiet.
 UI_20150317_000128	{s18}{b}Betrachte Minimap{/}
 UI_20150317_000129	{@st41b}Tool Liste{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Kaufe das Collection Deck um Sammlerstücke zu deiner Collection hinzuzufügen. {nl} - Der Collection Hotkey wird aktiviert wenn du das Collection Deck verwenden willst. {nl} {/}
 UI_20150317_000131	{@st59}Schließe Collection Information{/}
 UI_20150317_000132	{@st43}Collection{/}
 UI_20150317_000133	{@st43}Farbspray{/}
@@ -677,29 +677,29 @@ UI_20150317_000676	{@st41}Karte erstellen{/}
 UI_20150317_000677	{@st41}%s/Min (%s in der Hand){/}
 UI_20150317_000678	Keyboard Krieger
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
-UI_20150317_000680	{@st41_yellow}Employment Time
+UI_20150317_000680	{@st41_yellow}Beschäftigungszeit
 UI_20150317_000681	{@st43}Graffiti{/}
-UI_20150317_000682	{@st59}Close Spray{/}
-UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}
-UI_20150317_000684	{@st41b}Colors{/}
-UI_20150317_000685	{@st41b}Quantity{/}
-UI_20150317_000686	{@st41b}Brush{/}
-UI_20150317_000687	{@st43}Draw{/}
-UI_20150317_000688	{@st59}Draw the completed picture on the ground.{/}
-UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000690	{@st59}Save drawings{/}
-UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}
-UI_20150317_000692	{@st59}Load pictures that you drew.{/}
-UI_20150317_000693	{@st59}Selected color 1{/}
-UI_20150317_000694	{@st59}Selected color 2{/}
-UI_20150317_000695	{@st59}Color List{/}
-UI_20150317_000696	{@st59}Selected Brush{/}
-UI_20150317_000697	{@st59}Brush 1{/}
-UI_20150317_000698	{@st59}Brush 2{/}
-UI_20150317_000699	{@st59}Brush 3{/}
-UI_20150317_000700	{@st59}Brush 4{/}
-UI_20150317_000701	{@st59}Brush 5{/}
-UI_20150317_000702	{@st59}Brush 6{/}
+UI_20150317_000682	{@st59}Schließe Spray{/}
+UI_20150317_000683	{@st41b}Tip : Zeichne ein Bild in den Rahmen{/}
+UI_20150317_000684	{@st41b}Farben{/}
+UI_20150317_000685	{@st41b}Anzahl{/}
+UI_20150317_000686	{@st41b}pinseln{/}
+UI_20150317_000687	{@st43}malen{/}
+UI_20150317_000688	{@st59}Male das vollständige Bild vor Ort.{/}
+UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Speichern{/}{/}
+UI_20150317_000690	{@st59}Speichere deine Zeichnungen{/}
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Laden{/}{/}
+UI_20150317_000692	{@st59}Lade deine Bilder die du gemalt hast.{/}
+UI_20150317_000693	{@st59}Wähle Farbe 1{/}
+UI_20150317_000694	{@st59}Wähle Farbe 2{/}
+UI_20150317_000695	{@st59}Farbpalette{/}
+UI_20150317_000696	{@st59}Wähle Pinsel{/}
+UI_20150317_000697	{@st59}Pinsel 1{/}
+UI_20150317_000698	{@st59}Pinsel 2{/}
+UI_20150317_000699	{@st59}Pinsel 3{/}
+UI_20150317_000700	{@st59}Pinsel 4{/}
+UI_20150317_000701	{@st59}Pinsel 5{/}
+UI_20150317_000702	{@st59}Pinsel 6{/}
 UI_20150317_000703	{@st49}People who like this{/}
 UI_20150317_000704	{s20}{#050505}Describe whatever
 UI_20150317_000705	{@st41} All {/}
