@@ -1730,7 +1730,7 @@ UI_20150717_001729	{@st41}Battle Field
 UI_20150717_001730	Ergebnisse
 UI_20150717_001731	{@st41}Bewege dich sofort
 UI_20150717_001732	${@st41b}            Ein Team Name steht für alle Charaktere.{nl}                 Es wird eine allgemeine Bezeichnung im Spiel verwendet.{nl}                  Der Team Name kann später geändert werden.{/}
-UI_20150729_001733	{@st42}Zeigt nur an welche Atribute erlernt werden können{/}
+UI_20150729_001733	{@st42}Zeigt nur an welche Attribute erlernt werden können{/}
 UI_20150729_001734	Leg Count
 UI_20150729_001735	Körpergröße
 UI_20150729_001736	Gewicht
@@ -1748,7 +1748,7 @@ UI_20150729_001747	{@st41}Attribute Information
 UI_20150729_001748	{@st59}Verbesserung abbrechen{/}
 UI_20150729_001749	{@st59b}Edelsteine/Karten Verbesserung{nl}{@st59s} - Wähle ein Edelstein aus oder eine Karte aus dein Inventar, um es zu verbessern.{nl} - Alle Gegenstände mit Ausnahme von Quest-Gegenstände können zur Verbesserungen der Edelsteine verwendet werden.{nl} (Der größte Effekt wird erzielt wenn man, ein Edelstein als Material verwendet){nl} - Karten können nur durch die Verwendung anderer Karten verbessert werden.{/}
 UI_20150729_001750	{#000000}{s22}Der Server wird beigetreten ..
-UI_20150729_001751	{#000000}{s22}Der Server ist full. Du befindest dich in der Warteschlange.
+UI_20150729_001751	{#000000}{s22}Der Server ist voll. Du befindest dich in der Warteschlange.
 UI_20150729_001752	{#000000}{s22}Current Rank : %s
 UI_20150729_001753	{@st43}Team Battle League
 UI_20150729_001754	{@st59}Team Battle League schließen
