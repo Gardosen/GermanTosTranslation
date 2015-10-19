@@ -1698,75 +1698,75 @@ UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect y
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
-UI_20150717_001701	{@st59}Sorts your inventory{/}
+UI_20150717_001701	{@st59}Inventar sortieren{/}
 UI_20150717_001702	{memo X}Sort
-UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
-UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
+UI_20150717_001703	{@st59}Schließe Joypad Control Info.{/}
+UI_20150717_001704	{@st59}Schließe Keyboard Control info.{/}
 UI_20150717_001705	Mouse Tutorial
-UI_20150717_001706	{@st59}Close Mouse Control Info.{/}
-UI_20150717_001707	Attack : %s
-UI_20150717_001708	Defense : %s
+UI_20150717_001706	{@st59}Schließe Mouse Control Info.{/}
+UI_20150717_001707	Attacke : %s
+UI_20150717_001708	Abwehr : %s
 UI_20150717_001709	STR : %s
 UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{memo X}{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
-UI_20150717_001715	{@st42}Party Name & Description{/}
-UI_20150717_001716	{@st42}Insert Party Invite Tag
-UI_20150717_001717	{@st41b}Public Party List{/}
+UI_20150717_001715	{@st42}Party Name & Beschreibung{/}
+UI_20150717_001716	{@st42}Hinzufügen eines Party Einladungs-Tag
+UI_20150717_001717	{@st41b}Öffentliche Party Liste{/}
 UI_20150717_001718	{memo X}{@st41b}Recommended Character List{/}
-UI_20150717_001719	{@st41b}Receive Recommendation
-UI_20150717_001720	This can only be used by party leaders.
-UI_20150717_001721	You must use the Party Member Recommendation function.
+UI_20150717_001719	{@st41b}Einladung erhalten
+UI_20150717_001720	Dies kann nur der Party Leader benutzen.
+UI_20150717_001721	Du must die Party Member Einladungs-Funktion benutzen.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
-UI_20150717_001725	{@st66b}Sort
-UI_20150717_001726	{@st59}Sorts your items.{/}
-UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
-UI_20150717_001728	Spectate another character
+UI_20150717_001725	{@st66b}sortieren
+UI_20150717_001726	{@st59}Gegenstände sortieren.{/}
+UI_20150717_001727	{@st59}Lege eine Waffe in deinen Slot{nl}Drücke Alt+Z um deine Waffe zu tauschen{/}
+UI_20150717_001728	Einen anderen Charakter zuschauen
 UI_20150717_001729	{@st41}Battle Field
-UI_20150717_001730	Results
-UI_20150717_001731	{@st41}Move Immediately
-UI_20150717_001732	${@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
-UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
+UI_20150717_001730	Ergebnisse
+UI_20150717_001731	{@st41}Bewege dich sofort
+UI_20150717_001732	${@st41b}            Ein Team Name steht für alle Charaktere.{nl}                 Es wird eine allgemeine Bezeichnung im Spiel verwendet.{nl}                  Der Team Name kann später geändert werden.{/}
+UI_20150729_001733	{@st42}Zeigt nur an welche Atribute erlernt werden können{/}
 UI_20150729_001734	Leg Count
-UI_20150729_001735	Height
-UI_20150729_001736	Weight
+UI_20150729_001735	Körpergröße
+UI_20150729_001736	Gewicht
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s
 UI_20150729_001741	${@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
-UI_20150729_001742	{@st41}Party Settings
-UI_20150729_001743	{@st41}Party Recruit Settings
-UI_20150729_001744	{@st42}Search for Party Members{/}
-UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
-UI_20150729_001746	{@st41b}Recommended Player List{/}
+UI_20150729_001742	{@st41}Party Einstellungen
+UI_20150729_001743	{@st41}Party Recruit Einstellungen
+UI_20150729_001744	{@st42}Suche nach Party Members{/}
+UI_20150729_001745	Wenn ein Spieler die Kriterien eingestellt hat, erscheint die Nachricht [Party Treffer!].
+UI_20150729_001746	{@st41b}empfhohlene Spieler Liste{/}
 UI_20150729_001747	{@st41}Attribute Information
-UI_20150729_001748	{@st59}Cancel Enhancement{/}
-UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
-UI_20150729_001750	{#000000}{s22}Waiting to enter the server...
-UI_20150729_001751	{#000000}{s22}The server is full. Queueing for entry.
+UI_20150729_001748	{@st59}Verbesserung abbrechen{/}
+UI_20150729_001749	{@st59b}Edelsteine/Karten Verbesserung{nl}{@st59s} - Wähle ein Edelstein aus oder eine Karte aus dein Inventar, um es zu verbessern.{nl} - Alle Gegenstände mit Ausnahme von Quest-Gegenstände können zur Verbesserungen der Edelsteine verwendet werden.{nl} (Der größte Effekt wird erzielt wenn man, ein Edelstein als Material verwendet){nl} - Karten können nur durch die Verwendung anderer Karten verbessert werden.{/}
+UI_20150729_001750	{#000000}{s22}Der Server wird beigetreten ..
+UI_20150729_001751	{#000000}{s22}Der Server ist full. Du befindest dich in der Warteschlange.
 UI_20150729_001752	{#000000}{s22}Current Rank : %s
 UI_20150729_001753	{@st43}Team Battle League
-UI_20150729_001754	{@st59}Close Team Battle League
-UI_20150729_001755	{@st42}Team Battle League Schedule
+UI_20150729_001754	{@st59}Team Battle League schließen
+UI_20150729_001755	{@st42}Team Battle League Zeitplan
 UI_20150729_001756	{@st43}Team Battle League Rankings
-UI_20150729_001757	{@st59}Close Team Battle League Rankings
+UI_20150729_001757	{@st59}Team Battle League Rankings schließen
 UI_20150729_001758	Team Name
 UI_20150729_001759	{@st41b}Skill Name
-UI_20150729_001760	{@st59}Accept Party Mission{/}
-UI_20150729_001761	{@st59}Delete this Ticket{/}
+UI_20150729_001760	{@st59}Party Mission akzeptieren{/}
+UI_20150729_001761	{@st59}Lösche dieses Ticket{/}
 UI_20150729_001762	Score
-UI_20150729_001763	Join Team Battle League
+UI_20150729_001763	Team Battle League beitreten
 UI_20150730_001764	{memo X}{@st56}My Rank
 UI_20150730_001765	{memo X}{@st56}Kill Rank
 UI_20150730_001766	{memo X}{@st56}Damage Rank
-UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
+UI_20150803_001767	General: /s chat{nl}Rufen: /y chat {nl}Party: /p chat{nl} Flüstern: /w TeamName Chat
 UI_20150803_001768	{@st66b}Joypad Vibration{/}
-UI_20150803_001769	A match has been found. Please wait until you can join the game.
+UI_20150803_001769	Ein Kampf wurde gefunden. Bitte warte bis du das Spiel beitreten kannst.
 UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
 UI_20150804_001771	$Maximum Sockets : %s
 UI_20150807_001772	{@st41b}Details {img red_down_arrow 16 16}
@@ -1797,7 +1797,7 @@ UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable o
 UI_20150918_001797	{@st66b}Erneut anfangen vom nächstgelegenen Revival Point{/}
 UI_20150918_001798	{@st66b}Hier erneut anfangen  (kostet %s iCoins){/}
 UI_20150918_001799	{@st66b}Zurück zum Bereich{/}
-UI_20150918_001800	{@st66b}Beendet das Quest und versuche es noch einmal{/}
+UI_20150918_001800	{@st66b}Beendet die Quest und versuche es noch einmal{/}
 UI_20150918_001801	{@st66b}Versuche es noch einmal{/}
 UI_20150918_001802	{@st66b}Gegenstände verkauft{/}
 UI_20150918_001803	{@st53}Ranking Punkte : %s
