@@ -690,8 +690,8 @@ UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Speichern{/}{/}
 UI_20150317_000690	{@st59}Speichere deine Zeichnungen{/}
 UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Laden{/}{/}
 UI_20150317_000692	{@st59}Lade deine Bilder die du gemalt hast.{/}
-UI_20150317_000693	{@st59}Wähle Farbe 1{/}
-UI_20150317_000694	{@st59}Wähle Farbe 2{/}
+UI_20150317_000693	{@st59}Farbe 1{/}
+UI_20150317_000694	{@st59}Farbe 2{/}
 UI_20150317_000695	{@st59}Farbpalette{/}
 UI_20150317_000696	{@st59}Wähle Pinsel{/}
 UI_20150317_000697	{@st59}Pinsel 1{/}
