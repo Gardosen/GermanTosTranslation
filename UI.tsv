@@ -889,20 +889,20 @@ UI_20150317_000888	{@st42b}Mouse homing{/}
 UI_20150317_000889	{@st42b}Skill name{/}
 UI_20150317_000890	{@st41}Monster list{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
-UI_20150317_000892	{ol}Select Quest
+UI_20150317_000892	{ol}Quest auswählen
 UI_20150317_000893	Enter quest name to search
-UI_20150317_000894	{ol}Select map
+UI_20150317_000894	{ol}Karte auswählen
 UI_20150317_000895	Enter map name to search
-UI_20150317_000896	{@st42}Current map{/}
-UI_20150317_000897	{ol}Map name
-UI_20150317_000898	{ol}Coordinates
-UI_20150317_000899	{@st41}Change quest rewards{/}
+UI_20150317_000896	{@st42}Derzeitige Karte{/}
+UI_20150317_000897	{ol}Kartenname
+UI_20150317_000898	{ol}Koordinaten
+UI_20150317_000899	{@st41}Quest Belohnung ändern{/}
 UI_20150317_000900	{@st59}Enter quest to search{/}
 UI_20150317_000901	{@st59}Enter the item to search for{/}
 UI_20150317_000902	{@st42}EXP
 UI_20150317_000903	{ol}Basic rewards
-UI_20150317_000904	{ol}Quantity
-UI_20150317_000905	{ol}Additional rewards
+UI_20150317_000904	{ol}Menge
+UI_20150317_000905	{ol}Zusätzliche Belohnungen
 UI_20150317_000906	{@st45}Frequently used cheats
 UI_20150317_000907	{@st41}Skills map{/}
 UI_20150317_000908	{@st42}Ability{/}
