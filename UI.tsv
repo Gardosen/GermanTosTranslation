@@ -839,72 +839,72 @@ UI_20150317_000838	{@st59}Gebe Gruppen-Namen zum suchen ein{/}
 UI_20150317_000839	{@st41}Neue Gruppe{/}
 UI_20150317_000840	Filtern
 UI_20150317_000841	{@st59}Filter eingeben{/}
-UI_20150317_000842	{ol}Property Value
-UI_20150317_000843	Class List
+UI_20150317_000842	{ol}Fähigkeitswert
+UI_20150317_000843	Klassenliste
 UI_20150317_000844	Apply to XML
 UI_20150317_000845	{#FFFFFF}{ds}Log
-UI_20150317_000846	{#FFFFFF}{ds}View all properties
-UI_20150317_000847	Enter search word
-UI_20150317_000848	All attribute values
+UI_20150317_000846	{#FFFFFF}{ds}Alle Eigenschaften zeigen
+UI_20150317_000847	Suchbegriff eingeben
+UI_20150317_000848	Alle Atributte Werte
 UI_20150317_000849	{ol}Name
-UI_20150317_000850	{ol}Value
+UI_20150317_000850	{ol}Wert
 UI_20150317_000851	$Rogue
-UI_20150317_000852	{ol}Revision
+UI_20150317_000852	{ol}Änderung
 UI_20150317_000853	${ol}Rogue
-UI_20150317_000854	Class list
+UI_20150317_000854	Klassenliste
 UI_20150317_000855	XML Conversion
-UI_20150317_000856	{ol}Class name
-UI_20150317_000857	{ol}Property Name
-UI_20150317_000858	{ol}Changed value
-UI_20150317_000859	{ol}Apply
-UI_20150317_000860	Open Folder
-UI_20150317_000861	Check All
-UI_20150317_000862	History
+UI_20150317_000856	{ol}KLassenname
+UI_20150317_000857	{ol}Fähigkeitsname
+UI_20150317_000858	{ol}geänderter Wert
+UI_20150317_000859	{ol}Bestätigen
+UI_20150317_000860	Ordner öffnen
+UI_20150317_000861	alle überprüfen
+UI_20150317_000862	Verlauf
 UI_20150317_000863	Rollback Value
-UI_20150317_000864	{ol}Select item
-UI_20150317_000865	Enter the name you want to search
-UI_20150317_000866	{@st42}Confirm{/}
-UI_20150317_000867	{@st41}Create UI{/}
+UI_20150317_000864	{ol}Gegenstand auswählen
+UI_20150317_000865	Gebe den Namen ein, für das was du suchst
+UI_20150317_000866	{@st42}bestätigen{/}
+UI_20150317_000867	{@st41}UI erstellen{/}
 UI_20150317_000868	{ol}Frame
 UI_20150317_000869	{@st41}Frame{/}
 UI_20150317_000870	{@st41}Button{/}
 UI_20150317_000871	{@st41}Text{/}
 UI_20150317_000872	{@st42b}Normal{img btn_close}
 UI_20150317_000873	{@st42b}Auction{img btn_close}
-UI_20150317_000874	{@st41}Set map location{/}
-UI_20150317_000875	{@st41}Rename{/}
-UI_20150317_000876	{@st59}Enter the words you want to filter{/}
-UI_20150317_000877	{@st41}Create{/}
-UI_20150317_000878	{@st56}XML save{/}
-UI_20150317_000879	{@st56}Reset{/}
+UI_20150317_000874	{@st41}Karten Position festlegen{/}
+UI_20150317_000875	{@st41}umbenennen{/}
+UI_20150317_000876	{@st59}Gebe die Wörter ein, nach welche du filtern möchtest{/}
+UI_20150317_000877	{@st41}Erstellen{/}
+UI_20150317_000878	{@st56}XML speichern{/}
+UI_20150317_000879	{@st56}zurücksetzen{/}
 UI_20150317_000880	{@st56}Attribute{/}
-UI_20150317_000881	{@st56}Value{/}
-UI_20150317_000882	{@st42}Content{/}
-UI_20150317_000883	{@st41}Undo{/}
-UI_20150317_000884	{@st41}Save all{/}
-UI_20150317_000885	{@st41}XML Open{/}
+UI_20150317_000881	{@st56}Wert{/}
+UI_20150317_000882	{@st42}Inhalt{/}
+UI_20150317_000883	{@st41}zurück{/}
+UI_20150317_000884	{@st41}alles speichern{/}
+UI_20150317_000885	{@st41}XML öffnen{/}
 UI_20150317_000886	{@st42b}Fixed Skill : 0{/}
 UI_20150317_000887	{@st42b}Fixed skill : %s{/}
 UI_20150317_000888	{@st42b}Mouse homing{/}
-UI_20150317_000889	{@st42b}Skill name{/}
-UI_20150317_000890	{@st41}Monster list{/}
+UI_20150317_000889	{@st42b}Skill Name{/}
+UI_20150317_000890	{@st41}Monster Liste{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
 UI_20150317_000892	{ol}Quest auswählen
-UI_20150317_000893	Enter quest name to search
+UI_20150317_000893	für die Suche Quest Name eingeben
 UI_20150317_000894	{ol}Karte auswählen
-UI_20150317_000895	Enter map name to search
+UI_20150317_000895	für die Suche Kartenname eingeben
 UI_20150317_000896	{@st42}Derzeitige Karte{/}
 UI_20150317_000897	{ol}Kartenname
 UI_20150317_000898	{ol}Koordinaten
 UI_20150317_000899	{@st41}Quest Belohnung ändern{/}
-UI_20150317_000900	{@st59}Enter quest to search{/}
-UI_20150317_000901	{@st59}Enter the item to search for{/}
+UI_20150317_000900	{@st59}zum suchen Quest eingeben{/}
+UI_20150317_000901	{@st59}Gegenstand zum suchen eingeben{/}
 UI_20150317_000902	{@st42}EXP
-UI_20150317_000903	{ol}Basic rewards
+UI_20150317_000903	{ol}Belohnungen
 UI_20150317_000904	{ol}Menge
 UI_20150317_000905	{ol}Zusätzliche Belohnungen
-UI_20150317_000906	{@st45}Frequently used cheats
-UI_20150317_000907	{@st41}Skills map{/}
+UI_20150317_000906	{@st45}häufig verwendete Cheats
+UI_20150317_000907	{@st41}Fähigkeitenkarte{/}
 UI_20150317_000908	{@st42}Ability{/}
 UI_20150317_000909	{@st42}Warrior{/}
 UI_20150317_000910	{@st42}Wizard{/}
@@ -995,7 +995,7 @@ UI_20150317_000994	{@St59}Zurück zum Login Bildschirm{/}
 UI_20150317_000995	{@St41b}Spiel beenden{/}
 UI_20150317_000996	{@St59}Tree of Savior beenden{/}
 UI_20150317_000997	{@st41b}Channel wählen{/}
-UI_20150317_000998	{memo X}{@st43}Enter{/}
+UI_20150317_000998	{memo X}{@st43}Betreten{/}
 UI_20150317_000999	{@St59}Starte das Spiel mit deinen gewählten Charakter{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
@@ -1003,36 +1003,36 @@ UI_20150317_001002	{memo X}{@st41b}Change Team Name{/}
 UI_20150317_001003	{memo X}{@st59} Change your team name{/}
 UI_20150317_001004	{@St41}Companion{/}
 UI_20150317_001005	Chat Drag
-UI_20150317_001006	{@St44}New Dialog Name{/}
-UI_20150317_001007	{@St42}Change{/}
-UI_20150317_001008	{@St44}New Window Name{/}
-UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
-UI_20150317_001010	{@St59}Create a character{/}
-UI_20150317_001011	{@St59}Cancel character creation{/}
-UI_20150317_001012	{@St59}Close{/}
-UI_20150317_001013	{@St59}Create the team name{/}
-UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
-UI_20150317_001015	{memo X}{@St41b}Your Team Name is a name that represents all your characters.{nl}It is the common name used within the game.{nl}               Team Name may be changed later on.{/}
-UI_20150317_001016	Loading background
+UI_20150317_001006	{@St44}Neuer Dialog Name{/}
+UI_20150317_001007	{@St42}wechseln{/}
+UI_20150317_001008	{@St44}Neuer Fenster Name{/}
+UI_20150317_001009	{@St43}{s40}{gr gradation4}Charaktererstellung{/}
+UI_20150317_001010	{@St59}Erstelle einen Charakter{/}
+UI_20150317_001011	{@St59}Charaktererstelliung abbrechen{/}
+UI_20150317_001012	{@St59}Schließen{/}
+UI_20150317_001013	{@St59}Team Name erstellen{/}
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Gebe deinen Team Name ein!
+UI_20150317_001015	{memo X}{@St41b}Ein Team Name ist ein Name, dieser wird von all euren Charakteren getragen.{nl}Es ist ein gemeinsamer Name, der im Spiel benutzt wird.{nl}               Der Team Name kann nachträglich geändert werden.{/}
+UI_20150317_001016	Hintergrund wird geladen
 UI_20150317_001017	Tip
-UI_20150317_001018	Game Tips
+UI_20150317_001018	Spiel Tips
 UI_20150317_001019	Login
 UI_20150317_001020	Account ID
-UI_20150317_001021	{@st59}Enter your Account ID{/}
-UI_20150317_001022	Password
-UI_20150317_001023	{@St59}Enter your password{/}
+UI_20150317_001021	{@st59}Gebe deine Account ID ein{/}
+UI_20150317_001022	Passwort
+UI_20150317_001023	{@St59}Gebe dein Passwort ein{/}
 UI_20150317_001024	{@St43}Enter{/}
-UI_20150317_001025	{@St59}Connect to the selected server{/}
-UI_20150317_001026	{@st41b}Replay{/}
+UI_20150317_001025	{@St59}Mit dem ausgewählten Server verbinden{/}
+UI_20150317_001026	{@st41b}Wiederholung{/}
 UI_20150317_001027	{@st41b}Single Mode{/}
-UI_20150317_001028	{@St41b}Exit Game{/}
-UI_20150317_001029	Save
-UI_20150317_001030	{@St59}If checked, your account will be saved{/}
-UI_20150317_001031	Server List
-UI_20150317_001032	{@St59}Select Server{/}
+UI_20150317_001028	{@St41b}Spiel verlassen{/}
+UI_20150317_001029	Speichern
+UI_20150317_001030	{@St59}Ist dies ausgewählt, wird dein Account gespeichert{/}
+UI_20150317_001031	Server Liste
+UI_20150317_001032	{@St59}Server auswählen{/}
 UI_20150317_001033	Login Title
 UI_20150317_001034	[Closed Beta version]
-UI_20150317_001035	Options
+UI_20150317_001035	Optionen
 UI_20150317_001036	Sight Range
 UI_20150317_001037	{S20}{#BBBBBB}Sight Range
 UI_20150317_001038	Sight Range :
