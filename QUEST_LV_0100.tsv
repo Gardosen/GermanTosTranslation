@@ -1,5 +1,5 @@
 QUEST_LV_0100_20150317_000001	$Wache
-QUEST_LV_0100_20150317_000002	$Falls ihr nach Klaipeda gehen wollt empfehle ich den Pfad durch den Schattenwald. {n1}Die tiefen Wälder Sind gefährlich also versucht von ihnen fern zu bleiben.
+QUEST_LV_0100_20150317_000002	$Falls du nach Klaipeda gehen willst empfehle ich den Pfad durch den Schattenwald. {n1}Die tiefen Wälder sind gefährlich also versuche von ihnen fern zu bleiben.
 QUEST_LV_0100_20150317_000003	$Versteckter Mann
 QUEST_LV_0100_20150317_000004	$En... Endlich! Ist Hilfe gekommen ?{n1}Häh?! Es ist bloss ein Kind? Hey... , sind da draußen immernoch Vubbes?
 QUEST_LV_0100_20150317_000005	$Agh. Verschwinde ! Sprich nicht mit mir, die Vubbes werden uns erwischen !{n1}Das ist mein Platz, also geht !
@@ -11,103 +11,103 @@ QUEST_LV_0100_20150317_000010	$Ahhh, das ist lahm ...
 QUEST_LV_0100_20150317_000011	$Das ist nicht das erste Zeichen dass aufgetaucht ist nachdem die Göttinnen verschwanden.{n1}Vielleicht wird einer dieser Leute derjenige sein der die Göttinnen zurückbringt.
 QUEST_LV_0100_20150317_000012	$Soldat Blak
 QUEST_LV_0100_20150317_000013	$Seid gewarnt!{n1} Die Monster greifen an, deswegen müssen alle Zivilisten evakuiert werden!{n1} Warum sind diese Zivilisten überhaupt in der Militärzone?{n1}
-QUEST_LV_0100_20150317_000014	$Ah, so you are the Revelator! I'm sorry, I didn't recognize you.{nl}Monsters are attacking the supply base at the moment.{nl}I need to get some important rations out from the base. Please help me!
-QUEST_LV_0100_20150317_000015	$It was peaceful not too long ago, but now they are coming in groups.{nl}What's happening exactly?
-QUEST_LV_0100_20150317_000016	$Even so, I felt uneasy...{nl}Who knew that they'd attack in such an absurd manner?
-QUEST_LV_0100_20150317_000017	$The rations are in the First Supply Warehouse, which you can get to using the road on the upper side.{nl}Bring however little leftovers you can find... 
-QUEST_LV_0100_20150317_000018	$I wrote down who Sparnas is. Maybe it will be useful in the future.{nl}Though I may not appear so right now, I was a biologist four years ago.
-QUEST_LV_0100_20150317_000019	$Please pass this report to Luders.{nl}He is probably at the Center Supply Camp.
-QUEST_LV_0100_20150317_000020	$Officer Luders
-QUEST_LV_0100_20150317_000021	$Ah, you must be the so called Revelator. Nice to meet you.{nl}Is this Block's report?{nl}
-QUEST_LV_0100_20150317_000022	$Hmm... Is that so?{nl}They just destroyed the supplies and ran away. Even if Chupacabras had wings, I am sure they can't do something like that.{nl}
-QUEST_LV_0100_20150317_000023	$This isn't enough.{nl}I am sorry, but please bring us Moody's report from Amzina Curved Path.
-QUEST_LV_0100_20150317_000024	$I feel better since Luders is here.
-QUEST_LV_0100_20150317_000025	$Soldier York
-QUEST_LV_0100_20150317_000026	$Shaulems are crossing the road.{nl}I am in a panic myself, and I don't know what to do.{nl}I'm sure Luders won't allow this to happen... What should we do?
-QUEST_LV_0100_20150317_000027	$Do you think the problem will be resolved just by defeating Sparnas?
-QUEST_LV_0100_20150317_000028	$Thanks to your help, I think I can hold myself together.{nl}But... won't this kind of thing happen again? What should I do then...?
-QUEST_LV_0100_20150317_000029	$Sparnas? We don't have a clear answer about it.{nl}It just appeared from the sky without any signs and destroyed all the supplies we had. Then, it quickly disappeared.{nl}We got headaches just hearing its cries.
-QUEST_LV_0100_20150317_000030	$The place I just talked about is the Second Supply Warehouse.{nl}It is depressing to think how these kinds of things will be recurring in the future.
-QUEST_LV_0100_20150317_000031	$Take it. I made some bait from old grains in the supplies.{nl}I will lure it from up there, so you stay here.{nl}Sparnas will definitely appear at one of these two places. Don't let it escape. Destroy it for sure.{nl}
-QUEST_LV_0100_20150317_000032	$We may not get a second chance if we don't defeat it this time.{nl}It doesn't seem like they're idiots.
+QUEST_LV_0100_20150317_000014	$Ah, du bist also der Prophezeite! Es tut mir Leid dass ich dich nicht erkannt habe.{n1}Monster greifen immoment unseren Außenposten an.{n1}Ich brauche noch dringend einige wichtige Vorräte von dem Posten. Bitte helft mir !
+QUEST_LV_0100_20150317_000015	$Es ist nicht lange her dass es friedlich war. Jetzt kommen sie in Gruppen. {n1}Was genau geschieht dort ?
+QUEST_LV_0100_20150317_000016	$Dennoch fühlte ich mich unwohl...{n1}Wer hätte ahnen können dass sie in einer solch unüblichen Art angreifen würden ?
+QUEST_LV_0100_20150317_000017	$Die Vorräte sind in dem ersten Lagerhaus im Posten zu welchem du kommst wenn du den Pfad an der oberen Seite nimmst.{n1}Bring mir alle Überreste die du finden kannst, egal wie wenige es sind ...
+QUEST_LV_0100_20150317_000018	$Ich habe niedergeschrieben wer Sparnas ist. Vielleicht wird es noch nützlich sein in Zukunft.{n1}Auch wenn ich gerade nicht so erscheinen mag, vor vier Jahren war ich ein Biologe.
+QUEST_LV_0100_20150317_000019	$Bitte übergib diesen Bericht an Luders.{n1}Er ist warscheinlich am Hauptaußenposten.
+QUEST_LV_0100_20150317_000020	$Offizier Luders
+QUEST_LV_0100_20150317_000021	$Ah, du musst dieser sogenannte Prophezeite sein. Schön dich kennenzulernen{n1}Ist das Block's Bericht?{n1}
+QUEST_LV_0100_20150317_000022	$Hmm ... ist das so ?{n1}Sie haben einfach die Vorräte zerstört und sind weggerannt. Selbst wenn Chupacabras Flügel hätten bin ich mir sicher dass sie so etwas nicht machen könnten.{n1}
+QUEST_LV_0100_20150317_000023	$Das ist nicht genug{n1}Es tut mir Leid aber bring uns bitte Mody's Bericht vom Amzina Kurvenpfad.
+QUEST_LV_0100_20150317_000024	$Ich fühle mich besser seitdem Luders da ist.
+QUEST_LV_0100_20150317_000025	$Soldat York
+QUEST_LV_0100_20150317_000026	$Shaulems sind auf der Straße.{n1} Ich bin selbst panisch und weiß nicht was ich tun soll.{n1}Ich bin mir sicher dass Luders so etwas nicht gestatten würde... . Was sollen wir tun?
+QUEST_LV_0100_20150317_000027	$Meinst du dass sich das Problem löst wenn wir einfach Sparnas besiegen?
+QUEST_LV_0100_20150317_000028	$Dank deiner Hilfe kann ich mich glaube ich zusammenreissen.{n1}Aber... , wird sowas nicht wieder passieren? Was soll ich dann machen ?
+QUEST_LV_0100_20150317_000029	$Sparnas? Darauf haben wir keine eindeutige Antwort.{n1}Es ist einfach, ohne Vorankündigung, am Himmel erschienen und hat all unsere Vorräte zerstört die wir hatten. Dann ist es schnell wieder verschwunden.{n1}Wir bekamen Kopfschmerzen, nur von seinen Schreien.
+QUEST_LV_0100_20150317_000030	$Der Ort von dem ich gerade sprach ist das zweite Unterstützungs Lager.{n1}Es ist deprimierend daran zu denken dass diese Dinge in Zukunft wieder geschehen könnten.
+QUEST_LV_0100_20150317_000031	$Nimm es.Ich habe einen Köder aus altem Weizen aus dem Lager gemacht.{n1}Ich werde es von hier oben aus anlocken. Du bleibst hier.{n1}Sparnas wird auf jedenfall an einem dieser zwei Plätze erscheinen. Lasst es nicht entkommen und geht sicher dass ihr es zerstört.{nl}
+QUEST_LV_0100_20150317_000032	$Wir könnten keine zweite Gelegenheit bekommen wenn wir es diesesmal nicht Besiegen.{n1}Es scheint kein Idiot zu sein.
 QUEST_LV_0100_20150317_000033	${memo X}I heard the sound of fighting so I came in a hurry. Did you defeat it?{nl}I only spotted Shaulems at my spot.{nl}Thank you. You have performed a meritorious deed.
 QUEST_LV_0100_20150317_000034	$Adjutant General Paulina
-QUEST_LV_0100_20150317_000035	$We should recover the stolen supplies.{nl}We can't call ourselves soldiers of the kingdom if we don't do anything about it.{nl}
-QUEST_LV_0100_20150317_000036	$The stolen supplies were taken by the Shaulems in every Supply Warehouse, recover the supplies and bring them to Volda.
-QUEST_LV_0100_20150317_000037	$I feel so fed up having to endure this all the time.{nl}Reinforcements should be coming soon, but what can we expect from such an incompetent kingdom?
+QUEST_LV_0100_20150317_000035	$Wir sollten die gestohlenen Vorräte bergen.{n1} Wir können uns selbst nicht Soldaten des Königreichs nennen wenn wir nichts unternehmen.{n1}
+QUEST_LV_0100_20150317_000036	$Die Vorräte wurden von den Shaulems aus jedem Lagerhaus gestohlen. Hol' sie zurück und bring sie zu Volda.
+QUEST_LV_0100_20150317_000037	$Ich hab' es so satt dass die ganze Zeit ertragen zu müssen.{n1} Verstärkungen sollten bald kommen. Aber was können wir erwarten von so einem unfähigen Königreich?
 QUEST_LV_0100_20150317_000038	$Adjutant General Volda
-QUEST_LV_0100_20150317_000039	$Thank you very much, but you must be late for other things.{nl}Besides we can't just sit here and wait. We plan to keep attacking.
-QUEST_LV_0100_20150317_000040	$Secret Guardian
-QUEST_LV_0100_20150317_000041	$The Goddess already foresaw this.{nl}Nothing can escape from her vision.
-QUEST_LV_0100_20150317_000042	$Liaison Officer Niels
-QUEST_LV_0100_20150317_000043	$Hello.{nl}Have you seen an old man who has lost his way?{nl}His name is Jonas.{nl}
-QUEST_LV_0100_20150317_000044	$You haven't seen him?{nl}Now which direction would that feeble old fellow have wandered off towards?
-QUEST_LV_0100_20150317_000045	$Jonas is a descendant of the family that has been protecting this Mausoleum.{nl}He is a very important person to our lab team so please take good care of him.
-QUEST_LV_0100_20150317_000046	$Archivist Jonas
-QUEST_LV_0100_20150317_000047	$Our family has been waiting for you for a long time.{nl}It is time to give you something that we have been protecting for a long time.
-QUEST_LV_0100_20150317_000048	$It is good to hear that Jonas has regained his consciousness.{nl}You are the person who casted the light signal, right?{nl}
-QUEST_LV_0100_20150317_000049	$Ahylas has come to meet whoever lit the signal.{nl}Meet him downstairs.
-QUEST_LV_0100_20150317_000050	$We haven't heard any news from Kepeck for a long time, not since we sent him supplies.{nl}We don't have enough people to form a search team, so please help us find him.
-QUEST_LV_0100_20150317_000051	$Historian Viode
-QUEST_LV_0100_20150317_000052	$Always be prepared for monster attacks.{nl}Especially in places like here.
-QUEST_LV_0100_20150317_000053	$Mercenary Mirta
+QUEST_LV_0100_20150317_000039	$Ich danke dir vielmals. Du bist wohl spät dran für andere Dinge.{n1}Zudem können wir hier nicht nur rumsitzen und warten. Wir planen weiterhin anzugreifen.
+QUEST_LV_0100_20150317_000040	$Geheimer Wächter
+QUEST_LV_0100_20150317_000041	$Die Göttin hat all das Vorhergesehen.{n1}Nichts entkommt ihrer Vision.
+QUEST_LV_0100_20150317_000042	$Verbindungsoffizier
+QUEST_LV_0100_20150317_000043	$Hallo.{n1}Hast du einen alten verirrten Mann gesehen?{n1}Sein Name ist Jonas.{n1}
+QUEST_LV_0100_20150317_000044	$Du hast ihn nicht gesehen?{n1}Nun, in welche Richtung könnte dieser gebrechliche alte Mann wohl hingewandert sein?
+QUEST_LV_0100_20150317_000045	$Jonas ist ein Abkömmling der Familie welche das Mausoleum beschützt.{n1}Er ist eine wichtige Person für unser Laborteam, passt also gut auf ihn auf.
+QUEST_LV_0100_20150317_000046	$Archivar Jonas
+QUEST_LV_0100_20150317_000047	$Unsere Familie hat eine lange Zeit auf dich gewartet.{n1}Es ist an der Zeit dir etwas zu geben was seit langem schützen.
+QUEST_LV_0100_20150317_000048	$Es ist schön zu hören dass Jonas sein Bewusstsein wiedererlangt hat.{n1}Du bist derjenige der das Signal erleuchtet hat, richtig ?{n1}
+QUEST_LV_0100_20150317_000049	$Ahylas ist gekommen und denjenigen zu treffen der das Signal erleuchtet hat.{n1}Triff ihn unten.
+QUEST_LV_0100_20150317_000050	$Wir haben seit langem keine Nachrichten mehr von Kepeck bekommen. Nichts seitdem wir ihm Vorräte gesandt haben.{n1}Wir haben nicht genügend Leute um einen Suchtrupp zu bilden, hilf uns also bitte ihn zu  finden.
+QUEST_LV_0100_20150317_000051	$Historiker Viode
+QUEST_LV_0100_20150317_000052	$Sei stets darauf vorbereitet von Monstern angegriffen zu werden.{n1}Besonders an Orten wie diesem.
+QUEST_LV_0100_20150317_000053	$Söldner Mirta
 QUEST_LV_0100_20150317_000054	${memo X}Didn't I already warn you?{nl}Please be careful next time.
-QUEST_LV_0100_20150317_000055	$Historian Kepeck
-QUEST_LV_0100_20150317_000056	$Niels must have sent you.{nl}Well, since you're in a hurry, archive it yourself and take it back to Niels.
-QUEST_LV_0100_20150317_000057	$If you go straight, take the road to your right and cross the bridge, you will see the artifacts of the Great King Zachariel.{nl}Archive them and take the archives back to Niels. He'll understand.
-QUEST_LV_0100_20150317_000058	$So this is Kepeck's archive... Mercenary Mirta was looking for this.{nl}You helped confirm the safety of two individuals. Thank you for your efforts.
+QUEST_LV_0100_20150317_000055	$Historiker Kepeck
+QUEST_LV_0100_20150317_000056	$Niels muss dich geschickt haben.{n1}Nun, da du in Eile bist, archivier es selbst und bring es zurück zu Niels.
+QUEST_LV_0100_20150317_000057	$Wenn du geradeaus gehst, nimm den Weg zu deiner Rechten und überquere die Brücke. Dort wirst du die Artefakte des großen Königs Zachariels sehen.{n1}Archiviert sie und bringt sie zurück zu Niels. Er wird es verstehen.
+QUEST_LV_0100_20150317_000058	$Das ist also Kepecks Archiv... Söldnerin Mirta hat danach gesucht.{n1}Du hast geholfen die Sicherheit zweier Individuen zu bestätigen. Danke für deine Mühen.
 QUEST_LV_0100_20150317_000059	$Ahylas Jonas
 QUEST_LV_0100_20150317_000060	${memo X}Now take the unsealing stone and go to Broken Pillar Canyon. {nl}The Disciple of Gustas will teach you how to release the seal there.
 QUEST_LV_0100_20150317_000061	${memo X}Were you not guided yet?{nl}Take it to the Disciple of Gustas in Broken Pillar Canyon.{nl}It is made to let only the chosen one enter.
-QUEST_LV_0100_20150317_000062	$Disciple of Gustas
-QUEST_LV_0100_20150317_000063	$Have you released the seal of Pagasa Cliff?{nl}It will begin now.
-QUEST_LV_0100_20150317_000064	$Words engraved into a rock
-QUEST_LV_0100_20150317_000065	$Do not touch or push the rock.
-QUEST_LV_0100_20150317_000066	$I was waiting for you.{nl}The next seal is located on the way to the Collapsed Sanctum.
-QUEST_LV_0100_20150317_000067	$You don't know how eagerly we have waited for this moment.{nl}We really wanted to meet you.
+QUEST_LV_0100_20150317_000062	$Anhänger Gustas
+QUEST_LV_0100_20150317_000063	$Hast du das Siegel des Pagasa Hangs gebrochen ?{n1}Es wird nun beginnen.
+QUEST_LV_0100_20150317_000064	$Eingravierte Worte im Stein
+QUEST_LV_0100_20150317_000065	$Berühre und verschiebe den Stein nicht.
+QUEST_LV_0100_20150317_000066	$Ich habe auf dich gewartet.{n1}Das nächste Siegel befindet sich auf dem weg Zum Zusammengebrochenen Heiligtum.
+QUEST_LV_0100_20150317_000067	$Du weisst garnicht wie sehnsüchtig wir auf diesesn Moment gewartet haben.{n1}Wir wollten dich wirklich kennenlernen.
 QUEST_LV_0100_20150317_000068	$Gustas Jonas
-QUEST_LV_0100_20150317_000069	$It's you.{nl}You are much more gallant than what I had imagined.
-QUEST_LV_0100_20150317_000070	$Soldier Alan
-QUEST_LV_0100_20150317_000071	$You are a new recruit, right?{nl}I received a patrolling order, but I guess you can go my behalf.
-QUEST_LV_0100_20150317_000072	$You're good for a newbie.{nl}I have a memory of something horrible happening there once, so I don't want to go.
-QUEST_LV_0100_20150317_000073	$I'm remembering something...
+QUEST_LV_0100_20150317_000069	$Du bist es.{n1}Du bist sehr viel höflicher als wir es uns vorgestellt haben.
+QUEST_LV_0100_20150317_000070	$Soldat Alan
+QUEST_LV_0100_20150317_000071	$Du bist ein neuer Rekrut, richtig?{n1}Ich habe einen neue Patroullien Befehl erhalten aber ich schätze du kannst in meinem Auftrag gehen.
+QUEST_LV_0100_20150317_000072	$Du bist gut für einen Neuling.{n1}Ich habe Erinnerungen dass dort mal etwas furchtbares passiert ist, deswegen will ich nicht gehen.
+QUEST_LV_0100_20150317_000073	$Ich erinnere mich an etwas...
 QUEST_LV_0100_20150317_000074	${memo X}You know that we are dispatched here to defeat Gaigalas right?{nl}Rookie. Can you take this report to Commander Wallis?
-QUEST_LV_0100_20150317_000075	$Commander Wallace
-QUEST_LV_0100_20150317_000076	$Why did you bring this report without Alan coming?{nl}Are you a new recruit?
-QUEST_LV_0100_20150317_000077	$I can return home after we defeat Gaigalas.{nl}Well, I'd like to go home as soon as possible.
-QUEST_LV_0100_20150317_000078	$Commander Wallace is at Bird Footprint Junction.
-QUEST_LV_0100_20150317_000079	$I don't care how good you are. You are new here.{nl}This is an order. Bring some sap from Kepa Raiders.
-QUEST_LV_0100_20150317_000080	$Soldiers these days, they lack guts.{nl}I hope you'll be a good influence to them.
-QUEST_LV_0100_20150317_000081	$It's clear that we will win this battle.{nl}Why? Because the Owls are helping.
-QUEST_LV_0100_20150317_000082	$The Kepa Raiders are near Ianutis Waterfall.{nl}To defeat Gaigalas, we will surely need them.
-QUEST_LV_0100_20150317_000083	$Soldier Weiz
-QUEST_LV_0100_20150317_000084	$Hey, rookie, are you taking a break?{nl}Get some fat from Duckys in Lengvas Garden.
-QUEST_LV_0100_20150317_000085	$We will lure Gaigalas using Ducky Fat.{nl}Hey rookie, don't loaf around.
-QUEST_LV_0100_20150317_000086	$Today will be the last day for Gaigalas.{nl}Are you ready, rookie?
-QUEST_LV_0100_20150317_000087	$Next, we will get leather from Cronewts in Lengvas Garden.{nl}Hurry, soldier.
-QUEST_LV_0100_20150317_000088	$We will win for sure this time.{nl}The Goddesses are on our side.
-QUEST_LV_0100_20150317_000089	$You are pretty good for a rookie.{nl}It's disorganized here at the moment, so you can keep those ingredients for now.{nl}
-QUEST_LV_0100_20150317_000090	$Get to know our soldiers while I make preparations for the battle.{nl}I will call you before we confront Gaigalas.
-QUEST_LV_0100_20150317_000091	$When we burn the Ducky Fat, Gaigalas will appear after smelling the odor.{nl}Lengvas Garden will be a good place to burn it.
-QUEST_LV_0100_20150317_000092	$My heart is pounding.{nl}I feel like my soul is throbbing with it.
-QUEST_LV_0100_20150317_000093	$Old Owl Sculpture
-QUEST_LV_0100_20150317_000094	$There is no one in this forest. Why are you here?{nl}
-QUEST_LV_0100_20150317_000095	$Gaigalas?{nl}Defeating it without any assistance will be difficult.
-QUEST_LV_0100_20150317_000096	$I have seen many deaths here.{nl}And I don't want to see any more sacrifices.
-QUEST_LV_0100_20150317_000097	$I need Kepa Raider Sap and Cronewt Leather.
-QUEST_LV_0100_20150317_000098	$Why do you have that?{nl}Hand it to me and I will make a Memory Fragment.
-QUEST_LV_0100_20150317_000099	$With this Memory Fragment, I will revive the memories of our sleeping comrades.
-QUEST_LV_0100_20150317_000100	$It will be difficult to defeat it without a Memory Fragment.{nl}Please bring me Infro Holder Horns.
-QUEST_LV_0100_20150317_000101	$How come you have all these ingredients?
+QUEST_LV_0100_20150317_000075	$Kommandant Wallace
+QUEST_LV_0100_20150317_000076	$Warum bringst du mir diesen Bericht ohne Alan?{n1}Bist du ein neuer Rekrut?
+QUEST_LV_0100_20150317_000077	$Ich kann wieder Heim nachdem wir Gaigalas besiegt haben.{n1}Nun, ich würde gerne so schnell heim wie möglich.
+QUEST_LV_0100_20150317_000078	$Kommandant Wallace ist an der Vogelfußabdruck Zweigung.
+QUEST_LV_0100_20150317_000079	$Es kümmert mich nicht wie gut du bist. Du bist hier neu.{n1}Das ist ein Befehl. Bring mir einige Samen von den Kepa Raiders.
+QUEST_LV_0100_20150317_000080	$Soldaten heutzutage, ihnen mangelt es an Mumm.{n1}Ich hoffe du wirst einen guten Einfluss auf sie haben.
+QUEST_LV_0100_20150317_000081	$Es ist klar dass wir diese Schlacht gewinnen werden.{n1}Warum? Weil die Eulen uns helfen.
+QUEST_LV_0100_20150317_000082	$Die Kepa Raiders sind nahe dem Ianutis Wasserfall.{n1}Um Gaigalas zu besiegen werden wir sie sicherlich brauchen.
+QUEST_LV_0100_20150317_000083	$Soldat Weiz
+QUEST_LV_0100_20150317_000084	$Hey, Anfänger, machst du da ne Pause?{n1}Hol' etwas Fett von Ducks in Lengvas Garten.
+QUEST_LV_0100_20150317_000085	$Wir werden Gaigalas locken indem wir Duckys Fett benutzen.{n1}Hey Anfänger, hör auf zu bummeln.
+QUEST_LV_0100_20150317_000086	$Der heutige Tag wird der Letzte sein für Gaigalas.{n1}Bist du bereit, Anfänger?
+QUEST_LV_0100_20150317_000087	$Als nächstes werden wir Leder von Cronewts in Lengvas Garten holen.{n1}Beeilung, Soldat.
+QUEST_LV_0100_20150317_000088	$Diesesmal gewinnen wir mit Sicherheit.{n1}Die Göttinnen sind auf unserer Seite.
+QUEST_LV_0100_20150317_000089	$Du bist ziemlich gut für einen Anfänger.{n1}Es ist etwas chaotisch hier immoment, du kannst also die Zutaten erstmal behalten.{n1}
+QUEST_LV_0100_20150317_000090	$Lerne unsere Soldaten kennen während ich Vorbereitungen für die Schlacht treffe.{n1}Ich werde dich rufen bevor wir uns Gaigalas gegenüberstellen.
+QUEST_LV_0100_20150317_000091	$Wenn wir das Ducky Fett verbrennen wir Gaigalas erscheinen nachdem er den Duft gerochen hat.{n1}Lengvas Garten wird ein guter Ort sein um es zu verbrennen.
+QUEST_LV_0100_20150317_000092	$Mein Herz schlägt mir bis zum Hals.{n1}Es fühlt sich an als ob meine Seele mit ihm schlägt.
+QUEST_LV_0100_20150317_000093	$Alte Eulenskulptur
+QUEST_LV_0100_20150317_000094	$Es ist niemand hier in diesem Wald. Warum bist du hier?{n1}
+QUEST_LV_0100_20150317_000095	$Gaigalas?{n1}Es ohne Unterstützung zu besiegen wird schwierig werden.
+QUEST_LV_0100_20150317_000096	$Ich habe viele Tode hier gesehen.{n1}Ich will nicht noch mehr Opfer sehen.
+QUEST_LV_0100_20150317_000097	$Ich brauche Kepa Raider Samen und Cronewt Leder.
+QUEST_LV_0100_20150317_000098	$Warum hast du das?{n1}Gebt es mir und ich werde ein Erinnerungsfragment machen.
+QUEST_LV_0100_20150317_000099	$Mit diesem Erinnerungsfragment werde ich die Erinnerungern unserer schlafenden Kameraden wiedererwecken.
+QUEST_LV_0100_20150317_000100	$Es wird schwer werden es ohne ein Erinngerungsfragment zu besiegen.{n1}Bringt mir bitte Infro Holder Hörner.
+QUEST_LV_0100_20150317_000101	$Wie kommt es dass du all diese Zutaten hast?
 QUEST_LV_0100_20150317_000102	${memo X}Those are people who are already gone from this world. {nl}They are repeating what happened back then because of their anger for Gaigalas.
 QUEST_LV_0100_20150317_000103	${memo X}We can calm them if we defeat Gaigalas.{nl}Please go see the Worrying Owl.
-QUEST_LV_0100_20150317_000104	$Worrying Owl Sculpture
-QUEST_LV_0100_20150317_000105	$Please help me wake my sleeping comrades and complete the magic of that day.{nl}With the Memory Fragment.
-QUEST_LV_0100_20150317_000106	$They may become satiated.{nl}I will stand here while remembering my comrades.
-QUEST_LV_0100_20150317_000107	$You will find Gaigalas when you go to Ishimtini Access Way.{nl}Please avenge the fallen soldiers.
-QUEST_LV_0100_20150317_000108	$I was in an isolated place so I did not fall asleep.{nl}But, watching it all was painful for me.
-QUEST_LV_0100_20150317_000109	$My comrades were attacked while they were trying to help the soldiers.
-QUEST_LV_0100_20150317_000110	$Some symbols started to show on Jonas' body after he drank the medicine.
+QUEST_LV_0100_20150317_000104	$Besorgte Eulenskulptur
+QUEST_LV_0100_20150317_000105	$Bitte helft mir meine schlafenden Kameraden zu weckenund die Magie dieses Tages zu vervollständigen.{n1}Mit dem Erinnerungsfragment.
+QUEST_LV_0100_20150317_000106	$Sie werden eventuell übersättigt.{n1}Ich stehe hier während ich mich an meine Kameraden erinnere.
+QUEST_LV_0100_20150317_000107	$Du wirst Gaigalas finden wenn du zum Ishimtini Zugangsweg gehst{n1}Bitte rächt die gefallenen Soldaten.
+QUEST_LV_0100_20150317_000108	$Ich war an einem isolierten Ort deswegen bin ich nicht eingeschlafen.{n1}Aber, all das zu beobachten war schmerzhaft für mich.
+QUEST_LV_0100_20150317_000109	$Meine Kameraden wurden angegriffen während sie versuchten den Soldaten zu helfen.
+QUEST_LV_0100_20150317_000110	$Einige Symbole erschienen auf Joans Körper nachdem er die Medizin trank.
 QUEST_LV_0100_20150317_000111	$Archaeologist Dezic
 QUEST_LV_0100_20150317_000112	$I am looking for my assistant named Airine.{nl}Can you defeat the monsters nearby so I can go look for her?
 QUEST_LV_0100_20150317_000113	$I told her not to get excited even if she finds something.{nl}And yet she did it again.
