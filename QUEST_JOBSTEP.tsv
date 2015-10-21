@@ -3022,7 +3022,7 @@ QUEST_JOBSTEP_20150729_003021	Ask him to trust you
 QUEST_JOBSTEP_20150729_003022	I don't want to get involved in a suspicious task
 QUEST_JOBSTEP_20150729_003023	{memo X}Telling him the circumstances/TALK/3/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150729_003024	{memo X}Eternal Amjinas[Sorcerer Advancement]
-QUEST_JOBSTEP_20150729_003025	I will ask him
+QUEST_JOBSTEP_20150729_003025	Ich werde ihn fragen
 QUEST_JOBSTEP_20150729_003026	{memo X}Tell him to go there himself
 QUEST_JOBSTEP_20150729_003027	{memo X}Passing what you heard/TALK/3/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150729_003028	{memo X}I will quit since it's scary
