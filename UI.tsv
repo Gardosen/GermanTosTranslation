@@ -845,7 +845,7 @@ UI_20150317_000844	Apply to XML
 UI_20150317_000845	{#FFFFFF}{ds}Log
 UI_20150317_000846	{#FFFFFF}{ds}Alle Eigenschaften zeigen
 UI_20150317_000847	Suchbegriff eingeben
-UI_20150317_000848	Alle Atributte Werte
+UI_20150317_000848	Alle Attribute Werte
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Wert
 UI_20150317_000851	$Rogue
@@ -853,17 +853,17 @@ UI_20150317_000852	{ol}Änderung
 UI_20150317_000853	${ol}Rogue
 UI_20150317_000854	Klassenliste
 UI_20150317_000855	XML Conversion
-UI_20150317_000856	{ol}KLassenname
+UI_20150317_000856	{ol}Klassenname
 UI_20150317_000857	{ol}Fähigkeitsname
-UI_20150317_000858	{ol}geänderter Wert
+UI_20150317_000858	{ol}Geänderter Wert
 UI_20150317_000859	{ol}Bestätigen
 UI_20150317_000860	Ordner öffnen
-UI_20150317_000861	alle überprüfen
+UI_20150317_000861	Alle überprüfen
 UI_20150317_000862	Verlauf
 UI_20150317_000863	Rollback Value
 UI_20150317_000864	{ol}Gegenstand auswählen
-UI_20150317_000865	Gebe den Namen ein, für das was du suchst
-UI_20150317_000866	{@st42}bestätigen{/}
+UI_20150317_000865	Suchbegriff eingeben
+UI_20150317_000866	{@st42}Bestätigen{/}
 UI_20150317_000867	{@st41}UI erstellen{/}
 UI_20150317_000868	{ol}Frame
 UI_20150317_000869	{@st41}Frame{/}
@@ -872,16 +872,16 @@ UI_20150317_000871	{@st41}Text{/}
 UI_20150317_000872	{@st42b}Normal{img btn_close}
 UI_20150317_000873	{@st42b}Auction{img btn_close}
 UI_20150317_000874	{@st41}Karten Position festlegen{/}
-UI_20150317_000875	{@st41}umbenennen{/}
+UI_20150317_000875	{@st41}Umbenennen{/}
 UI_20150317_000876	{@st59}Gebe die Wörter ein, nach welche du filtern möchtest{/}
 UI_20150317_000877	{@st41}Erstellen{/}
 UI_20150317_000878	{@st56}XML speichern{/}
-UI_20150317_000879	{@st56}zurücksetzen{/}
+UI_20150317_000879	{@st56}Zurücksetzen{/}
 UI_20150317_000880	{@st56}Attribute{/}
 UI_20150317_000881	{@st56}Wert{/}
 UI_20150317_000882	{@st42}Inhalt{/}
-UI_20150317_000883	{@st41}zurück{/}
-UI_20150317_000884	{@st41}alles speichern{/}
+UI_20150317_000883	{@st41}Zurück{/}
+UI_20150317_000884	{@st41}Alles Speichern{/}
 UI_20150317_000885	{@st41}XML öffnen{/}
 UI_20150317_000886	{@st42b}Fixed Skill : 0{/}
 UI_20150317_000887	{@st42b}Fixed skill : %s{/}
