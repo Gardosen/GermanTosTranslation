@@ -957,7 +957,7 @@ UI_20150317_000956	{@St41b}Theme{/}
 UI_20150317_000957	{@St41b}Gegenstand Anordnung{/}
 UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Preis
-UI_20150317_000960	{@St41b}zustand
+UI_20150317_000960	{@St41b}Zustand
 UI_20150317_000961	{@St44}neuer Charakter{/}
 UI_20150317_000962	{@St41b}{s22}$Wähle eine Charakter Klasse{/}
 UI_20150317_000963	{@St41b}Return{/}
@@ -1034,40 +1034,40 @@ UI_20150317_001033	Login Title
 UI_20150317_001034	[Closed Beta version]
 UI_20150317_001035	Optionen
 UI_20150317_001036	Sight Range
-UI_20150317_001037	{S20}{#BBBBBB}Sight Range
-UI_20150317_001038	Sight Range :
-UI_20150317_001039	Character :
-UI_20150317_001040	Background Objects :
-UI_20150317_001041	Topography - Grass (%) :
-UI_20150317_001042	Topography-Tree (%) :
-UI_20150317_001043	Topography-objects(%) :
-UI_20150317_001044	Shadow
+UI_20150317_001037	{S20}{#BBBBBB}Sichtweite
+UI_20150317_001038	Sichtweite :
+UI_20150317_001039	Charakter :
+UI_20150317_001040	Hintergrundobjekte :
+UI_20150317_001041	Topography - Gras (%) :
+UI_20150317_001042	Topography- Bäume (%) :
+UI_20150317_001043	Topography-Objekte(%) :
+UI_20150317_001044	Schatten
 UI_20150317_001045	{S20}{#BBBBBB}Shadow Maps
 UI_20150317_001046	Using Shadow Map
 UI_20150317_001047	Shadow Quality :
 UI_20150317_001048	SSAO Use
-UI_20150317_001049	SSAO Method :
-UI_20150317_001050	SSAO Resolution :
-UI_20150317_001051	Water Reflection
-UI_20150317_001052	{s20}{#BBBBBB}Water Reflection
-UI_20150317_001053	Characters Water Reflection
-UI_20150317_001054	Background Water Reflection
-UI_20150317_001055	{s20}{#BBBBBB}Glow Setup
-UI_20150317_001056	Use Glow
-UI_20150317_001057	{@st41}Attack{/}
-UI_20150317_001058	{@St41}Defense{/}
-UI_20150317_001059	{@st41}Support{/}
-UI_20150317_001060	{@st41}Difficulty{/}
-UI_20150317_001061	{@st41}Hairstyle
-UI_20150317_001062	{@st41}Rotation
-UI_20150317_001063	{@st43}Create Character
-UI_20150317_001064	{@st59}Create the character{/}
-UI_20150317_001065	{@st41b}Cancel
-UI_20150317_001066	{@st59}Cancel selecting this character{/}
-UI_20150317_001067	Character Information
-UI_20150317_001068	{@st41}Bring Along
+UI_20150317_001049	SSAO Methode :
+UI_20150317_001050	SSAO Auflösung :
+UI_20150317_001051	Wasser Spiegelung
+UI_20150317_001052	{s20}{#BBBBBB}Wasser Spiegelung
+UI_20150317_001053	Charakter Wasser Spiegelung
+UI_20150317_001054	Hintergrund Wasser Spiegelung
+UI_20150317_001055	{s20}{#BBBBBB}Beleuchtungseinstellung
+UI_20150317_001056	Beleuchtung benutzen
+UI_20150317_001057	{@st41}Attacke{/}
+UI_20150317_001058	{@St41}Abwehr{/}
+UI_20150317_001059	{@st41}Unterstützung{/}
+UI_20150317_001060	{@st41}Schwierigkeitsgrad{/}
+UI_20150317_001061	{@st41}Frisur
+UI_20150317_001062	{@st41}drehen
+UI_20150317_001063	{@st43}Charakter erstellen
+UI_20150317_001064	{@st59}Erstelle deinen Charakter{/}
+UI_20150317_001065	{@st41b}Abbrechen
+UI_20150317_001066	{@st59}Ausgewählten Charakter nicht erstellen{/}
+UI_20150317_001067	Charakter Information
+UI_20150317_001068	{@st41}Mitbringen
 UI_20150317_001069	{@st59}After clicking this, select a character for the Companion to follow you{/}
-UI_20150317_001070	UI of Item Creation
+UI_20150317_001070	UI von der Gegenstand Creation
 UI_20150317_001071	{s24}Name :
 UI_20150317_001072	{s16} STR :
 UI_20150317_001073	{s16} HP :
