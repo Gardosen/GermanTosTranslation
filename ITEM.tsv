@@ -1,21 +1,21 @@
 ITEM_20150317_000001	$Empty_helmet
-ITEM_20150317_000002	$Murmillo Helm 
+ITEM_20150317_000002	$Murmillo Helmet 
 ITEM_20150317_000003	$Empty_armband 
-ITEM_20150317_000004	$Rotes Armband 
+ITEM_20150317_000004	$Red Armband 
 ITEM_20150317_000005	$Armband 
-ITEM_20150317_000006	$Verknotetes Armband 
-ITEM_20150317_000007	$Langes Armband 
-ITEM_20150317_000008	$Feder Armband 
-ITEM_20150317_000009	$Quasten Armband 
+ITEM_20150317_000006	$Knotted Armband 
+ITEM_20150317_000007	$Longs Armband 
+ITEM_20150317_000008	$Feather Armband 
+ITEM_20150317_000009	$Tasseled Armband 
 ITEM_20150317_000010	$Empty_weapon 
-ITEM_20150317_000011	{memo X}$Ungeschliffenes Gladius 
-ITEM_20150317_000012	$Einhand Schwert [Hieb] 
+ITEM_20150317_000011	{memo X}$Crude Gladius 
+ITEM_20150317_000012	$One-Handed Sword [Hieb] 
 ITEM_20150317_000013	$Eine Waffe die natürlicherweise von Soldaten des Königreichs getragen wird.
 ITEM_20150317_000014	$Gladius 
 ITEM_20150317_000015	$Eine Waffe, welche im Gegensatz zu ihrer militärischen Ausführung, mit einer Möglichkeit zur Verbesserung hergestellt wurde. 
-ITEM_20150317_000016	{memo X}$Schwaches Falchion 
+ITEM_20150317_000016	{memo X}$Low Falchion 
 ITEM_20150317_000017	$Dieses Schwert eignet sich besonders gut als Hiebwaffe. 
-ITEM_20150317_000018	{memo X}$Schwaches Kaskara 
+ITEM_20150317_000018	{memo X}$Low Kaskara 
 ITEM_20150317_000019	$Aufgrund der einfachen Herstellung wird dieses Schwert häufig von Abenteurern gewählt, um ihr Trainingsschwert zu ersetzten. 
 ITEM_20150317_000020	$Cinquedea 
 ITEM_20150317_000021	$Empfohlen für jene, welche schwere und starke Schwerter bevorzugen. 
@@ -29,13 +29,13 @@ ITEM_20150317_000028	$Kris
 ITEM_20150317_000029	$Durch die gewellte Schneide verursacht der Kris im Kampf massiven Schaden. Eine sowohl praktische als auch dekorative Waffe. 
 ITEM_20150317_000030	$Snickersnee 
 ITEM_20150317_000031	$Seine extrem scharfe Schneide macht es zu einer sehr beliebten Waffe, selbst unter den erfahrensten Kämpfern. 
-ITEM_20150317_000032	{memo X}$Ungeschliffenes Shamshir 
-ITEM_20150317_000033	{memo X}$Ungeschliffenes Scimitar 
+ITEM_20150317_000032	{memo X}$Crude Shamshir 
+ITEM_20150317_000033	{memo X}$Crude Scimitar 
 ITEM_20150317_000034	$Soldier's Gladius 
 ITEM_20150317_000035	$Grundausstattung eines Soldaten. Im Vergleich zu den im Markt erhältlichen Varianten ist es von höherer Qualität. 
 ITEM_20150317_000036	$Mayor's Falchion 
 ITEM_20150317_000037	$Der Anblick dieser Waffe wirft Fragen über die Vergangenheit seines letzten Besitzers auf. 
-ITEM_20150317_000038	{memo X}$Ungeschliffenes Kaskara 
+ITEM_20150317_000038	{memo X}$Crude Kaskara 
 ITEM_20150317_000039	$Moplah 
 ITEM_20150317_000040	$Dieses Schwert ist sowohl schön als auch praktisch. 
 ITEM_20150317_000041	{memo X}$Heavy Gladius 
@@ -136,7 +136,7 @@ ITEM_20150317_000135	$Quaddara
 ITEM_20150317_000136	$Diese zweischneidige Klinge wird oft von Soldaten benutzt, welche einen pragmatischen Kampfstil vorziehen. 
 ITEM_20150317_000137	$Light Claymore 
 ITEM_20150317_000138	$Der Aufbau diees Schwertes ermöglicht es seinem Träger Stichangriffe auszuführen. 
-ITEM_20150317_000139	{memo X}$Ungeschliffenes Colossus 
+ITEM_20150317_000139	{memo X}$Crude Colossus 
 ITEM_20150317_000140	$Ilwoon 
 ITEM_20150317_000141	$Der große Ruklys trug dieses Schwert in seiner Jugend.
 ITEM_20150317_000142	$Practice Bastard Sword 
