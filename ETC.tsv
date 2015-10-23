@@ -1889,7 +1889,7 @@ ETC_20150317_001888	Unexpected Event
 ETC_20150317_001889	Temporary Event
 ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
-ETC_20150317_001892	A Field Boss appeared!
+ETC_20150317_001892	Ein Field Boss ist erschienen!
 ETC_20150317_001893	Item
 ETC_20150317_001894	Map
 ETC_20150317_001895	Achievement
@@ -2044,20 +2044,20 @@ ETC_20150317_002043	Main
 ETC_20150317_002044	Sub
 ETC_20150317_002045	Received reward(s)!
 ETC_20150317_002046	Gift given by {Giver} to {Target}
-ETC_20150317_002047	Number
-ETC_20150317_002048	Receive
-ETC_20150317_002049	Buy
-ETC_20150317_002050	View Market
-ETC_20150317_002051	[Unavailable]
-ETC_20150317_002052	[Available]
-ETC_20150317_002053	[In Progress]
-ETC_20150317_002054	[Incomplete]
-ETC_20150317_002055	[Complete]
-ETC_20150317_002056	Repeatable
-ETC_20150317_002057	Collect Wood Essence
+ETC_20150317_002047	Nummer
+ETC_20150317_002048	Erhalten
+ETC_20150317_002049	Kaufen
+ETC_20150317_002050	Markt anzeigen
+ETC_20150317_002051	[Nicht Verfügbar]
+ETC_20150317_002052	[Verfügbar]
+ETC_20150317_002053	[Im Gange]
+ETC_20150317_002054	[Unvollständig]
+ETC_20150317_002055	[Vollständig]
+ETC_20150317_002056	Wiederholbar
+ETC_20150317_002057	Sammle Wood Essence
 ETC_20150317_002058	Offering blood of Black-Eyed Maize to the altar
 ETC_20150317_002059	Complete sticky dye!
-ETC_20150317_002060	Ritual Completed
+ETC_20150317_002060	Ritual Vollständig
 ETC_20150317_002061	{memo X}Copy
 ETC_20150317_002062	{memo X}Quit
 ETC_20150317_002063	Found the usable Shrine Offering Tools!
@@ -2077,92 +2077,92 @@ ETC_20150317_002076	{memo X}Get rid of the monsters first to reduce the contamin
 ETC_20150317_002077	Fainted Black Maize
 ETC_20150317_002078	{memo X}Can't use the containers due to strong odor of blood.
 ETC_20150317_002079	You obtained a Languid Herb!
-ETC_20150317_002080	Searching
+ETC_20150317_002080	Suche
 ETC_20150317_002081	Found some usable explosives!
 ETC_20150317_002082	This barrel looks suspicious!{nl} Stay away from it!
-ETC_20150317_002083	Obtained the bucket
-ETC_20150317_002084	I already have a bucket
+ETC_20150317_002083	Eimer erhalten
+ETC_20150317_002084	Ich habe bereits den Eimer erhalten
 ETC_20150317_002085	Took the long rope
 ETC_20150317_002086	You already have long ropes
 ETC_20150317_002087	There is something rotten in the well
-ETC_20150317_002088	Ask where
-ETC_20150317_002089	it's OK
+ETC_20150317_002088	Frag wo
+ETC_20150317_002089	Das ist Okay
 ETC_20150317_002090	Can't see whether monsters are near the center of the altar or not!
 ETC_20150317_002091	Sowing seeds
-ETC_20150317_002092	You do not have enough space in your inventory!
+ETC_20150317_002092	Du hast nicht genug Platz in deinem Inventar!
 ETC_20150317_002093	{memo X}Nothing was found.
 ETC_20150317_002094	{memo X}Spring Star herb is already around the area.
-ETC_20150317_002095	You found Spring Star Herbs!
-ETC_20150317_002096	Offering water to the altar
-ETC_20150317_002097	Offering wood essence to the altar
-ETC_20150317_002098	Offer blood of Black-Eyed Maize to the altar
-ETC_20150317_002099	Offer water to the altar
-ETC_20150317_002100	Offer wood essence to the altar
-ETC_20150317_002101	Finished altar ritual
+ETC_20150317_002095	Du hast Spring Star Herbs gefunden!
+ETC_20150317_002096	§Gib Wasser in den Altar
+ETC_20150317_002097	§Gib Wood Essence in den Altar
+ETC_20150317_002098	§Gib Blut des Black-Eyed Maize in den Altar
+ETC_20150317_002099	§Gib Wasser in den Altar
+ETC_20150317_002100	§Gib Wood Essence in den Altar
+ETC_20150317_002101	Altar Ritual beenden
 ETC_20150317_002102	{memo X}The wooden essence bucket is empty.
-ETC_20150317_002103	Revelator! {nl} I will remember who you are!
-ETC_20150317_002104	Digging
-ETC_20150317_002105	Obtained herbs!
-ETC_20150317_002106	You did not find anything.
-ETC_20150317_002107	Worshiping the Goddess Statue
-ETC_20150317_002108	Completed worshiping the Goddess Statue
-ETC_20150317_002109	Praying for purification
+ETC_20150317_002103	Prophet! {nl} Ich werde mich an dich erinnern!
+ETC_20150317_002104	Am graben
+ETC_20150317_002105	Kräuter erhalten!
+ETC_20150317_002106	Du hast nichts gefunden.
+ETC_20150317_002107	Göttliche Statue anbeten
+ETC_20150317_002108	Anbetung der göttlichen Statue abgeschlossen
+ETC_20150317_002109	Beten für die Reinigung
 ETC_20150317_002110	Evil spirits have appeared! {nl} You must defeat them in 60 seconds!
-ETC_20150317_002111	Nothing happened
-ETC_20150317_002112	Cleaning the Goddess Statue
-ETC_20150317_002113	The Goddess Statue is clean!
-ETC_20150317_002114	The Goddess Statue needs some cleaning!
-ETC_20150317_002115	Get rid of the nearby Hallowventers.
+ETC_20150317_002111	Nichts passiert
+ETC_20150317_002112 Göttliche statue wird gereinigt
+ETC_20150317_002113	Die göttliche Statue ist sauber!
+ETC_20150317_002114	Die göttliche Statue muss gereinigt werden!
+ETC_20150317_002115	Werde die Hallowventers in der Nähe los.
 ETC_20150317_002116	{memo X}There's a vibration that doesn't feel so good. Let's go to Cordelli.
 ETC_20150317_002117	{memo X}The monster is trying to explode.
-ETC_20150317_002118	You have opened the box
-ETC_20150317_002119	Obelisk power source
-ETC_20150317_002120	Whew that was hard!
-ETC_20150317_002121	My back hurts and I can't move!
+ETC_20150317_002118	Du hast die Box erhalten
+ETC_20150317_002119	Obelisk Kraftquelle
+ETC_20150317_002120	Whew das war hart!
+ETC_20150317_002121	Mein Rücken tut weh, ich kann mich nicht bewegen!
 ETC_20150317_002122	Whoa.. whoa..
-ETC_20150317_002123	The tree of my home was as strong as this one too!
+ETC_20150317_002123	Der Baum meiner Heimat war genau so stark wie dieser!
 ETC_20150317_002124	Oooaah!
 ETC_20150317_002125	Oouwwh!
-ETC_20150317_002126	Who is the next shift?
-ETC_20150317_002127	Damn it! Cutting a tree while thinking of a guy is wrong!
-ETC_20150317_002128	Do not come close! You'll get hurt!
-ETC_20150317_002129	Whoa.. That was tiresome ~
-ETC_20150317_002130	Hidden Desk
+ETC_20150317_002126	Wer hat die nächste Schicht?
+ETC_20150317_002127	Verdammt! Einen Baum zu fählen während man an einen Mann denkt ist einfach falsch!
+ETC_20150317_002128	Komm nicht näher! Du wirst noch verletzt!
+ETC_20150317_002129	Whoa.. Das war ermüdend ~
+ETC_20150317_002130	Versteckter Schreibtisch
 ETC_20150317_002131	Zemyna
 ETC_20150317_002132	Ausrine
 ETC_20150317_002133	Vakarine
-ETC_20150317_002134	Correct! Good bye!
-ETC_20150317_002135	Wrong! Try again!
+ETC_20150317_002134	Richtig! Auf Wiedersehen!
+ETC_20150317_002135	Falsch! Versuch es nochmal!
 ETC_20150317_002136	Scharffen Star
 ETC_20150317_002137	Sparkly Star
-ETC_20150317_002138	Dang, wrong. You still have plenty of chances so just try again.
+ETC_20150317_002138	Dang, Falsch. Du hast noch genug Versuche, einfach nochmal versuchen.
 ETC_20150317_002139	Uska
 ETC_20150317_002140	Cunningham
 ETC_20150317_002141	Is!
-ETC_20150317_002142	Wrong but it's too early to be disappointed.
-ETC_20150317_002143	Searching for a sheet of paper
-ETC_20150317_002144	Found a sheet in the Wizard's book!
-ETC_20150317_002145	Couldn't find a sheet in the Wizard's book
-ETC_20150317_002146	Emotional Owl Statue
-ETC_20150317_002147	The Sword Master has appeared! Try looking around
-ETC_20150317_002148	The Wizard Master has appeared! Try looking around
-ETC_20150317_002149	The Archer Master has appeared! Try looking around
-ETC_20150317_002150	The Cleric Master has appeared! Try looking around
+ETC_20150317_002142	Falsch, aber es ist zu früh um enttäuscht zu sein.
+ETC_20150317_002143	Suche nach einem Papierzettel
+ETC_20150317_002144	Es wurde ein Zettel im Buch des Zauberers gefunden!
+ETC_20150317_002145	Kein Zettel im Buch des Zauberers gefunden
+ETC_20150317_002146	Emotionale Eulen Statue
+ETC_20150317_002147	Der Sword Master ist erschienen! Schau dich um
+ETC_20150317_002148	Der Wizard Master ist erschienen! Schau dich um
+ETC_20150317_002149	Der Archer Master ist erschienen! Schau dich um
+ETC_20150317_002150	Der Cleric Master ist erschienen! Schau dich um
 ETC_20150317_002151	Dandel: Dandel: 51 / Dandel: Dandel: 51 / Dandel: Dandel: 51 / zigri_purple: Black Zigri: 54
 ETC_20150317_002152	$Gap Wendigo
-ETC_20150317_002153	What kind of place is Fedimian?
-ETC_20150317_002154	Divine district and Business district
-ETC_20150317_002155	Central Statue of Goddess Zemyna
-ETC_20150317_002156	Identity of the old man
-ETC_20150317_002157	Food of Fedimian
+ETC_20150317_002153	Was für ein Ort ist Fedimian?
+ETC_20150317_002154	Himmlische Bezirk und Handelsbezirk
+ETC_20150317_002155	Zentral Statue der Göttin Zemyna
+ETC_20150317_002156	Identität des alten Mannes
+ETC_20150317_002157	Essen von Fedimian
 ETC_20150317_002158	{memo X}Talk to the summoned guardian of Zachariel to unseal!
-ETC_20150317_002159	A Status Point has been added!
-ETC_20150317_002160	Nothing happens!
-ETC_20150317_002161	Kicking the chest angered a Red Vubbe Fighter!
+ETC_20150317_002159	Ein Statuenpunkt wurde hinzugefügt!
+ETC_20150317_002160	Nichts passiert!
+ETC_20150317_002161	Die Truhe zu treten hat einen Red Vubbe Fighter verärgert!
 ETC_20150317_002162	$Collected Canyon Amalas!
 ETC_20150317_002163	$You became poisoned by the Canyon Amalas making your mind seem at loss!
-ETC_20150317_002164	Unsealed!
-ETC_20150317_002165	Failed to protect the seal. {nl} Try again!
+ETC_20150317_002164	Entsiegelt!
+ETC_20150317_002165	Beschützen des Siegels fehlgeschlagen. {nl} Versuch es nochmal!
 ETC_20150317_002166	You opened the treasure chest and the Hogmas are charging in!
 ETC_20150317_002167	There is no Hogma Battle Boss to use the scroll on.
 ETC_20150317_002168	You cannot use it while another quest event is in progress
@@ -15554,10 +15554,10 @@ ETC_20151001_015556
 ETC_20151001_015557	
 ETC_20151001_015558	
 ETC_20151001_015559	
-ETC_20151001_015560	Magburk appeared!
-ETC_20151001_015561	Kirmeleech appeared!
-ETC_20151001_015562	Honeypin appeared!
-ETC_20151001_015563	Bebraspion appeared!
+ETC_20151001_015560	Magburk ist erschienen!
+ETC_20151001_015561	Kirmeleech ist erschienen!
+ETC_20151001_015562	Honeypin ist erschienen!
+ETC_20151001_015563	Bebraspion ist erschienen!
 ETC_20151001_015564	
 ETC_20151001_015565	
 ETC_20151001_015566	The strengthening of [Giant Redwood] has progressed with 10%!
@@ -15573,11 +15573,11 @@ ETC_20151001_015575	$The weakening of [Giant Redwood] has progressed with 25%!
 ETC_20151001_015576	$The weakening of [Giant Redwood] has progressed with 50%! 
 ETC_20151001_015577	$The weakening of [Giant Redwood] has progressed with 75%! 
 ETC_20151001_015578	
-ETC_20151001_015579	The request has failed
+ETC_20151001_015579	Die Anfrage ist fehlgeschlagen
 ETC_20151001_015580	
-ETC_20151001_015581	Request Success!
+ETC_20151001_015581	Anfrage erfolgreich!
 ETC_20151001_015582	
-ETC_20151001_015583	Request Failed
+ETC_20151001_015583	Anfrage fehlgeschlagen
 ETC_20151001_015584	
 ETC_20151001_015585	
 ETC_20151001_015586	
@@ -15597,21 +15597,21 @@ ETC_20151001_015599
 ETC_20151001_015600	
 ETC_20151001_015601	
 ETC_20151001_015602	Zinutekas Summon Stone
-ETC_20151001_015603	Defeat the boss monster!
+ETC_20151001_015603	Besiege den Endboss!
 ETC_20151001_015604	
 ETC_20151001_015605	
 ETC_20151001_015606	
 ETC_20151001_015607	
-ETC_20151001_015608	Defeat the last boss monster!
+ETC_20151001_015608	Besiege den letzten Endboss!
 ETC_20151001_015609	
 ETC_20151001_015610	
 ETC_20151001_015611	
-ETC_20151001_015612	You will return to the zone in 30 seconds
+ETC_20151001_015612	Du wirst in 30 Sekunden in die Zone zurückkehren
 ETC_20151001_015613	
-ETC_20151001_015614	You will return to the zone in 10 seconds
-ETC_20151001_015615	Defeat all the subordinates of Hauberk!
-ETC_20151001_015616	Defeat all the subordinates of Hauberk!{nl}Pursue Hauberk!
-ETC_20151001_015617	Defeat all the subordinates of Hauberk!{nl}Find Kupole Sigita 
+ETC_20151001_015614	Du wirst in 10 Sekunden in die Zone zurückkehren
+ETC_20151001_015615	Besiege alle Untergebenen von Hauberk!
+ETC_20151001_015616	Besiege alle Untergebenen von Hauberk!{nl}Verfolge Hauberk!
+ETC_20151001_015617	Besiege alle Untergebenen von Hauberk!{nl}Finde Kupole Sigita 
 ETC_20151001_015618	
 ETC_20151001_015619	Wheelens are being corrupted by Denoptic!
 ETC_20151001_015620	
