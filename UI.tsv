@@ -845,7 +845,7 @@ UI_20150317_000844	Apply to XML
 UI_20150317_000845	{#FFFFFF}{ds}Log
 UI_20150317_000846	{#FFFFFF}{ds}Alle Eigenschaften zeigen
 UI_20150317_000847	Suchbegriff eingeben
-UI_20150317_000848	Alle Attribute Werte
+UI_20150317_000848	Alle Attributwerte
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Wert
 UI_20150317_000851	$Rogue
@@ -883,9 +883,9 @@ UI_20150317_000882	{@st42}Inhalt{/}
 UI_20150317_000883	{@st41}Zurück{/}
 UI_20150317_000884	{@st41}Alles Speichern{/}
 UI_20150317_000885	{@st41}XML öffnen{/}
-UI_20150317_000886	{@st42b}Fixed Skill : 0{/}
-UI_20150317_000887	{@st42b}Fixed skill : %s{/}
-UI_20150317_000888	{@st42b}Mouse homing{/}
+UI_20150317_000886	{@st42b}unveränderbarer Skill : 0{/}
+UI_20150317_000887	{@st42b}unveränderbarer skill : %s{/}
+UI_20150317_000888	{@st42b}Mouse zielsuchend{/}
 UI_20150317_000889	{@st42b}Skill Name{/}
 UI_20150317_000890	{@st41}Monster Liste{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
@@ -905,7 +905,7 @@ UI_20150317_000904	{ol}Menge
 UI_20150317_000905	{ol}Zusätzliche Belohnungen
 UI_20150317_000906	{@st45}häufig verwendete Cheats
 UI_20150317_000907	{@st41}Fähigkeitenkarte{/}
-UI_20150317_000908	{@st42}Ability{/}
+UI_20150317_000908	{@st42}Fähigkeit{/}
 UI_20150317_000909	{@st42}Warrior{/}
 UI_20150317_000910	{@st42}Wizard{/}
 UI_20150317_000911	{@st42}Archer{/}
@@ -1033,7 +1033,7 @@ UI_20150317_001032	{@St59}Server auswählen{/}
 UI_20150317_001033	Login Title
 UI_20150317_001034	[Closed Beta version]
 UI_20150317_001035	Optionen
-UI_20150317_001036	Sight Range
+UI_20150317_001036	Sichtweite
 UI_20150317_001037	{S20}{#BBBBBB}Sichtweite
 UI_20150317_001038	Sichtweite :
 UI_20150317_001039	Charakter :
@@ -1045,7 +1045,7 @@ UI_20150317_001044	Schatten
 UI_20150317_001045	{S20}{#BBBBBB}Shadow Maps
 UI_20150317_001046	Using Shadow Map
 UI_20150317_001047	Shadow Quality :
-UI_20150317_001048	SSAO Use
+UI_20150317_001048	SSAO Anwendung
 UI_20150317_001049	SSAO Methode :
 UI_20150317_001050	SSAO Auflösung :
 UI_20150317_001051	Wasser Spiegelung
@@ -1066,15 +1066,15 @@ UI_20150317_001065	{@st41b}Abbrechen
 UI_20150317_001066	{@st59}Ausgewählten Charakter nicht erstellen{/}
 UI_20150317_001067	Charakter Information
 UI_20150317_001068	{@st41}Mitbringen
-UI_20150317_001069	{@st59}After clicking this, select a character for the Companion to follow you{/}
-UI_20150317_001070	UI von der Gegenstand Creation
+UI_20150317_001069	{@st59}Wähle ein Charakter, für dein Companion, welche die folgen wird{/}
+UI_20150317_001070	UI Item Erstellung
 UI_20150317_001071	{s24}Name :
 UI_20150317_001072	{s16} STR :
 UI_20150317_001073	{s16} HP :
 UI_20150317_001074	{s16} AGI :
 UI_20150317_001075	{s16} VIT :
-UI_20150317_001076	{s16} Force :
-UI_20150317_001077	{s18} Class Selection
+UI_20150317_001076	{s16} Kraft :
+UI_20150317_001077	{s18} Klassenauswahl
 UI_20150317_001078	{s18} Right Way Union
 UI_20150317_001079	{s18} Providence Evil Union
 UI_20150317_001080	Hong Moo Moon
@@ -1083,75 +1083,75 @@ UI_20150317_001082	Fire Swords
 UI_20150317_001083	For adenomas hwageuk
 UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
-UI_20150317_001086	{S16}Gender and Appearance
-UI_20150317_001087	Male
-UI_20150317_001088	Female
-UI_20150317_001089	Hair Adjustment
+UI_20150317_001086	{S16}Geschlecht und Aussehen
+UI_20150317_001087	Männlich
+UI_20150317_001088	Weiblich
+UI_20150317_001089	Frisuranpassung
 UI_20150317_001090	Key Adjustment
-UI_20150317_001091	Shoulder Width
-UI_20150317_001092	Hand and Foot size
-UI_20150317_001093	Chest Size
-UI_20150317_001094	Waist Size
-UI_20150317_001095	Hip Size
-UI_20150317_001096	{S18} Head Size
-UI_20150317_001097	{S14} Height Adjustment
-UI_20150317_001098	{S14} Shoulder Width
-UI_20150317_001099	{S14} Hand and Foot size
-UI_20150317_001100	{S14} Chest Size
-UI_20150317_001101	{S14} Waist Size
-UI_20150317_001102	{S14} Pelvic Size
-UI_20150317_001103	Use Pre-set
-UI_20150317_001104	Randomize
-UI_20150317_001105	Create New Character
-UI_20150317_001106	Cancel Character Creation
-UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}
-UI_20150317_001108	{@St43}{s40}{gr gradation4}End Preview{/}
-UI_20150317_001109	{@St43}{s40}{gr gradation4}Return to the Zone{/}
-UI_20150317_001110	{@St59}Return to the Zone.{/}
-UI_20150317_001111	{@St41b}Return{/}
-UI_20150317_001112	{@St59}Return to My Lodge.{/}
-UI_20150317_001113	{@St43}{s24}LodgeName{/}
-UI_20150317_001114	{@St59}Lodge Name{/}
-UI_20150317_001115	{@st41b}Decorate{/}
-UI_20150317_001116	{@St59}Decorate Lodge{/}
-UI_20150317_001117	{@St41b}Setup{/}
-UI_20150317_001118	{@St59}Barrack Settings{/}
+UI_20150317_001091	Schulterbreite
+UI_20150317_001092	Hand und Fuß Größe
+UI_20150317_001093	Oberweite
+UI_20150317_001094	Bundweite
+UI_20150317_001095	Hüftlänge
+UI_20150317_001096	{S18} Kopfgröße
+UI_20150317_001097	{S14} Körpergrößeanpassung
+UI_20150317_001098	{S14} Schulterbreite
+UI_20150317_001099	{S14} Hand und Fuß Größe
+UI_20150317_001100	{S14} Oberweite
+UI_20150317_001101	{S14} Taillenumfang
+UI_20150317_001102	{S14} Beckengröße
+UI_20150317_001103	Voreinstellungen verwwenden
+UI_20150317_001104	Zufällig
+UI_20150317_001105	Erstelle einen neuen Charakter
+UI_20150317_001106	Charaktererstellung abbrechen
+UI_20150317_001107	{@St43}{s40}{gr gradation4}Spiel Starten{/}
+UI_20150317_001108	{@St43}{s40}{gr gradation4}Vorschau beenden{/}
+UI_20150317_001109	{@St43}{s40}{gr gradation4}Zurück zum Gebiet{/}
+UI_20150317_001110	{@St59}Zurück zum Gebiet.{/}
+UI_20150317_001111	{@St41b}Zurück{/}
+UI_20150317_001112	{@St59}Zurück zu mein Haus.{/}
+UI_20150317_001113	{@St43}{s24}Haus Name{/}
+UI_20150317_001114	{@St59}Haus Name{/}
+UI_20150317_001115	{@st41b}Dekorieren{/}
+UI_20150317_001116	{@St59}Haus dekorieren{/}
+UI_20150317_001117	{@St41b}Einstellungen{/}
+UI_20150317_001118	{@St59}Stuben Einstellungen{/}
 UI_20150317_001119	Customized Item frame
 UI_20150317_001120	Green
 UI_20150317_001121	Density
 UI_20150317_001122	Like HP
-UI_20150317_001123	{@st59}Hair Accessories{/}
-UI_20150317_001124	{@st59}Subsidiary Accessories{/}
+UI_20150317_001123	{@st59}Haarschmuck{/}
+UI_20150317_001124	{@st59}Ergänzende Accessories{/}
 UI_20150317_001125	{@St42}Text{/}
-UI_20150317_001126	Name of a default content
-UI_20150317_001127	Name of a default group
-UI_20150317_001128	Name of a default item
+UI_20150317_001126	Name des voreingestellen Inhalts
+UI_20150317_001127	Name der voreingestellen Gruppe
+UI_20150317_001128	Name des voreingestellen Gegenstand
 UI_20150317_001129	Mr Kim
-UI_20150317_001130	Weight : %s
+UI_20150317_001130	Gewicht : %s
 UI_20150317_001131	N/A
 UI_20150317_001132	%S race
 UI_20150317_001133	N/A
-UI_20150317_001134	Untradable
-UI_20150317_001135	Unenhancable
+UI_20150317_001134	Nicht handelbar
+UI_20150317_001135	Erweiterbar
 UI_20150317_001136	N/A
-UI_20150317_001137	Item Name
+UI_20150317_001137	Gegenstand Name
 UI_20150317_001138	N/A
-UI_20150317_001139	Lv and above
-UI_20150317_001140	Everyone can equip
+UI_20150317_001139	Lv und höher
+UI_20150317_001140	Jeder kann sich damit ausrüsten
 UI_20150317_001141	{memo X}Maximum Sockets : ×%s
 UI_20150317_001142	Item Name
-UI_20150317_001143	Shop Sell Value : %s silver
-UI_20150317_001144	How much
-UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
-UI_20150317_001146	{@St42b}West Forest Area Explored{/}
-UI_20150317_001147	{@St18}Item{/}
-UI_20150317_001148	{@St18}My Ranking{/}
-UI_20150317_001149	Diamond
+UI_20150317_001143	Shop Verkaufswert : %s silver
+UI_20150317_001144	Wieviel
+UI_20150317_001145	{@St42b}Gesamte Bewertung von Siauliai{/}
+UI_20150317_001146	{@St42b}West Forest Area erkundet{/}
+UI_20150317_001147	{@St18}Gegenstand{/}
+UI_20150317_001148	{@St18}Meine Platzierung{/}
+UI_20150317_001149	Diamant
 UI_20150317_001150	Stamina +9.000
-UI_20150317_001151	{@St18}Average{/}
+UI_20150317_001151	{@St18}Durchschnitt{/}
 UI_20150317_001152	{@St42b}{s18}Workmanship{/}
-UI_20150317_001153	{@St55_c}Item Name
-UI_20150317_001154	{@St55_c}Memo Records
+UI_20150317_001153	{@St55_c}Gegenstand Name
+UI_20150317_001154	{@St55_c}Memo Unterlagen
 UI_20150317_001155	{@St59}Enter a name. If you do not enter a name, the default name will be used.{/}
 UI_20150317_001156	{@St59}Enter a memo{/}
 UI_20150317_001157	{@St43}Produce items
