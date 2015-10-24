@@ -108,39 +108,39 @@ QUEST_LV_0100_20150317_000107	$Du wirst Gaigalas finden wenn du zum Ishimtini Zu
 QUEST_LV_0100_20150317_000108	$Ich war an einem isolierten Ort deswegen bin ich nicht eingeschlafen.{n1}Aber, all das zu beobachten war schmerzhaft für mich.
 QUEST_LV_0100_20150317_000109	$Meine Kameraden wurden angegriffen während sie versuchten den Soldaten zu helfen.
 QUEST_LV_0100_20150317_000110	$Einige Symbole erschienen auf Joans Körper nachdem er die Medizin trank.
-QUEST_LV_0100_20150317_000111	$Archaeologist Dezic
-QUEST_LV_0100_20150317_000112	$I am looking for my assistant named Airine.{nl}Can you defeat the monsters nearby so I can go look for her?
-QUEST_LV_0100_20150317_000113	$I told her not to get excited even if she finds something.{nl}And yet she did it again.
-QUEST_LV_0100_20150317_000114	$Thanks.{nl}I will go look for Airine.
-QUEST_LV_0100_20150317_000115	$Technician Heinen
+QUEST_LV_0100_20150317_000111	$Archäologe Dezic
+QUEST_LV_0100_20150317_000112	$Ich suche nach meiner Assistentin Airine.{nl}Könntet Ihr euch um die Monster in der Umgebung kümmern, damit ich nach ihr suchen kann?
+QUEST_LV_0100_20150317_000113	$Ich habe ihr gesagt, dass sie nichts überstürzen soll, selbst wenn sie etwas findet.{nl}Und doch hat sie das wieder getan.
+QUEST_LV_0100_20150317_000114	$Danke.{nl}Ich werde nach Airine suchen.
+QUEST_LV_0100_20150317_000115	$Techniker Heinen
 QUEST_LV_0100_20150317_000116	${memo X}This cable car can only be ridden by those with a permit. I'm afraid I have to tell you to turn back towards Vienesa Highlands.
 QUEST_LV_0100_20150317_000117	${memo X}However, if you defeat the troublesome monsters around this area, I'll think about it.
 QUEST_LV_0100_20150317_000118	${memo X}Isn't it better to use the cable car rather than getting injured passing through the monsters? Of course, this is if you can ride the cable car.
 QUEST_LV_0100_20150317_000119	${memo X}Much better than I expected.{nl}I want to propose a deal to you.
 QUEST_LV_0100_20150317_000120	${memo X}
 QUEST_LV_0100_20150317_000121	${memo X}
-QUEST_LV_0100_20150317_000122	$That barrier... Hmm. When did it form?{nl}It has been there for quite some time now, but I can't remember exactly for how long.{nl}
-QUEST_LV_0100_20150317_000123	$I'm sure that barrier was responsible for the increasing number of monsters lately.{nl}
-QUEST_LV_0100_20150317_000124	$We don't have many soldiers guarding this area.{nl}Who in their right mind would come here in this day and age?{nl}
+QUEST_LV_0100_20150317_000122	$Diese Barriere... Hmm. Wann ist sie entstanden?{nl}Sie ist jetzt schon eine ganze Weile da, aber ich kann mich nicht daran erinnern wie lange genau.{nl}
+QUEST_LV_0100_20150317_000123	$Ich bin mir sicher, dass diese Barriere verantwortlich war für die neuerdings wachsende Anzahl von Monstern.{nl}
+QUEST_LV_0100_20150317_000124	$Wir haben nur wenige Soldaten, die dieses Gebiet bewachen.{nl}Wer, der noch ganz gescheit ist, würde denn heutzutage noch hierherkommen?{nl}
 QUEST_LV_0100_20150317_000125	$Rolandas Jonas
-QUEST_LV_0100_20150317_000126	$No one knows what the Great King Zachariel tried to protect.{nl}And I'm sure that we're not the only ones who want to solve that mystery.
-QUEST_LV_0100_20150317_000127	$Hurry, use the Great King's Key to release the seals.{nl}You should know what to do next afterwards.
-QUEST_LV_0100_20150317_000128	$I found Airine, but I don't know how to rescue her.{nl}She is imprisoned in Rodoma 2nd Ruins, but I can't rescue her myself...
-QUEST_LV_0100_20150317_000129	$Assistant Airine
+QUEST_LV_0100_20150317_000126	$Keiner weiß was der große König Zachariel zu schützen versuchte.{nl}Und ich bin mir sicher, dass wir nicht die Einzigen sind, die dieses Mysterium lüften wollen.
+QUEST_LV_0100_20150317_000127	$Schnell, benutzt den Königsschlüssel um die Siegel zu lösen.{nl}Ihr solltet wissen, was danach zu tun ist.
+QUEST_LV_0100_20150317_000128	$Ich habe Airine gefunden, aber ich weiß nicht wie ich sie retten soll.{nl}Sie ist auf der zweiten Ebene der Rodoma Ruinen gefangen, aber ich kann sie nicht selbst retten...
+QUEST_LV_0100_20150317_000129	$Assistentin Airine
 QUEST_LV_0100_20150317_000130	{memo X}I can't move because of the barrier.{nl}Please break the three barriers in Rodoma Ruins.
-QUEST_LV_0100_20150317_000131	$Are you not done yet? Ah, geez...
-QUEST_LV_0100_20150317_000132	$I didn't expect that I would be taken into this kind of thing.{nl}Oh, the mess I caused from chasing that boy.
-QUEST_LV_0100_20150317_000133	$Mercenary Glen
-QUEST_LV_0100_20150317_000134	$So many researchers are disappearing these days.{nl}I'm trying to find clues by defeating some Sauga. Can you help us?
-QUEST_LV_0100_20150317_000135	$The Saugas split their loot fairly among themselves.{nl}Maybe we can find some clues from them.
-QUEST_LV_0100_20150317_000136	$Fortunately they are very old.{nl}So that means these cases are not due to monsters.
-QUEST_LV_0100_20150317_000137	$This is a very dangerous place where many go missing due to monsters or a misstep.{nl}However, what is interesting isn't that.{nl}
-QUEST_LV_0100_20150317_000138	$When these people disappear, no one else notices.{nl}It's as if memories about those who disappeared are erased. Strange, isn't it?{nl}
+QUEST_LV_0100_20150317_000131	$Bist du immer noch nicht fertig? Oh je...
+QUEST_LV_0100_20150317_000132	$Ich habe nicht erwartet hier zu enden.{nl}Oh, in was für einen Schlamassel ich geraten bin weil ich diesen Kerl verfolgt habe.
+QUEST_LV_0100_20150317_000133	$Söldner Glen
+QUEST_LV_0100_20150317_000134	$Eine Menge Forscher verschwinden heutzuage.{nl} Ich versuche gerade ein paar Sauga zu erledigen um Hinweise zu finden. Könnt Ihr uns helfen?
+QUEST_LV_0100_20150317_000135	$Die Saugas haben ihre Beute gerecht unter sich aufgeteilt.{nl}Vielleicht erhalten wir durch sie mehr Informationen.
+QUEST_LV_0100_20150317_000136	$Zum Glück sind sie sehr alt.{nl}Das bedeutet, dass diese Fälle nichts mit Monstern zu tun haben.
+QUEST_LV_0100_20150317_000137	$Dies ist ein sehr gefährlicher Ort, wo viele durch Monster oder einen Fehltritt verschwinden.{nl}Aber das ist nicht das Interessante.{nl}
+QUEST_LV_0100_20150317_000138	$Wenn diese Leute verschwinden, bekommt das niemand sonst mit.{nl}Es ist ganz so, als würde die Erinnerung an die, die verschwinden, ausgelöscht. Seltsam, nicht wahr?{nl}
 QUEST_LV_0100_20150317_000139	{memo X}Please defeat all monsters nearby to prevent anything from happening.{nl}There were reports that the monsters at the 1st Architects' Site had turned violent.
-QUEST_LV_0100_20150317_000140	$Splendid.{nl}We will be safe for now.
+QUEST_LV_0100_20150317_000140	$Ausgezeichnet{nl}Für's Erste sind wir außer Gefahr.
 QUEST_LV_0100_20150317_000141	{memo X}Monsters are coming!{nl}They probably found out I was released.
-QUEST_LV_0100_20150317_000142	$The Goddesses have sent you?{nl}I never thought that you would protect me.{nl}
-QUEST_LV_0100_20150317_000143	$Where did that huge scorpion go? This is very bad!
+QUEST_LV_0100_20150317_000142	$Die Göttin hat Euch geschickt?{nl}Ich hätte nie gedacht, dass Ihr mich beschützen würdet.{nl}
+QUEST_LV_0100_20150317_000143	$Wo ist dieser riesige Skorpion hin? Das ist gar nicht gut!
 QUEST_LV_0100_20150317_000144	$I should go see Dezic.{nl}I hope to see you again in the future.
 QUEST_LV_0100_20150317_000145	$Someone must have done something strange to the monsters protecting the Royal Mausoleum.{nl}What were they thinking?
 QUEST_LV_0100_20150317_000146	$Sir, get a hold of yourself. Sir!
