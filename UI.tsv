@@ -1173,7 +1173,7 @@ UI_20150317_001172	{@St41}Starte eine neue Unterhaltung
 UI_20150317_001173	{@St41}Gesamte Unterhaltung
 UI_20150317_001174	Region Name
 UI_20150317_001175	{@St41}Skill Names
-UI_20150317_001176	{@St41}Attribut Punkte
+UI_20150317_001176	{@St41}Attributpunkte
 UI_20150317_001177	{@St41}Klassen Name
 UI_20150317_001178	Charakter Name
 UI_20150317_001179	{@Sti7}Löschen{/}
@@ -1333,84 +1333,84 @@ UI_20150323_001332	{@st59}UI schließen{/}
 UI_20150323_001333	{@st41b}Reparieren{/}
 UI_20150323_001334	{memo X}{@st41b}Log{/}
 UI_20150323_001335	{memo X}Price to receive
-UI_20150323_001336	${@st59}Setzte ein Juwel{/}
+UI_20150323_001336	${@st59}Juwel platzieren{/}
 UI_20150323_001337	Verbrauchtes Material
 UI_20150323_001338	Stückzahl übrig
 UI_20150323_001339	{@st42}Schließen
-UI_20150323_001340	${@st43}Weapon Maintenance{/}
-UI_20150323_001341	${@st43}Equipment Maintenance{/}
+UI_20150323_001340	${@st43}Waffen Wartung{/}
+UI_20150323_001341	${@st43}Ausrüstung Wartung{/}
 UI_20150323_001342	{memo X}{@st41b}Price to receive
-UI_20150323_001343	{@st41b}Materials
-UI_20150323_001344	{@st43}Repair{/}
-UI_20150323_001345	{@st41b}Repair{/}
+UI_20150323_001343	{@st41b}Material
+UI_20150323_001344	{@st43}Reparieren{/}
+UI_20150323_001345	{@st41b}Reparieren{/}
 UI_20150323_001346	Skill Level
-UI_20150323_001347	{@st41}No. of players to enter
+UI_20150323_001347	{@st41}Anzahl der Spieler, die das Spiel betreten
 UI_20150323_001348	{@st43}Item upgrade dungeon
-UI_20150323_001349	{@st41}Materials Required
-UI_20150323_001350	{@st59}Materials Required{/}
-UI_20150323_001351	Recommended Level : %s
-UI_20150323_001352	{memo X}{@st43}UI Select Mode{/}
-UI_20150323_001353	{@st43}Buy-in Shop
+UI_20150323_001349	{@st41}Material erforderlich
+UI_20150323_001350	{@st59}Material erforderlich{/}
+UI_20150323_001351	Empfohlenes Level : %s
+UI_20150323_001352	{memo X}{@st43}UI Wähle Modus{/}
+UI_20150323_001353	{@st43}Ankauf Shop
 UI_20150323_001354	Shop Name
-UI_20150323_001355	{@st41b}Open Shop
-UI_20150323_001356	{@st59}Start Buy-in Shop{/}
-UI_20150323_001357	{@st59}Cancel{/}
-UI_20150323_001358	{@st59}Close Buy-in Shop{/}
-UI_20150323_001359	Request Buy-in
+UI_20150323_001355	{@st41b}Shop öffnen
+UI_20150323_001356	{@st59}Ankauf Shop starten{/}
+UI_20150323_001357	{@st59}Abbrechen{/}
+UI_20150323_001358	{@st59}Ankauf Shop schließen{/}
+UI_20150323_001359	Ankauf Anfrage
 UI_20150323_001360	{memo X}{@st59}Close Buy-in Shop
 UI_20150323_001361	{memo X}{@st59}Buy-in Shop{nl} - Trade your items for silver
 UI_20150323_001362	{memo X}{@st43}Items the buyer wants{/}
 UI_20150323_001363	{memo X}{@st43}Items for sale
 UI_20150323_001364	{memo X}{@st43}Total Profit
 UI_20150323_001365	{memo X}{@st41}Sell
-UI_20150323_001366	{@st41}Alchemy Materials
-UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
-UI_20150323_001368	{@st59}Summon Pet{/}
-UI_20150323_001369	{@st41b}Character{/}
-UI_20150323_001370	{@st59}Grimoire{/}
+UI_20150323_001366	{@st41}Alchemie Material
+UI_20150323_001367	{@st41}Alchemie Ergebnisse {@stx1}(%s erforderlich){/}
+UI_20150323_001368	{@st59}Haustier herbeirufen{/}
+UI_20150323_001369	{@st41b}Charakter{/}
+UI_20150323_001370	{@st59}Zauberbuch{/}
 UI_20150323_001371	{memo X}{@st41b}Apply Bloom{/}
 UI_20150323_001372	{memo X}{@st41b}Apply Vignette{/}
 UI_20150323_001373	{memo X}{@st41b}Apply FXAA{/}
 UI_20150323_001374	{memo X}{@st41b}Apply GLOW{/}
 UI_20150323_001375	{memo X}{@st41b}Apply Depth {/}
 UI_20150323_001376	{memo X}{@st41b}Apply SoftParticle{/}
-UI_20150323_001377	{@st43}Personal Storage{/}
+UI_20150323_001377	{@st43}Persönliches Lager{/}
 UI_20150323_001378	{memo X}{@st59}Close Personal Storage{/}
 UI_20150323_001379	{memo X}{@sti6}Storing and taking items from storage costs %s silver...{/}
 UI_20150323_001380	{memo X}{@st59}Alt+Z to change weapons{/}
-UI_20150323_001381	{@st59}Save Lodge Settings{/}
-UI_20150323_001382	Change Lodge
+UI_20150323_001381	{@st59}Hütteneinstellungen speichern{/}
+UI_20150323_001382	Hütte wechseln
 UI_20150323_001383	{@st59}Close Change Lodge Window
 UI_20150323_001384	{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
 UI_20150323_001385	{memo X}{@st41}Cancel Preview
 UI_20150323_001386	{memo X}{@st46}My iCoins : %s{/}
 UI_20150323_001387	{memo X}{@st41b}Change Lodge{/}
-UI_20150323_001388	{@st59}Decorate Lodge{/}
+UI_20150323_001388	{@st59}Hütte dekorieren{/}
 UI_20150323_001389	{memo X}{@st41b}Lodge Settings{/}
-UI_20150323_001390	{@st59}Change Lodge Settings{/}
+UI_20150323_001390	{@st59}Hütteneinstellungen wechseln{/}
 UI_20150323_001391	{memo X}{@st45ty}Character Greeting{/}
 UI_20150323_001392	{memo X}{@st45ty}Buy-in Shop
-UI_20150323_001393	{@st41b}Change
-UI_20150323_001394	{@st59}Change Character Greeting{/}
-UI_20150323_001395	{@st59}Set Buy-in Shop{/}
-UI_20150323_001396	Purchase Quantity : %s{/}
-UI_20150323_001397	Search for items to buy
-UI_20150323_001398	Quantity
-UI_20150323_001399	Unit Price
+UI_20150323_001393	{@st41b}Wechseln
+UI_20150323_001394	{@st59}Charakterbegrüßung wechseln{/}
+UI_20150323_001395	{@st59}Ankauf Shop festlegen{/}
+UI_20150323_001396	Abnahmemenge : %s{/}
+UI_20150323_001397	Gegenstände zum kaufen suchen
+UI_20150323_001398	Anzahl
+UI_20150323_001399	Stückpreis
 UI_20150323_001400	{memo X}{@sti5}×%s{/}
-UI_20150323_001401	{@st41}Eat
-UI_20150323_001402	{@st41}Craft
+UI_20150323_001401	{@st41}Essen
+UI_20150323_001402	{@st41}Anfertigen
 UI_20150323_001403	{memo X}{@st41}Quantity
 UI_20150323_001404	{memo X}{@st41}Consumable Material
 UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{memo X}{@st41}Remove Base Camp
 UI_20150401_001407	{@st43}[Circle %s]{/}
 UI_20150401_001408	{@st43}Skill{/}
-UI_20150401_001409	{@st43}Class Tip{/}
-UI_20150401_001410	Class Tip
+UI_20150401_001409	{@st43}Klassen Tip{/}
+UI_20150401_001410	Klassen Tip
 UI_20150401_001411	{memo X}{@st42}{#ffff00}Lock Target {/}
 UI_20150401_001412	{memo X}{@st41}Remove Table
-UI_20150401_001413	{@st43}Tincturing{/}
+UI_20150401_001413	{@st43}Färben{/}
 UI_20150401_001414	Joystick Quick Slot
 UI_20150401_001415	{memo X}{@st42}{#ffff00}Keyboard Mode{/}
 UI_20150401_001416	{@st43}Open Offering Box
