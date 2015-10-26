@@ -883,9 +883,9 @@ UI_20150317_000882	{@st42}Inhalt{/}
 UI_20150317_000883	{@st41}Zurück{/}
 UI_20150317_000884	{@st41}Alles Speichern{/}
 UI_20150317_000885	{@st41}XML öffnen{/}
-UI_20150317_000886	{@st42b}unveränderbarer Skill : 0{/}
-UI_20150317_000887	{@st42b}unveränderbarer skill : %s{/}
-UI_20150317_000888	{@st42b}Mouse zielsuchend{/}
+UI_20150317_000886	{@st42b}Unveränderlicher Skill : 0{/}
+UI_20150317_000887	{@st42b}Unveränderlicher Skill : %s{/}
+UI_20150317_000888	{@st42b}Maus zielsuchend{/}
 UI_20150317_000889	{@st42b}Skill Name{/}
 UI_20150317_000890	{@st41}Monster Liste{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
@@ -1066,7 +1066,7 @@ UI_20150317_001065	{@st41b}Abbrechen
 UI_20150317_001066	{@st59}Ausgewählten Charakter nicht erstellen{/}
 UI_20150317_001067	Charakter Information
 UI_20150317_001068	{@st41}Mitbringen
-UI_20150317_001069	{@st59}Wähle ein Charakter, für dein Companion, welche die folgen wird{/}
+UI_20150317_001069	{@st59}Wähle einen Charakter als Companion, welcher dir folgen wird.{/}
 UI_20150317_001070	UI Item Erstellung
 UI_20150317_001071	{s24}Name :
 UI_20150317_001072	{s16} STR :
@@ -1089,14 +1089,14 @@ UI_20150317_001088	Weiblich
 UI_20150317_001089	Frisuranpassung
 UI_20150317_001090	Key Adjustment
 UI_20150317_001091	Schulterbreite
-UI_20150317_001092	Hand und Fuß Größe
+UI_20150317_001092	Hand- und Fußgröße
 UI_20150317_001093	Oberweite
 UI_20150317_001094	Bundweite
 UI_20150317_001095	Hüftlänge
 UI_20150317_001096	{S18} Kopfgröße
 UI_20150317_001097	{S14} Körpergrößeanpassung
 UI_20150317_001098	{S14} Schulterbreite
-UI_20150317_001099	{S14} Hand und Fuß Größe
+UI_20150317_001099	{S14} Hand- und Fußgröße
 UI_20150317_001100	{S14} Oberweite
 UI_20150317_001101	{S14} Taillenumfang
 UI_20150317_001102	{S14} Beckengröße
@@ -1109,9 +1109,9 @@ UI_20150317_001108	{@St43}{s40}{gr gradation4}Vorschau beenden{/}
 UI_20150317_001109	{@St43}{s40}{gr gradation4}Zurück zum Gebiet{/}
 UI_20150317_001110	{@St59}Zurück zum Gebiet.{/}
 UI_20150317_001111	{@St41b}Zurück{/}
-UI_20150317_001112	{@St59}Zurück zu mein Haus.{/}
-UI_20150317_001113	{@St43}{s24}Haus Name{/}
-UI_20150317_001114	{@St59}Haus Name{/}
+UI_20150317_001112	{@St59}Zurück zu Mein Haus.{/}
+UI_20150317_001113	{@St43}{s24}Hausname{/}
+UI_20150317_001114	{@St59}Hausname{/}
 UI_20150317_001115	{@st41b}Dekorieren{/}
 UI_20150317_001116	{@St59}Haus dekorieren{/}
 UI_20150317_001117	{@St41b}Einstellungen{/}
@@ -1125,7 +1125,7 @@ UI_20150317_001124	{@st59}Ergänzende Accessories{/}
 UI_20150317_001125	{@St42}Text{/}
 UI_20150317_001126	Name des voreingestellen Inhalts
 UI_20150317_001127	Name der voreingestellen Gruppe
-UI_20150317_001128	Name des voreingestellen Gegenstand
+UI_20150317_001128	Name des voreingestellen Gegenstands
 UI_20150317_001129	Mr Kim
 UI_20150317_001130	Gewicht : %s
 UI_20150317_001131	N/A
@@ -1134,15 +1134,15 @@ UI_20150317_001133	N/A
 UI_20150317_001134	Nicht handelbar
 UI_20150317_001135	Nicht erweiterbar
 UI_20150317_001136	N/A
-UI_20150317_001137	Gegenstand Name
+UI_20150317_001137	Gegenstand
 UI_20150317_001138	N/A
 UI_20150317_001139	Lv und höher
 UI_20150317_001140	Jeder kann sich damit ausrüsten
 UI_20150317_001141	{memo X}Maximum Sockets : ×%s
 UI_20150317_001142	Item Name
 UI_20150317_001143	Shop Verkaufswert : %s silver
-UI_20150317_001144	Wieviel
-UI_20150317_001145	{@St42b}Gesamte Bewertung von Siauliai{/}
+UI_20150317_001144	Wie viel
+UI_20150317_001145	{@St42b}Gesamte Erkundungsrate von Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area erkundet{/}
 UI_20150317_001147	{@St18}Gegenstand{/}
 UI_20150317_001148	{@St18}Meine Platzierung{/}
