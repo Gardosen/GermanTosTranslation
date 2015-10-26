@@ -1,4 +1,3 @@
-﻿QUEST_20150317_000001	Please select the user requiring a quest update.
 QUEST_20150317_000002	Statue of Goddess Vakarine
 QUEST_20150317_000003	Please select a territory.
 QUEST_20150317_000004	Select
@@ -2461,10 +2460,10 @@ QUEST_20151001_002468	It is vain death that lies at the end for those who only s
 QUEST_20151001_002469	I heard the monsters are moving in herds outside Klaipeda.{nl}Instead of defeating them one by one, it will be better to learn my skills.
 QUEST_20151001_002470	My device is nearly functional. At the end of the day, you too will be able to enter the Mage Tower.
 QUEST_20151001_002471	The thief who foolishly entered this tower to rob it was burned alive. {nl}At the very least, the monuments he left will serve as a warning to other trespassers. {nl}- Agailla Flurry
-QUEST_20151001_002472	General Ruklys has fallen in battle, and the Fortress of the Great Earth has been taken. {nl}Some people say he was killed by Lydia Schaffen's arrow while others say by the royal magicians' magic, but it is certain that he passed away. {nl}It is indeed sad news.	
-QUEST_20151001_002473	There's no hope at all. Ah… my lovely Ridell. {nl}The kingdom soldiers did not keep their words. We're all going to die.{nl}	
-QUEST_20151001_002474	Even if the world collapses, people will remain.{nl}If you have the desire to win with trustable companions.	
-QUEST_20151001_002475	This too is my ordeal and duty which Laima foresaw... {nl}I will tell you Laima's message.{nl}	
+QUEST_20151001_002472	General Ruklys has fallen in battle, and the Fortress of the Great Earth has been taken. {nl}Some people say he was killed by Lydia Schaffen's arrow while others say by the royal magicians' magic, but it is certain that he passed away. {nl}It is indeed sad news.
+QUEST_20151001_002473	There's no hope at all. Ah… my lovely Ridell. {nl}The kingdom soldiers did not keep their words. We're all going to die.{nl}
+QUEST_20151001_002474	Even if the world collapses, people will remain.{nl}If you have the desire to win with trustable companions.
+QUEST_20151001_002475	This too is my ordeal and duty which Laima foresaw... {nl}I will tell you Laima's message.{nl}
 QUEST_20151001_002476	$If I'm paid well, there's no reason I would stop a person who wants to learn my skills.{nl}Instead, I would even welcome that person. That doesn't mean follow my every move, though.
 QUEST_20151001_002477	Some Revelator drove out the demons at Crystal Mine. {nl}It is a good news. {nl}Take your time and look around.
 QUEST_20151001_002478	Have you heard the news about the Tenet Chapel?{nl}The Revelator may come see the Goddess.{nl}I can also benefit from it in terms of my business.
@@ -2695,3 +2694,23 @@ QUEST_20151001_002702	Collecting the Shiny Moss
 QUEST_20151001_002703	Obtained Shiny Moss!
 QUEST_20151001_002704	Failed to obtain the moss!
 QUEST_20151001_002705	Obtained Nachi Mushroom!
+QUEST_20151016_002718	{memo X}
+QUEST_20151016_002720	{memo X}
+QUEST_20151016_002721	{memo X}
+QUEST_20151016_002722	{memo X}
+QUEST_20151016_002723	{memo X}
+QUEST_20151016_002724	{memo X}
+QUEST_20151016_002725	{memo X}
+QUEST_20151016_002726	{memo X}
+QUEST_20151016_002727	{memo X}
+QUEST_20151016_002728	{memo X}
+QUEST_20151016_002729	{memo X}
+QUEST_20151016_002730	{memo X}
+QUEST_20151016_002731	{memo X}
+QUEST_20151016_002732	{memo X}
+QUEST_20151016_002789	{memo X}
+QUEST_20151016_002790	{memo X}
+QUEST_20151016_002791	{memo X}
+QUEST_20151016_002797	{memo X}
+QUEST_20151016_002798	{memo X}
+﻿QUEST_20150317_000001	Please select the user requiring a quest update.

@@ -1812,3 +1812,22 @@ UI_20151001_001811	{@st43}Schlüssel Einstellungen{/}
 UI_20151001_001812	{@st45tw2}kategorie
 UI_20151001_001813	Handlung
 UI_20151001_001814	Standardeinstellungen wiederherstellen
+UI_20151016_001815	{@st59}The selected item will be locked{/}
+UI_20151016_001816	{@st59}You can change the theme of your lodge and preview it.
+UI_20151016_001817	%s Characters{/}
+UI_20151016_001818	{@st42b}Preview
+UI_20151016_001819	{@st42b}Return
+UI_20151016_001820	{@st42b}Purchase
+UI_20151016_001821	{@st42b}Apply
+UI_20151016_001822	Guild Name and Description
+UI_20151016_001823	Team Name
+UI_20151016_001824	Title
+UI_20151016_001825	Notice
+UI_20151022_001826	{@st41}Server Queue
+UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
+UI_20151022_001828	{@st66b18}Current Position : %s
+UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151023_001830	{@st41b}iCoin{/}
+UI_20151023_001831	{@st41}iCoin
+UI_20151023_001832	iCoin
+﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
