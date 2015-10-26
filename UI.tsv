@@ -1152,35 +1152,35 @@ UI_20150317_001151	{@St18}Durchschnitt{/}
 UI_20150317_001152	{@St42b}{s18}Workmanship{/}
 UI_20150317_001153	{@St55_c}Gegenstand Name
 UI_20150317_001154	{@St55_c}Memo Unterlagen
-UI_20150317_001155	{@St59}Enter a name. If you do not enter a name, the default name will be used.{/}
-UI_20150317_001156	{@St59}Enter a memo{/}
-UI_20150317_001157	{@St43}Produce items
+UI_20150317_001155	{@St59}Gebe einen Namen ein. Wenn du keinen Namen eingibst, wird der Standardname verwendet werden.{/}
+UI_20150317_001156	{@St59}Gebe ein Memo ein{/}
+UI_20150317_001157	{@St43}Angefertigter Gegenstand
 UI_20150317_001158	{memo X}{@st42b}%s points {/}
 UI_20150317_001159	{memo X}{@st42b}%s dog {/}
 UI_20150317_001160	{memo X}{@st42b}%s points {/}
 UI_20150317_001161	{memo X}{@st42b}%s dog {/}
 UI_20150317_001162	{S16}{ol}per price
-UI_20150317_001163	Total Price : 1
+UI_20150317_001163	Gesamtpreis : 1
 UI_20150317_001164	{memo X}{@St41}Help
 UI_20150317_001165	{memo X}{@St41}Photo Description
-UI_20150317_001166	{@St41}Registration
+UI_20150317_001166	{@St41}Anmeldung
 UI_20150317_001167	{@St41}Name
-UI_20150317_001168	{@St41}Message
+UI_20150317_001168	{@St41}Nachricht
 UI_20150317_001169	{@St43}Name{/}
-UI_20150317_001170	{@St41b}Messages{/}
+UI_20150317_001170	{@St41b}Nachricht{/}
 UI_20150317_001171	{@St42b}Login{/}
-UI_20150317_001172	{@St41}Create a new conversation
-UI_20150317_001173	{@St41}Full Conversation
+UI_20150317_001172	{@St41}Starte eine neue Unterhaltung
+UI_20150317_001173	{@St41}Gesamte Unterhaltung
 UI_20150317_001174	Region Name
 UI_20150317_001175	{@St41}Skill Names
-UI_20150317_001176	{@St41}Attribute Points
-UI_20150317_001177	{@St41}Class Name
-UI_20150317_001178	Character Name
-UI_20150317_001179	{@Sti7}Delete{/}
-UI_20150317_001180	Character Level
-UI_20150317_001181	{@St42}Quest Sharing{/}
-UI_20150317_001182	{@St42}EXP Sharing{/}
-UI_20150317_001183	Character Memo
+UI_20150317_001176	{@St41}Attribut Punkte
+UI_20150317_001177	{@St41}Klassen Name
+UI_20150317_001178	Charakter Name
+UI_20150317_001179	{@Sti7}Löschen{/}
+UI_20150317_001180	Charakter Level
+UI_20150317_001181	{@St42}Quest Verteilung{/}
+UI_20150317_001182	{@St42}EXP Verteilung{/}
+UI_20150317_001183	Charakter Memo
 UI_20150317_001184	{memo X}Average Party Level : {#FFFF00}%s{/}
 UI_20150317_001185	{memo X}Searching For : {#FFFF00}%s{/}
 UI_20150317_001186	{memo X}Cleric / Archer
@@ -1190,12 +1190,12 @@ UI_20150317_001189	{memo X}EXP Priority : {#FFFF00}%s{/}
 UI_20150317_001190	{memo X}Equally
 UI_20150317_001191	{memo X}Item Priority : {#FFFF00}%s{/}
 UI_20150317_001192	{memo X}Randomly
-UI_20150317_001193	How do I
-UI_20150317_001194	You don't see who it is
-UI_20150317_001195	{@st41b}Adventure Journal Updated
-UI_20150317_001196	Menu Objects for Quest
-UI_20150317_001197	Categories of Quest
-UI_20150317_001198	List Objects of Quest
+UI_20150317_001193	Wie mache ich
+UI_20150317_001194	Du siehst nicht, wer es ist
+UI_20150317_001195	{@st41b}Abenteuer Tagebuch wurde aktualisiert
+UI_20150317_001196	Menü Objekte für Quest
+UI_20150317_001197	Kategorien der Quest
+UI_20150317_001198	Objektliste der Quest
 UI_20150317_001199	N/A
 UI_20150317_001200	Line used on the roadmap
 UI_20150317_001201	Slot Object_Standard
@@ -1213,9 +1213,9 @@ UI_20150317_001212	When you add it to cart
 UI_20150317_001213	Output of total value
 UI_20150317_001214	For item output
 UI_20150317_001215	Output of unit price
-UI_20150317_001216	Item category
-UI_20150317_001217	News
-UI_20150317_001218	{@St42b}Restart{/}
+UI_20150317_001216	Gegenstandkategorie
+UI_20150317_001217	Neuigkeiten
+UI_20150317_001218	{@St42b}Neustarten{/}
 UI_20150317_001219	Peltang Stang
 UI_20150317_001220	99 Circle
 UI_20150317_001221	Defeat 8 Mad Vubbe
@@ -1226,84 +1226,84 @@ UI_20150317_001225	Repair Durability :
 UI_20150317_001226	Repair Cost : 120 silver
 UI_20150317_001227	Repair Cost : %s silver
 UI_20150317_001228	{@st42b}Bids Count {@sti7}%s{/}
-UI_20150317_001229	{@st42b}Current Price {img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001230	{@St41}Buy immediately! {Img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001231	{@St41b}Receive items{/}
-UI_20150317_001232	{@st42b} Bidding Price {img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001233	{@Sti7}Return
-UI_20150317_001234	{@St59}Head{/}
-UI_20150317_001235	{@St59}Left Bracelet{/}
-UI_20150317_001236	{@St59}Right Bracelet{/}
-UI_20150317_001237	{@St59}Costumes{/}
+UI_20150317_001229	{@st42b}Aktueller Preis {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001230	{@St41}Sofort Kaufen! {Img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001231	{@St41b}Gegenstand erhalten{/}
+UI_20150317_001232	{@st42b} Gebotener Preis {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001233	{@Sti7}Zurück
+UI_20150317_001234	{@St59}Kopf{/}
+UI_20150317_001235	{@St59}Linker Armreif{/}
+UI_20150317_001236	{@St59}Rechter Armreif{/}
+UI_20150317_001237	{@St59}Gewand{/}
 UI_20150317_001238	{@st59}Ring2{/}
-UI_20150317_001239	Pet Name
+UI_20150317_001239	Haustiername
 UI_20150317_001240	Chandler bundle
 UI_20150317_001241	West forest etc...
 UI_20150317_001242	{memo X}Consume iCoins
-UI_20150317_001243	Category Name
-UI_20150317_001244	This is a Help
-UI_20150317_001245	{@Sti7}%s Points{/}
-UI_20150317_001246	{@st41b}%s score
-UI_20150317_001247	Clear Quest 25
+UI_20150317_001243	kategoriename
+UI_20150317_001244	Dies ist eine Hilfe
+UI_20150317_001245	{@Sti7}%s Punkte{/}
+UI_20150317_001246	{@st41b}%s Ergebnis
+UI_20150317_001247	Quest beendet 25
 UI_20150317_001248	[Sub]Thron Forest
-UI_20150317_001249	{@St42}Equipped Item
+UI_20150317_001249	{@St42}Gegenstand ausgerüstet
 UI_20150317_001250	{@St44}Rank %s Class Information{/}
-UI_20150317_001251	Advancement Alarm
+UI_20150317_001251	Aufstiegsalarm
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
 UI_20150317_001254	Level %s
 UI_20150317_001255	{memo X}Memo : {#666666}%s
 UI_20150317_001256	Ayase
-UI_20150317_001257	Relationship with the %s
-UI_20150317_001258	{#FFFF33}%s{/} wants to become a friend{/}
-UI_20150317_001259	{@St41b}Accept
-UI_20150317_001260	{memo X}{@St41b}Decline
-UI_20150317_001261	{@St53b}Loading your friends list.
+UI_20150317_001257	In einer Beziehung mit %s
+UI_20150317_001258	{#FFFF33}%s{/} Möchte dein Freund werden{/}
+UI_20150317_001259	{@St41b}Annehmen
+UI_20150317_001260	{memo X}{@St41b}Ablehnen
+UI_20150317_001261	{@St53b}Freundesliste wird geladen.
 UI_20150317_001262	Level %s{/}
-UI_20150317_001263	{@st41} Cancel
+UI_20150317_001263	{@st41} Abbrechen
 UI_20150317_001264	Please add the buff to sell.
-UI_20150317_001265	Price : %s{/}
-UI_20150317_001266	Amount Left
-UI_20150317_001267	{@St41}Purchase
-UI_20150317_001268	Amount Left : %s {/}
-UI_20150317_001269	{@St41}Item{/}
+UI_20150317_001265	Preis : %s{/}
+UI_20150317_001266	Menge übrig
+UI_20150317_001267	{@St41}Kaufen
+UI_20150317_001268	Menge übrig : %s {/}
+UI_20150317_001269	{@St41}Gegenstand{/}
 UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Craft
 UI_20150317_001272	{memo X}{@St41b}Price : %s{/}
-UI_20150317_001273	{@Sti5}Price : %s{/}
+UI_20150317_001273	{@Sti5}Preis : %s{/}
 UI_20150317_001274	{@Sti9} Party Quest (%s){/}
 UI_20150317_001275	{@st41_yellow} Map Explored %s% {/}
 UI_20150317_001276	{@st41_yellow} Score %s {/}
 UI_20150317_001277	{@st42b}{b}Achievement Rate{/}
-UI_20150317_001278	{@st59}Join Party Quest{/}
+UI_20150317_001278	{@st59}Party Quest beitreten{/}
 UI_20150317_001279	Windows
 UI_20150317_001280	Status
 UI_20150317_001281	Tab
 UI_20150317_001282	Image Item
 UI_20150317_001283	Effect
 UI_20150317_001284	Control Set
-UI_20150317_001285	{@St41}Difficulty : %s
-UI_20150317_001286	{@St42}Remaining Time : %s
+UI_20150317_001285	{@St41}Schwierigkeit : %s
+UI_20150317_001286	{@St42}Verbleibende Zeit : %s
 UI_20150317_001287	{@St53}Item Crafting
-UI_20150323_001288	{@st59}Place your item here{/}
-UI_20150323_001289	{@st42}Cancel
-UI_20150323_001290	{@st42}Confirm
+UI_20150323_001288	{@st59}Lege den Gegenstand hier ab{/}
+UI_20150323_001289	{@st42}Abbrechen
+UI_20150323_001290	{@st42}Bestätigen
 UI_20150323_001291	{@st43}Briquetting{/}
 UI_20150323_001292	Current Potential
-UI_20150323_001293	Consumable Material
-UI_20150323_001294	Consume Quantity
-UI_20150323_001295	Quantity Available
+UI_20150323_001293	Verbrauchtes Material
+UI_20150323_001294	Verbrauchte Menge
+UI_20150323_001295	Verfügbare Menge
 UI_20150323_001296	{memo X}{@sti6}Transaction Record
 UI_20150323_001297	{memo X}{@st43}Base Camp
 UI_20150323_001298	Signboard Title
 UI_20150323_001299	{memo X}{@st43}Build
 UI_20150323_001300	{memo X}{@stc1}Base Camp Lasting Time
 UI_20150323_001301	{@stc1}Effect
-UI_20150323_001302	{@stc1}Materials and Price
+UI_20150323_001302	{@stc1}Material und Preis
 UI_20150323_001303	{memo X}{@st41b}Base Camp
 UI_20150323_001304	{memo X}{@st41b}Log
-UI_20150323_001305	{@st41b}Renew
-UI_20150323_001306	{@st59}Renews the lasting time.{/}
+UI_20150323_001305	{@st41b}Erneuern
+UI_20150323_001306	{@st59}In der letzten Zeit erneuert.{/}
 UI_20150323_001307	{memo X}{@st41b}Base Camp Lasting Time
 UI_20150323_001308	{@st41b}Effect
 UI_20150323_001309	{memo X}{@st42b}A base camp lasts for an additional 24 hours when renewed. Consumes %s silver.
@@ -1313,30 +1313,30 @@ UI_20150323_001312	{memo X}{@st41}{#ffff00}Lock Target{/}
 UI_20150323_001313	{@st43}Refreshment Table
 UI_20150323_001314	{memo X}{@st41b}Food type
 UI_20150323_001315	{memo X}{@st41b}Table
-UI_20150323_001316	{@st59}Close{/}
-UI_20150323_001317	{@st43}Grimoire{/}
-UI_20150323_001318	{@st59}Close the Grimoire UI{/}
+UI_20150323_001316	{@st59}Schließen{/}
+UI_20150323_001317	{@st43}Zauberbuch{/}
+UI_20150323_001318	{@st59}Zabuerbuch UI schließen{/}
 UI_20150323_001319	{memo X}My Summon Skill
-UI_20150323_001320	Main Card
-UI_20150323_001321	Sub Card
+UI_20150323_001320	Hauptkarte
+UI_20150323_001321	Nebenkarte
 UI_20150323_001322	{memo X}Stat
 UI_20150323_001323	{memo X}CON
 UI_20150323_001324	{memo X}INT
 UI_20150323_001325	{memo X}DEX
 UI_20150323_001326	{memo X}CRT
 UI_20150323_001327	{memo X}{@st43}Set up Shop{/}
-UI_20150323_001328	{@st41b}Settings
-UI_20150323_001329	Unit Price
-UI_20150323_001330	{@st41b}Material List
+UI_20150323_001328	{@st41b}Einstellungen
+UI_20150323_001329	Einzelpreis
+UI_20150323_001330	{@st41b}Materialliste
 UI_20150323_001331	{memo X}{@st43}Gem Roasting{/}
-UI_20150323_001332	{@st59}Close UI{/}
-UI_20150323_001333	{@st41b}Repair{/}
+UI_20150323_001332	{@st59}UI schließen{/}
+UI_20150323_001333	{@st41b}Reparieren{/}
 UI_20150323_001334	{memo X}{@st41b}Log{/}
 UI_20150323_001335	{memo X}Price to receive
-UI_20150323_001336	${@st59}Place a gem{/}
-UI_20150323_001337	Consumable Material
-UI_20150323_001338	Amount Left
-UI_20150323_001339	{@st42}Close
+UI_20150323_001336	${@st59}Setzte ein Juwel{/}
+UI_20150323_001337	Verbrauchtes Material
+UI_20150323_001338	Stückzahl übrig
+UI_20150323_001339	{@st42}Schließen
 UI_20150323_001340	${@st43}Weapon Maintenance{/}
 UI_20150323_001341	${@st43}Equipment Maintenance{/}
 UI_20150323_001342	{memo X}{@st41b}Price to receive
