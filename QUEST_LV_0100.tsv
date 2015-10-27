@@ -3839,11 +3839,11 @@ QUEST_LV_0100_20150317_003838	$Check on the Scout
 QUEST_LV_0100_20150317_003839	$Check the status of the Scout attacked by the Kepas.
 QUEST_LV_0100_20150317_003840	$Remind the Scout that there is an order to assemble to Klaipeda
 QUEST_LV_0100_20150317_003841	$Remind the Scout again that there is an order to assemble to Klaipeda.
-QUEST_LV_0100_20150317_003842	$Defeat the Leaf Bugs and collect the stolen belongings.
+QUEST_LV_0100_20150317_003842	$Besiege die Leaf Bugs und sammle die stolen belongings.
 QUEST_LV_0100_20150317_003843	The Scout says he can't return until he finds his belongings. Find the Scout's stolen belongings from the Leaf Bugs.
 QUEST_LV_0100_20150317_003844	Return the belongings
 QUEST_LV_0100_20150317_003845	Return the belongings to the Scout and tell him to return to Klaipeda.
-QUEST_LV_0100_20150317_003846	$Defeat the Leaf Bugs and obtain %s
+QUEST_LV_0100_20150317_003846	$Besiege die Leaf Bugs und sammle %s
 QUEST_LV_0100_20150317_003847	$Talk to the Battle Commander
 QUEST_LV_0100_20150317_003848	$Talk to the Battle Commander.
 QUEST_LV_0100_20150317_003849	{memo X}Persuasion of the Battle Commander
@@ -7619,8 +7619,8 @@ QUEST_LV_0100_20150714_007618	$You've filled the Goddess Austeja's Scripture wit
 QUEST_LV_0100_20150714_007619	$You've filled the Goddess Austeja's Scripture with sacred energy. Offer it to the Sealed Tower.
 QUEST_LV_0100_20150714_007620	$You've restored the seal. Tell Ramelia about it.
 QUEST_LV_0100_20150717_007621	{memo X}$Also, drop by the Tools Merchant for the warp scrolls I left with her.
-QUEST_LV_0100_20150717_007622	$Talk to Knight Titas (1)
-QUEST_LV_0100_20150717_007623	$Talk to Knight Titas (2)
+QUEST_LV_0100_20150717_007622	$Sprich mit Knight Titas (1)
+QUEST_LV_0100_20150717_007623	$Sprich mit Knight Titas (2)
 QUEST_LV_0100_20150717_007624	$Collect %s from Spare Purifier
 QUEST_LV_0100_20150717_007625	$Defeat the Red Vubbe Fighter that suddenly appeared
 QUEST_LV_0100_20150717_007626	$A Red Vubbe Fighter appeared when you opened the box! Defeat it.

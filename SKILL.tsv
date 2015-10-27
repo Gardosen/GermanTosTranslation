@@ -105,7 +105,7 @@ SKILL_20150317_000104	Pumpkin Normal attack.
 SKILL_20150317_000105	Attack 2
 SKILL_20150317_000106	Pumpkin Normal attack 2.
 SKILL_20150317_000107	[Saurman Priest] Normal attack.
-SKILL_20150317_000108	Skills
+SKILL_20150317_000108	Faehigkeiten
 SKILL_20150317_000109	[Saurman Priest] skills.
 SKILL_20150317_000110	Saurman Normal attack.
 SKILL_20150317_000111	Saurman Normal attack 2.
@@ -1636,8 +1636,8 @@ SKILL_20150317_001635	Deadly poison
 SKILL_20150317_001636	Receive poison damage periodically.
 SKILL_20150317_001637	Contagious deadly poison
 SKILL_20150317_001638	Damage reduction. Periodically receive poison damage. The effect is transferred to nearby targets.
-SKILL_20150317_001639	Evasion
-SKILL_20150317_001640	Evasion.
+SKILL_20150317_001639	Ausweichen
+SKILL_20150317_001640	Ausweichen.
 SKILL_20150317_001641	Defense Shock
 SKILL_20150317_001642	Blocked by enemy and fall in to shock state. Chance of enemy attacks to hit critical will increase by100%.
 SKILL_20150317_001643	Petrify

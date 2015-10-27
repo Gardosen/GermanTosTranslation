@@ -1569,7 +1569,7 @@ ETC_20150317_001568	Your strength is insufficient
 ETC_20150317_001569	Starting map not available.
 ETC_20150317_001570	Request Failed
 ETC_20150317_001571	This character is currently a party leader and cannot be deleted.
-ETC_20150317_001572	Create Character
+ETC_20150317_001572	Charakter erstellen
 ETC_20150317_001573	You need to learn the required attributes to use this weapon.
 ETC_20150317_001574	Item Purchased
 ETC_20150317_001575	Failed to purchase item! It has already been sold out.
@@ -1616,7 +1616,7 @@ ETC_20150317_001615	The other player is not logged in
 ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not elapsed yet since changing your name
 ETC_20150317_001618	Can not be greater than {Auto_1} bytes
-ETC_20150317_001619	Character Name
+ETC_20150317_001619	Charaktername
 ETC_20150317_001620	You do not have enough materials.
 ETC_20150317_001621	{memo X}{S18}{ol}{#ffffcc}Connecting to the server...
 ETC_20150317_001622	This item cannot be discarded.
@@ -1709,8 +1709,8 @@ ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} character
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
 ETC_20150317_001711	Quest
-ETC_20150317_001712	Weapon
-ETC_20150317_001713	Armor
+ETC_20150317_001712	Waffen
+ETC_20150317_001713	Ruestung
 ETC_20150317_001714	Two-handed Sword
 ETC_20150317_001715	Bow
 ETC_20150317_001716	Crossbow
@@ -1735,12 +1735,12 @@ ETC_20150317_001734	Undecided
 ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
-ETC_20150317_001738	Level 1 or higher
-ETC_20150317_001739	any class
-ETC_20150317_001740	$Swordsman 
-ETC_20150317_001741	$Archer 
-ETC_20150317_001742	$Cleric 
-ETC_20150317_001743	$Wizard 
+ETC_20150317_001738	Level 1 oder hoeher
+ETC_20150317_001739	Jede Klasse
+ETC_20150317_001740	Swordsman 
+ETC_20150317_001741	Archer 
+ETC_20150317_001742	Cleric 
+ETC_20150317_001743	Wizard 
 ETC_20150317_001744	Not possible on this item.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
@@ -1804,8 +1804,8 @@ ETC_20150317_001803	You've successfully adopted a Companion.
 ETC_20150317_001804	You can't include spaces in the name.
 ETC_20150317_001805	Together
 ETC_20150317_001806	Please dismount your Companion to feed it.
-ETC_20150317_001807	Physical Attack
-ETC_20150317_001808	Physical Defense
+ETC_20150317_001807	Physischer Angriff
+ETC_20150317_001808	Physische Verteidigung
 ETC_20150317_001809	Increased defense when mounted
 ETC_20150317_001810	Increased evasion when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
@@ -1859,7 +1859,7 @@ ETC_20150317_001858	Sell to Shop
 ETC_20150317_001859	Cheat key
 ETC_20150317_001860	Trade
 ETC_20150317_001861	Change Equipment
-ETC_20150317_001862	Crafting
+ETC_20150317_001862	Handwerk
 ETC_20150317_001863	Pocket
 ETC_20150317_001864	Package
 ETC_20150317_001865	Guild Request
@@ -1908,29 +1908,29 @@ ETC_20150317_001907	EXP
 ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Adventure Journal. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
-ETC_20150317_001911	Attributes
+ETC_20150317_001911	Attribute
 ETC_20150317_001912	{@st59} Click for more information {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
 ETC_20150317_001915	Equipment
-ETC_20150317_001916	Disabled
-ETC_20150317_001917	Enabled
-ETC_20150317_001918	Individual
+ETC_20150317_001916	Deaktiviert
+ETC_20150317_001917	Aktiviert
+ETC_20150317_001918	Individuell
 ETC_20150317_001919	Round Robin
-ETC_20150317_001920	Random
-ETC_20150317_001921	Equal
-ETC_20150317_001922	By Level
-ETC_20150317_001923	View All
+ETC_20150317_001920	Zufaelig
+ETC_20150317_001921	Verteilt
+ETC_20150317_001922	Pro Level
+ETC_20150317_001923	Alle Zeigen
 ETC_20150317_001924	Swordsman
 ETC_20150317_001925	Wizard
 ETC_20150317_001926	Archer
 ETC_20150317_001927	Cleric
 ETC_20150317_001928	{memo X}View Information
-ETC_20150317_001929	Channel
+ETC_20150317_001929	Kanal
 ETC_20150317_001930	Do you want to move to channel {Channel}?
 ETC_20150317_001931	Price
-ETC_20150317_001932	's Lodge
-ETC_20150317_001933	This channel is closed.
+ETC_20150317_001932	's Haus
+ETC_20150317_001933	Dieser Kanal ist geschlossen.
 ETC_20150317_001934	iCoin Shop
 ETC_20150317_001935	Defense
 ETC_20150317_001936	Forward shooting!
@@ -1984,7 +1984,7 @@ ETC_20150317_001983	Deselected
 ETC_20150317_001984	Do you want to use your points to increase the {Auto_1} ability?
 ETC_20150317_001985	Do you want to use your skill points to increase this ability?
 ETC_20150317_001986	Do you want to use your skill points to learn a new skill?
-ETC_20150317_001987	Available Skill Points
+ETC_20150317_001987	Verfuegbare Skillpunkte
 ETC_20150317_001988	Category
 ETC_20150317_001989	Passive
 ETC_20150317_001990	Enhance Skill
@@ -2649,7 +2649,7 @@ ETC_20150317_002648	Do you want to join this party?
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
 ETC_20150317_002650	You are already in a party
 ETC_20150317_002651	You are currently not in a party.
-ETC_20150317_002652	All
+ETC_20150317_002652	Alles
 ETC_20150317_002653	There are not enough party members.
 ETC_20150317_002654	Available time of next quest
 ETC_20150317_002655	Quest can be progressed.
@@ -2721,11 +2721,11 @@ ETC_20150317_002720	[Craftable]
 ETC_20150317_002721	Stamina
 ETC_20150317_002722	Attack
 ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Critical Rate
+ETC_20150317_002724	Kritische Rate
 ETC_20150317_002725	Durability
 ETC_20150317_002726	{memo X}Splash
-ETC_20150317_002727	Accuracy
-ETC_20150317_002728	Critical Resistance
+ETC_20150317_002727	Genauigkeit
+ETC_20150317_002728	Kritische Verteidigung 
 ETC_20150317_002729	{memo X}Splash Defense
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
@@ -2733,8 +2733,8 @@ ETC_20150317_002732	Skill Attack
 ETC_20150317_002733	Magic Resistance
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	Magischer Angriff
+ETC_20150317_002737	Magische Verteidigung
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Gender
 ETC_20150317_002740	Maximum Socket(s)
@@ -2757,8 +2757,8 @@ ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Not Available
-ETC_20150317_002760	Critical Attack
-ETC_20150317_002761	Critical Defense
+ETC_20150317_002760	Kritischer Angriff
+ETC_20150317_002761	Kritische Verteidigung
 ETC_20150317_002762	Tradable
 ETC_20150317_002763	Untradeable
 ETC_20150317_002764	Potion recovery amount
@@ -2769,7 +2769,7 @@ ETC_20150317_002768	Ice Attack
 ETC_20150317_002769	Poison Attack
 ETC_20150317_002770	Holy Attack
 ETC_20150317_002771	Dark Attack
-ETC_20150317_002772	Movement Speed
+ETC_20150317_002772	Laufgeschwindigkeit
 ETC_20150317_002773	HP Recovery
 ETC_20150317_002774	$Attack on Plant Type Targets
 ETC_20150317_002775	$Attack on Beast Type Targets
@@ -2782,8 +2782,8 @@ ETC_20150317_002781	Poison Resistance
 ETC_20150317_002782	Lightning Resistance
 ETC_20150317_002783	Holy Resistance
 ETC_20150317_002784	Dark Resistance
-ETC_20150317_002785	AoE Attack Ratio
-ETC_20150317_002786	AoE Defense Ratio
+ETC_20150317_002785	AoE Angriffsrate
+ETC_20150317_002786	AoE Verteidigungsrate
 ETC_20150317_002787	2% chance of additional damage by +300 when attacking
 ETC_20150317_002788	3% chance of receiving continuous damage amounting to 20% of max HP when attacked
 ETC_20150317_002789	4% chance of additional resistance +100 of all when attacked by magic
@@ -2792,8 +2792,8 @@ ETC_20150317_002791	Knockback Power
 ETC_20150317_002792	$Attack on Small Type Targets
 ETC_20150317_002793	$Attack on Medium Type Targets
 ETC_20150317_002794	$Attack on Large Type Targets
-ETC_20150317_002795	Block
-ETC_20150317_002796	Block Penetration
+ETC_20150317_002795	Blocken
+ETC_20150317_002796	Ruestungsdurchdring
 ETC_20150317_002797	Attack on Cloth Armor Type
 ETC_20150317_002798	Attack on Leather Armor Type
 ETC_20150317_002799	Attack on Plate Armor Type
@@ -2810,14 +2810,14 @@ ETC_20150317_002809	Magic damage when mounted
 ETC_20150317_002810	Pierce Defense
 ETC_20150317_002811	Slash Defense
 ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Maximum Carry Weight
+ETC_20150317_002813	Maximalles Tragegewicht
 ETC_20150317_002814	Very Easy
 ETC_20150317_002815	Easy
 ETC_20150317_002816	Normal
 ETC_20150317_002817	Hard
 ETC_20150317_002818	Very Hard
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
-ETC_20150317_002820	Area: 
+ETC_20150317_002820	Bereich: 
 ETC_20150317_002821	${@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
@@ -2867,7 +2867,7 @@ ETC_20150317_002866	Explored
 ETC_20150317_002867	{Auto_1} Quest(s) cleared
 ETC_20150317_002868	{Auto_1} NPC(s) met
 ETC_20150317_002869	Score {Category}
-ETC_20150317_002870	Rank
+ETC_20150317_002870	Rang
 ETC_20150317_002871	Adventure
 ETC_20150317_002872	Exploration
 ETC_20150317_002873	Collection acquired {Auto_1}
@@ -2875,7 +2875,7 @@ ETC_20150317_002874	Achievements earned {Auto_1}
 ETC_20150317_002875	Mission cleared {Auto_1}
 ETC_20150317_002876	Adventure Ranking
 ETC_20150317_002877	Collection completed {Auto_1}
-ETC_20150317_002878	Contents
+ETC_20150317_002878	INhalt
 ETC_20150317_002879	Set items
 ETC_20150317_002880	Acquired
 ETC_20150317_002881	Score earned
@@ -2884,24 +2884,24 @@ ETC_20150317_002883	Date
 ETC_20150317_002884	Click to go to the item page.
 ETC_20150317_002885	Recent
 ETC_20150317_002886	Help
-ETC_20150317_002887	Enter the team name of your friend
+ETC_20150317_002887	Gib den Familiennamen deines Freundes ein
 ETC_20150317_002888	Already in your Friends List
 ETC_20150317_002889	You have a new friend request.
-ETC_20150317_002890	Received requests
-ETC_20150317_002891	Sent requests
-ETC_20150317_002892	Declined requests
+ETC_20150317_002890	Erhaltene Anfragen
+ETC_20150317_002891	Gesendete Anfragen
+ETC_20150317_002892	Abgelehnte Anfragen
 ETC_20150317_002893	Buddies who are registered to TOS
 ETC_20150317_002894	Buddies who do not play TOS
 ETC_20150317_002895	Someone you may know
 ETC_20150317_002896	were together
 ETC_20150317_002897	Formed party
 ETC_20150317_002898	Traded
-ETC_20150317_002899	Block List
+ETC_20150317_002899	Blockliste
 ETC_20150317_002900	Played together {Count} time(s)
 ETC_20150317_002901	Formed a party together {Count} time(s)
 ETC_20150317_002902	Traded {Count} time(s)
 ETC_20150317_002903	Already in your block list.
-ETC_20150317_002904	Please enter the team name to block.
+ETC_20150317_002904	Bitte gib den Familiennamen zum blocken
 ETC_20150317_002905	The name of your group is too long.
 ETC_20150317_002906	The contents of your memo is too long.
 ETC_20150317_002907	Memo Settings
@@ -4217,8 +4217,8 @@ ETC_20150317_004216	Current Job Information
 ETC_20150317_004217	{memo X}{@st43}Date :
 ETC_20150317_004218	{memo X}{@st43}Playtime :
 ETC_20150317_004219	{@st41} Shortcut
-ETC_20150317_004220	{@st41} Gesture
-ETC_20150317_004221	{@st41} Chat
+ETC_20150317_004220	{@st41} Geste
+ETC_20150317_004221	{@st41} Nachricht
 ETC_20150317_004222	{@st41} Combo Configuration
 ETC_20150317_004223	{@st41} Battle Cry
 ETC_20150317_004224	{@st41b}Create{/}
@@ -4338,9 +4338,9 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance and Maximum Carry Weight{/}
+ETC_20150317_004341	{@st59} Erhoeht HP, HP Recovery, Verteidigung{nl} gegen kritische Angriffe und maximales Tragegewicht{/}
 ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Increases Accuracy, Evasion and Critical Rate {/}
+ETC_20150317_004343	{@st59} Erhoeht Genauigkeit, Ausweichen und kritische Rate {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -4715,7 +4715,7 @@ ETC_20150317_004714	This advancement quest has not been implemented yet.
 ETC_20150317_004715	Chat
 ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
-ETC_20150317_004718	Normal Chat
+ETC_20150317_004718	Normaler Chat
 ETC_20150317_004719	Party Chat
 ETC_20150317_004720	Group
 ETC_20150317_004721	Invite to chat
@@ -4731,7 +4731,7 @@ ETC_20150317_004730	{memo X}Silver
 ETC_20150317_004731	{@st41b}Confirm{/}
 ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
-ETC_20150317_004734	$Maps
+ETC_20150317_004734	Erkundung
 ETC_20150317_004735	$Maps Explored
 ETC_20150317_004736	{S20}{#00f00F} My Ranking:
 ETC_20150317_004737	Acquisition
@@ -5891,13 +5891,13 @@ ETC_20150317_005890	Description1
 ETC_20150317_005891	{memo X}Simple Description
 ETC_20150317_005892	{memo X}Detailed Description
 ETC_20150317_005893	{memo X}Additional description of the image
-ETC_20150317_005894	Basic Functions
-ETC_20150317_005895	Movement
+ETC_20150317_005894	Basis Funktionen
+ETC_20150317_005895	Bewegung
 ETC_20150317_005896	{memo X}            You can move by using the arrow keys.
-ETC_20150317_005897	Arrow Keys
+ETC_20150317_005897	Pfeiltasten
 ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
-ETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
-ETC_20150317_005900	{nl} {nl}Characters consume Stamina when moving.
+ETC_20150317_005899	  {img arrowkey_up 30 30} {img arrowkey_down 30 30} {img arrowkey_left 30 30} {img arrowkey_right 30 30} {nl} Kombinationen, zur diagonalen Fortbewegung.
+ETC_20150317_005900	{nl} {nl}Charaktere verbrauchen Stamina beim Laufen.
 ETC_20150317_005901	{memo X}   Use jump to go over obstacles or climb higher areas.
 ETC_20150317_005902	{memo X}Press {img X 40 40} to make your character jump.
 ETC_20150317_005903	            Attack enemies within your attack range.
@@ -5942,7 +5942,7 @@ ETC_20150317_005941	{memo X}Attributes can be used after they have been mastered
 ETC_20150317_005942	{memo X}{nl} {nl} Attributes are automatically registered when you start learning. Only one attribute can be trained at a time.{nl} {nl}
 ETC_20150317_005943	{memo X}{nl} {nl} Attributes you have already mastered can be found at the bottom of the skill window. {nl} {nl}
 ETC_20150317_005944	{memo X}{nl} {nl} Attributes can be enabled or disabled depending on the situation. {nl} {nl}
-ETC_20150317_005945	Adventure Journal
+ETC_20150317_005945	Abenteuer-Tagebuch
 ETC_20150317_005946	{memo X}You can check the progress of your game and character rankings through the Adventure Journal.
 ETC_20150317_005947	{memo X}Press {img F4 40 40} to open the Adventure Journal window. 
 ETC_20150317_005948	{memo X}{nl} {nl}You can check the updated score and ranking of each group in the Adventure Journal.{nl} {nl}
@@ -6012,7 +6012,7 @@ ETC_20150317_006011	{memo X}Use the trade window at the bottom to trade items wi
 ETC_20150317_006012	{memo X}Hold down {img Shift 45 45} and right-click to trade multiple quantities at a time. {nl} {nl}
 ETC_20150317_006013	{memo X}Items sold to the store can be bought back.
 ETC_20150317_006014	{memo X}{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
-ETC_20150317_006015	Status Points
+ETC_20150317_006015	Statuspunkte
 ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	{memo X}You can check your character's abilities in the Character Information window ({img F1 40 40}).
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
@@ -6170,9 +6170,9 @@ ETC_20150317_006170	{memo X}When a character dies in the dungeon, select
 ETC_20150317_006171	Resurrect at the nearest area
 ETC_20150317_006172	{memo X}to move to the dungeon entrance. {nl} Be careful when you're deep inside a dungeon!
 ETC_20150317_006173	{memo X}Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
-ETC_20150317_006174	Equipment
+ETC_20150317_006174	Ausruestung
 ETC_20150317_006175	Sub-Weapon
-ETC_20150317_006176	Consumable
+ETC_20150317_006176	Benutzbar
 ETC_20150317_006177	Companion Equipment
 ETC_20150317_006178	N/A
 ETC_20150317_006179	Spray - Black
@@ -6242,7 +6242,7 @@ ETC_20150317_006242	{S18} and {#001100} attacking you will be able to obtain a l
 ETC_20150317_006243	{memo X}{S18} {#001100} items when you attack the Treasure monster will drop !!! {/}
 ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the Space key in the vicinity of the red flag of NPC. {/}
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
-ETC_20150317_006246	$Swordsmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close {nl}at the front lines.
+ETC_20150317_006246	$Swordsmen sind Krieger mit starken physikalischen Faehigkeiten.{nl}Sie benutzen eine Vielzahl an Waffen um an vorderster{nl} Front den Gegner im Nahkampf zu bekaempfen.
 ETC_20150317_006247	Highlander
 ETC_20150317_006248	{memo X}Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
@@ -6260,7 +6260,7 @@ ETC_20150317_006260	Rodelero
 ETC_20150317_006261	Rodeleros ambush and disintegrate enemies. Their defensive skills using shields are effective for blocking long range attacks.
 ETC_20150317_006262	Squire
 ETC_20150317_006263	Shinobi
-ETC_20150317_006264	{memo $ shifts linebreak}Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
+ETC_20150317_006264	{memo $ shifts linebreak}Wizards benutzen Magie um Angriffen auszuweichen und sich selbs zu schuetzen. Sie koennen starke und gezielte {nl}Zauber benutzen, um Gegnern in einem Bereich Schaden zuzufuegen.
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
 ETC_20150317_006267	Cryomancer
@@ -6281,7 +6281,7 @@ ETC_20150317_006281	{memo X}Elementalist
 ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist Priest
-ETC_20150317_006285	$Archers use bows and various secondary equipment.{nl}Their specialties are long range and moving attacks.
+ETC_20150317_006285	Archer benutzen viele verschiedene Boegen und anderes Zubehoer. Ihre Spezialitaeten sind Angriffe ueber lange {nl} Entfernung und beim Bewegen.
 ETC_20150317_006286	Hunter
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
 ETC_20150317_006288	Quarrel Shooter
@@ -7412,23 +7412,23 @@ ETC_20150317_007412	Normal attack in front
 ETC_20150317_007413	Give the experience of a certain percentage
 ETC_20150317_007414	%s% of the experience value cycle
 ETC_20150317_007415	Logout
-ETC_20150317_007416	Love
-ETC_20150317_007417	Victory
-ETC_20150317_007418	Best
-ETC_20150317_007419	Follow
-ETC_20150317_007420	Help
-ETC_20150317_007421	Hi
-ETC_20150317_007422	No
+ETC_20150317_007416	Liebe
+ETC_20150317_007417	Sieg
+ETC_20150317_007418	Bester
+ETC_20150317_007419	Folgen
+ETC_20150317_007420	Hilfe
+ETC_20150317_007421	Hallo
+ETC_20150317_007422	Nein
 ETC_20150317_007423	Sorry
-ETC_20150317_007424	Thanks
-ETC_20150317_007425	Good
-ETC_20150317_007426	Greetings
+ETC_20150317_007424	Danke
+ETC_20150317_007425	Gut
+ETC_20150317_007426	Gruesse
 ETC_20150317_007427	Salute
-ETC_20150317_007428	Good Luck
-ETC_20150317_007429	Hearts
+ETC_20150317_007428	Viel Glueck
+ETC_20150317_007429	Herzen
 ETC_20150317_007430	Hadouken
-ETC_20150317_007431	Surprise
-ETC_20150317_007432	Sorrow
+ETC_20150317_007431	Erschrecken
+ETC_20150317_007432	Trauer
 ETC_20150317_007433	Red Tree Rumor
 ETC_20150317_007434	Defeat Giant Red Wood Goblin
 ETC_20150317_007435	According to the travelers who passed through the Starving Demon's Road a few days ago,
@@ -10012,9 +10012,9 @@ ETC_20150323_010013	Not linked node's height position control value when ride on
 ETC_20150323_010014	Recipe - Antidote
 ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
-ETC_20150323_010017	$Enter your personal greeting
+ETC_20150323_010017	Gib deinen persoenlichen Gruß ein
 ETC_20150323_010018	{memo X}Visit Barrack
-ETC_20150323_010019	Start Game
+ETC_20150323_010019	Spiel starten
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
@@ -10649,7 +10649,7 @@ ETC_20150401_010650	{memo X}Glakuman that was attracted to the magical power is 
 ETC_20150401_010651	{memo X}The magic summoning crystals are passing the greater power to the monsters
 ETC_20150401_010652	{memo X}You cannot use this now.
 ETC_20150401_010653	{memo X}You cannot use the skill when you are in a battle
-ETC_20150401_010654	Shout
+ETC_20150401_010654	Fluestern
 ETC_20150401_010655	Warehouse Keeper
 ETC_20150401_010656	Guidance of Star
 ETC_20150401_010657	Protection of Star
@@ -11252,12 +11252,12 @@ ETC_20150428_011253	{memo X}Defeat monsters around the epitaph!
 ETC_20150428_011254	Defeat Demon Lord Blut!
 ETC_20150428_011255	Defeat Demon Lord Nuaele!
 ETC_20150428_011256	Tell Goddess Vakarine about Hauberk's escape!
-ETC_20150428_011257	Defeat 10,000 monsters
-ETC_20150428_011258	Beginning of the Hunt
+ETC_20150428_011257	Besiege 10,000 Monster
+ETC_20150428_011258	Die Jagt beginnt
 ETC_20150428_011259	Slaughterer
-ETC_20150428_011260	Defeat 1,000,000 monsters
+ETC_20150428_011260	Besiege 10,000 Monster
 ETC_20150428_011261	Familiar Hunt
-ETC_20150428_011262	Adventurer
+ETC_20150428_011262	Abenteurer
 ETC_20150428_011263	Achieve 10,000 overkills
 ETC_20150428_011264	Basics of Combat
 ETC_20150428_011265	Judge
@@ -13226,12 +13226,12 @@ ETC_20150717_013228	{memo X}The blessing of the suspicious stone pole
 ETC_20150717_013229	{memo X}The blessing of the suspicious tombstone
 ETC_20150717_013230	{memo X}The blessing of the unknown crystal pole
 ETC_20150717_013231	{memo X}You can move freely using
-ETC_20150717_013232	Choose the control mode from Game Settings.
+ETC_20150717_013232	Waehle die Steuerung in den Spieleinstellungen.
 ETC_20150717_013233	{memo X}For the joypad, use the Control Pad to move.
 ETC_20150717_013234	{memo X}For the mouse, click on an area to move your character. 
 ETC_20150717_013235	{memo X}When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40} and {img D 40 40} keys
 ETC_20150717_013236	{memo X}Press the same arrow key twice to dash when using Swordsman types. 
-ETC_20150717_013237	Using Dash increases your movement speed but also consumes Stamina faster. 
+ETC_20150717_013237	Rennen erhoeht die Laufgeschwindigkeit, jedoch nimmt das Stamina schneller ab. 
 ETC_20150717_013238	{memo X}Use jump to cross over obstacles or up higher places. 
 ETC_20150717_013239	{memo X}Press {img X 40 40} to jump.
 ETC_20150717_013240	{memo X}When using a mouse, you can jump by using {img space 40 40}.
@@ -13609,7 +13609,7 @@ ETC_20150717_013611	{memo X}Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
-ETC_20150717_013615	{@st59}Increases Magic Attack{/}
+ETC_20150717_013615	{@st59}Erhoeht den magischen Angriff{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Mine Trap
 ETC_20150729_013618	Basic Trap
@@ -13670,13 +13670,13 @@ ETC_20150729_013672	Level up
 ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
 ETC_20150729_013674	Quick Recovery
 ETC_20150729_013675	Increase recovery
-ETC_20150729_013676	 are used to move your character around.
-ETC_20150729_013677	 are used for character movement. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
-ETC_20150729_013678	Joypad : Press {img move_all 40 40} or {img stic_L 40 40} to move.
-ETC_20150729_013679	Mouse : {img mouseclick_left 40 40} on the area where you want to move the character.
-ETC_20150729_013680	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
-ETC_20150729_013681	For Swordsman types, double tap a directional key to 'Dash'.
-ETC_20150729_013682	To view this help list again, press {img F10 40 40}
+ETC_20150729_013676	 werden fuer die Bewegung benutzt.
+ETC_20150729_013677	 werden fuer die Bewegung benutzt. {img arrowkey_up 30 30} {img arrowkey_down 30 30} {img arrowkey_left 30 30} {img arrowkey_right 30 30}
+ETC_20150729_013678	Gamepad : {img move_all 30 30} oder {img stic_L 30 30} um zu laufen.
+ETC_20150729_013679	Maus : {img mouseclick_left 30 30} klicke mit der Maus auf den Bereich wo du hinlaufen moechtest.
+ETC_20150729_013680	Waehrend der Bedienung mit der Maus, kann auch {img W 30 30}, {img A 30 30}, {img S 30 30}, {img D 30 30} benutzt werden
+ETC_20150729_013681	Als Swordman fuehr ein doppelter Anschlag zum Rennen.
+ETC_20150729_013682	Um diese Hilfe erneut zu sehen druecke {img F10 30 30}
 ETC_20150729_013683	Use Jump to cross over obstacles or up higher places.
 ETC_20150729_013684	Press {img X 40 40} to jump.
 ETC_20150729_013685	Joypad : Press {img a_on_button 40 40} to jump.
@@ -13692,8 +13692,8 @@ ETC_20150729_013694	{nl} {nl}The minimap icon displays information and NPC locat
 ETC_20150729_013695	Press {img N 40 40} to open the World Map.
 ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
-ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
-ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
+ETC_20150729_013698	Benutzte die Statuspunkte die du pro Klassen Levelaufstieg erhaelst, um deine Faehigkeiten zu verbessern.
+ETC_20150729_013699	Druecke {img F1 40 40} um das Charakterfenster zu oeffnen.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window.
@@ -13962,7 +13962,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	{memo X}The terminal rejected accesss!
 ETC_20150729_013966	{memo X}You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	{memo X}Obtained all core required.
-ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Block Penetration and Magic Defense{/}
+ETC_20150729_013968	{@st59}Erhoeht Max SP, SP Recovery, {nl}Blockdurchbruch und magische Verteidigung{/}
 ETC_20150729_013969	$You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
@@ -14011,7 +14011,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and Maximum Carry Weight{/}
+ETC_20150729_014017	{@st59} Erhoeht phisischen Angriff, kritischen Angriff{nl} und das maximale Tragegewicht{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
@@ -14592,7 +14592,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Secondary Physical Attack
+ETC_20150918_014598	2. Physischer Angriff
 ETC_20150918_014599	Seconday Magical Attack
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
@@ -15885,7 +15885,7 @@ ETC_20151016_015889	You've obtained Braken Herb
 ETC_20151016_015890	Collecting Herbs
 ETC_20151016_015891	{memo X}The material item is currently locked.
 ETC_20151016_015892	Failed to lock the item. Please try again.
-ETC_20151016_015893	Using
+ETC_20151016_015893	Benutzt
 ETC_20151016_015894	Holding
 ETC_20151016_015895	Inesa Hamondale
 ETC_20151016_015896	Guard
