@@ -2511,7 +2511,7 @@ ETC_20150317_002510	Teleportieren
 ETC_20150317_002511	You.. Everyone must die!
 ETC_20150317_002512	It won't end like that!
 ETC_20150317_002513	View Collection
-ETC_20150317_002514	View Adventure Journal
+ETC_20150317_002514	Betrachte das Abenteuer-Handbuch
 ETC_20150317_002515	I'll make a donation
 ETC_20150317_002516	{memo X}I see the request
 ETC_20150317_002517	{memo X}Another player is already harvesting.
@@ -3136,7 +3136,7 @@ ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
 ETC_20150317_003138	Accept Mission
-ETC_20150317_003139	Cancel
+ETC_20150317_003139	Abbrechen
 ETC_20150317_003140	Can be traded right away through instant shop
 ETC_20150317_003141	Opening lock
 ETC_20150317_003142	Empty box
@@ -4196,11 +4196,11 @@ ETC_20150317_004195	{@st42}{b}{#ff9900} Mystagogue:
 ETC_20150317_004196	] Studying attribute.. (
 ETC_20150317_004197	Remaining minutes)
 ETC_20150317_004198	] Attribute will be learned soon! (1 minute)
-ETC_20150317_004199	 minutes required
-ETC_20150317_004200	 seconds required
-ETC_20150317_004201	{@st42b} Silver
-ETC_20150317_004202	${@st42_yellow}{s16} Maximum Level
-ETC_20150317_004203	{@st42_yellow}{s16} Learning attribute...
+ETC_20150317_004199	 Minuten benoetigt
+ETC_20150317_004200	 Sekunden benoetigt
+ETC_20150317_004201	{@st42b} Silber
+ETC_20150317_004202	${@st42_yellow}{s16} Maximales Level
+ETC_20150317_004203	{@st42_yellow}{s16} Lerne Attribut...
 ETC_20150317_004204	You have obtained the [{Auto_1}] achievement.
 ETC_20150317_004205	Auction List
 ETC_20150317_004206	Cabinet
@@ -5419,59 +5419,59 @@ ETC_20150317_005418	{memo X}Stop the Royal Mausoleum guards from destroying it!
 ETC_20150317_005419	{memo X}Stop Bearkaras from destroying the Royal Mausoleum
 ETC_20150317_005420	Jar of Soul
 ETC_20150317_005421	{memo X}Intact Jar of Soul
-ETC_20150317_005422	Archer 2nd Circle required
-ETC_20150317_005423	Archer 3rd Circle required
-ETC_20150317_005424	Barbarian 2nd Circle required
-ETC_20150317_005425	Barbarian 3rd Circle required
-ETC_20150317_005426	Bokor 2nd Circle required
-ETC_20150317_005427	Bokor 3rd Circle required
-ETC_20150317_005428	{memo X}Cataphract 2nd Circle required
-ETC_20150317_005429	{memo X}Cataphract 3nd Circle required
-ETC_20150317_005430	Cleric 2nd Circle required
+ETC_20150317_005422	Archer 2. Zirkel benoetigt
+ETC_20150317_005423	Archer 3. Zirkel benoetigt
+ETC_20150317_005424	Barbarian 2. Zirkel benoetigt
+ETC_20150317_005425	Barbarian 3. Zirkel benoetigt
+ETC_20150317_005426	Bokor 2. Zirkel benoetigt
+ETC_20150317_005427	Bokor 3. Zirkel benoetigt
+ETC_20150317_005428	{memo X}Cataphract 2. Zirkel benoetigt
+ETC_20150317_005429	{memo X}Cataphract 3. Zirkel benoetigt
+ETC_20150317_005430	Cleric 2. Zirkel benoetigt
 ETC_20150317_005431	Cleric 3rd Cirlce required
-ETC_20150317_005432	Dievdirbys 2nd Circle required
-ETC_20150317_005433	{memo X}Dievdirbys 3rd Circle required
-ETC_20150317_005434	{memo X}Elementalist 2nd Circle required
-ETC_20150317_005435	{memo X}Elementalist 3rd Circle required
-ETC_20150317_005436	Pyromancer 2nd Circle required
-ETC_20150317_005437	Pyromancer 3rd Circle required
-ETC_20150317_005438	Cryomancer 2nd Circle required
-ETC_20150317_005439	Cryomancer 3rd Circle required
-ETC_20150317_005440	Highlander 2nd Circle required
-ETC_20150317_005441	{memo X}Highlander 3rd Circle required
-ETC_20150317_005442	Hoplite 2nd Circle required
-ETC_20150317_005443	Hoplite 3rd Circle required
-ETC_20150317_005444	Krivis 2nd Circle required
-ETC_20150317_005445	Krivis 3rd Circle required
-ETC_20150317_005446	{memo X}Linker 3rd Circle required
-ETC_20150317_005447	{memo X}Linker 2nd Circle required
-ETC_20150317_005448	Paladin 2nd Circle required
-ETC_20150317_005449	Paladin 3rd Circle required
-ETC_20150317_005450	Peltasta 2nd Circle required
-ETC_20150317_005451	Peltasta 3rd Circle required
-ETC_20150317_005452	Priest 2nd Circle required
-ETC_20150317_005453	Priest 3rd Circle required
-ETC_20150317_005454	{memo X}Psychokino 2nd Circle required
-ETC_20150317_005455	{memo X}Psychokino 3rd Circle required
-ETC_20150317_005456	Quarrel Shooter 2nd Circle required
-ETC_20150317_005457	{memo X}Quarrel Shooter 3rd Circle required
-ETC_20150317_005458	Ranger 2nd Circle required
-ETC_20150317_005459	Ranger 3rd Circle required
-ETC_20150317_005460	Rodelero 2nd Circle required
-ETC_20150317_005461	Rodelero 3rd Circle required
-ETC_20150317_005462	Sadhu 2nd Circle required
-ETC_20150317_005463	{memo X}Sadhu 3rd Circle required
-ETC_20150317_005464	Sapper 2nd Circle required
-ETC_20150317_005465	Sapper 3rd Circle required
-ETC_20150317_005466	Scout 2nd Circle required
-ETC_20150317_005467	Scout 3rd Circle required
-ETC_20150317_005468	Thaumaturge 2nd Circle required
-ETC_20150317_005469	Swordsman 2nd Circle required
-ETC_20150317_005470	Swordsman 3rd Circle required
-ETC_20150317_005471	Wizard 2nd Circle required
-ETC_20150317_005472	{memo X}Wizard 3rd Circle required
-ETC_20150317_005473	Wugushi 2nd Circle required
-ETC_20150317_005474	{memo X}Wugushi 3rd Circle required
+ETC_20150317_005432	Dievdirbys 2. Zirkel benoetigt
+ETC_20150317_005433	{memo X}Dievdirbys 3. Zirkel benoetigt
+ETC_20150317_005434	{memo X}Elementalist 2. Zirkel benoetigt
+ETC_20150317_005435	{memo X}Elementalist 3. Zirkel benoetigt
+ETC_20150317_005436	Pyromancer 2. Zirkel benoetigt
+ETC_20150317_005437	Pyromancer 3. Zirkel benoetigt
+ETC_20150317_005438	Cryomancer 2. Zirkel benoetigt
+ETC_20150317_005439	Cryomancer 3. Zirkel benoetigt
+ETC_20150317_005440	Highlander 2. Zirkel benoetigt
+ETC_20150317_005441	{memo X}Highlander 3. Zirkel benoetigt
+ETC_20150317_005442	Hoplite 2. Zirkel benoetigt
+ETC_20150317_005443	Hoplite 3. Zirkel benoetigt
+ETC_20150317_005444	Krivis 2. Zirkel benoetigt
+ETC_20150317_005445	Krivis 3. Zirkel benoetigt
+ETC_20150317_005446	{memo X}Linker 3. Zirkel benoetigt
+ETC_20150317_005447	{memo X}Linker 2. Zirkel benoetigt
+ETC_20150317_005448	Paladin 2. Zirkel benoetigt
+ETC_20150317_005449	Paladin 3. Zirkel benoetigt
+ETC_20150317_005450	Peltasta 2. Zirkel benoetigt
+ETC_20150317_005451	Peltasta 3. Zirkel benoetigt
+ETC_20150317_005452	Priest 2. Zirkel benoetigt
+ETC_20150317_005453	Priest 3. Zirkel benoetigt
+ETC_20150317_005454	{memo X}Psychokino 2. Zirkel benoetigt
+ETC_20150317_005455	{memo X}Psychokino 3. Zirkel benoetigt
+ETC_20150317_005456	Quarrel Shooter 2. Zirkel benoetigt
+ETC_20150317_005457	{memo X}Quarrel Shooter 3. Zirkel benoetigt
+ETC_20150317_005458	Ranger 2. Zirkel benoetigt
+ETC_20150317_005459	Ranger 3. Zirkel benoetigt
+ETC_20150317_005460	Rodelero 2. Zirkel benoetigt
+ETC_20150317_005461	Rodelero 3. Zirkel benoetigt
+ETC_20150317_005462	Sadhu 2. Zirkel benoetigt
+ETC_20150317_005463	{memo X}Sadhu 3. Zirkel benoetigt
+ETC_20150317_005464	Sapper 2. Zirkel benoetigt
+ETC_20150317_005465	Sapper 3. Zirkel benoetigt
+ETC_20150317_005466	Scout 2. Zirkel benoetigt
+ETC_20150317_005467	Scout 3. Zirkel benoetigt
+ETC_20150317_005468	Thaumaturge 2. Zirkel benoetigt
+ETC_20150317_005469	Swordsman 2. Zirkel benoetigt
+ETC_20150317_005470	Swordsman 3. Zirkel benoetigt
+ETC_20150317_005471	Wizard 2. Zirkel benoetigt
+ETC_20150317_005472	{memo X}Wizard 3. Zirkel benoetigt
+ETC_20150317_005473	Wugushi 2. Zirkel benoetigt
+ETC_20150317_005474	{memo X}Wugushi 3. Zirkel benoetigt
 ETC_20150317_005475	Ranking Test
 ETC_20150317_005476	Test Ranking
 ETC_20150317_005477	Best Damage
@@ -9722,8 +9722,8 @@ ETC_20150323_009722	The last seal will be released.
 ETC_20150323_009723	{memo X}Follow me
 ETC_20150323_009724	{memo X}Dionysus, the Goddess is waiting for you
 ETC_20150323_009725	{memo X}I curse you all!
-ETC_20150323_009726	Elementalist 2nd Circle required
-ETC_20150323_009727	Elementalist 3rd Circle required
+ETC_20150323_009726	Elementalist 2. Zirkel benoetigt
+ETC_20150323_009727	Elementalist 3. Zirkel benoetigt
 ETC_20150323_009728	{memo X}Completed 10 overkills.
 ETC_20150323_009729	{memo X}Beginner Overkiller
 ETC_20150323_009730	{memo X}Completed 50 overkills
@@ -10459,13 +10459,13 @@ ETC_20150401_010460	{memo X}Need the 2nd circle of Alchemist
 ETC_20150401_010461	{memo X}Need the 3rd circle of Alchemist
 ETC_20150401_010462	{memo X}Need the 2nd circle of Druid
 ETC_20150401_010463	{memo X}Need the 3rd circle of Druid
-ETC_20150401_010464	Fletcher 2nd Circle required
+ETC_20150401_010464	Fletcher 2. Zirkel benoetigt
 ETC_20150401_010465	{memo X}Need the 3rd circle of Fletcher
-ETC_20150401_010466	Monk 2nd Circle required
+ETC_20150401_010466	Monk 2. Zirkel benoetigt
 ETC_20150401_010467	{memo X}Need the 3rd circle of Monk
 ETC_20150401_010468	{memo X}Need the 2nd circle of Necromancer
 ETC_20150401_010469	{memo X}Need the 3rd circle of Necromancer
-ETC_20150401_010470	Rogue 2nd Circle required
+ETC_20150401_010470	Rogue 2. Zirkel benoetigt
 ETC_20150401_010471	{memo X}Need the 3rd circle of Rogue
 ETC_20150401_010472	{memo X}Let's kill the monsters
 ETC_20150401_010473	{memo X}Let's use the black hair

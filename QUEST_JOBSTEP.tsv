@@ -630,7 +630,7 @@ QUEST_JOBSTEP_20150317_000629	How can I say that this object is more important t
 QUEST_JOBSTEP_20150317_000630	Anyway, we welcome you to be a member of the Krivis.{nl}The Goddess must be happy to see you.
 QUEST_JOBSTEP_20150317_000631	You should prove that you are suited to use a sword if you want to reach a higher level of swordsmanship.{nl}Please obtain the heart of Stone Orca at the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000632	There is nothing more important than life.{nl}If you want to use a sword, you should be determined.
-QUEST_JOBSTEP_20150317_000633	Okay that's it...you collected it well.{nl}I will teach you how to become a person suited to use swords.
+QUEST_JOBSTEP_20150317_000633	Okay das wars...Das hast du gut gemacht.{nl}Ich werde dir beibringen wie du zu einem Experten fuer Schwerter wirst.
 QUEST_JOBSTEP_20150317_000634	{memo X}Magic can't make a distinguished person, as I don't like a lazy person.{nl}Defeat Shredded at the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000635	If you don't train yourself well, I won't accept you as a Wizard.{nl}Learn something a hundred times and train a thousand times to become a real Wizard.
 QUEST_JOBSTEP_20150317_000636	I understand your determination.{nl}I will teach you well so that you can become a person well suited for wizardry.
@@ -814,403 +814,403 @@ QUEST_JOBSTEP_20150317_000816	So I shall call this Mana Metal
 QUEST_JOBSTEP_20150317_000817	Han Steel
 QUEST_JOBSTEP_20150317_000818	temporarily. {nl}{nl}
 QUEST_JOBSTEP_20150317_000819	Basic Type
-QUEST_JOBSTEP_20150317_000820	Rough Advancement [Barbarian Aufstieg]
+QUEST_JOBSTEP_20150317_000820	Rough Advancement [Barbarian]
 QUEST_JOBSTEP_20150317_000821	Nimm die Herausforderung des Meisters an
 QUEST_JOBSTEP_20150317_000822	Weiche dem Kampf aus
-QUEST_JOBSTEP_20150317_000823	Helle Zukunft [Hoplite Aufstieg]
+QUEST_JOBSTEP_20150317_000823	Helle Zukunft [Hoplite]
 QUEST_JOBSTEP_20150317_000824	I'll take on the assignment
-QUEST_JOBSTEP_20150317_000825	Störende Mission [Psychokino Aufstieg](1)
+QUEST_JOBSTEP_20150317_000825	Störende Mission [Psychokino](1)
 QUEST_JOBSTEP_20150317_000826	Ich werde der Assistent sein
 QUEST_JOBSTEP_20150317_000827	Ich brauch das nicht
-QUEST_JOBSTEP_20150317_000828	{memo X}Bothering Mission[Psychokino Aufstieg](2)
+QUEST_JOBSTEP_20150317_000828	{memo X}Bothering Mission[Psychokino](2)
 QUEST_JOBSTEP_20150317_000829	{memo X}I will check out the results of the research
 QUEST_JOBSTEP_20150317_000830	{memo X}Tell him that it looks somewhat dangerous
-QUEST_JOBSTEP_20150317_000831	Non-existent Book [Linker Aufstieg](1)
+QUEST_JOBSTEP_20150317_000831	Non-existent Book [Linker](1)
 QUEST_JOBSTEP_20150317_000832	Bereite die Materialien für den Test vor
 QUEST_JOBSTEP_20150317_000833	Ich brauche mehr Bedenkzeit
-QUEST_JOBSTEP_20150317_000834	Das Nicht-Existierende Buch [Linker Aufstieg](2)
+QUEST_JOBSTEP_20150317_000834	Das Nicht-Existierende Buch [Linker](2)
 QUEST_JOBSTEP_20150317_000835	Ich mache den Test
 QUEST_JOBSTEP_20150317_000836	Ich bin mir nicht sicher
-QUEST_JOBSTEP_20150317_000837	Schlechtes Gewissen [Sapper Aufstieg](1)
+QUEST_JOBSTEP_20150317_000837	Schlechtes Gewissen [Sapper](1)
 QUEST_JOBSTEP_20150317_000838	{memo X}I will hand over the object on behalf of him
-QUEST_JOBSTEP_20150317_000839	Schlechtes Gewissen [Sapper Aufstieg](2)
+QUEST_JOBSTEP_20150317_000839	Schlechtes Gewissen [Sapper](2)
 QUEST_JOBSTEP_20150317_000840	{memo X}Notice/Deliver the Sapper Master's stuff to Klaipeda Residents! #10
 QUEST_JOBSTEP_20150317_000841	{memo X}Notice/Gather donations and give it to the Cleric Master!#7
-QUEST_JOBSTEP_20150317_000842	Schlechtes Gewissen [Sapper Aufstieg](3)
-QUEST_JOBSTEP_20150317_000843	Schlechtes Gewissen [Sapper Aufstieg](4)
-QUEST_JOBSTEP_20150317_000844	Bow's Buch der Träume [Hunter Aufstieg](1)
+QUEST_JOBSTEP_20150317_000842	Schlechtes Gewissen [Sapper](3)
+QUEST_JOBSTEP_20150317_000843	Schlechtes Gewissen [Sapper](4)
+QUEST_JOBSTEP_20150317_000844	Bow's Buch der Träume [Hunter](1)
 QUEST_JOBSTEP_20150317_000845	Ich werde das Buch finden
 QUEST_JOBSTEP_20150317_000846	Ich habe keine Zeit für so etwas
-QUEST_JOBSTEP_20150317_000847	Bow's Buch der Träume [Hunter Aufstieg](2)
+QUEST_JOBSTEP_20150317_000847	Bow's Buch der Träume [Hunter](2)
 QUEST_JOBSTEP_20150317_000848	Ich werde das Leder bekommen und dir das Buch bringen.
-QUEST_JOBSTEP_20150317_000849	Bow's Buch der Träume [Hunter Aufstieg](3)
+QUEST_JOBSTEP_20150317_000849	Bow's Buch der Träume [Hunter](3)
 QUEST_JOBSTEP_20150317_000850	Ich werde zum Archer Master gehen
-QUEST_JOBSTEP_20150317_000851	Bow's Buch der Träume [Hunter Aufstieg] (4)
+QUEST_JOBSTEP_20150317_000851	Bow's Buch der Träume [Hunter] (4)
 QUEST_JOBSTEP_20150317_000852	Ich werde die Tasche ausliefern
-QUEST_JOBSTEP_20150317_000853	Bow's Buch der Träume Teil 2 [Quarrel Shooter Aufstieg](1)
-QUEST_JOBSTEP_20150317_000854	Bow's Buch der Träume Teil 2 [Quarrel Shooter Aufstieg](2)
+QUEST_JOBSTEP_20150317_000853	Bow's Buch der Träume Teil 2 [Quarrel Shooter](1)
+QUEST_JOBSTEP_20150317_000854	Bow's Buch der Träume Teil 2 [Quarrel Shooter](2)
 QUEST_JOBSTEP_20150317_000855	Ich werde für das Buch zahlen
 QUEST_JOBSTEP_20150317_000856	Ich habe auch kein Geld
-QUEST_JOBSTEP_20150317_000857	Bow's Buch der Träume Teil 2 [Quarrel Shooter Aufstieg](3)
+QUEST_JOBSTEP_20150317_000857	Bow's Buch der Träume Teil 2 [Quarrel Shooter](3)
 QUEST_JOBSTEP_20150317_000858	Ich werde zum Archer Master gehen
 QUEST_JOBSTEP_20150317_000859	Ich breche hier ab
-QUEST_JOBSTEP_20150317_000860	Bow's Buch der Träume Teil 2 [Quarrel Shooter Aufstieg](4)
-QUEST_JOBSTEP_20150317_000861	Bow's Buch der Träume Teil 3 [Archer Aufstieg](1)
+QUEST_JOBSTEP_20150317_000860	Bow's Buch der Träume Teil 2 [Quarrel Shooter](4)
+QUEST_JOBSTEP_20150317_000861	Bow's Buch der Träume Teil 3 [Archer](1)
 QUEST_JOBSTEP_20150317_000862	Ich werde es später bekommen
-QUEST_JOBSTEP_20150317_000863	Bow's Buch der Träume Teil 3 [Archer Aufstieg](2)
+QUEST_JOBSTEP_20150317_000863	Bow's Buch der Träume Teil 3 [Archer](2)
 QUEST_JOBSTEP_20150317_000864	Ich brauche Zeit um Geld für das Buch zu bekommen
-QUEST_JOBSTEP_20150317_000865	Bow's Buch der Träume Teil 3 [Archer Aufstieg](3)
+QUEST_JOBSTEP_20150317_000865	Bow's Buch der Träume Teil 3 [Archer](3)
 QUEST_JOBSTEP_20150317_000866	Ich brauche etwas Vorbereitungszeit
-QUEST_JOBSTEP_20150317_000867	Bow's Buch der Träume Teil 3 [Archer Aufstieg](4)
-QUEST_JOBSTEP_20150317_000868	Bow's Buch der Träume Teil 4 [Ranger Aufstieg](1)
-QUEST_JOBSTEP_20150317_000869	Bow's Buch der Träume Teil 4 [Ranger Aufstieg](2)
-QUEST_JOBSTEP_20150317_000870	Bow's Buch der Träume Teil 4 [Ranger Aufstieg](3)
-QUEST_JOBSTEP_20150317_000871	Bow's Buch der Träume Teil 4 [Ranger Aufstieg](4)
+QUEST_JOBSTEP_20150317_000867	Bow's Buch der Träume Teil 3 [Archer](4)
+QUEST_JOBSTEP_20150317_000868	Bow's Buch der Träume Teil 4 [Ranger](1)
+QUEST_JOBSTEP_20150317_000869	Bow's Buch der Träume Teil 4 [Ranger](2)
+QUEST_JOBSTEP_20150317_000870	Bow's Buch der Träume Teil 4 [Ranger](3)
+QUEST_JOBSTEP_20150317_000871	Bow's Buch der Träume Teil 4 [Ranger](4)
 QUEST_JOBSTEP_20150317_000872	Wie wird es benutzt?
-QUEST_JOBSTEP_20150317_000873	Bow's Buch der Träume Teil 4 [Ranger Aufstieg](5)
-QUEST_JOBSTEP_20150317_000874	Das beste Material [Dievdirbys Aufstieg]
+QUEST_JOBSTEP_20150317_000873	Bow's Buch der Träume Teil 4 [Ranger](5)
+QUEST_JOBSTEP_20150317_000874	Das beste Material [Dievdirbys]
 QUEST_JOBSTEP_20150317_000875	Wo die Kristalle gefunden werden?
-QUEST_JOBSTEP_20150317_000876	Schild über Blumen [Highlander Aufstieg] (1)
+QUEST_JOBSTEP_20150317_000876	Schild über Blumen [Highlander] (1)
 QUEST_JOBSTEP_20150317_000877	Was ist die Mission?
-QUEST_JOBSTEP_20150317_000878	Schild über Blumen [Highlander Aufstieg](2)
-QUEST_JOBSTEP_20150317_000879	Pflicht des Versprechens [Peltasta Aufstieg](1)
+QUEST_JOBSTEP_20150317_000878	Schild über Blumen [Highlander](2)
+QUEST_JOBSTEP_20150317_000879	Pflicht des Versprechens [Peltasta](1)
 QUEST_JOBSTEP_20150317_000880	{memo X}I will go meet the Knights' leader Uska
-QUEST_JOBSTEP_20150317_000881	Pflicht des Versprechens [Peltasta Aufstieg](2)
+QUEST_JOBSTEP_20150317_000881	Pflicht des Versprechens [Peltasta](2)
 QUEST_JOBSTEP_20150317_000882	{memo X}I will search for the Reconnaissance Squad
-QUEST_JOBSTEP_20150317_000883	{memo X}Duty of the Pledge [Peltasta Aufstieg](3)
+QUEST_JOBSTEP_20150317_000883	{memo X}Duty of the Pledge [Peltasta](3)
 QUEST_JOBSTEP_20150317_000884	{memo X}Notice/Let's look for Reconnaissance Squad by following the trails!#5
-QUEST_JOBSTEP_20150317_000885	{memo X}Duty of the Pledge [Peltasta Aufstieg](4)
-QUEST_JOBSTEP_20150317_000886	Essenz des Feuers [Pyromancer Aufstieg]
+QUEST_JOBSTEP_20150317_000885	{memo X}Duty of the Pledge [Peltasta](4)
+QUEST_JOBSTEP_20150317_000886	Essenz des Feuers [Pyromancer]
 QUEST_JOBSTEP_20150317_000887	I werde die Macht des Feuers sammeln
-QUEST_JOBSTEP_20150317_000888	Die Legende von Metal Han [Cryomancer Aufstieg](1)
-QUEST_JOBSTEP_20150317_000889	Die Legende von Metal Han [Cryomancer Aufstieg](2)
+QUEST_JOBSTEP_20150317_000888	Die Legende von Metal Han [Cryomancer](1)
+QUEST_JOBSTEP_20150317_000889	Die Legende von Metal Han [Cryomancer](2)
 QUEST_JOBSTEP_20150317_000890	Ich werde versuchen sie zu finden
 QUEST_JOBSTEP_20150317_000891	Ich werde es mir das nächste mal wünschen
-QUEST_JOBSTEP_20150317_000892	Religiöse Mission [Krivis Aufstieg]
+QUEST_JOBSTEP_20150317_000892	Religiöse Mission [Krivis]
 QUEST_JOBSTEP_20150317_000893	Ich werde Beten
-QUEST_JOBSTEP_20150317_000894	Fit für die Seite [Swordsman Aufstieg]
+QUEST_JOBSTEP_20150317_000894	Fit für die Seite [Swordsman]
 QUEST_JOBSTEP_20150317_000895	Wie erlangst du die Erleuchtung?
 QUEST_JOBSTEP_20150317_000896	Ich werde später wiederkommen
-QUEST_JOBSTEP_20150317_000897	Exorzismus [Priest Aufstieg]
+QUEST_JOBSTEP_20150317_000897	Exorzismus [Priest]
 QUEST_JOBSTEP_20150317_000898	Ich werde den Exorzismus durchführen
-QUEST_JOBSTEP_20150317_000899	Harte Arbeit kennt keine Enttäuschung [Wizard Aufstieg](1)
+QUEST_JOBSTEP_20150317_000899	Harte Arbeit kennt keine Enttäuschung [Wizard](1)
 QUEST_JOBSTEP_20150317_000900	Ich werde bei der Nachforschung helfen.
-QUEST_JOBSTEP_20150317_000901	Harte Arbeit kennt keine Enttäuschung [Wizard Aufstieg](2)
+QUEST_JOBSTEP_20150317_000901	Harte Arbeit kennt keine Enttäuschung [Wizard](2)
 QUEST_JOBSTEP_20150317_000902	Ich werde die Schriftrolle benutzen und Daten sammeln.
-QUEST_JOBSTEP_20150317_000903	Perfektes heiliges Wasser [Cleric Aufstieg] (1)
+QUEST_JOBSTEP_20150317_000903	Perfektes heiliges Wasser [Cleric] (1)
 QUEST_JOBSTEP_20150317_000904	Ich werde die Patienten behandeln.
-QUEST_JOBSTEP_20150317_000905	Perfektes heiliges Wasser [Cleric Aufstieg] (2)
+QUEST_JOBSTEP_20150317_000905	Perfektes heiliges Wasser [Cleric] (2)
 QUEST_JOBSTEP_20150317_000906	{memo X}Notice/Let's treat the patients of Siauliai Miner's Village!#5
-QUEST_JOBSTEP_20150317_000907	Glück der Speerklingen [Hoplite Aufstieg]
+QUEST_JOBSTEP_20150317_000907	Glück der Speerklingen [Hoplite]
 QUEST_JOBSTEP_20150317_000908	Ich stimme zu.
 QUEST_JOBSTEP_20150317_000909	Ich stimme nicht zu.
-QUEST_JOBSTEP_20150317_000910	Unglücklicher Dämon [Psychokino Aufstieg]
+QUEST_JOBSTEP_20150317_000910	Unglücklicher Dämon [Psychokino]
 QUEST_JOBSTEP_20150317_000911	{memo X}I will get the essence of the demon.
-QUEST_JOBSTEP_20150317_000912	Das Geheimnis der Pfeilmacher [Quarrel Shooter Aufstieg](1)
+QUEST_JOBSTEP_20150317_000912	Das Geheimnis der Pfeilmacher [Quarrel Shooter](1)
 QUEST_JOBSTEP_20150317_000913	Okay, ich helfe dir.
-QUEST_JOBSTEP_20150317_000914	Das Geheimnis der Pfeilmacher [Quarrel Shooter Aufstieg](2)
+QUEST_JOBSTEP_20150317_000914	Das Geheimnis der Pfeilmacher [Quarrel Shooter](2)
 QUEST_JOBSTEP_20150317_000915	Sag mir wo du die Karte gesehen hast.
 QUEST_JOBSTEP_20150317_000916	Ich denke nicht das meine Kraft ausreicht.
-QUEST_JOBSTEP_20150317_000917	Sammler von Fedimian [Archer Aufstieg](1)
+QUEST_JOBSTEP_20150317_000917	Sammler von Fedimian [Archer](1)
 QUEST_JOBSTEP_20150317_000918	Ich werde zum Rodelero Master gehen.
-QUEST_JOBSTEP_20150317_000919	Sammler von Fedimian [Archer Aufstieg](2)
+QUEST_JOBSTEP_20150317_000919	Sammler von Fedimian [Archer](2)
 QUEST_JOBSTEP_20150317_000920	Ich werde es besiegen.
 QUEST_JOBSTEP_20150317_000921	Das klingt zu gefährlich.
-QUEST_JOBSTEP_20150317_000922	Sammler von Fedimian [Archer Aufstieg](3)
-QUEST_JOBSTEP_20150317_000923	Ermittler von Fedimian [Ranger Aufstieg](1)
+QUEST_JOBSTEP_20150317_000922	Sammler von Fedimian [Archer](3)
+QUEST_JOBSTEP_20150317_000923	Ermittler von Fedimian [Ranger](1)
 QUEST_JOBSTEP_20150317_000924	{memo X}I'll go to the Squire Master in Fedimian.
-QUEST_JOBSTEP_20150317_000925	Ermittler von Fedimian [Ranger Aufstieg](2)
+QUEST_JOBSTEP_20150317_000925	Ermittler von Fedimian [Ranger](2)
 QUEST_JOBSTEP_20150317_000926	Wo?
-QUEST_JOBSTEP_20150317_000927	Vorsichtiger Schritt [Sapper Aufstieg](1)
+QUEST_JOBSTEP_20150317_000927	Vorsichtiger Schritt [Sapper](1)
 QUEST_JOBSTEP_20150317_000928	Bekomme die benötigten Materialien
-QUEST_JOBSTEP_20150317_000929	Vorsichtiger Schritt [Sapper Aufstieg](2)
+QUEST_JOBSTEP_20150317_000929	Vorsichtiger Schritt [Sapper](2)
 QUEST_JOBSTEP_20150317_000930	Ich werde den Test machen.
-QUEST_JOBSTEP_20150317_000931	Versteckte Karte [Bokor Aufstieg]
+QUEST_JOBSTEP_20150317_000931	Versteckte Karte [Bokor]
 QUEST_JOBSTEP_20150317_000932	Ich werde die Karten sammeln.
-QUEST_JOBSTEP_20150317_000933	Das Model finden [Dievdirbys Aufstieg](1)
+QUEST_JOBSTEP_20150317_000933	Das Model finden [Dievdirbys](1)
 QUEST_JOBSTEP_20150317_000934	Ich bringe die Katze mit.
-QUEST_JOBSTEP_20150317_000935	Das Model finden [Dievdirbys Aufstieg](2)
+QUEST_JOBSTEP_20150317_000935	Das Model finden [Dievdirbys](2)
 QUEST_JOBSTEP_20150317_000936	Ich werde nach Spuren deines Vater suchen.
 QUEST_JOBSTEP_20150317_000937	Das ist zu schade, aber ich lehne ab.
-QUEST_JOBSTEP_20150317_000938	Das Model finden [Dievdirbys Aufstieg](3)
+QUEST_JOBSTEP_20150317_000938	Das Model finden [Dievdirbys](3)
 QUEST_JOBSTEP_20150317_000939	Lass uns gehen und die Katze fangen.
 QUEST_JOBSTEP_20150317_000940	Lass uns etwas ausruhen bevor wir die Katze fangen.
 QUEST_JOBSTEP_20150317_000941	{memo X}Luring/#SITGROPESET2/2/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150317_000942	{memo X}Notice/The cat is showing interest!
-QUEST_JOBSTEP_20150317_000943	Wo die Sonne scheint [Pyromancer Aufstieg](1)
+QUEST_JOBSTEP_20150317_000943	Wo die Sonne scheint [Pyromancer](1)
 QUEST_JOBSTEP_20150317_000944	Ich tue es.
-QUEST_JOBSTEP_20150317_000945	Wo die Sonne scheint [Pyromancer Aufstieg](2)
+QUEST_JOBSTEP_20150317_000945	Wo die Sonne scheint [Pyromancer](2)
 QUEST_JOBSTEP_20150317_000946	{memo X}Notice/Put the Pot of the Sun at the center of the Reading Room!#8
-QUEST_JOBSTEP_20150317_000947	Geheimnis von Metal Han [Cryomancer Aufstieg]
+QUEST_JOBSTEP_20150317_000947	Geheimnis von Metal Han [Cryomancer]
 QUEST_JOBSTEP_20150317_000948	Ich nehme die Bedingungen an.
-QUEST_JOBSTEP_20150317_000949	Beschützer von Fedimian [Wizard Aufstieg](1)
+QUEST_JOBSTEP_20150317_000949	Beschützer von Fedimian [Wizard](1)
 QUEST_JOBSTEP_20150317_000950	Ich werde alles für die Magie tun.
 QUEST_JOBSTEP_20150317_000951	Ich komme später wieder.
-QUEST_JOBSTEP_20150317_000952	Beschützer von Fedimian [Wizard Aufstieg](2)
-QUEST_JOBSTEP_20150317_000953	Berufen zu behandeln [Cleric Aufstieg]
+QUEST_JOBSTEP_20150317_000952	Beschützer von Fedimian [Wizard](2)
+QUEST_JOBSTEP_20150317_000953	Berufen zu behandeln [Cleric]
 QUEST_JOBSTEP_20150317_000954	Ich werde die Menschen behandeln.
-QUEST_JOBSTEP_20150317_000955	Zuordnung der Magie [Sorcerer Aufstieg]
+QUEST_JOBSTEP_20150317_000955	Zuordnung der Magie [Sorcerer]
 QUEST_JOBSTEP_20150317_000956	Nimm das Duell gegen den Master an
 QUEST_JOBSTEP_20150317_000957	Weiche dem Duell aus
-QUEST_JOBSTEP_20150317_000958	Beweise das du wirklich Kämpfen kannst [Necromancer Aufstieg]
-QUEST_JOBSTEP_20150317_000959	Training in der großen Natur [Druid Aufstieg]
+QUEST_JOBSTEP_20150317_000958	Beweise das du wirklich Kämpfen kannst [Necromancer]
+QUEST_JOBSTEP_20150317_000959	Training in der großen Natur [Druid]
 QUEST_JOBSTEP_20150317_000960	Ich nehme das Duell an.
-QUEST_JOBSTEP_20150317_000961	Lektion des Überlebens [Barbarian Aufstieg]
-QUEST_JOBSTEP_20150317_000962	Verbindung [Linker Aufstieg]
-QUEST_JOBSTEP_20150317_000963	Rede mit dem Bogen [Hunter Aufstieg]
+QUEST_JOBSTEP_20150317_000961	Lektion des Überlebens [Barbarian]
+QUEST_JOBSTEP_20150317_000962	Verbindung [Linker]
+QUEST_JOBSTEP_20150317_000963	Rede mit dem Bogen [Hunter]
 QUEST_JOBSTEP_20150317_000964	Duell mit dem  Master
-QUEST_JOBSTEP_20150317_000965	Freiheit und Mut [Highlander Aufstieg]
+QUEST_JOBSTEP_20150317_000965	Freiheit und Mut [Highlander]
 QUEST_JOBSTEP_20150317_000966	Ich werde meine Fähigkeiten unter Beweis stellen.
 QUEST_JOBSTEP_20150317_000967	Das klingt gefährlich.
-QUEST_JOBSTEP_20150317_000968	Beweise das du der Besitzer des Schildes bist [Peltasta Aufstieg]
+QUEST_JOBSTEP_20150317_000968	Beweise das du der Besitzer des Schildes bist [Peltasta]
 QUEST_JOBSTEP_20150317_000969	Ich werde es beweisen.
 QUEST_JOBSTEP_20150317_000970	Ich habe angst, ich passe.
-QUEST_JOBSTEP_20150317_000971	Unerschütterlicher Glaube [Krivis Aufstieg]
+QUEST_JOBSTEP_20150317_000971	Unerschütterlicher Glaube [Krivis]
 QUEST_JOBSTEP_20150317_000972	Ich werde mich durch ein Duell beweisen.
-QUEST_JOBSTEP_20150317_000973	Training für die Heiligkeit [Priest Aufstieg]
-QUEST_JOBSTEP_20150317_000974	Test der Schwerter [Swordsman Aufstieg]
+QUEST_JOBSTEP_20150317_000973	Training für die Heiligkeit [Priest]
+QUEST_JOBSTEP_20150317_000974	Test der Schwerter [Swordsman]
 QUEST_JOBSTEP_20150317_000975	Ich werde den Minotaur besiegen.
 QUEST_JOBSTEP_20150317_000976	Alcor's Versuch [Centurion]
-QUEST_JOBSTEP_20150317_000977	Duell der Seelen [Sadhu Aufstieg]
-QUEST_JOBSTEP_20150317_000978	Die Beerdigung des Hufschmieds [Hackapell Aufstieg]
+QUEST_JOBSTEP_20150317_000977	Duell der Seelen [Sadhu]
+QUEST_JOBSTEP_20150317_000978	Die Beerdigung des Hufschmieds [Hackapell]
 QUEST_JOBSTEP_20150317_000979	Ich nehme das Duell an.
-QUEST_JOBSTEP_20150317_000980	Ritual des Windes [Wugushi Aufstieg]
-QUEST_JOBSTEP_20150317_000981	Der beste Angriff ist die Verteidigung [Rodelero Aufstieg]
+QUEST_JOBSTEP_20150317_000980	Ritual des Windes [Wugushi]
+QUEST_JOBSTEP_20150317_000981	Der beste Angriff ist die Verteidigung [Rodelero]
 QUEST_JOBSTEP_20150317_000982	Ich werde dir das verbesserte Schild bringen.
-QUEST_JOBSTEP_20150317_000983	Das Schwert bestimmen [Squire Aufstieg]
+QUEST_JOBSTEP_20150317_000983	Das Schwert bestimmen [Squire]
 QUEST_JOBSTEP_20150317_000984	Nimm das Duell an
-QUEST_JOBSTEP_20150317_000985	Das Wissen der Zauberer [Thaumaturge Aufstieg]
+QUEST_JOBSTEP_20150317_000985	Das Wissen der Zauberer [Thaumaturge]
 QUEST_JOBSTEP_20150317_000986	Um was für einen Gefallen geht es?
-QUEST_JOBSTEP_20150317_000987	{memo X}The way to become a Magician [Elementalist Aufstieg]
-QUEST_JOBSTEP_20150317_000988	Die Anerkennung von Rimgaile [Scout Aufstieg] 
+QUEST_JOBSTEP_20150317_000987	{memo X}The way to become a Magician [Elementalist]
+QUEST_JOBSTEP_20150317_000988	Die Anerkennung von Rimgaile [Scout] 
 QUEST_JOBSTEP_20150317_000989	Nimm das Duell gegen dem Master an.
-QUEST_JOBSTEP_20150317_000990	Strasse der Göttin [Paladin Aufstieg]
-QUEST_JOBSTEP_20150317_000991	Durchsuchen [Cataphract Aufstieg]
+QUEST_JOBSTEP_20150317_000990	Strasse der Göttin [Paladin]
+QUEST_JOBSTEP_20150317_000991	Durchsuchen [Cataphract]
 QUEST_JOBSTEP_20150317_000992	Ich werde dir meine Fähigkeiten zeigen.
-QUEST_JOBSTEP_20150317_000993	Das Rampenlicht [Swordsman Aufstieg]
-QUEST_JOBSTEP_20150317_000994	Schwert und Schild für die Menschen [Highlander Aufstieg](1)
+QUEST_JOBSTEP_20150317_000993	Das Rampenlicht [Swordsman]
+QUEST_JOBSTEP_20150317_000994	Schwert und Schild für die Menschen [Highlander](1)
 QUEST_JOBSTEP_20150317_000995	Ich werde dem Peltasta Master helfen.
-QUEST_JOBSTEP_20150317_000996	Schwert und Schild für die Menschen [Highlander Aufstieg](2)
+QUEST_JOBSTEP_20150317_000996	Schwert und Schild für die Menschen [Highlander](2)
 QUEST_JOBSTEP_20150317_000997	Ich werde Knight Commander Uska helfen.
-QUEST_JOBSTEP_20150317_000998	Schwert und Schild für die Menschen [Highlander Aufstieg](3)
+QUEST_JOBSTEP_20150317_000998	Schwert und Schild für die Menschen [Highlander](3)
 QUEST_JOBSTEP_20150317_000999	Ich werde zur Crystal Mine 2F gehen.
-QUEST_JOBSTEP_20150317_001000	Schwert und Schild für die Menschen [Highlander Aufstieg](4)
+QUEST_JOBSTEP_20150317_001000	Schwert und Schild für die Menschen [Highlander](4)
 QUEST_JOBSTEP_20150317_001001	Ich werde zum Highlander Master zurückkehren.
 QUEST_JOBSTEP_20150317_001002	Ich werde bald zurück sein.
-QUEST_JOBSTEP_20150317_001003	Die Unruhen der Winged Beast [Peltasta Aufstieg] (1)
+QUEST_JOBSTEP_20150317_001003	Die Unruhen der Winged Beast [Peltasta] (1)
 QUEST_JOBSTEP_20150317_001004	Ich aktzeptiere die Anfrage
-QUEST_JOBSTEP_20150317_001005	Die Unruhen der Winged Beast [Peltasta Aufstieg] (2)
+QUEST_JOBSTEP_20150317_001005	Die Unruhen der Winged Beast [Peltasta] (2)
 QUEST_JOBSTEP_20150317_001006	Ich werde den Fletcher Master finden.
-QUEST_JOBSTEP_20150317_001007	Die Unruhen der Winged Beast [Peltasta Aufstieg] (3)
+QUEST_JOBSTEP_20150317_001007	Die Unruhen der Winged Beast [Peltasta] (3)
 QUEST_JOBSTEP_20150317_001008	Gibt es einen anderen Weg?
 QUEST_JOBSTEP_20150317_001009	Ich gebe auf
-QUEST_JOBSTEP_20150317_001010	Die Unruhen der Winged Beast [Peltasta Aufstieg] (4)
+QUEST_JOBSTEP_20150317_001010	Die Unruhen der Winged Beast [Peltasta] (4)
 QUEST_JOBSTEP_20150317_001011	Ich gehe zurück zum Peltasta Master.
-QUEST_JOBSTEP_20150317_001012	Piraten and Land [Corsair Aufstieg]
+QUEST_JOBSTEP_20150317_001012	Piraten and Land [Corsair]
 QUEST_JOBSTEP_20150317_001013	Ich werde alles zurück bekommen.
-QUEST_JOBSTEP_20150317_001014	Wand der Schwerter und Schilde [Rodelero Aufstieg]
+QUEST_JOBSTEP_20150317_001014	Wand der Schwerter und Schilde [Rodelero]
 QUEST_JOBSTEP_20150317_001015	Nimm das Duell gegen den Master an
-QUEST_JOBSTEP_20150317_001016	Der erste Pfeil [Archer Aufstieg] (1)
+QUEST_JOBSTEP_20150317_001016	Der erste Pfeil [Archer] (1)
 QUEST_JOBSTEP_20150317_001017	Ich gehe zu Fletcher Master.
-QUEST_JOBSTEP_20150317_001018	Der erste Pfeil [Archer Aufstieg] (2)
+QUEST_JOBSTEP_20150317_001018	Der erste Pfeil [Archer] (2)
 QUEST_JOBSTEP_20150317_001019	Ich werde ein paar gute Charcoal Stones sammeln gehen.
-QUEST_JOBSTEP_20150317_001020	Der erste Pfeil [Archer Aufstieg] (3)
+QUEST_JOBSTEP_20150317_001020	Der erste Pfeil [Archer] (3)
 QUEST_JOBSTEP_20150317_001021	Ich werde zum Archer Master zurückkehren.
 QUEST_JOBSTEP_20150317_001022	Ich werde bald aufbrechen.
-QUEST_JOBSTEP_20150317_001023	Spuren des Schattens [Ranger Aufstieg]
+QUEST_JOBSTEP_20150317_001023	Spuren des Schattens [Ranger]
 QUEST_JOBSTEP_20150317_001024	Anfrage annehmen
-QUEST_JOBSTEP_20150317_001025	Vorbereitung für die Krise [Sapper Aufstieg]
+QUEST_JOBSTEP_20150317_001025	Vorbereitung für die Krise [Sapper]
 QUEST_JOBSTEP_20150317_001026	{memo X}I will go to Sunset Flag Forest.
-QUEST_JOBSTEP_20150317_001027	Geräusche des Waldes [Fletcher Aufstieg]
+QUEST_JOBSTEP_20150317_001027	Geräusche des Waldes [Fletcher]
 QUEST_JOBSTEP_20150317_001028	Wie kann ich das bekommen?
-QUEST_JOBSTEP_20150317_001029	Jagdgrundlagen [Hunter Aufstieg]
+QUEST_JOBSTEP_20150317_001029	Jagdgrundlagen [Hunter]
 QUEST_JOBSTEP_20150317_001030	{memo X}I will hunt for the monster mothers.
-QUEST_JOBSTEP_20150317_001031	Nutzbares Gift [Wugushi Aufstieg]
+QUEST_JOBSTEP_20150317_001031	Nutzbares Gift [Wugushi]
 QUEST_JOBSTEP_20150317_001032	Ich werde das Gift einsammeln.
 QUEST_JOBSTEP_20150317_001033	Tut mir leid, das ist zu gefährlich.
-QUEST_JOBSTEP_20150317_001034	Keine Palmen [Scout Aufstieg]
-QUEST_JOBSTEP_20150317_001035	Auf der Suche nach Legenden [Quarrel Shooter Aufstieg]
+QUEST_JOBSTEP_20150317_001034	Keine Palmen [Scout]
+QUEST_JOBSTEP_20150317_001035	Auf der Suche nach Legenden [Quarrel Shooter]
 QUEST_JOBSTEP_20150317_001036	Ich würde das Reiben sein lassen.
-QUEST_JOBSTEP_20150317_001037	Nur Staub [Rogue Aufstieg]
+QUEST_JOBSTEP_20150317_001037	Nur Staub [Rogue]
 QUEST_JOBSTEP_20150317_001038	Test annehmen
-QUEST_JOBSTEP_20150317_001039	Fähigkeiten beweisen [Hoplite Aufstieg]
-QUEST_JOBSTEP_20150317_001040	Qualifikation beweisen [Barbarian Aufstieg]
+QUEST_JOBSTEP_20150317_001039	Fähigkeiten beweisen [Hoplite]
+QUEST_JOBSTEP_20150317_001040	Qualifikation beweisen [Barbarian]
 QUEST_JOBSTEP_20150317_001041	Ich werde zuerst die Yekub besiegen
-QUEST_JOBSTEP_20150317_001042	Großer Fang [Squire Aufstieg]
+QUEST_JOBSTEP_20150317_001042	Großer Fang [Squire]
 QUEST_JOBSTEP_20150317_001043	Ich komme nach dem Training zurück.
-QUEST_JOBSTEP_20150317_001044	Zentrum der Formation [Centurion Aufstieg]
-QUEST_JOBSTEP_20150317_001045	Zielen [Archer Aufstieg]
+QUEST_JOBSTEP_20150317_001044	Zentrum der Formation [Centurion]
+QUEST_JOBSTEP_20150317_001045	Zielen [Archer]
 QUEST_JOBSTEP_20150317_001046	Test annehmen.
-QUEST_JOBSTEP_20150317_001047	100 Schüsse 100 Treffer [Ranger Aufstieg]
+QUEST_JOBSTEP_20150317_001047	100 Schüsse 100 Treffer [Ranger]
 QUEST_JOBSTEP_20150317_001048	Ich werde die Reaverpede fangen.
-QUEST_JOBSTEP_20150317_001049	Verlorene Würde [Quarrel Shooter Aufstieg]
+QUEST_JOBSTEP_20150317_001049	Verlorene Würde [Quarrel Shooter]
 QUEST_JOBSTEP_20150317_001050	Ich werde sie besiegen.
-QUEST_JOBSTEP_20150317_001051	Liefere die Fallenteile [Sapper Aufstieg]
-QUEST_JOBSTEP_20150317_001052	Stand der Faulheit [Hunter Aufstieg]
+QUEST_JOBSTEP_20150317_001051	Liefere die Fallenteile [Sapper]
+QUEST_JOBSTEP_20150317_001052	Stand der Faulheit [Hunter]
 QUEST_JOBSTEP_20150317_001053	Ich werde die Minotaur jagen.
-QUEST_JOBSTEP_20150317_001054	Gewandheit [Wugushi Aufstieg]
+QUEST_JOBSTEP_20150317_001054	Gewandheit [Wugushi]
 QUEST_JOBSTEP_20150317_001055	{memo X}I will defeat Rajatoad.
-QUEST_JOBSTEP_20150317_001056	Der längere Schwanz wird gefangen [Scout Aufstieg]
+QUEST_JOBSTEP_20150317_001056	Der längere Schwanz wird gefangen [Scout]
 QUEST_JOBSTEP_20150317_001057	Gib mir eine Aufgabe um meine Fähigkeiten zu beweisen.
 QUEST_JOBSTEP_20150317_001058	Ich komme später wieder.
-QUEST_JOBSTEP_20150317_001059	Auf den Schwanz treten [Rogue Aufstieg]
+QUEST_JOBSTEP_20150317_001059	Auf den Schwanz treten [Rogue]
 QUEST_JOBSTEP_20150317_001060	Duell annehmen
 QUEST_JOBSTEP_20150317_001061	Duell ablehnen
-QUEST_JOBSTEP_20150317_001062	Brennbarer Stein [Fletcher Aufstieg]
+QUEST_JOBSTEP_20150317_001062	Brennbarer Stein [Fletcher]
 QUEST_JOBSTEP_20150317_001063	{memo X}I will bring well burnable stones.
-QUEST_JOBSTEP_20150317_001064	Herausforderer rekrutieren [Schwartzer Reiter Aufstieg]
+QUEST_JOBSTEP_20150317_001064	Herausforderer rekrutieren [Schwartzer Reiter]
 QUEST_JOBSTEP_20150317_001065	{memo X}Accept the duel
-QUEST_JOBSTEP_20150317_001066	Materialien für die Medizin [Cleric Aufstieg]
+QUEST_JOBSTEP_20150317_001066	Materialien für die Medizin [Cleric]
 QUEST_JOBSTEP_20150317_001067	Was soll ich tun?
 QUEST_JOBSTEP_20150317_001068	Ich brauche mehr Bedenkzeit.
 QUEST_JOBSTEP_20150317_001069	{memo X}Collecting Wild Flower Stamen/#SITGROPESET/3/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150317_001070	Erhalte das heilige Opfer [Krivis Aufstieg]
+QUEST_JOBSTEP_20150317_001070	Erhalte das heilige Opfer [Krivis]
 QUEST_JOBSTEP_20150317_001071	Ich werde das heilige Opfer aus dem Stadtzentrum zurückholen
-QUEST_JOBSTEP_20150317_001072	Reinige die böse Aura [Priest Aufstieg]
+QUEST_JOBSTEP_20150317_001072	Reinige die böse Aura [Priest]
 QUEST_JOBSTEP_20150317_001073	I werde sie besiegen.
-QUEST_JOBSTEP_20150317_001074	{memo X}Shaman Doll [Bokor Aufstieg]
+QUEST_JOBSTEP_20150317_001074	{memo X}Shaman Doll [Bokor]
 QUEST_JOBSTEP_20150317_001075	Ich werde die Essenz bekommen.
-QUEST_JOBSTEP_20150317_001076	Materialiensuche [Dievdirbys Aufstieg]
+QUEST_JOBSTEP_20150317_001076	Materialiensuche [Dievdirbys]
 QUEST_JOBSTEP_20150317_001077	Ich werde die Materialien für dich besorgen.
-QUEST_JOBSTEP_20150317_001078	{memo X}The cause of Insomnia [Sadhu Aufstieg]
+QUEST_JOBSTEP_20150317_001078	{memo X}The cause of Insomnia [Sadhu]
 QUEST_JOBSTEP_20150317_001079	Ich werde dir helfen.
-QUEST_JOBSTEP_20150317_001080	Glaube beweisen [Paladin Aufstieg]
+QUEST_JOBSTEP_20150317_001080	Glaube beweisen [Paladin]
 QUEST_JOBSTEP_20150317_001081	Ich kann alles tun.
-QUEST_JOBSTEP_20150317_001082	Blitz [Monk Aufstieg]
+QUEST_JOBSTEP_20150317_001082	Blitz [Monk]
 QUEST_JOBSTEP_20150317_001083	Ich werde die Beweise besorgen.
-QUEST_JOBSTEP_20150317_001084	Preis für den verlorenen Genuss [Pardoner Aufstieg]
+QUEST_JOBSTEP_20150317_001084	Preis für den verlorenen Genuss [Pardoner]
 QUEST_JOBSTEP_20150317_001085	Ich besorge dir die Bezahlung.
 QUEST_JOBSTEP_20150317_001086	{memo X}Checking the wagon/MAKING/3/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150317_001087	Des Beraters Wahl [Oracle Aufstieg]
-QUEST_JOBSTEP_20150317_001088	Reinigung der bösen Energie [Priest Aufstieg]
+QUEST_JOBSTEP_20150317_001087	Des Beraters Wahl [Oracle]
+QUEST_JOBSTEP_20150317_001088	Reinigung der bösen Energie [Priest]
 QUEST_JOBSTEP_20150317_001089	Ich den Test durchlaufen.
-QUEST_JOBSTEP_20150317_001090	Rette das heilige Opfer [Krivis Aufstieg]
+QUEST_JOBSTEP_20150317_001090	Rette das heilige Opfer [Krivis]
 QUEST_JOBSTEP_20150317_001091	Ich werde die Krivis Brüder finden.
 QUEST_JOBSTEP_20150317_001092	{memo X}KnickingKNOCK/1/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150317_001093	Swordsman's Weg [Swordsman Aufstieg]
+QUEST_JOBSTEP_20150317_001093	Swordsman's Weg [Swordsman]
 QUEST_JOBSTEP_20150317_001094	Ich werde die Herzen der Stone Orca sammeln.
-QUEST_JOBSTEP_20150317_001095	Zauberergrad [Wizard Aufstieg]
-QUEST_JOBSTEP_20150317_001096	Fähigkeiten beweisen [Archer Aufstieg]
+QUEST_JOBSTEP_20150317_001095	Zauberergrad [Wizard]
+QUEST_JOBSTEP_20150317_001096	Fähigkeiten beweisen [Archer]
 QUEST_JOBSTEP_20150317_001097	Ich nehme die Herausforderung an.
-QUEST_JOBSTEP_20150317_001098	Halskette der Erlösung [Cleric Aufstieg]
+QUEST_JOBSTEP_20150317_001098	Halskette der Erlösung [Cleric]
 QUEST_JOBSTEP_20150317_001099	Ich werde das grüne Balsam sammeln.
-QUEST_JOBSTEP_20150317_001100	Lieferung des heiligen Opfers [Krivis Aufstieg]
-QUEST_JOBSTEP_20150317_001101	Die Seele kennenlernen [Bokor Aufstieg]
+QUEST_JOBSTEP_20150317_001100	Lieferung des heiligen Opfers [Krivis]
+QUEST_JOBSTEP_20150317_001101	Die Seele kennenlernen [Bokor]
 QUEST_JOBSTEP_20150317_001102	Ich werde die Puppe herstellen.
-QUEST_JOBSTEP_20150317_001103	Den rechten Weg gehen [Peltasta Aufstieg]
+QUEST_JOBSTEP_20150317_001103	Den rechten Weg gehen [Peltasta]
 QUEST_JOBSTEP_20150317_001104	Ich werde die Herausforderung durchlaufen.
-QUEST_JOBSTEP_20150317_001105	Löse das Problem [Highlander Aufstieg]
+QUEST_JOBSTEP_20150317_001105	Löse das Problem [Highlander]
 QUEST_JOBSTEP_20150317_001106	Ich komme später wieder.
-QUEST_JOBSTEP_20150317_001107	Akademische Fragen [Pyromancer Aufstieg]
+QUEST_JOBSTEP_20150317_001107	Akademische Fragen [Pyromancer]
 QUEST_JOBSTEP_20150317_001108	Ich komme das nächste mal zurück.
-QUEST_JOBSTEP_20150317_001109	Historischer Diebstahl [Cryomancer Aufstieg]
+QUEST_JOBSTEP_20150317_001109	Historischer Diebstahl [Cryomancer]
 QUEST_JOBSTEP_20150317_001110	{memo X}Notice/Empty Box
-QUEST_JOBSTEP_20150317_001111	Der Weg des Heilers [Cleric Aufstieg](1)
+QUEST_JOBSTEP_20150317_001111	Der Weg des Heilers [Cleric](1)
 QUEST_JOBSTEP_20150317_001112	Ich werde zum Centurion Master gehen.
 QUEST_JOBSTEP_20150317_001113	Das ist zu weit entfernt.
-QUEST_JOBSTEP_20150317_001114	Der Weg des Heilers [Cleric Aufstieg](2)
+QUEST_JOBSTEP_20150317_001114	Der Weg des Heilers [Cleric](2)
 QUEST_JOBSTEP_20150317_001115	Ich werde Nocotias sammeln.
 QUEST_JOBSTEP_20150317_001116	Ich werde einfach zurück gehen.
-QUEST_JOBSTEP_20150317_001117	Der Weg des Heilers [Cleric Aufstieg](3)
-QUEST_JOBSTEP_20150317_001118	Ewige Kultstätte  [Krivis Aufstieg] (1)
+QUEST_JOBSTEP_20150317_001117	Der Weg des Heilers [Cleric](3)
+QUEST_JOBSTEP_20150317_001118	Ewige Kultstätte  [Krivis] (1)
 QUEST_JOBSTEP_20150317_001119	Ich werde mich auf eine Pilgerreise begeben.
-QUEST_JOBSTEP_20150317_001120	Ewige Kultstätte [Krivis Aufstieg] (2)
+QUEST_JOBSTEP_20150317_001120	Ewige Kultstätte [Krivis] (2)
 QUEST_JOBSTEP_20150317_001121	Ich werde die Monster besiegen.
-QUEST_JOBSTEP_20150317_001122	Ewige Kultstätte [Krivis Aufstieg] (3)
+QUEST_JOBSTEP_20150317_001122	Ewige Kultstätte [Krivis] (3)
 QUEST_JOBSTEP_20150317_001123	Ich werde nach Fedimian reisen.
 QUEST_JOBSTEP_20150317_001124	Ich werde noch eine Weile hier bleiben.
-QUEST_JOBSTEP_20150317_001125	Endlose Reinigung [Priest Aufstieg]
+QUEST_JOBSTEP_20150317_001125	Endlose Reinigung [Priest]
 QUEST_JOBSTEP_20150317_001126	Ich werde die böse Aura reinigen.
-QUEST_JOBSTEP_20150317_001127	Fehlende Erinnerung [Bokor Aufstieg] (1)
+QUEST_JOBSTEP_20150317_001127	Fehlende Erinnerung [Bokor] (1)
 QUEST_JOBSTEP_20150317_001128	Ich werde den Edelstein besorgen.
-QUEST_JOBSTEP_20150317_001129	Fehlende Erinnerung [Bokor Aufstieg] (2)
+QUEST_JOBSTEP_20150317_001129	Fehlende Erinnerung [Bokor] (2)
 QUEST_JOBSTEP_20150317_001130	Ich werde zurück zum Bokor Master gehen.
 QUEST_JOBSTEP_20150317_001131	Ich beende das hier, ich habe zuviel Angst.
-QUEST_JOBSTEP_20150317_001132	Fehlende Erinnerung [Bokor Aufstieg] (3)
+QUEST_JOBSTEP_20150317_001132	Fehlende Erinnerung [Bokor] (3)
 QUEST_JOBSTEP_20150317_001133	Ich werde es dem Krivis Master bringen.
 QUEST_JOBSTEP_20150317_001134	Ich beende das hier, ich habe zuviel Angst.
-QUEST_JOBSTEP_20150317_001135	Fehlende Erinnerung [Bokor Aufstieg] (4)
+QUEST_JOBSTEP_20150317_001135	Fehlende Erinnerung [Bokor] (4)
 QUEST_JOBSTEP_20150317_001136	Ich werde die Tutu besiegen.
-QUEST_JOBSTEP_20150317_001137	Wartung der Statuen [Dievdirbys Aufstieg] (1)
-QUEST_JOBSTEP_20150317_001138	Wartung der Statuen [Dievdirbys Aufstieg] (2)
+QUEST_JOBSTEP_20150317_001137	Wartung der Statuen [Dievdirbys] (1)
+QUEST_JOBSTEP_20150317_001138	Wartung der Statuen [Dievdirbys] (2)
 QUEST_JOBSTEP_20150317_001139	Ich werde zum Krivis Master gehen.
-QUEST_JOBSTEP_20150317_001140	Wartung der Statuen [Dievdirbys Aufstieg] (3)
+QUEST_JOBSTEP_20150317_001140	Wartung der Statuen [Dievdirbys] (3)
 QUEST_JOBSTEP_20150317_001141	Ich werde zum Priest Master gehen.
-QUEST_JOBSTEP_20150317_001142	Wartung der Statuen [Dievdirbys Aufstieg] (4)
+QUEST_JOBSTEP_20150317_001142	Wartung der Statuen [Dievdirbys] (4)
 QUEST_JOBSTEP_20150317_001143	Ich werde zum Bokor Master gehen.
-QUEST_JOBSTEP_20150317_001144	Wartung der Statuen [Dievdirbys Aufstieg] (5)
+QUEST_JOBSTEP_20150317_001144	Wartung der Statuen [Dievdirbys] (5)
 QUEST_JOBSTEP_20150317_001145	Ich werde mich um die Goddess Statue kümmern.
 QUEST_JOBSTEP_20150317_001146	Gib mir etwas Zeit um mich vorzubereiten.
-QUEST_JOBSTEP_20150317_001147	Der Auserwählte [Sadhu Aufstieg]
-QUEST_JOBSTEP_20150317_001148	Für die Kirche [Paladin Aufstieg]
+QUEST_JOBSTEP_20150317_001147	Der Auserwählte [Sadhu]
+QUEST_JOBSTEP_20150317_001148	Für die Kirche [Paladin]
 QUEST_JOBSTEP_20150317_001149	Nimm das Duell mit dem Master an.
-QUEST_JOBSTEP_20150317_001150	Körper und Geist trainieren [Monk Aufstieg]
-QUEST_JOBSTEP_20150317_001151	Der Anmut des Reichtums [Pardoner Aufstieg](1)
-QUEST_JOBSTEP_20150317_001152	Der Anmut des Reichtums [Pardoner Aufstieg](2)
+QUEST_JOBSTEP_20150317_001150	Körper und Geist trainieren [Monk]
+QUEST_JOBSTEP_20150317_001151	Der Anmut des Reichtums [Pardoner](1)
+QUEST_JOBSTEP_20150317_001152	Der Anmut des Reichtums [Pardoner](2)
 QUEST_JOBSTEP_20150317_001153	Ich werde Mothstem besiegen.
 QUEST_JOBSTEP_20150317_001154	Ich gebe auf.
-QUEST_JOBSTEP_20150317_001155	Der Anmut des Reichtums [Pardoner Aufstieg](3)
-QUEST_JOBSTEP_20150317_001156	Die Aktivitäten eines Wizards [Wizard Aufstieg]
+QUEST_JOBSTEP_20150317_001155	Der Anmut des Reichtums [Pardoner](3)
+QUEST_JOBSTEP_20150317_001156	Die Aktivitäten eines Wizards [Wizard]
 QUEST_JOBSTEP_20150317_001157	Ich werde den Test machen.
-QUEST_JOBSTEP_20150317_001158	Durchstechen [Cataphract Aufstieg]
-QUEST_JOBSTEP_20150317_001159	Aktivitäten eines Pyromancer [Pyromancer Aufstieg]
+QUEST_JOBSTEP_20150317_001158	Durchstechen [Cataphract]
+QUEST_JOBSTEP_20150317_001159	Aktivitäten eines Pyromancer [Pyromancer]
 QUEST_JOBSTEP_20150317_001160	Ich werde die Poata besiegen.
-QUEST_JOBSTEP_20150317_001161	Aktivitäten eines Cryomancer [Cryomancer Aufstieg]
+QUEST_JOBSTEP_20150317_001161	Aktivitäten eines Cryomancer [Cryomancer]
 QUEST_JOBSTEP_20150317_001162	Ich werde mich der Mushcaria entledigen.
-QUEST_JOBSTEP_20150317_001163	Aktivitäten eines Psychokino [Psychokino Aufstieg]
+QUEST_JOBSTEP_20150317_001163	Aktivitäten eines Psychokino [Psychokino]
 QUEST_JOBSTEP_20150317_001164	Ich werde den Test machen.
-QUEST_JOBSTEP_20150317_001165	Aktivitäten eines Linker [Linker Aufstieg]
+QUEST_JOBSTEP_20150317_001165	Aktivitäten eines Linker [Linker]
 QUEST_JOBSTEP_20150317_001166	Ich werde mich der Vubbe Fighter entledigen.
-QUEST_JOBSTEP_20150317_001167	Aktivitäten eines Thaurmaturge [Thaumaturge Aufstieg]
+QUEST_JOBSTEP_20150317_001167	Aktivitäten eines Thaurmaturge [Thaumaturge]
 QUEST_JOBSTEP_20150317_001168	Ich werde mich der Salamander entledigen.
-QUEST_JOBSTEP_20150317_001169	{memo X}An Important Test [Elementalist Aufstieg]
+QUEST_JOBSTEP_20150317_001169	{memo X}An Important Test [Elementalist]
 QUEST_JOBSTEP_20150317_001170	Ich werde die Reaverpede besiegen.
-QUEST_JOBSTEP_20150317_001171	Böse Seelen sammeln [Sorcerer Aufstieg]
+QUEST_JOBSTEP_20150317_001171	Böse Seelen sammeln [Sorcerer]
 QUEST_JOBSTEP_20150317_001172	Ich werde die Devilglove besiegen.
-QUEST_JOBSTEP_20150317_001173	Beschwörungsritual [Necromancer Aufstieg]
+QUEST_JOBSTEP_20150317_001173	Beschwörungsritual [Necromancer]
 QUEST_JOBSTEP_20150317_001174	{memo X}...Tell him you will go
-QUEST_JOBSTEP_20150317_001175	Erfahrung sammeln im echten Kampf [Swordsman Aufstieg]
+QUEST_JOBSTEP_20150317_001175	Erfahrung sammeln im echten Kampf [Swordsman]
 QUEST_JOBSTEP_20150317_001176	Ich werde die Honeypin besiegen.
-QUEST_JOBSTEP_20150317_001177	Ein ordentlicher Preis [Peltasta Aufstieg]
-QUEST_JOBSTEP_20150317_001178	Erfahrung ist eine Bereicherung [Highlander Aufstieg]
+QUEST_JOBSTEP_20150317_001177	Ein ordentlicher Preis [Peltasta]
+QUEST_JOBSTEP_20150317_001178	Erfahrung ist eine Bereicherung [Highlander]
 QUEST_JOBSTEP_20150317_001179	Wie bekommst du gute Erfahrung?
 QUEST_JOBSTEP_20150317_001180	Ich kann nicht zustimmen.
-QUEST_JOBSTEP_20150317_001181	Die Zuverlässigen [Hoplite Aufstieg]
-QUEST_JOBSTEP_20150317_001182	Problem lösen [Barbarian Aufstieg]
+QUEST_JOBSTEP_20150317_001181	Die Zuverlässigen [Hoplite]
+QUEST_JOBSTEP_20150317_001182	Problem lösen [Barbarian]
 QUEST_JOBSTEP_20150317_001183	Mit was soll ich bezahlen?
-QUEST_JOBSTEP_20150317_001184	Qualitäten eines Kommandeurs [Rodelero Aufstieg]
+QUEST_JOBSTEP_20150317_001184	Qualitäten eines Kommandeurs [Rodelero]
 QUEST_JOBSTEP_20150317_001185	{memo X}I will defeat the Colmencia.
-QUEST_JOBSTEP_20150317_001186	Eine Drohung [Cataphract Aufstieg]
+QUEST_JOBSTEP_20150317_001186	Eine Drohung [Cataphract]
 QUEST_JOBSTEP_20150317_001187	Ich werde die Gaigalas besiegen.
 QUEST_JOBSTEP_20150317_001188	Ich denke nicht das ich soetwas vollbringen kann.
-QUEST_JOBSTEP_20150317_001189	Die Ehre der Legwyn Familie [Squire Aufstieg]
+QUEST_JOBSTEP_20150317_001189	Die Ehre der Legwyn Familie [Squire]
 QUEST_JOBSTEP_20150317_001190	Ich helfe dir die Dekoration zu finden.
-QUEST_JOBSTEP_20150317_001191	Bodenkampf Training [Corsair Aufstieg]
-QUEST_JOBSTEP_20150317_001192	Der Preis der Gefahr [Doppelsoeldner Aufstieg]
+QUEST_JOBSTEP_20150317_001191	Bodenkampf Training [Corsair]
+QUEST_JOBSTEP_20150317_001192	Der Preis der Gefahr [Doppelsoeldner]
 QUEST_JOBSTEP_20150317_001193	Das ist zu gefährlich, ich höre auf.
-QUEST_JOBSTEP_20150317_001194	Aktivitäten eines Chronomancer [Chronomancer Aufstieg]
-QUEST_JOBSTEP_20150317_001195	Beende die Aufgabe eines Wizards [Wizard Aufstieg]
+QUEST_JOBSTEP_20150317_001194	Aktivitäten eines Chronomancer [Chronomancer]
+QUEST_JOBSTEP_20150317_001195	Beende die Aufgabe eines Wizards [Wizard]
 QUEST_JOBSTEP_20150317_001196	Ich werde Ironbaum besiegen.
 QUEST_JOBSTEP_20150317_001197	Ich komme später wieder.
-QUEST_JOBSTEP_20150317_001198	Beende die Aufgabe eines Pyromancer [Pyromancer Aufstieg]
-QUEST_JOBSTEP_20150317_001199	Beende die Aufgabe eines Cryomancer [Cryomancer Aufstieg]
-QUEST_JOBSTEP_20150317_001200	Beende die Aufgabe eines Psychokino [Psychokino Aufstieg]
+QUEST_JOBSTEP_20150317_001198	Beende die Aufgabe eines Pyromancer [Pyromancer]
+QUEST_JOBSTEP_20150317_001199	Beende die Aufgabe eines Cryomancer [Cryomancer]
+QUEST_JOBSTEP_20150317_001200	Beende die Aufgabe eines Psychokino [Psychokino]
 QUEST_JOBSTEP_20150317_001201	Ich werde die Aufgabe für dich beenden.
-QUEST_JOBSTEP_20150317_001202	Beende die Aufgabe eines Linker [Linker Aufstieg]
+QUEST_JOBSTEP_20150317_001202	Beende die Aufgabe eines Linker [Linker]
 QUEST_JOBSTEP_20150317_001203	Ich werde den Werewolf besiegen.
-QUEST_JOBSTEP_20150317_001204	Beende die Aufgabe eines Thaumaturge [Thaumaturge Aufstieg]
+QUEST_JOBSTEP_20150317_001204	Beende die Aufgabe eines Thaumaturge [Thaumaturge]
 QUEST_JOBSTEP_20150317_001205	{memo X}I'll do it myself.
-QUEST_JOBSTEP_20150317_001206	{memo X}Complete the mission of an Elementalist [Elementalist Aufstieg]
+QUEST_JOBSTEP_20150317_001206	{memo X}Complete the mission of an Elementalist [Elementalist]
 QUEST_JOBSTEP_20150317_001207	Natürlich werde ich das tun.
-QUEST_JOBSTEP_20150317_001208	Beende die Aufgabe eines Sorcerer [Sorcerer Aufstieg]
+QUEST_JOBSTEP_20150317_001208	Beende die Aufgabe eines Sorcerer [Sorcerer]
 QUEST_JOBSTEP_20150317_001209	Ich werde den Necroventor besiegen.
-QUEST_JOBSTEP_20150317_001210	Beende die Aufgabe eines Chronomancer [Chronomancer Aufstieg]
+QUEST_JOBSTEP_20150317_001210	Beende die Aufgabe eines Chronomancer [Chronomancer]
 QUEST_JOBSTEP_20150317_001211	Ich werde mich durch einen Test beweisen.
-QUEST_JOBSTEP_20150317_001212	Beende die Aufgabe eines Alchemist [Alchemist Aufstieg]
-QUEST_JOBSTEP_20150317_001213	Objektiv der Sterne [Quarrel Shooter Aufstieg]
+QUEST_JOBSTEP_20150317_001212	Beende die Aufgabe eines Alchemist [Alchemist]
+QUEST_JOBSTEP_20150317_001213	Objektiv der Sterne [Quarrel Shooter]
 QUEST_JOBSTEP_20150317_001214	Ich werde dir diesen Gefallen tun.
 QUEST_JOBSTEP_20150317_001215	Das klingt Verdächtig, ich muss ablehnen.
-QUEST_JOBSTEP_20150317_001216	Giftiger Verrat [Ranger Aufstieg]
+QUEST_JOBSTEP_20150317_001216	Giftiger Verrat [Ranger]
 QUEST_JOBSTEP_20150317_001217	Ich nehme die Kommission an.
 QUEST_JOBSTEP_20150317_001218	Sprich mit dem Barbarian Master.
 QUEST_JOBSTEP_20150317_001219	Finde den Barbarian Master in East Siauliai Woods.
@@ -2326,7 +2326,7 @@ QUEST_JOBSTEP_20150323_002328	Tell him it won't be helpful
 QUEST_JOBSTEP_20150323_002329	Important Test [Elementalist]
 QUEST_JOBSTEP_20150323_002330	Decline since it seems too dangerous
 QUEST_JOBSTEP_20150323_002331	Ask him what the gift is
-QUEST_JOBSTEP_20150323_002332	Complete the mission of the Elementalist [Elementalist Aufstieg]
+QUEST_JOBSTEP_20150323_002332	Complete the mission of the Elementalist [Elementalist]
 QUEST_JOBSTEP_20150323_002333	Defeat %s
 QUEST_JOBSTEP_20150323_002334	To prove your determination to be stronger, please collect Glizardon's Leather in Tenet Chapel B1, Galok's Canine in 1F, and Black Powders from Egnome in 2F.
 QUEST_JOBSTEP_20150323_002335	{memo X}Collect the flower alcohol of Doyor from Veya Valley
@@ -2567,7 +2567,7 @@ QUEST_JOBSTEP_20150414_002569	If the monsters are strong, they are easier to get
 QUEST_JOBSTEP_20150414_002570	{memo X}It is a rare meat. You must have spent a hard time getting it.{nl}I am counting on you from now on.
 QUEST_JOBSTEP_20150414_002571	Picky Taste[Falconer]
 QUEST_JOBSTEP_20150414_002572	I can't do such tiresome duties
-QUEST_JOBSTEP_20150414_002573	Obtain the heart of Stoneorca from the 1st floor of Crystal Mine
+QUEST_JOBSTEP_20150414_002573	Sammle Stone Orca Heart's im ersten Flur der Crystal Mine
 QUEST_JOBSTEP_20150414_002574	Erster Flur der Crystal Mine
 QUEST_JOBSTEP_20150414_002575	Defeat monsters using smoke bombs
 QUEST_JOBSTEP_20150414_002576	The Oracle Master is waiting for you in Klaipeda
@@ -2879,23 +2879,23 @@ QUEST_JOBSTEP_20150714_002881	Masters in Akmens Ridge are chasing the monster ca
 QUEST_JOBSTEP_20150714_002882	Meet the Sorcerer Master in Forst of Prayers.
 QUEST_JOBSTEP_20150714_002883	The Sorcerer Master told you that you should not stay still since the monsters are going crazy these days. Go to Goddess' Ancient Gardenes and defeat Necrobenter.
 QUEST_JOBSTEP_20150717_002884	I've done business for a long time with the Tools Merchant in Klaipeda so I may be able to help you.
-QUEST_JOBSTEP_20150717_002885	Legwyn Family's Seal [Squire Aufstieg]
-QUEST_JOBSTEP_20150717_002886	Honor of the Old Sea [Corsair Aufstieg]
-QUEST_JOBSTEP_20150717_002887	Royal Army Corps Machine [Centurion Aufstieg]
-QUEST_JOBSTEP_20150717_002888	Missing Delegation's Whereabouts [Doppelsoeldner Aufstieg]
-QUEST_JOBSTEP_20150717_002889	{memo X}Invincible Lady [Sorcerer Aufstieg]
-QUEST_JOBSTEP_20150717_002890	Alchemist's Story [Chronomancer Aufstieg]
-QUEST_JOBSTEP_20150717_002891	Things Left Behind Death [Necromancer Aufstieg]
-QUEST_JOBSTEP_20150717_002892	Past of Crystal Mine (1)[Alchemist Aufstieg]
-QUEST_JOBSTEP_20150717_002893	Past of Crystal Mine (2)[Alchemist Aufstieg]
-QUEST_JOBSTEP_20150717_002894	No One Knows [Rogue Aufstieg]
-QUEST_JOBSTEP_20150717_002895	{memo X}Lydia Schaffen and Black Family [Fletcher Aufstieg]
-QUEST_JOBSTEP_20150717_002896	Handling Monsters [Falconer Aufstieg]
-QUEST_JOBSTEP_20150717_002897	{memo X}Perfect Marksmanship [Schwarzer Reiter Aufstieg]
-QUEST_JOBSTEP_20150717_002898	Responsibility of Olpas Painting [Monk Aufstieg]
-QUEST_JOBSTEP_20150717_002899	Reserved Records of the Cleric [Pardoner Aufstieg]
-QUEST_JOBSTEP_20150717_002900	Disaster is a Great Sample [Druid Aufstieg]
-QUEST_JOBSTEP_20150717_002901	Reception Error [Oracle Aufstieg]
+QUEST_JOBSTEP_20150717_002885	Legwyn Family's Seal [Squire]
+QUEST_JOBSTEP_20150717_002886	Honor of the Old Sea [Corsair]
+QUEST_JOBSTEP_20150717_002887	Royal Army Corps Machine [Centurion]
+QUEST_JOBSTEP_20150717_002888	Missing Delegation's Whereabouts [Doppelsoeldner]
+QUEST_JOBSTEP_20150717_002889	{memo X}Invincible Lady [Sorcerer]
+QUEST_JOBSTEP_20150717_002890	Alchemist's Story [Chronomancer]
+QUEST_JOBSTEP_20150717_002891	Things Left Behind Death [Necromancer]
+QUEST_JOBSTEP_20150717_002892	Past of Crystal Mine (1)[Alchemist]
+QUEST_JOBSTEP_20150717_002893	Past of Crystal Mine (2)[Alchemist]
+QUEST_JOBSTEP_20150717_002894	No One Knows [Rogue]
+QUEST_JOBSTEP_20150717_002895	{memo X}Lydia Schaffen and Black Family [Fletcher]
+QUEST_JOBSTEP_20150717_002896	Handling Monsters [Falconer]
+QUEST_JOBSTEP_20150717_002897	{memo X}Perfect Marksmanship [Schwarzer Reiter]
+QUEST_JOBSTEP_20150717_002898	Responsibility of Olpas Painting [Monk]
+QUEST_JOBSTEP_20150717_002899	Reserved Records of the Cleric [Pardoner]
+QUEST_JOBSTEP_20150717_002900	Disaster is a Great Sample [Druid]
+QUEST_JOBSTEP_20150717_002901	Reception Error [Oracle]
 QUEST_JOBSTEP_20150717_002902	Give the stolen goods to the Klaipeda Tools Merchant
 QUEST_JOBSTEP_20150717_002903	The Sapper Master want to return the stolen belongings to its owner and repent for the past. Return the stolen things to Tools Merchant in Klaipeda.
 QUEST_JOBSTEP_20150717_002904	Collect Boss Monster Card
@@ -3018,7 +3018,7 @@ QUEST_JOBSTEP_20150729_003020	I am not interested
 QUEST_JOBSTEP_20150729_003021	Ask him to trust you
 QUEST_JOBSTEP_20150729_003022	I don't want to get involved in a suspicious task
 QUEST_JOBSTEP_20150729_003023	{memo X}Telling him the circumstances/TALK/3/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150729_003024	{memo X}Eternal Amjinas[Sorcerer Aufstieg]
+QUEST_JOBSTEP_20150729_003024	{memo X}Eternal Amjinas[Sorcerer]
 QUEST_JOBSTEP_20150729_003025	Ich werde ihn fragen
 QUEST_JOBSTEP_20150729_003026	{memo X}Tell him to go there himself
 QUEST_JOBSTEP_20150729_003027	{memo X}Passing what you heard/TALK/3/TRACK_BEFORE/None
@@ -3103,7 +3103,7 @@ QUEST_JOBSTEP_20150803_003105	Lucid... Actually have you met the Chronomancer Ma
 QUEST_JOBSTEP_20150803_003106	The orb reads the memories of the possessor and records them.{nl}Explore all areas in the 1st and 2nd districts of the Crystal Mine with this.{nl}
 QUEST_JOBSTEP_20150803_003107	When you use this orb after exploring all regions, it will read the memories of the possessor and record the past.{nl}If you had explored the regions in the past, then record it into the orb right away.{nl}
 QUEST_JOBSTEP_20150803_003108	Well done. {nl}It will take some time to check this so in the meantime, I will teach you new alchemy.
-QUEST_JOBSTEP_20150803_003109	Eternal Amjinas [Sorcerer Aufstieg]
+QUEST_JOBSTEP_20150803_003109	Eternal Amjinas [Sorcerer]
 QUEST_JOBSTEP_20150803_003110	Tell him that it will be better to listen directly
 QUEST_JOBSTEP_20150803_003111	I don't have guts for it
 QUEST_JOBSTEP_20150803_003112	Received enough balm. Restore the Statue of Goddess Vakarine in Fedimian and Statue of Goddess Ausrine in Klaipeda.
