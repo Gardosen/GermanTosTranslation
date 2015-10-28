@@ -1,4 +1,4 @@
-SKILL_20150317_000001	Attack
+SKILL_20150317_000001	Angriff
 SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
 SKILL_20150317_000003	[Rafflesia] Spread Poison
 SKILL_20150317_000004	[Rafflesia] Poison Bomb
@@ -1985,7 +1985,7 @@ SKILL_20150317_001984	$Rupture
 SKILL_20150317_001985	$Increases damage when using a [Blunt] type weapon on Plate armor-type enemies.{nl}(Increases by 20% per level)
 SKILL_20150317_001986	Overcome
 SKILL_20150317_001987	$Increases Critical Chance when using Sword items.{nl}(Increases Critical by 10% per level)
-SKILL_20150317_001988	$Jump
+SKILL_20150317_001988	Springen
 SKILL_20150317_001989	$You can jump. Press the [X] key to jump.
 SKILL_20150317_001990	$Sidestep
 SKILL_20150317_001991	$Move sideways. Press the arrow keys while holding down the [Shift] key to move sideways. Consumes Stamina.

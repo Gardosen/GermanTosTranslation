@@ -1446,7 +1446,7 @@ UI_20150401_001445	{@st41}{#ffffcc}Price
 UI_20150401_001446	{@st41}{#ffffcc}Status
 UI_20150401_001447	{@st41b}Cancel Preview
 UI_20150401_001448	{@st41}{#ffff00}My iCoins : %s{/}
-UI_20150401_001449	Equipped
+UI_20150401_001449	Ausgeruestet
 UI_20150401_001450	{memo X}Description : {#FFFF00}%s{/}
 UI_20150401_001451	{memo X}Average Level : {#FFFF00}%s{/}
 UI_20150401_001452	{memo X}Conditions

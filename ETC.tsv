@@ -1335,7 +1335,7 @@ ETC_20150317_001334	{memo X}Pilgrimage Trail 31_1
 ETC_20150317_001335	{memo X}Pilgrimage Trail 31_2
 ETC_20150317_001336	{memo X}Pilgrimage Trail 31_3
 ETC_20150317_001337	{memo X}Petrified City 58
-ETC_20150317_001338	Barracks
+ETC_20150317_001338	Barracken/Haeuser
 ETC_20150317_001339	{memo X}Barracks2
 ETC_20150317_001340	{memo X}Pyromancer Barracks
 ETC_20150317_001341	{memo X}Noble Barracks
@@ -1778,8 +1778,8 @@ ETC_20150317_001777	Secondary Weapon Effect
 ETC_20150317_001778	Armor and Pants Effect
 ETC_20150317_001779	Boots Effect
 ETC_20150317_001780	Gloves Effect
-ETC_20150317_001781	Maximum Attack
-ETC_20150317_001782	Minimum Attack
+ETC_20150317_001781	Maximaler Angriff
+ETC_20150317_001782	Minimaler Angriff
 ETC_20150317_001783	Defense Rate
 ETC_20150317_001784	Evasion Rate
 ETC_20150317_001785	Fire Attack Rate
@@ -1891,7 +1891,7 @@ ETC_20150317_001890	Acquired
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	Ein Field Boss ist erschienen!
 ETC_20150317_001893	Item
-ETC_20150317_001894	Map
+ETC_20150317_001894	Karte
 ETC_20150317_001895	Achievement
 ETC_20150317_001896	Mike
 ETC_20150317_001897	Mission
@@ -1911,7 +1911,7 @@ ETC_20150317_001910	You can now use the [{Auto_1}] title.
 ETC_20150317_001911	Attribute
 ETC_20150317_001912	{@st59} Click for more information {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
-ETC_20150317_001914	Use a Skill Point to increase its skill level.
+ETC_20150317_001914	Benutzte einen Skillpunkt um die Faehigkeit zu verbessern.
 ETC_20150317_001915	Equipment
 ETC_20150317_001916	Deaktiviert
 ETC_20150317_001917	Aktiviert
@@ -2507,7 +2507,7 @@ ETC_20150317_002506	{memo X}Covered the supplies with monster's odor.
 ETC_20150317_002507	{memo X}Odor of this monster was already covered on supplies.
 ETC_20150317_002508	Used the bomb!
 ETC_20150317_002509	{memo X}Retrieved the records.
-ETC_20150317_002510	Warping
+ETC_20150317_002510	Teleportieren
 ETC_20150317_002511	You.. Everyone must die!
 ETC_20150317_002512	It won't end like that!
 ETC_20150317_002513	View Collection
@@ -4693,7 +4693,7 @@ ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
 ETC_20150317_004695	{memo X}{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Item Effect :
+ETC_20150317_004696	{#050505}{s22}{b} Item Effekt :
 ETC_20150317_004697	{@st42} Use
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
@@ -5550,7 +5550,7 @@ ETC_20150317_005549	Vegetable Cultivation Count
 ETC_20150317_005550	Succeeded Commission Count
 ETC_20150317_005551	Field Event Completion
 ETC_20150317_005552	Dae-Gil Conversation
-ETC_20150317_005553	Treasure Chests
+ETC_20150317_005553	Schatztruhen
 ETC_20150317_005554	Item Crafting
 ETC_20150317_005555	Beauty Salon
 ETC_20150317_005556	Access Count
@@ -5787,7 +5787,7 @@ ETC_20150317_005786	Enhance Defense
 ETC_20150317_005787	Temporarily increases your defense.
 ETC_20150317_005788	Increase Movement Speed
 ETC_20150317_005789	Temporarily increases your movement speed.
-ETC_20150317_005790	Return
+ETC_20150317_005790	Zurueckkehren
 ETC_20150317_005791	Crystal Thorn
 ETC_20150317_005792	Continuous Recovery
 ETC_20150317_005793	HP recovers by 20% every 10 seconds.
@@ -5914,7 +5914,7 @@ ETC_20150317_005913	Only discovered areas are displayed on the map.
 ETC_20150317_005914	{memo X}You can check the World Map by pressing {img N 40 40}.{nl} Only discovered areas are displayed on the map.
 ETC_20150317_005915	{memo X}You can check the map of relevant area to drag mouse to the activated area.
 ETC_20150317_005916	Basic Info
-ETC_20150317_005917	Inventory
+ETC_20150317_005917	Inventar
 ETC_20150317_005918	{memo X}Your inventory displays items and materials you own, currently equipped items and its weight.
 ETC_20150317_005919	{memo X}You can open the inventory window by pressing {img F2 40 40}.
 ETC_20150317_005920	{memo X}{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character. 
@@ -6018,10 +6018,10 @@ ETC_20150317_006017	{memo X}You can check your character's abilities in the Char
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150317_006020	{memo X}You can preview the effects of a status when you click 
 ETC_20150317_006021	{memo X} in the information tab.
-ETC_20150317_006022	Convenience
+ETC_20150317_006022	Hilfreiches
 ETC_20150317_006023	{memo X}   Use warp to quickly move to your desired area.
 ETC_20150317_006024	{memo X}Activating 
-ETC_20150317_006025	$Goddess Statues
+ETC_20150317_006025	Statue der Goettin
 ETC_20150317_006026	 or activated 
 ETC_20150317_006027	{memo X} enables you to warp to other areas.
 ETC_20150317_006028	{memo X}Approach the Statue to activate it.
@@ -6142,8 +6142,8 @@ ETC_20150317_006142	Scattered Supplies
 ETC_20150317_006143	{memo X}How to retrieve the Supplies Box
 ETC_20150317_006144	The first supplies boxes are scattered in the Eastern Woods.
 ETC_20150317_006145	{memo X}Press {img SPACE 40 40} in front of the Supplies Box to retrieve it.
-ETC_20150317_006146	Companion
-ETC_20150317_006147	Companions
+ETC_20150317_006146	Begleiter
+ETC_20150317_006147	Begleiter
 ETC_20150317_006148	{memo X}Adopt and train Companions to aid you in combat and transport.
 ETC_20150317_006149	Companions can be adopted from the Companion Merchants in town.
 ETC_20150317_006150	{memo X}Companion Merchants help you train your Companions and sell items for them. {nl}Only one Companion can be used at a time.{nl}{nl}
@@ -13295,7 +13295,7 @@ ETC_20150717_013297	{memo X}The gems in your inventory will be dropped when you 
 ETC_20150717_013298	You can earn achievements through character's activities and receive rewards.
 ETC_20150717_013299	{memo X}You can see your characer's achievements by pressing {img F1 40 40} to open the Character window, and going to the Achievements tab.
 ETC_20150717_013300	You can receive rewards for each achievement you earn.
-ETC_20150717_013301	Party Settings
+ETC_20150717_013301	Party Einstellungen
 ETC_20150717_013302	{memo X}Press {img F6 40 40} to open the Party window.
 ETC_20150717_013303	{memo X}You can form a party by pressing the Create Party button. You must not currently be in a party to form a new one.
 ETC_20150717_013304	{memo X}You can set your play style and party members in Members tab.
@@ -13369,7 +13369,7 @@ ETC_20150717_013371	{memo X}Sub-Weapons are equipped in the character's right ha
 ETC_20150717_013372	Press {img C 40 40} to use an equipped Sub-Weapon.
 ETC_20150717_013373	{memo X}Your character will attack with the Sub-Weapon.
 ETC_20150717_013374	{memo X}If the Sub-Weapon has special properties, weapon effects will apply.
-ETC_20150717_013375	Trading between Players
+ETC_20150717_013375	Handeln zwischen Spielern
 ETC_20150717_013376	You can trade your items with other players.
 ETC_20150717_013377	{memo X}[Trade] Press {img mouseclick_right 40 40} on the player you want to trade with and select Trade.
 ETC_20150717_013378	{memo X}Select an item to trade by pressing {img mouseclick_right 40 40} on the item in your inventory.
@@ -13416,7 +13416,7 @@ ETC_20150717_013418	$Pray in front of a Goddess Statue to receive beneficial eff
 ETC_20150717_013419	{memo X}is used to warp to other areas.
 ETC_20150717_013420	{memo X}gives Status Points.
 ETC_20150717_013421	Community
-ETC_20150717_013422	Socialization
+ETC_20150717_013422	Soziales
 ETC_20150717_013423	{memo X}Use the Social Function to interact with other players.
 ETC_20150717_013424	{memo X}[Helper] You can leave your character to be used as a Helper when you log out. You need to be at least Rank 3 and iCoin is consumed.
 ETC_20150717_013425	{memo X}Other players may hire you as Helpers by paying iCoins.
@@ -13677,12 +13677,12 @@ ETC_20150729_013679	Maus : {img mouseclick_left 30 30} klicke mit der Maus auf d
 ETC_20150729_013680	Waehrend der Bedienung mit der Maus, kann auch {img W 30 30}, {img A 30 30}, {img S 30 30}, {img D 30 30} benutzt werden
 ETC_20150729_013681	Als Swordman fuehr ein doppelter Anschlag zum Rennen.
 ETC_20150729_013682	Um diese Hilfe erneut zu sehen druecke {img F10 30 30}
-ETC_20150729_013683	Use Jump to cross over obstacles or up higher places.
-ETC_20150729_013684	Press {img X 40 40} to jump.
-ETC_20150729_013685	Joypad : Press {img a_on_button 40 40} to jump.
-ETC_20150729_013686	Mouse : Press {img space 40 40} to jump.
-ETC_20150729_013687	Press {img Z 40 40} for a basic attack.
-ETC_20150729_013688	Mouse : Press {img Z 40 40} or {img mouseclick_left 40 40} on an enemy to attack.{nl}{nl}Joypad : Press {img x_on_button 40 40} to attack.
+ETC_20150729_013683	Benutzte Springen um Objekte zu ueberwinden oder auf hoeher gelegenede Bereiche zu kommen.
+ETC_20150729_013684	Druecke {img X 30 30} um zu springen.
+ETC_20150729_013685	Gamepad : Druecke {img a_on_button 30 30} um zu springen.
+ETC_20150729_013686	Maus : Druecke {img space 30 30} um zu springen.
+ETC_20150729_013687	Druecke {img Z 30 30} fuer einen normalen Angriff.
+ETC_20150729_013688	Maus : Druecke {img Z 30 30} oder klicke {img mouseclick_left 30 30} auf einen Gegner um anzugreifen.{nl}Gamepad : Druecke {img x_on_button 30 30} um anzugreifen.
 ETC_20150729_013689	Press {img ctrl 40 40} to lock a target.
 ETC_20150729_013690	Press {img Alt 40 40} to immediately stop movement of your character.
 ETC_20150729_013691	Press {img space 40 40} to face your target.
@@ -14090,7 +14090,7 @@ ETC_20150803_014092	You can create up to 5 characters with the basic Lodge. The 
 ETC_20150803_014093	{nl} {nl}There is a Messages Box at the lower right side of your Lodge. You can check messages by selecting it.
 ETC_20150803_014094	Any items or money that are attached in a message can be received by {img mouseclick_right 40 40}.
 ETC_20150803_014095	{nl} {nl}With {img mouseclick_right 40 40}, you can visit the Lodge of other users who you met in the game.
-ETC_20150803_014096	Screen Capture
+ETC_20150803_014096	Bildschirmfoto
 ETC_20150803_014097	Tree of Savior provides a Screen Capture function.
 ETC_20150803_014098	You can take a screenshot using PrintScreen key.
 ETC_20150803_014099	Screenshots taken will be stored in the screenshot folder located in the 'TreeOfSavior\release\screenshot' directory.
