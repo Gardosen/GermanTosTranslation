@@ -75,7 +75,7 @@ UI_20150317_000074	Casting
 UI_20150317_000075	{@st43}Spieleinstellungen{/}
 UI_20150317_000076	{@st64}Benutze die Pfeil Tasten um ein Element auszuwaehlen!
 UI_20150317_000077	{@st43}Entwicklungsinformation {/}
-UI_20150317_000078	{@st43}Klasse auswaehlen
+UI_20150317_000078	{@st43}Auswaehlen
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Circle {/}
 UI_20150317_000081	Wie viele Circles
@@ -85,7 +85,7 @@ UI_20150317_000084	{memo X}{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{memo X}{@st41b}Difficulty{@sti7}%s{/}
 UI_20150317_000086	{@st59}Schließe das Klasseninformationsfenster{/}
 UI_20150317_000087	Advancement Alarm
-UI_20150317_000088	{@st43} Advancement
+UI_20150317_000088	{@st43} Aufstieg
 UI_20150317_000089	{@sti7}{s14} Charakter {/}
 UI_20150317_000090	{@sti8}{s14} Klasse {/}
 UI_20150317_000091	{@st44}Chat{/}
@@ -252,8 +252,8 @@ UI_20150317_000251	{@st41b}Bestaetigen
 UI_20150317_000252	{@st59}Bestaetigen {/}
 UI_20150317_000253	{@st41b}Schließen
 UI_20150317_000254	{@st59}Abbrechen {/}
-UI_20150317_000255	{@st43}Warp{/}
-UI_20150317_000256	{@st59}Schließe das Warp Fenster{/}
+UI_20150317_000255	{@st43}Teleportieren{/}
+UI_20150317_000256	{@st59}Schließe das Teleportationsfenster{/}
 UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Erlaubt es dir schnell zwischen bereits besuchten Regionen zu reisen. {nl} - Das Feature ist aktiviert wenn zwei oder mehr Warp-Punkte verfuegbar sind. {nl} {/}
 UI_20150317_000258	{@st41}Aktueller Standort : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
@@ -1247,7 +1247,7 @@ UI_20150317_001246	{@st41b}%s Ergebnis
 UI_20150317_001247	Quest beendet 25
 UI_20150317_001248	[Sub]Thron Forest
 UI_20150317_001249	{@St42}Gegenstand ausgeruestet
-UI_20150317_001250	{@St44}Rank %s Class Information{/}
+UI_20150317_001250	{@St44}Rang %s Klassen Information{/}
 UI_20150317_001251	Aufstiegsalarm
 UI_20150317_001252	Like Heart
 UI_20150317_001253	N/A
@@ -1404,8 +1404,8 @@ UI_20150323_001403	{memo X}{@st41}Quantity
 UI_20150323_001404	{memo X}{@st41}Consumable Material
 UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{memo X}{@st41}Remove Base Camp
-UI_20150401_001407	{@st43}[Circle %s]{/}
-UI_20150401_001408	{@st43}Skill{/}
+UI_20150401_001407	{@st43}[Zirkel %s]{/}
+UI_20150401_001408	{@st43}Faehigkeiten{/}
 UI_20150401_001409	{@st43}Klassen Tip{/}
 UI_20150401_001410	Klassen Tip
 UI_20150401_001411	{memo X}{@st42}{#ffff00}Lock Target {/}
@@ -1776,7 +1776,7 @@ UI_20150918_001775	Camp Duration
 UI_20150918_001776	Effect
 UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.
 UI_20150918_001778	Personal Warehouse
-UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}
+UI_20150918_001779	{@st41b}Typ : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Schwierigkeitsgrad : {@sti7}%s{/}
 UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Spieler moegen diesen Charakter
 UI_20150918_001782	{@st43}Instanced Dungeons

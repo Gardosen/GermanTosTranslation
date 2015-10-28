@@ -200,9 +200,9 @@ QUEST_LV_0100_20150317_000199	{memo X}$That smell.. I think the purifying device
 QUEST_LV_0100_20150317_000200	$Do you know about the legend of Cunningham?{nl}The legend states that a great demon was sealed here in the Crystal Mine.{nl}There is a book with more details about it at the Mine Worker's Resting Place in Crystal Mine 2F.{nl}
 QUEST_LV_0100_20150317_000201	{memo X}$Anyway, my guess is that the demon is re-awakening and is controlling the Vubbes.{nl}The Bishop's dream and the Legend of Cunningham... I feel they may be a sign that something huge is about to happen.{nl}
 QUEST_LV_0100_20150317_000202	$Only the Goddess would know if it will be hope or despair.{nl}
-QUEST_LV_0100_20150317_000203	$The purifier can be easily fixed by anyone, but it may be hard to find the parts needed.{nl}In that case, use the compass that I gave you to search for them.{nl}
+QUEST_LV_0100_20150317_000203	Die Filter koennen von jedem repariert werden. Aber es koennte schwer werden die benoetigten Teile zu finden.{nl}In diesem Fall, benutzte einfach den Kompass den ich dir gegeben habe, um sie zu finden.{nl}
 QUEST_LV_0100_20150317_000204	$Well then, I have some things to do so I will meet you at 3F of the Crystal Mine.{nl}In the name of the Goddess, I pray for success in your struggles.
-QUEST_LV_0100_20150317_000205	$If you can't find the parts needed to repair the purifier, use the compass I gave you.{nl}It'll help you find them.
+QUEST_LV_0100_20150317_000205	Benutzte den Kompass um die Teile die du benoetigst, um die Filter zu reparieren, zu finden.{nl}
 QUEST_LV_0100_20150317_000206	$Village Aunt
 QUEST_LV_0100_20150317_000207	$You've come to save us? Right?
 QUEST_LV_0100_20150317_000208	$It's alright, We are going to be okay now!
@@ -465,7 +465,7 @@ QUEST_LV_0100_20150317_000464	$I don't think of making a lot of money. I just ne
 QUEST_LV_0100_20150317_000465	$I think we have to help each other at difficult times like these. I hope I can be of help.
 QUEST_LV_0100_20150317_000466	$Can I help you? I'll show you what we have prepared.
 QUEST_LV_0100_20150317_000467	$Please feel free to come back if you need anything.
-QUEST_LV_0100_20150317_000468	$You don't necessarily have to buy things so feel free to look around.
+QUEST_LV_0100_20150317_000468	Du musst nichts kaufen, schau dich einfach nur um.
 QUEST_LV_0100_20150317_000469	$I sold items even before the monsters appeared.
 QUEST_LV_0100_20150317_000470	$Don't you feel good just looking at the items even if you don't buy them?
 QUEST_LV_0100_20150317_000471	$You can find me anytime if you want a closer look at the items I'm selling.
@@ -480,7 +480,7 @@ QUEST_LV_0100_20150317_000479	$I am tired of living a life running away from the
 QUEST_LV_0100_20150317_000480	$Thinking of the peaceful days in the past makes me feel like I'm dreaming.{nl}Being awake is like a very long nightmare.
 QUEST_LV_0100_20150317_000481	$I want to run away to another place if I can.{nl}Is there a future for the kingdom?
 QUEST_LV_0100_20150317_000482	$I can't sleep well nowadays.{nl}It's all because of those monsters.
-QUEST_LV_0100_20150317_000483	$To live at peace in a world where monsters are running wild... Impossible.
+QUEST_LV_0100_20150317_000483	In Frieden in einer Welt leben wo Monster frei herumlaufen... Unmoeglich.
 QUEST_LV_0100_20150317_000484	$Does salvation even exist?{nl}Hanging on each day in hopes of the Goddess's return is really miserable.
 QUEST_LV_0100_20150317_000485	$We can't go out nor can we just stay. Is this really ok?{nl}I can't seem to find an answer no matter how much I think about it.
 QUEST_LV_0100_20150317_000486	$Getting used to a world where we live together with monsters, what could be more terrible and scary?
@@ -579,7 +579,7 @@ QUEST_LV_0100_20150317_000578	Cataphract Master
 QUEST_LV_0100_20150317_000579	$Cataphracts have the power to charge though any enemies that block their way.{nl}They are brave warriors whom fight on the front lines.
 QUEST_LV_0100_20150317_000580	May I help you? {nl}Fortunately, we have some potions left in stock.
 QUEST_LV_0100_20150317_000581	Looking for some good equipment? {nl} I have prepared the best ones available. {nl} Look around, the prices aren't bad either.
-QUEST_LV_0100_20150317_000582	Oh, this anvil is my small gift to you for saving me. {nl} It's a useful item that can upgrade your equipment. {nl}
+QUEST_LV_0100_20150317_000582	Oh, dieser Amboss ist mein Geschenk an dich, fuer meine Rettung. {nl} Es ist ein nuetzlicher Gegenstand mit dem du deine Ausruestung verbessern kannst. {nl}
 QUEST_LV_0100_20150317_000583	Well then, see you in the mines.
 QUEST_LV_0100_20150317_000584	$Miners' Village Mayor
 QUEST_LV_0100_20150317_000585	{memo X}
@@ -1362,9 +1362,9 @@ QUEST_LV_0100_20150317_001361	{memo X}My men should have returned by now but the
 QUEST_LV_0100_20150317_001362	My men said they were going to Delon Shelter. {nl} The Golem may appear anytime and yet they are so carefree. 
 QUEST_LV_0100_20150317_001363	$Rocktortuga is coming this way. {nl}Please lend us your strength to make sure it doesn't break through our defenses. 
 QUEST_LV_0100_20150317_001364	Have you seen any baby Poata? {nl} We better drive them out quickly so that the mother Poata won't keep showing up. 
-QUEST_LV_0100_20150317_001365	The Vubbes have built their base outside the village. {nl} Now that we don't even have troops, something serious might happen if we don't drive them out of their base. 
-QUEST_LV_0100_20150317_001366	Thank you so much for your bravery. 
-QUEST_LV_0100_20150317_001367	How can I express my gratitude. {nl}I'm sure the Goddess sent you to us.
+QUEST_LV_0100_20150317_001365	Die Vubbes haben ihre Basis außerhalb der Stadt gebaut. {nl} Da wir jetzt nicht einmal Soldaten hier haben, koennte etwas Furchtbares passieren,{nl} wenn wir sie nicht aus ihrer Basis vertreiben. 
+QUEST_LV_0100_20150317_001366	Vielen Dank fuer deinen Mut. 
+QUEST_LV_0100_20150317_001367	Wie soll ich nur meine Dankbarkeit zeigen. {nl}Ich bin mir sicher das die Goettin dich zu uns geschickt hat.
 QUEST_LV_0100_20150317_001368	This patient told us that Chafer has appeared. {nl} Can you help us out and go check on it?
 QUEST_LV_0100_20150317_001369	Now, I have to treat this patient... So thank you.
 QUEST_LV_0100_20150317_001370	Those refugees are probably having a hard time getting here because of the monsters.
@@ -1548,12 +1548,12 @@ QUEST_LV_0100_20150317_001547	$Somehow I'll treat this man. Can you defeat the m
 QUEST_LV_0100_20150317_001548	$In order for these people to safely return to the village,{nl}we have to defeat these monsters.
 QUEST_LV_0100_20150317_001549	$Thank you. The patient also regained his consciousness. {nl} Though.. I think there is a problem.
 QUEST_LV_0100_20150317_001550	{memo X}$This has to be because there is the evidence of salvation or something. {nl}I'm sure that's where the villagers were taken away to.
-QUEST_LV_0100_20150317_001551	$The Goddess must have sent help.. {nl}Follow the pathway on the right to find the Vubbe Outpost.
+QUEST_LV_0100_20150317_001551	Die Goettin hat Hilfe gesandt.. {nl}Folge dem Weg nach Osten um zum Außenposten der Vubbe's zu gelangen.
 QUEST_LV_0100_20150317_001552	$Thank you for saving me. {nl} Seems like you're the Revelator who's looking for evidence of salvation. {nl}
 QUEST_LV_0100_20150317_001553	{memo X}$I was taken in late so I was left here, the others were all brought to the mine. {nl} I'll tell you the rest of the story in the Crystal Mine.
-QUEST_LV_0100_20150317_001554	$You came. {nl} First, let's clear the wagons blocking the way into the mines. {nl}
-QUEST_LV_0100_20150317_001555	$The wagons can be demolished with explosives that I have prepared. {nl}I'm concerned about the Vubbes that will come after hearing the explosion {nl}but with your skills, I think we'll be fine.
-QUEST_LV_0100_20150317_001556	$I'll let you take care of the Vubbes. {nl} I have other businesses to attend to inside. {nl}
+QUEST_LV_0100_20150317_001554	Du bist gekommen. {nl} Lass uns als erstes die Wagons die den Weg blockieren wegraeumen. {nl}
+QUEST_LV_0100_20150317_001555	Die Wagons koennen mit Sprengstoff, den ich vorbereitet habe, aus dem Weg geraeumt{nl} werden. Ich mache mir sorgen das die Vubbes von der Explosion angelockt werden.{nl}Aber ich denke mit dir an unserer Seite, sind wir sicher.
+QUEST_LV_0100_20150317_001556	Ich ueberlasse dir die Vubbe's. {nl} Ich muss mich noch um andere Geschaefte kuemmern. {nl}
 QUEST_LV_0100_20150317_001557	$Thank you. Thank you very much. {nl} You're a savior of our town. {nl}
 QUEST_LV_0100_20150317_001558	$Oh, have you seen a girl about 5 years of age? {nl} I heard she was together with them when the villagers were kidnapped.
 QUEST_LV_0100_20150317_001559	$Don't just stand there. {nl} Move if you want to help or go away.
@@ -1561,7 +1561,7 @@ QUEST_LV_0100_20150317_001560	$Mine Manager
 QUEST_LV_0100_20150317_001561	$I'm hanging on somehow but I'm losing strength in my arms.
 QUEST_LV_0100_20150317_001562	$I should have been more careful. {nl} It's all my fault.
 QUEST_LV_0100_20150317_001563	$I have my roots deep in hunting. {nl} Don't worry about me. Go look after the others.
-QUEST_LV_0100_20150317_001564	$As the mayor, I cannot just leave the village like this. {nl} How could the Goddesses be so indifferent?
+QUEST_LV_0100_20150317_001564	Als ihr Buergermeister kann ich die Dorfbewohner nicht einfach im Stich lassen. {nl} Wie kann das der Goettin nur so gleichgueltig sein?
 QUEST_LV_0100_20150317_001565	{memo X}$Aren't you a Revelator? The Goddess must've sent help. {nl} In order to enter the mine, you must save a young man name Vaidotas first. {nl}He was kidnapped and brought to the Vubbe Outpost. {nl} Please, I'm begging for your help.
 QUEST_LV_0100_20150317_001566	Kind Owl Sculptor
 QUEST_LV_0100_20150317_001567	There are so many wandering spirits these days.{nl}This really..
@@ -1718,7 +1718,7 @@ QUEST_LV_0100_20150317_001717	Attributes can give additional abilities to stats 
 QUEST_LV_0100_20150317_001718	Mastering these attributes will help your skills in combat.
 QUEST_LV_0100_20150317_001719	Will is the force to create magic power. {nl} There is not a stronger weapon for a wizard than that. 
 QUEST_LV_0100_20150317_001720	{memo X}The archer gives an arrow as a present, but the enemy take it as death.
-QUEST_LV_0100_20150317_001721	$There are those who fit with the sword and there are those who don't. {nl} It means that you should find something of value rather than readily throw your life away. 
+QUEST_LV_0100_20150317_001721	Es gibt welche die zu einem Schwert passen und es gibt die wo es nicht passt. {nl} Das bedeutet du solltest etwas anderes von Wert finden, anstelle dein Leben wegzuwerfen.
 QUEST_LV_0100_20150317_001722	$A Ranger's arrows target many, not only one.{nl}
 QUEST_LV_0100_20150317_001723	{memo X}It's very likely you'll be exposed to the enemy when you shoot arrows. {nl} So my theory is that you have to use whatever comes in handy, like shields or stones. 
 QUEST_LV_0100_20150317_001724	$One thing I'd like to tell you... I think your attack lacks something. {nl} If you learn skills, you'll be able to make more powerful attacks when you need to.
@@ -2370,13 +2370,13 @@ QUEST_LV_0100_20150317_002369	$Decline
 QUEST_LV_0100_20150317_002370	$Talk to the Scout (1)
 QUEST_LV_0100_20150317_002371	$I'm just here to tell the troops to assemble
 QUEST_LV_0100_20150317_002372	$Quickly run away
-QUEST_LV_0100_20150317_002373	$Talk to the Scout (2)
+QUEST_LV_0100_20150317_002373	Sprich mit dem Scout (2)
 QUEST_LV_0100_20150317_002374	$I'll find the missing belongings.
 QUEST_LV_0100_20150317_002375	$I'll wait until you find it
 QUEST_LV_0100_20150317_002376	{memo X}$key to check the map #7
-QUEST_LV_0100_20150317_002377	$Talk to Knight Titas (3)
-QUEST_LV_0100_20150317_002378	$Alright
-QUEST_LV_0100_20150317_002379	$Cancel
+QUEST_LV_0100_20150317_002377	Sprich mit Knight Titas (3)
+QUEST_LV_0100_20150317_002378	Nagut
+QUEST_LV_0100_20150317_002379	Abbrechen
 QUEST_LV_0100_20150317_002380	$Talk to the Search Scout
 QUEST_LV_0100_20150317_002381	$There is an order to assemble
 QUEST_LV_0100_20150317_002382	$Nothing. Never mind
@@ -2617,40 +2617,40 @@ QUEST_LV_0100_20150317_002616	$I will bring it later
 QUEST_LV_0100_20150317_002617	$Historian Kepeck (2)
 QUEST_LV_0100_20150317_002618	$I will bring the supplies back
 QUEST_LV_0100_20150317_002619	$Tell him to take some rest and look for them slowly
-QUEST_LV_0100_20150317_002620	$Purify the Toxic Fumes on the 1st Floor
-QUEST_LV_0100_20150317_002621	$Ask how to repair the purifier
-QUEST_LV_0100_20150317_002622	$That seems difficult
+QUEST_LV_0100_20150317_002620	Befreie Flur F1 vom giftigen Rauch
+QUEST_LV_0100_20150317_002621	Frage wie man die Filter repariert
+QUEST_LV_0100_20150317_002622	Das sieht kompliziert aus
 QUEST_LV_0100_20150317_002623	{memo X}$About the monsters in the mine
 QUEST_LV_0100_20150317_002624	{memo X}Incomplete Purifier (1)
 QUEST_LV_0100_20150317_002625	{memo X}Checking Purifier /HANDLING_LEFT/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002626	{memo X}Notice/Some parts of the purifier are missing. {nl} Chack for any parts on the floor! #5
 QUEST_LV_0100_20150317_002627	{memo X}Of the component assembly/GROPE/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002628	{memo X}Notice/Some parts are still missing. {nl} Find the missig parts from Vubbes with question marks on top of its head. #5
-QUEST_LV_0100_20150317_002629	$Incomplete Purifier
+QUEST_LV_0100_20150317_002629	Kaputte Filter
 QUEST_LV_0100_20150317_002630	{memo X}Notice/!/Some parts of the Purifier are missing. {nl} Find the parts from the Vubbe with a question mark on its head. #5
 QUEST_LV_0100_20150317_002631	{memo X}Repairing Purifier/HANDLING_LEFT/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002632	{memo X}Notice/Repair complete. {nl}Entrance Purifier is activated again. #5
 QUEST_LV_0100_20150317_002633	{memo X}Purifier parts scattered on the floor
 QUEST_LV_0100_20150317_002634	$Purify the Toxic Fumes on the 2nd Floor
 QUEST_LV_0100_20150317_002635	{memo X}Notice/All purifers are fixed. {nl}Go to 3rd Gallery and meet Vaidotas. #5
-QUEST_LV_0100_20150317_002636	$Fix the Central Purifier (1)
+QUEST_LV_0100_20150317_002636	Rep. den zentralen Filter (1)
 QUEST_LV_0100_20150317_002637	{memo X}Opening the valve /HANDLING_LEFT/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002638	{memo X}Notice/critical device seems to be broken or lost. {nl} find that the parts be replaced using a compass mine! #5
-QUEST_LV_0100_20150317_002639	$Fix the Central Purifier (2)
+QUEST_LV_0100_20150317_002639	Rep. den zentralen Filter (2)
 QUEST_LV_0100_20150317_002640	{memo X}Notice/Mining compass is pointing to the four zones. Go to {nl} 4 zones: Searching for spare parts. #5
 QUEST_LV_0100_20150317_002641	{memo X}Notice/Kill the Bearkaras that appeared in front of the spare purifier! #5
 QUEST_LV_0100_20150317_002642	{memo X}Of the replacement parts/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002643	{memo X}Notice/Succesfully repaired the Central Purifier! {nl} The Purifiers is working now. #5
 QUEST_LV_0100_20150317_002644	$Cyclops' Attack in the Crystal Mine
 QUEST_LV_0100_20150317_002645	{memo X}Of looking at/MAKING/2/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002646	$Activate the Passage Purifier (1)
+QUEST_LV_0100_20150317_002646	Akt. den Filter im Gang (1)
 QUEST_LV_0100_20150317_002647	{memo X}Notice/important parts seemed to have disappeared. {nl} Find the parts using compass mine! #5
 QUEST_LV_0100_20150317_002648	{memo X}Notice/Mining compass is pointing to the 6th zone.{nl}Go to 6th zone and search for the parts!#5
-QUEST_LV_0100_20150317_002649	$Activate the Passage Purifier (2)
+QUEST_LV_0100_20150317_002649	Akt. den Filter im Gang (2)
 QUEST_LV_0100_20150317_002650	{memo X}Notice/Mining compass is pointing to District 6. {nl} Go to District 6 and find the parts! #5
 QUEST_LV_0100_20150317_002651	{memo X}Notice /!/Compass is pointing to Specter Monarch. {nl} Kill Specter Monarch and regain your part. #5
 QUEST_LV_0100_20150317_002652	{memo X}Notice/!/Found the parts! {nl}Return to passage purifier and fix it #5
-QUEST_LV_0100_20150317_002653	$Activate the Passage Purifier (3)
+QUEST_LV_0100_20150317_002653	Akt. den Filter im Gang (3)
 QUEST_LV_0100_20150317_002654	{memo X}Notice/Succesfully repaired the Passage Purifier! {nl} Purifier is now working. #5
 QUEST_LV_0100_20150317_002655	$Circulation Purifier Issues (1)
 QUEST_LV_0100_20150317_002656	{memo X}Checking Purifier/LOOK/3/TRACK_BEFORE/None
@@ -2749,7 +2749,7 @@ QUEST_LV_0100_20150317_002748	Seal of the Royal Family (4)
 QUEST_LV_0100_20150317_002749	I will unleash the seal of the divine place
 QUEST_LV_0100_20150317_002750	About King Zachariel's Seal
 QUEST_LV_0100_20150317_002751	{memo X}Unleashing the seal../MAKING/4/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002752	Investigating Miners' Village (1)
+QUEST_LV_0100_20150317_002752	Miners' Village Erkunden(1)
 QUEST_LV_0100_20150317_002753	Retrieve the relief supplies
 QUEST_LV_0100_20150317_002754	I'll help retrieve the relief supplies
 QUEST_LV_0100_20150317_002755	Mine Manager Brinker's Dedication (1)
@@ -2765,15 +2765,15 @@ QUEST_LV_0100_20150317_002764	I'll defeat the menacing monsters
 QUEST_LV_0100_20150317_002765	Kidnapped villagers (1) - Delete
 QUEST_LV_0100_20150317_002766	I'll save the village residents
 QUEST_LV_0100_20150317_002767	Take time to think for a while
-QUEST_LV_0100_20150317_002768	Invasion of the Vubbes
-QUEST_LV_0100_20150317_002769	I'll go to the Vubbe's base and defeat them
-QUEST_LV_0100_20150317_002770	Disregard
-QUEST_LV_0100_20150317_002771	Kidnapped Villagers
+QUEST_LV_0100_20150317_002768	Invasion der Vubbes
+QUEST_LV_0100_20150317_002769	Ich gehe zur Basis der Vubbe's und werde sie besiegen
+QUEST_LV_0100_20150317_002770	Ablehnen
+QUEST_LV_0100_20150317_002771	Die entfuehrten Dorfbewohner
 QUEST_LV_0100_20150317_002772	{memo X}By freeing the degree of Tasman/MAKING/2/TRACK_AFTER/None
-QUEST_LV_0100_20150317_002773	Suspicious Treasure Chest
-QUEST_LV_0100_20150317_002774	To the Mines
+QUEST_LV_0100_20150317_002773	Verdaechtige Schatztruhe
+QUEST_LV_0100_20150317_002774	Zu den Minen
 QUEST_LV_0100_20150317_002775	I'll destroy the wagons
-QUEST_LV_0100_20150317_002776	I'm not yet prepared
+QUEST_LV_0100_20150317_002776	Ich bin noch nicht bereit
 QUEST_LV_0100_20150317_002777	Big problem
 QUEST_LV_0100_20150317_002778	Tell you will find out what the reason is.
 QUEST_LV_0100_20150317_002779	Unendurable itching
@@ -3986,7 +3986,7 @@ QUEST_LV_0100_20150317_003985	{memo X}$As soon as you thought you could finally 
 QUEST_LV_0100_20150317_003986	{memo X}$Talk to Aras again
 QUEST_LV_0100_20150317_003987	{memo X}$Defeated the attacking Vubbes in a close fight. Return to Aras and get permission to enter the Miners' Village.
 QUEST_LV_0100_20150317_003988	$Defeat the monsters that are chasing the refugees
-QUEST_LV_0100_20150317_003989	$Talk to Vaidotas
+QUEST_LV_0100_20150317_003989	Sprich mit Vaidotas
 QUEST_LV_0100_20150317_003990	$You arrived at Crystal Mine 3F, where the villagers may be imprisoned. Talk to Vaidotas about finding the residents.
 QUEST_LV_0100_20150317_003991	$Search for the villagers
 QUEST_LV_0100_20150317_003992	$Vaidotas says the villagers are trapped somewhere on the 3rd floor. {nl}Try to look for them.
@@ -4301,20 +4301,20 @@ QUEST_LV_0100_20150317_004300	{memo X}Check the floor. You need to find missing 
 QUEST_LV_0100_20150317_004301	{memo X}Assemble the Entrance Purifier on the 1st Floor
 QUEST_LV_0100_20150317_004302	{memo X}You found a part for the Entrance Purifier. Assemble it to the Purifier.
 QUEST_LV_0100_20150317_004303	{memo X} Find %s on the floor
-QUEST_LV_0100_20150317_004304	$Retrieve Purifier Parts
+QUEST_LV_0100_20150317_004304	Erhalte Filterteile
 QUEST_LV_0100_20150317_004305	$Retrieve Purifier Parts from the Vubbe with a question mark on its head.
-QUEST_LV_0100_20150317_004306	$Repair the Entrance Purifier on 1F
+QUEST_LV_0100_20150317_004306	Repariere den Filter am Eingang im ersten Flur
 QUEST_LV_0100_20150317_004307	$Found the missing parts of the Entrance Purifier. Try to assemble and activate it.
 QUEST_LV_0100_20150317_004308	{memo X}Search for Purifier parts on the floor
 QUEST_LV_0100_20150317_004309	$Repair the Purifiers on 2F
 QUEST_LV_0100_20150317_004310	$Repair all the Purifiers on 2F
 QUEST_LV_0100_20150317_004311	$Inspect the Central Purifier
 QUEST_LV_0100_20150317_004312	$The Mine Compass is pointing towards the Central Purifier on 1F. Inspect the purifier. 
-QUEST_LV_0100_20150317_004313	$Use the Mine Compass
-QUEST_LV_0100_20150317_004314	$Use the Mine Compass to find the Spare Purifier located somewhere on 1F.
-QUEST_LV_0100_20150317_004315	$Search District 4 for the Spare Purifier
-QUEST_LV_0100_20150317_004316	$The Mine Compass is pointing towards District 4. Follow its lead and find the Spare Purifier that can be used to repair the Purifier.
-QUEST_LV_0100_20150317_004317	$Get parts from the Spare Purifier in District 4.
+QUEST_LV_0100_20150317_004313	Benutze den Minenkompass
+QUEST_LV_0100_20150317_004314	Benutzte den Minenkompass um den Ersatzfilter zu finden der sich auf dem ersten Flur befindet.
+QUEST_LV_0100_20150317_004315	Durchsuche Bezirk 4 nach dem Ersatzfilter
+QUEST_LV_0100_20150317_004316	Der Minenkompass zeigt auf Bezirk 4. Folge ihm und finde den Ersatzfilter, um die Teile zu holen die du brauchst um den Filter zu reparieren.
+QUEST_LV_0100_20150317_004317	Hohl die Teile vom Ersatzfilter in Bezirk 4.
 QUEST_LV_0100_20150317_004318	$Get the replacement parts from the Spare Purifier.
 QUEST_LV_0100_20150317_004319	$Obtained spare parts for the Central Purifier. Replace the parts of the Purifier.
 QUEST_LV_0100_20150317_004320	$Defeat Cyclops in the Crystal Mine
@@ -4500,13 +4500,13 @@ QUEST_LV_0100_20150317_004499	$Tell the Healer Lady to go back to the village ag
 QUEST_LV_0100_20150317_004500	$Defeat the monsters
 QUEST_LV_0100_20150317_004501	$The lady says she can't go back with her patients because there are too many monsters. Defeat the monsters for her. 
 QUEST_LV_0100_20150317_004502	$Defeated the monsters. Tell the lady to go back to the village. 
-QUEST_LV_0100_20150317_004503	$Talk to the Miners' Village Mayor
+QUEST_LV_0100_20150317_004503	Sprich mit dem Buergermeister von Miners' Village
 QUEST_LV_0100_20150317_004504	$Talk to the mayor again to enter the Crystal Mines. 
-QUEST_LV_0100_20150317_004505	$Rescue Vaidotas who is kidnapped by the Vubbes
+QUEST_LV_0100_20150317_004505	Rette Vaidotas die von den Vubbes entfuehrt wurde
 QUEST_LV_0100_20150317_004506	$The Revelation of the Goddess is important but you can't leave the kidnapped villagers. To save the villagers trapped in the Crystal Mine, go to the Vubbe Outpost and save Vaidotas first.
 QUEST_LV_0100_20150317_004507	$Intercept the Vubbe raid
 QUEST_LV_0100_20150317_004508	$The Mayor seems to have a problem. Talk to him.
-QUEST_LV_0100_20150317_004509	$Defeat the Vubbes that are occupying the village
+QUEST_LV_0100_20150317_004509	Besiege die Vubbes die die Stadt belagern
 QUEST_LV_0100_20150317_004510	$Vubbes are taking over the village! Let's drive them out.
 QUEST_LV_0100_20150317_004511	$Seems like you drove out the Vubbes. Inform the Village Mayor about it.
 QUEST_LV_0100_20150317_004512	$Defeat the Vubbes
@@ -4517,8 +4517,8 @@ QUEST_LV_0100_20150317_004516	{memo X}Red Vubbe Fighter that abruptly appeared
 QUEST_LV_0100_20150317_004517	{memo X}Red Vubbe Fighter appeared when you kicked the box! Defeat it.
 QUEST_LV_0100_20150317_004518	There were no kidnapped people but only Vubbes. You better go back to Vaitodas.
 QUEST_LV_0100_20150317_004519	$You need to remove the wagons in order to enter the mines. Talk to Vaitodas about how to remove them.
-QUEST_LV_0100_20150317_004520	$Defeat the Vubbes that heard the explosives and started to attack.
-QUEST_LV_0100_20150317_004521	Vaitodas says the wagons can be destroyed with explosives. But the Vubbes could attack when they hear the explosives, so you must be cautious. 
+QUEST_LV_0100_20150317_004520	Besiege die Vubbes die durch die Explosion angelockt wurden.
+QUEST_LV_0100_20150317_004521	Vaitodas sagt, dass die Wagons durch Sprengstoff zerstoert werden koennen. Aber die Vubbes koennten die Explosion hoeren und angreifen, sei also vorsichtig. 
 QUEST_LV_0100_20150317_004522	{memo X}Enter Crystal Mine 1st Gallery
 QUEST_LV_0100_20150317_004523	You removed the wagons and can finally enter the Crystal Mines. Meet Vaitodas at Crystal Mine 1F.
 QUEST_LV_0100_20150317_004524	Talk to Kind Owl Sculpture
@@ -7166,7 +7166,7 @@ QUEST_LV_0100_20150714_007165	{memo X}$Notice/The compass is pointing to Distric
 QUEST_LV_0100_20150714_007166	{memo X}$Notice/The compass is pointing to District 6.{nl}Go to District 6 and look for the part#5
 QUEST_LV_0100_20150714_007167	{memo X}$Notice/!/The compass is pointed at the Specter Monarch!{nl}Defeat Specter Monarch and retrieve the parts!#5
 QUEST_LV_0100_20150714_007168	{memo X}Notice/!/You've found the parts!{nl}Returnto the purifier at the hall and repair it!#5
-QUEST_LV_0100_20150714_007169	Repairing the purifier
+QUEST_LV_0100_20150714_007169	Filter wird repariert
 QUEST_LV_0100_20150714_007170	{memo X}Notice/You've repaired the purifier at the hall!{nl}The purifier is activating!#5
 QUEST_LV_0100_20150714_007171	{memo X}$Notice/It seems that there is a problem with the purifier pipe{nl}Check the pipes at in District 3#5
 QUEST_LV_0100_20150714_007172	$Checking the purifier pipes
@@ -7924,11 +7924,12 @@ QUEST_LV_0100_20150908_007923	It is written that the next document is hidden at 
 QUEST_LV_0100_20150908_007924	The spirit of Vakis disappeared after leaving the completed documents!
 QUEST_LV_0100_20150908_007925	The barrier stone that is blocking the closed area is collapsing!
 QUEST_LV_0100_20150908_007926	Ginklas appeared after finishing the recordings!{nl}Defeat Ginklas!
-QUEST_LV_0100_20150908_007927	Checking the purifier
+QUEST_LV_0100_20150908_007927	Untersuche den Filter
+QUEST_LV_0100_20150908_007927	Untersuche den Reiniger
 QUEST_LV_0100_20150908_007928	Some parts of the purifier are missing!{nl}Look for the parts from Vubbes that have question marks above their heads!
 QUEST_LV_0100_20150908_007929	The repair is done!{nl}The purifier at the entrance is activating again!
 QUEST_LV_0100_20150908_007930	You've repaired all purifiers!{nl}Meet Bidotas at 3rd floor!
-QUEST_LV_0100_20150908_007931	Opening the valve
+QUEST_LV_0100_20150908_007931	Oeffne das Ventil
 QUEST_LV_0100_20150908_007932	It seems that some important device is broken{nl}Use the mine compass to look for anything that could be the subsitute for the broken device
 QUEST_LV_0100_20150908_007933	The mine compass is pointing at 4th district{nl}Go to 4th district and look for a spare part.
 QUEST_LV_0100_20150908_007934	Defeat Beakaras that appeared in front of the spare purifier!
@@ -8145,10 +8146,10 @@ QUEST_LV_0100_20150918_008145	$Stonemason Canolyn told you that a monster called
 QUEST_LV_0100_20150918_008146	$Find Historian Rexipher
 QUEST_LV_0100_20150918_008147	$Collect Hogma Teeth
 QUEST_LV_0100_20150918_008148	Pursue Rexipher at the Royal Mausoleum Entrance
-QUEST_LV_0100_20151001_008149	Do you know the legend of Cunningham? {nl}It's a legend about how a great demon was trapped in the Crystal Mine in the past. {nl}
-QUEST_LV_0100_20151001_008150	I assume that the trapped demon has finally woken up to control the Vubbes. {nl}The dream of the Bishop and the Legend of Cunningham... {nl}I wonder if it is a forewarning of a great event that's about to happen.{nl}
-QUEST_LV_0100_20151001_008151	Only the Goddess knows if it will be hope or despair. {nl}You can read the details about it in a book found at Mine Worker's Resting Place on 2F.
-QUEST_LV_0100_20151001_008152	Anyway, it seems like the Vubbes surely destroyed the purifiers. {nl}You better fix it first before the hostages run out of air. 
+QUEST_LV_0100_20151001_008149	Kennst du die Legende von Cunningham? {nl}Es ist die Legende darueber wie ein starker Daemon, in der Vergangenheit, hier in der Crystal Mine gefangen wurde. {nl}
+QUEST_LV_0100_20151001_008150	Ich denke das dieser Daemon aufgewacht ist und die Vubbe's kontroliert. {nl}Der Traum ueber den Bischof und die Legende von Cunningham... {nl}Ich frage mich ob das eine Warnung ist, zu einem großen Ereignis das uns bevorsteht.{nl}
+QUEST_LV_0100_20151001_008151	Nur die Goettin weis ob die Hoffnung oder die Verzweiflung siegen wird. {nl}Du findest mehr Details dazu in einem Buch das sich am Mine Worker's Resting Place im 2. Stock befindet.
+QUEST_LV_0100_20151001_008152	Wie auch immer, es scheint als wenn die Vubbe's die Filter zerstoert haben. {nl}Du solltest sie besser schnell reparieren, bevor den Geiseln die Luft ausgeht. 
 QUEST_LV_0100_20151001_008153	I will protect this village for my dead comrades.
 QUEST_LV_0100_20151001_008154	If the Bokor Master told you that I would know it..{nl}There's one place that comes to mind.{nl}
 QUEST_LV_0100_20151001_008155	You're saying something that's really hard to believe. {nl}You mean this revelation is Goddess Laima and we have to collect all these for the Goddess to return?{nl}
@@ -8256,13 +8257,13 @@ QUEST_LV_0100_20151001_008256	I heard a Revelator defeated the Demon Lord that d
 QUEST_LV_0100_20151001_008257	My colleague is dead?{nl}That can't be. Only if I had not tempted him...{nl}
 QUEST_LV_0100_20151001_008258	This map is useless to me now, without my colleague.{nl}Please pray that my colleague goes to the Goddess safely.
 QUEST_LV_0100_20151001_008259	I can't leave with everything behind...
-QUEST_LV_0100_20151001_008260	What do we do? {nl}The Vubbes rushed in and kidnapped the villagers!
-QUEST_LV_0100_20151001_008261	You are the Revelator, right? {nl}The Goddess must have helped. {nl}
+QUEST_LV_0100_20151001_008260	Was tun wir jetzt? {nl}Die Vubbes haben uns ueberfallen und die Dorfbewohner entfuehrt!
+QUEST_LV_0100_20151001_008261	Du bist der Erloeser, richtig? {nl}Die Goettin hat uns erhoert. {nl}
 QUEST_LV_0100_20151001_008262	This is all because of the dream of the bishop of Klaipeda. {nl}What is he talking about evidence of salvation in the Crystal Mine. I have never seen such thing. {nl}
 QUEST_LV_0100_20151001_008263	I'm not sure if that is the reason but the Vubbes suddenly rushed out of the Crystal Mine. {nl}Those Vubbes took all the villagers they see into the mines. {nl}
 QUEST_LV_0100_20151001_008264	Please... Save the villagers. {nl}I beg of you!
-QUEST_LV_0100_20151001_008265	Let's go to the Crystal Mine. {nl}I will tell you the rest of the story in the Crystal Mine entrance. 
-QUEST_LV_0100_20151001_008266	Hold on! There is something you should know. {nl}We went into the mines to save the kidnapped villagers too.{nl}But the purifiers were broken and the mine was filled with toxic fumes, so we failed every time. {nl}
+QUEST_LV_0100_20151001_008265	Lass uns zur Crystal Mine gehen. {nl}Ich werde dir den Rest der Geschichte am Eingang der Crystal Mine erzaehlen. 
+QUEST_LV_0100_20151001_008266	Warte! Da ist etwas das du wissen solltest. {nl}Wir sind auch in die Minen gegangen um die entfuerhten Dorfbewohner zu retten.{nl}Aber wir sind gescheitert, die Filter sind kaputt. Dadurch ist die Mine mit giftigem Gas gefüllt. {nl}
 QUEST_LV_0100_20151001_008267	Ye..Yes..{nl}Find a young man named Vaidotas!{nl}
 QUEST_LV_0100_20151001_008268	That fellow knows well about the purifiers in the Crystal Mine. {nl}It hasn't been long since he was taken away by the Vubbes so he must be in the Vubbe Outpost. 
 QUEST_LV_0100_20151001_008269	{memo X}You want to learn my skills?{nl}It's not hard for me to teach you, but would you be able to handle it?

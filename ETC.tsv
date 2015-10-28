@@ -1838,12 +1838,12 @@ ETC_20150317_001837	You can not use your skills while riding your Companion.
 ETC_20150317_001838	Shall we light a bonfire?
 ETC_20150317_001839	There is no firewood.
 ETC_20150317_001840	OK
-ETC_20150317_001841	Yes
-ETC_20150317_001842	No
-ETC_20150317_001843	Message
-ETC_20150317_001844	[Notice]
-ETC_20150317_001845	Full
-ETC_20150317_001846	Logout
+ETC_20150317_001841	Ja
+ETC_20150317_001842	Nein
+ETC_20150317_001843	Nachricht
+ETC_20150317_001844	[Notiz]
+ETC_20150317_001845	Voll
+ETC_20150317_001846	Ausloggen
 ETC_20150317_001847	{Ul} item! {/}
 ETC_20150317_001848	Hunting Count
 ETC_20150317_001849	Emerged Area
@@ -1932,7 +1932,7 @@ ETC_20150317_001931	Price
 ETC_20150317_001932	's Haus
 ETC_20150317_001933	Dieser Kanal ist geschlossen.
 ETC_20150317_001934	iCoin Shop
-ETC_20150317_001935	Defense
+ETC_20150317_001935	Verteidigung
 ETC_20150317_001936	Forward shooting!
 ETC_20150317_001937	Assemble!
 ETC_20150317_001938	Rush!
@@ -1940,7 +1940,7 @@ ETC_20150317_001939	Retreat!
 ETC_20150317_001940	Withdraw!
 ETC_20150317_001941	{@st45w3}{s18}{Auto_1} Silver {/}
 ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}
-ETC_20150317_001943	{@st54}{b} Reward(s) {/}
+ETC_20150317_001943	{@st54}{b} Belohnung(en) {/}
 ETC_20150317_001944	 day(s)
 ETC_20150317_001945	 hour(s)
 ETC_20150317_001946	 minute(s)
@@ -1953,7 +1953,7 @@ ETC_20150317_001952	Are open
 ETC_20150317_001953	There is no reward list of the treasure chest.
 ETC_20150317_001954	The reward setting is incorrect.
 ETC_20150317_001955	Destroying Tree Root Crystals will help recover your Stamina!
-ETC_20150317_001956	Class
+ETC_20150317_001956	Klasse
 ETC_20150317_001957	{@st41b} Title {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Achievement Score: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
 ETC_20150317_001959	{@st41b} NPC Adventure Score: {/}
@@ -2052,7 +2052,7 @@ ETC_20150317_002051	[Nicht Verfügbar]
 ETC_20150317_002052	[Verfügbar]
 ETC_20150317_002053	[Im Gange]
 ETC_20150317_002054	[Unvollständig]
-ETC_20150317_002055	[Vollständig]
+ETC_20150317_002055	[Komplett]
 ETC_20150317_002056	Wiederholbar
 ETC_20150317_002057	Sammle Wood Essence
 ETC_20150317_002058	Offering blood of Black-Eyed Maize to the altar
@@ -2265,7 +2265,7 @@ ETC_20150317_002264	{memo X}Blessed from Sanctum, it is able to make a power att
 ETC_20150317_002265	{memo X}Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
 ETC_20150317_002266	Worship the Goddess Statue
 ETC_20150317_002267	Use warp
-ETC_20150317_002268	Worshiping
+ETC_20150317_002268	Beten
 ETC_20150317_002269	$Picking up flowers for offering
 ETC_20150317_002270	$Plucked the flower!
 ETC_20150317_002271	{memo X}I lost in the fragrance of flowers.
@@ -2383,7 +2383,7 @@ ETC_20150317_002382	{memo X}Absorbed the energy of the guardian
 ETC_20150317_002383	{memo X}Moving.
 ETC_20150317_002384	{memo X}Do not move.
 ETC_20150317_002385	{memo X}{@st59} Increase SP and SP recovery {/}
-ETC_20150317_002386	{nl} Quest Completed
+ETC_20150317_002386	{nl} Quest Beendet
 ETC_20150317_002387	$I saw it. It's obviously not Deadborn.
 ETC_20150317_002388	$It's not Deadborn.
 ETC_20150317_002389	$Why would I have followed it if it is Deadborn?
@@ -2399,7 +2399,7 @@ ETC_20150317_002398	Female characters only
 ETC_20150317_002399	Item
 ETC_20150317_002400	Item needed
 ETC_20150317_002401	 required
-ETC_20150317_002402	Subquest Conditions{nl}
+ETC_20150317_002402	Teilbedingungen{nl}
 ETC_20150317_002403	You have not completed the pre-requisite of this quest. You cannot proceed with the party.
 ETC_20150317_002404	{memo X}Murky energy is flowing out. Run away.
 ETC_20150317_002405	{memo X}Successfully destroyed the Demon Summoner
@@ -2536,7 +2536,7 @@ ETC_20150317_002535	{memo X}Found all parts needed for repairs. {nl} Return to t
 ETC_20150317_002536	{memo X}The Magic is slowly leaking out from the Jewel of Prominence. {nl} It's better to quickly find and remove the cause.
 ETC_20150317_002537	{memo X}Stand in front of the valve to check it.
 ETC_20150317_002538	{memo X}Please proceed after defeating the Bearkaras.
-ETC_20150317_002539	Found the parts! {nl} Return to the purifier at the entrance and fix it.
+ETC_20150317_002539	Teile gefunden! {nl} Kehre zum Filter am Eingang zurueck und repariere ihn.
 ETC_20150317_002540	Parts Found!{nl} Return to the central purifier and fix it.
 ETC_20150317_002541	{memo X}You defeated the Stone Whale that was interrupting your search. {nl} Find the remaining parts of the main purifier.
 ETC_20150317_002542	Operating Guardian Stone
@@ -3770,7 +3770,7 @@ ETC_20150317_003769	wearing at least {/} armor will be of help
 ETC_20150317_003770	Open your inventory and right-click an item to equip
 ETC_20150317_003771	Wear the {@st54}Thick clothes{/} that you have.
 ETC_20150317_003772	There is {@st54} Think clothes {/}in the inventory so wear that
-ETC_20150317_003773	Your character level has increased
+ETC_20150317_003773	Deiner Charakter Level hat sich erhoeht
 ETC_20150317_003774	Level up tx failure. Request levelup tx until successful
 ETC_20150317_003775	Keyboard
 ETC_20150317_003776	to increase stats
@@ -4211,8 +4211,8 @@ ETC_20150317_004210	 hour(s)
 ETC_20150317_004211	 min
 ETC_20150317_004212	 sec
 ETC_20150317_004213	 selected
-ETC_20150317_004214	{nl}Are you ready to advance your character?{nl}(Cannot be changed until the next advancement.)
-ETC_20150317_004215	{@st44}Next Class Rank Information
+ETC_20150317_004214	{nl}Bist du bereit mit deinem Charakter aufzusteigen?{nl}(Dies kann bis zum naechsten Aufstieg nicht geaendert werden.)
+ETC_20150317_004215	{@st44}Naechste Klassen Rang Information
 ETC_20150317_004216	Current Job Information
 ETC_20150317_004217	{memo X}{@st43}Date :
 ETC_20150317_004218	{memo X}{@st43}Playtime :
@@ -4294,7 +4294,7 @@ ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
 ETC_20150317_004296	{@st43} Carry out the mission
-ETC_20150317_004297	{@st41} Reward(s)
+ETC_20150317_004297	{@st41} Belohnung(en)
 ETC_20150317_004298	{@st41b} Experience:
 ETC_20150317_004299	${@st41} Required Item
 ETC_20150317_004300	{@st45tw} Forfeit
@@ -4310,7 +4310,7 @@ ETC_20150317_004309	EXP:
 ETC_20150317_004310	Please select your reward.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
 ETC_20150317_004312	{@st41} repeat quests finalized {/}
-ETC_20150317_004313	{@st41} Select a reward
+ETC_20150317_004313	{@st41} Waehle eine Belohnung
 ETC_20150317_004314	{@st41} Reward(s) {/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
 ETC_20150317_004316	{@st41b} Increase selected number
@@ -5222,10 +5222,10 @@ ETC_20150317_005221	Throneweaver has appeared!
 ETC_20150317_005222	Bait in place
 ETC_20150317_005223	Help me!
 ETC_20150317_005224	Skilled Mechanic
-ETC_20150317_005225	Where did the Goddess go..
-ETC_20150317_005226	Give us peace and salvation..
-ETC_20150317_005227	Please listen to our prayers..
-ETC_20150317_005228	For peace and happiness..
+ETC_20150317_005225	Wo ist die Goettin hingegangen?..
+ETC_20150317_005226	Gib uns Frieden und Erloesung..
+ETC_20150317_005227	Bitte erhoere unsere Gebete..
+ETC_20150317_005228	Fuer Frieden und Froehlichkeit..
 ETC_20150317_005229	$Look over there! The spiders are coming!
 ETC_20150317_005230	$Liliya suddenly turned into a Carnivore!
 ETC_20150317_005231	{memo X}Carnivore Liliya
@@ -6097,7 +6097,7 @@ ETC_20150317_006097	Element attributes have the following compatibilities
 ETC_20150317_006098	{memo X}type of skills are more effective to attack monsters wearing
 ETC_20150317_006099	Cloth Armor
 ETC_20150317_006100	{memo X}It is effective if you attack monster of type
-ETC_20150317_006101	Equipment Repair
+ETC_20150317_006101	Ausruestung Reparieren
 ETC_20150317_006102	{memo X}You can ask the blacksmith to repair items with decreased durability.
 ETC_20150317_006103	{memo X}You can't use an item with 0 durability.
 ETC_20150317_006104	{memo X}You can repair an item with decreased durability through the repair menu.{nl}Select the item you want to repair
@@ -6242,11 +6242,11 @@ ETC_20150317_006242	{S18} and {#001100} attacking you will be able to obtain a l
 ETC_20150317_006243	{memo X}{S18} {#001100} items when you attack the Treasure monster will drop !!! {/}
 ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the Space key in the vicinity of the red flag of NPC. {/}
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
-ETC_20150317_006246	$Swordsmen sind Krieger mit starken physikalischen Faehigkeiten.{nl}Sie benutzen eine Vielzahl an Waffen um an vorderster{nl} Front den Gegner im Nahkampf zu bekaempfen.
+ETC_20150317_006246	Swordsmen sind Krieger mit starken physikalischen Faehigkeiten.{nl}Sie benutzen eine Vielzahl an Waffen um an vorderster{nl} Front den Gegner im Nahkampf zu bekaempfen.
 ETC_20150317_006247	Highlander
 ETC_20150317_006248	{memo X}Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
-ETC_20150317_006250	Peltastas are defensive warriors who use shields to block enemy attacks and provoke the enemy.
+ETC_20150317_006250	Peltastas sind defensive Krieger welche ein Schild verwenden um Angriffe zu blocken und Gegner zu provozieren.
 ETC_20150317_006251	Hoplites use spears with a long attack range. They gain a bonus when fighting against strong, large-sized enemies.
 ETC_20150317_006252	Centurion
 ETC_20150317_006253	{memo X}Centurions command the battle with formations.
@@ -7299,7 +7299,7 @@ ETC_20150317_007299	Velheider
 ETC_20150317_007300	Monsters have appeared near Rafflesia.
 ETC_20150317_007301	Hoglan
 ETC_20150317_007302	Accessory Shop
-ETC_20150317_007303	Miscellaneous Items
+ETC_20150317_007303	Gemischte Items
 ETC_20150317_007304	{memo X}Skip Tutorial
 ETC_20150317_007305	Use Druid Attributes
 ETC_20150317_007306	Use Sadhu Attributes
@@ -8114,7 +8114,7 @@ ETC_20150317_008114	Kepa AI
 ETC_20150317_008115	Kepa AI2
 ETC_20150317_008116	Strike
 ETC_20150317_008117	Chapparition's shadow
-ETC_20150317_008118	Vubbe Fighter is very tired.
+ETC_20150317_008118	Vubbe Fighter is sehr muede.
 ETC_20150317_008119	Get rid of the summon things to be summoned by Specter Monarch
 ETC_20150317_008120	if not removed, The lighting is going to be continuous.
 ETC_20150317_008121	Tombstone
@@ -10329,8 +10329,8 @@ ETC_20150323_010330	Are you sure you want to sell this?
 ETC_20150323_010331	Awakening Option
 ETC_20150323_010332	Can only be used in Tenet Garden
 ETC_20150323_010333	Can only be used in Ramstis Ridge Area
-ETC_20150323_010334	{@st42b}Advancement Date: 
-ETC_20150323_010335	{@st42b}Play Time: 
+ETC_20150323_010334	{@st42b}Aufstiegs Datum: 
+ETC_20150323_010335	{@st42b}Spielzeit: 
 ETC_20150323_010336	{memo X}The people from the village were demons.{nl}Run away to portal of Veja Ravine.
 ETC_20150323_010337	Great Cathedral completion stone
 ETC_20150323_010338	Briquetting
@@ -10913,7 +10913,7 @@ ETC_20150414_010914	Voices: Voice of the King
 ETC_20150414_010915	Secret codes come across your mind.
 ETC_20150414_010916	Charge Monster Power
 ETC_20150414_010917	Spider Web
-ETC_20150414_010918	Highlanders are tough fighters who use two-handed swords. They make enemies collide with each other or the terrain, so they are great for handling multiple enemies.
+ETC_20150414_010918	Highlander sind starke Krieger die {nl}hauptsaechlich Zweihand-Schwerter{nl} verwenden. Sie koennen Gegner mit {nl}der Umgebung oder einander kolli-{nl}dieren lassen, was sie perfekt macht {nl}um Gegner Gruppen zu kontrolieren.
 ETC_20150414_010919	Centurions command the battle with formations. They control other soldiers to use different formations depending on the situation.
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins the Corsairs' party becomes a pirate.
 ETC_20150414_010921	Attack, Party
@@ -11595,7 +11595,7 @@ ETC_20150511_011596	Activate the 1st sealed device
 ETC_20150511_011597	Activate the 2nd sealed device
 ETC_20150511_011598	Activate the 3rd sealed device
 ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : Starts to decrease slowly when you play with the equipped equipment.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150511_011600	]{nl}Quest Completed!
+ETC_20150511_011600	]{nl}Quest Beendet!
 ETC_20150511_011601	Why now..!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh..!
@@ -12481,7 +12481,7 @@ ETC_20150714_012482	$You've found the lubricant!{nl}Go back to repair the Magic 
 ETC_20150714_012483	Now all pipes are working properly!{nl}Activate circulating purification device again
 ETC_20150714_012484	You've found all materials that are needed for the repair!{nl}Go back to the main purification device and repair
 ETC_20150714_012485	$It seems that the Jewel of Prominence is leaking magic power!{nl}You should find the cause and eliminate it quickly!
-ETC_20150714_012486	Stay in front of the valve to observe
+ETC_20150714_012486	Stelle dich vor das Ventil um es zu betrachten
 ETC_20150714_012487	Defeat Bearkaras and progress 
 ETC_20150714_012488	You've defeated the Stone Whale that was impeding your search for the parts.{nl}Search for the other parts of the Main Purifier
 ETC_20150714_012489	The monsters do not show any reaction
@@ -13279,7 +13279,7 @@ ETC_20150717_013281	Wing of Vibora, Lena
 ETC_20150717_013282	 in Klaipeda based on the character's Adventure Index.
 ETC_20150717_013283	{memo X}You can upgrade each ability by using Status Points.
 ETC_20150717_013284	{memo X}You can preview the effects from the screen below.
-ETC_20150717_013285	Advancement
+ETC_20150717_013285	Aufstieg
 ETC_20150717_013286	{memo X}You can advance to another class when your Class Level has reached 15.
 ETC_20150717_013287	{memo X}After selecting another class to advance to, you will receive an advancement quest from the Class Master. Complete the quest to advance further.
 ETC_20150717_013288	{memo X}Once you begin the advancement quest, you cannot change your class until the next advancement.
@@ -13349,10 +13349,10 @@ ETC_20150717_013351	 will appear. Hit the
 ETC_20150717_013352	 three times to enhance the item.
 ETC_20150717_013353	{memo X}When enhancing a weapon beyond +5, Potential will be consumed on failure and its effects will be reset. The item will be destroyed when Potential drops to zero.
 ETC_20150717_013354	Enhancement penalties occur beyond +2 for armors, bracelets, and necklaces.
-ETC_20150717_013355	You can't use an item with 0 durability.
+ETC_20150717_013355	Items mit 0 Haltbarkeit sind nicht verwendbar.
 ETC_20150717_013356	{memo X}Repair items in the Repair window.{nl}Select an item, then click Repair to restore durability to 100%.
-ETC_20150717_013357	A repair fee will be charged. Higher ranked items are usually more expensive to repair.
-ETC_20150717_013358	Use Gems on your items for additional effects.
+ETC_20150717_013357	Es wird eine Gebuehr erhoben. Um so hoeher der Rang, um so teurer ist das reparieren.
+ETC_20150717_013358	Benutzte Juwelen in deiner Ausruestung fuer zusaetzliche Effekte.
 ETC_20150717_013359	Gems can be used for extra item effects and are obtained from dungeons.
 ETC_20150717_013360	{memo X}Gems can be upgraded through Gem Enhancement. Gem Abrasives or other Gems are required.
 ETC_20150717_013361	{memo X}Insert Gems into the item sockets to add additional effects.
@@ -13370,7 +13370,7 @@ ETC_20150717_013372	Press {img C 40 40} to use an equipped Sub-Weapon.
 ETC_20150717_013373	{memo X}Your character will attack with the Sub-Weapon.
 ETC_20150717_013374	{memo X}If the Sub-Weapon has special properties, weapon effects will apply.
 ETC_20150717_013375	Handeln zwischen Spielern
-ETC_20150717_013376	You can trade your items with other players.
+ETC_20150717_013376	Du kannst deine Gegenstaende mit anderen Spielern tauschen.
 ETC_20150717_013377	{memo X}[Trade] Press {img mouseclick_right 40 40} on the player you want to trade with and select Trade.
 ETC_20150717_013378	{memo X}Select an item to trade by pressing {img mouseclick_right 40 40} on the item in your inventory.
 ETC_20150717_013379	Double-check the items on offer and press Accept and Confirm to complete the trade.
@@ -13530,7 +13530,7 @@ ETC_20150717_013532	You do not have the required attribute to mount this Compani
 ETC_20150717_013533	{ThemeName} ({Count} characters)
 ETC_20150717_013534	Like +1
 ETC_20150717_013535	{Name} likes {Who}!
-ETC_20150717_013536	{@st41b}Retrieval Item
+ETC_20150717_013536	{@st41b}Benoetigte Gegenstaende
 ETC_20150717_013537	Use
 ETC_20150717_013538	After smelling the food, Infrogalas Mages are rushing in
 ETC_20150717_013539	Lured Infrogalas Mage
@@ -13704,7 +13704,7 @@ ETC_20150729_013706	You can learn attributes from a Master NPC.
 ETC_20150729_013707	Silver is required to learn attributes. {nl}Also, some attributes require time to learn.
 ETC_20150729_013708	You can use an attribute after you've learned it, {nl}and you cannot learn another attribute while you are studying one.
 ETC_20150729_013709	Some attributes can be disabled if needed.
-ETC_20150729_013710	You can advance your class when you reach Class Lv 15.
+ETC_20150729_013710	Du kannst deine Klasse wechseln wenn du Klassen Level 15 erreichst.
 ETC_20150729_013711	After selecting a class to advance to, you will receive an advancement quest from the Class Master.
 ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
 ETC_20150729_013713	Complete the quest to advance.
@@ -13771,9 +13771,9 @@ ETC_20150729_013773	 can be purchased from the Tools Merchant or obtained from m
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the anvil, then select an item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its power increases. 
 ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0.
-ETC_20150729_013777	Repair items with low durability through the Blacksmith NPC.
-ETC_20150729_013778	Repair items with low durability in the Item Repair window.
-ETC_20150729_013779	{nl}{nl}Select an item, then click Repair to restore its durability to 100%.
+ETC_20150729_013777	Repariere Ausruestung mit einer niedrigen Haltbarkeit bei dem Blacksmith NPC.
+ETC_20150729_013778	Repariere Gegenstaende mit einer niedrigen Haltbarkeit im Reparierfenster.
+ETC_20150729_013779	{nl}{nl}Waehle ein Item aus und druecke Reparieren um die Halbarkeit wieder auf 100% zu bringen.
 ETC_20150729_013780	The effects differ based on the type of Gem and Equipment.
 ETC_20150729_013781	{nl}{nl}You can increase the Gem level through Gem Enhancement in Rest Mode.
 ETC_20150729_013782	Gem Enhancement requires other Gems or Gem Abrasives.
@@ -14011,7 +14011,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Erhoeht phisischen Angriff, kritischen Angriff{nl} und das maximale Tragegewicht{/}
+ETC_20150729_014017	{@st59} Erhoeht den physischen Angriff, kritischen Angriff{nl} und das maximale Tragegewicht{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
@@ -14245,7 +14245,7 @@ ETC_20150918_014247	I heard a noise..
 ETC_20150918_014248	Help me!!
 ETC_20150918_014249	The monsters that led the soldiers to death has appeared!{nl}Defeat them and pray for their rest!
 ETC_20150918_014250	Euahhh!!
-ETC_20150918_014251	As you opened the box, the Red Vubbe Warrior yells at you!
+ETC_20150918_014251	Als du die Truhe geoeffnet hast, fingen die Red Vubbe Warrior an zu schreien!
 ETC_20150918_014252	Understood!!
 ETC_20150918_014253	Many are injured.. We need help!
 ETC_20150918_014254	Cross here after drinking the enhanced thorny flower powders!
