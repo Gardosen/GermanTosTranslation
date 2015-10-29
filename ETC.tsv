@@ -3145,9 +3145,9 @@ ETC_20150317_003144	{memo X}Guardian of the contract emerged!
 ETC_20150317_003145	Guardian of the contract
 ETC_20150317_003146	Box
 ETC_20150317_003147	Ask what's going on
-ETC_20150317_003148	Leave
+ETC_20150317_003148	Beenden
 ETC_20150317_003149	I can't you grow something like a garden
-ETC_20150317_003150	Leave
+ETC_20150317_003150	Beenden
 ETC_20150317_003151	Ask if it wasn't a crush
 ETC_20150317_003152	Give a pat on the shoulder
 ETC_20150317_003153	No
@@ -3535,7 +3535,7 @@ ETC_20150317_003534	Chase the Hamming!
 ETC_20150317_003535	Defeat the Large Kepa!
 ETC_20150317_003536	Defeat the sealed Golem!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	$Ask about the dream
+ETC_20150317_003538	Frage nach dem Traum
 ETC_20150317_003539	{memo X}Ask about the story
 ETC_20150317_003540	{memo X}Pester and ask about the story
 ETC_20150317_003541	{memo X}You must talk with the guards first
@@ -4440,8 +4440,8 @@ ETC_20150317_004439	Nobble Vekarabe 4
 ETC_20150317_004440	Unlucky Sculptures
 ETC_20150317_004441	Suspicious Solider
 ETC_20150317_004442	Recover HP
-ETC_20150317_004443	Weapons
-ETC_20150317_004444	Armor
+ETC_20150317_004443	Waffen
+ETC_20150317_004444	Ruestung
 ETC_20150317_004445	N/A
 ETC_20150317_004446	Goblin_Spear_red: Vubber Attacker: 24
 ETC_20150317_004447	Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Archer_red: Vubber Attacker: 15
@@ -4776,12 +4776,12 @@ ETC_20150317_004775	There is no PC
 ETC_20150317_004776	I drink a visible pollen stimulants
 ETC_20150317_004777	Meshumumaruko was found in the visible flowers!
 ETC_20150317_004778	Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum_Big: Meshumuma: 51
-ETC_20150317_004779	Regarding the five Goddesses
-ETC_20150317_004780	About Goddess Ausrine
-ETC_20150317_004781	About Goddess Laima
-ETC_20150317_004782	About Goddess Gabija
-ETC_20150317_004783	About Goddess Zemyna
-ETC_20150317_004784	About Goddess Vakarine
+ETC_20150317_004779	Ueber die fuenf Goettinnen
+ETC_20150317_004780	Ueber die Goettin Ausrine
+ETC_20150317_004781	Ueber die Goettin Laima
+ETC_20150317_004782	Ueber die Goettin Gabija
+ETC_20150317_004783	Ueber die Goettin Zemyna
+ETC_20150317_004784	Ueber die Goettin Vakarine
 ETC_20150317_004785	Ask about Medis Diena
 ETC_20150317_004786	Ask what happened next
 ETC_20150317_004787	I found a lever handle latch!
@@ -4805,7 +4805,7 @@ ETC_20150317_004804	Enhancing the Thorn Flower Powder Stimulant
 ETC_20150317_004805	Drank the stimulant
 ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Obtaining the Revelation
-ETC_20150317_004808	Repair
+ETC_20150317_004808	Reparieren
 ETC_20150317_004809	Secondary Equipment
 ETC_20150317_004810	One-handed Sword
 ETC_20150317_004811	Two-handed Sword
@@ -4824,12 +4824,12 @@ ETC_20150317_004823	It's so good!
 ETC_20150317_004824	*munch munch gulp gulp*
 ETC_20150317_004825	You must learn the necessary attribute to equip this item.
 ETC_20150317_004826	Learn immediately
-ETC_20150317_004827	Buy items for Companion
-ETC_20150317_004828	Adopt Companion
-ETC_20150317_004829	Train Companion
-ETC_20150317_004830	Not available in Klaipeda.
+ETC_20150317_004827	Begleiter Utensilien
+ETC_20150317_004828	Begleiter adoptieren
+ETC_20150317_004829	Begleiter trainieren
+ETC_20150317_004830	Nicht verfuegbar in Klaipeda.
 ETC_20150317_004831	Tool Shop
-ETC_20150317_004832	Benefits of having a Companion
+ETC_20150317_004832	Vorteile eines Begleiters
 ETC_20150317_004833	{memo X}Defeat the monsters guarding the Demon magic circle.
 ETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Spiritually Enchanted Sap
@@ -4886,9 +4886,9 @@ ETC_20150317_004885	  allows you to teleport back to the Quest NPC.{nl}{@st50}Yo
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The destroyer shaman doll has destroyed the Panto totem!
 ETC_20150317_004888	{memo X}The holy beads have been charged by attacking the Demon forces.
-ETC_20150317_004889	$Status Point Distribution
-ETC_20150317_004890	$Skill Point Distribution
-ETC_20150317_004891	Move to Klaipeda Entrance
+ETC_20150317_004889	Statuspunkteverteilung
+ETC_20150317_004890	Skillpunkteverteilung
+ETC_20150317_004891	Gehe zum Klaipeda Eingang
 ETC_20150317_004892	Complete[300]
 ETC_20150317_004893	{memo X}The Gesti is near.{nl}Try to not get detected!
 ETC_20150317_004894	{memo X}Acquired a piece of barrier.{nl}Put into the central pillar
@@ -6112,7 +6112,7 @@ ETC_20150317_006112	{memo X}Right-click on the gem to highlight items in your in
 ETC_20150317_006113	{memo X}The Gem will be inserted into the item that you select.
 ETC_20150317_006114	{memo X}Gems inserted can be seen in the item tooltip.
 ETC_20150317_006115	{memo X}To remove the a Gem, use {nl}
-ETC_20150317_006116	Socket Management
+ETC_20150317_006116	Sockel Verwaltung
 ETC_20150317_006117	Gem Extraction
 ETC_20150317_006118	{memo X} .
 ETC_20150317_006119	{memo X}Caution: Potential is consumed when you remove Gems.
@@ -13515,9 +13515,9 @@ ETC_20150717_013517	You disconnected from the server{nl}due to a verification fa
 ETC_20150717_013518	Your password is incorrect.
 ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To create a new character, you must first delete an existing character.
 ETC_20150717_013520	Please enter your account password.
-ETC_20150717_013521	Entering the world...
-ETC_20150717_013522	Do you want to learn this attribute?
-ETC_20150717_013523	Connecting to the server...
+ETC_20150717_013521	Welt wird betreten...
+ETC_20150717_013522	Willst du dieses Attribut lernen ?
+ETC_20150717_013523	Verbinde zum Server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	You will be moved to another channel, due to this one being too full.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?

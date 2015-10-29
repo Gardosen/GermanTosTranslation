@@ -33,7 +33,7 @@ QUEST_20150317_000033	{memo X}That's no good! {nl}I can't work for nothing, even
 QUEST_20150317_000034	Wandering Merchant
 QUEST_20150317_000035	Like a dandelion's seeds, I am merely one who follows the wind. {nl}Since we've met in such a curious way, perhaps you could spare a moment to view my curiosities?
 QUEST_20150317_000036	Kristina
-QUEST_20150317_000037	Welcome! {nl}You're looking for a travel companion, right? {nl}Then you won't find a better place for partners than here!
+QUEST_20150317_000037	Willkommen! {nl}Du suchst nach einem Begleiter fuer deine Abenteuer, richtig? {nl}Dann wirst du keinen besseren Platz finden als diesen hier um einen Begleiter zu finden!
 QUEST_20150317_000038	{memo X}You can make your companions watch you fight or train special attributes. {nl}Earn enough affection, and you can even buy some cool equipment!
 QUEST_20150317_000039	{memo X}Raising your companion's affection will increase riding stamina and evasion! {nl}So what do you think? Is that enough to make you consider one?
 QUEST_20150317_000040	{memo X}The box requires a matching key.
@@ -78,7 +78,7 @@ QUEST_20150317_000078	There's nothing to see here but steam and Vubbes. {nl}Wait
 QUEST_20150317_000079	The land needs our attention as well. {nl}The world still isn't ruined… right?
 QUEST_20150317_000080	If we stayed respectful, then we'd still have that favor and knowledge. {nl}We should all consider whether or not this mess is our fault because we relied on the Goddess for everything.
 QUEST_20150317_000081	Bulletin Board
-QUEST_20150317_000082	Welcome to the mining town of Klaipeda!
+QUEST_20150317_000082	Willkommen in der Minenstadt Klaipeda!
 QUEST_20150317_000083	Indifferent Widow
 QUEST_20150317_000084	I'm not sure I understand it completely, but what I'm sure of is that the Goddesses didn't disappear all at once.
 QUEST_20150317_000085	The first to disappear was the Goddess Gabija. {nl}I heard it was a very long time ago. {nl}One by one, starting with Gabija, they stopped replying.
@@ -102,7 +102,7 @@ QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than 
 QUEST_20150317_000103	$This is what people who have seen a Goddess in their dreams are being called.
 QUEST_20150317_000104	$I thought the Revelators' visions were madness at first. {nl}The Goddesses have been gone for a long time after all.
 QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding to our prayers ever since Medis Diena four years ago?
-QUEST_20150317_000106	$You can find Class Masters all around the kingdom. {nl}Why don't you visit them and learn what you can?
+QUEST_20150317_000106	Du findest Klassenmeister ueberall im Koenigreich. {nl}Du solltest sie besuchen um etwas zu lernen?
 QUEST_20150317_000107	$You don't know about Medis Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
 QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
 QUEST_20150317_000109	$If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
@@ -171,7 +171,7 @@ QUEST_20150317_000171	Insolent humans.
 QUEST_20150317_000172	Just you wait. This isn't the end. {nl}Pray with your heart that Laima will save this world.
 QUEST_20150317_000173	Klaipeda Officer
 QUEST_20150317_000174	{memo X}Welcome, welcome. {nl}Sir Uska is waiting at Klaipeda's central square. {nl}Oh, did you need anything else, first?
-QUEST_20150317_000175	Do you want to head to Klaipeda's gate right away?
+QUEST_20150317_000175	Willst du direkt zu den Toren von Klaipeda?
 QUEST_20150317_000176	Temporary Operator
 QUEST_20150317_000177	Please change this character's status.
 QUEST_20150317_000178	NPC HIDE/UNHIDE Setting!
@@ -381,13 +381,13 @@ QUEST_20150317_000381	You feel something suspicious inside.
 QUEST_20150317_000382	Worried Wife
 QUEST_20150317_000383	{memo X}Have you ever had your fortune told? It is quite accurate, isn't it? {nl}Goddess Laima knows everything. Fate, Foresight, and Luck. {nl}I think she may have known beforehand about all these disasters coming.
 QUEST_20150317_000384	{memo X}I pray to Goddess Gabija everyday. It keeps the house warm. {nl}As you may already know, Goddess Gabija controls fire and since I'm a housewife, I am close to fire as well.
-QUEST_20150317_000385	My husband always prays to Goddess Zemyna. {nl}If you want a good potato harvest, you shouldn't get on her bad side. {nl}Goddess Zemyna is the Goddess of Earth. She oversees farms and agriculture.
-QUEST_20150317_000386	Speaking of… {nl}About the plants mutating since four years ago…
-QUEST_20150317_000387	I wonder what Goddess Zemyna will think. {nl}Everything will be revealed when the Goddess returns but… {nl}Oh, what blasphemous words I speak.
-QUEST_20150317_000388	Have you ever seen the stars glittering red in the night sky? {nl}That's the very symbol of Goddess Vakarine. {nl}She leads the evening star and wakes Goddess Ausrine the following day.
-QUEST_20150317_000389	She also oversees energy and rest so she is the guardian of travellers like you. {nl}Shout Goddess Vakarine's name three times when your legs hurt and you'll feel much better.
-QUEST_20150317_000390	What are you doing here? {nl}Did the Goddess also tell you to go to Klaipeda in your dreams?
-QUEST_20150317_000391	Still following me after all that? {nl}Fine, struggle all you want.
+QUEST_20150317_000385	Mein Mann bete immer zur Goettin Zemyna. {nl}Wenn du eine gute Kartoffelernte haben willst, solltest du mit ihr im reinen sein. {nl}Die Goettin Zemyna ist die Goetting der Erde. Sie bewacht die Felder und Ernten.
+QUEST_20150317_000386	Davon zu sprechen… {nl}Darueber wie die Pflanzen vor 4 Jahren mutiert sind…
+QUEST_20150317_000387	Ich frage mich was die Goettin Zemyna denkt. {nl}Es wird alles enthuellt werden wenn die Goettinnen zurueckkehren… {nl}Oh, welch blasphemische Worte ich spreche...
+QUEST_20150317_000388	Hast du die Sterne jemals rot im Nachthimmel funkeln sehen? {nl}Das ist das Zeichen der Goettin Vakarine. {nl}Sie wacht ueber den Abendstern und weckt die Goettin Ausrine am naechsten Tag.
+QUEST_20150317_000389	Sie wacht auch ueber die Ernegie und Erhohlung, sie ist also ein Schutzengel fuer Menschen wie dich. {nl}Rufe den Namen der Goettin Vakarine's drei mal, wenn deine Beine weh tun und du wirst dich viel besser fuehlen.
+QUEST_20150317_000390	Was machst du hier? {nl}Hat die Goettin dir in deinem Traum auch befohlen nach Klaipeda zu gehen?
+QUEST_20150317_000391	Du folgst mir immernoch zu nach alle dem? {nl}Nagut, kaempfe soviel du willst.
 QUEST_20150317_000392	{memo X}There is a Maze Tower near Fedimian known to have been built by Archmage Agailla Flurry. {nl}The tower has never been revealed and no entrance can be found.
 QUEST_20150317_000393	{memo X}Well, that's why some say it's just a made up story… {nl}But recently there have been people claiming to have come from there.
 QUEST_20150317_000394	{memo X}The size of Goddess Zemyna's Statue will amaze you. {nl}Even if half of it was buried underground because of the Great Earthquake, {nl}the remaining half would still be too huge for all of it to be seen at once.
@@ -408,7 +408,7 @@ QUEST_20150317_000408	Help the herbalists before you get into training. {nl}I ne
 QUEST_20150317_000409	My father told me Klaipeda is also becoming a difficult place to live.
 QUEST_20150317_000410	There are many people who want to buy things but it's not easy to get what they want. {nl}We have enough food supplies for now but it won't last long.
 QUEST_20150317_000411	I heard the town men can't make their way back because of the monsters. {nl}We have food but it will run out soon…
-QUEST_20150317_000412	How will we live if this continues to go on? {nl}Where have all the Goddesses gone?
+QUEST_20150317_000412	Wie sollen wir nur leben wenn es so weiter geht? {nl}Wo sind all die Goettinnen nur hingegangen?
 QUEST_20150317_000413	It's a good idea to sell the various items you get from killing monsters, {nl}but using them to craft new items isn't such a bad idea either.
 QUEST_20150317_000414	Although we need to be self-sufficient, things like recipes are better bought from the merchants. {Nl}You need to know how to make it before you actually craft one yourself.
 QUEST_20150317_000415	Be sure to kill any sparkling monsters you encounter. You might get some great items as trophies. {nl}And what about buying me some drinks for the good information I just gave you?
@@ -800,7 +800,7 @@ QUEST_20150317_000800	Please save them and the Spring Light Woods.
 QUEST_20150317_000801	{memo X}Investigation Unit
 QUEST_20150317_000802	{memo X}Why have so many more monsters appeared?
 QUEST_20150317_000803	{memo X}The monsters have ruined the entire harvest.
-QUEST_20150317_000804	As you may already know, our kingdom has five major Goddesses and other Goddesses who assist them. {nl}But nobody knows where all of them are now.
+QUEST_20150317_000804	Wie du sicherlich weist, hat unser Koenigreich 5 große Goettinen und andere Goettinnen {nl} die ihnen helfen. Aber niemand weis, wo sie nun alle sind.
 QUEST_20150317_000805	Flower Shop Lady
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the Goddesses' return. {nl}It's really depressing in many ways.
 QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be… {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the Goddess of the Earth…
@@ -812,10 +812,10 @@ QUEST_20150317_000812	$The Statue of Goddess Zemyna lies at the end of this road
 QUEST_20150317_000813	$Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and…{nl}(Red marks are covering the rest.)
 QUEST_20150317_000814	$Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
 QUEST_20150317_000815	P.S. It is better to run away than to pray to the Goddess in case you encounter Golems.
-QUEST_20150317_000816	The Goddesses have disappeared. {nl}But if we fight bravely against the demons, perhaps the Goddesses will return someday. {nl} - Laimonas
-QUEST_20150317_000817	Attention to those who come to Klaipeda after having a dream about the revelation. {nl}Knight Uska is waiting for you in the Central Plaza.
-QUEST_20150317_000818	Welcome to Klaipeda Shopping Center. {nl}You can shop for a variety of accessories, tools, equipment, and other items.
-QUEST_20150317_000819	Use the stairs on the right to go to the Klaipeda Central Plaza.
+QUEST_20150317_000816	Die Goettinnen sind verschwunden. {nl}Aber wenn wir die Daemonen mutig bekaempfen, vielleicht kommen die Goettinen dann irgendwann zurueck. {nl} - Laimonas
+QUEST_20150317_000817	Achtung, dies gilt all Denen die nach Klaipeda gekommen sind weil sie einen Traum hatten von{nl} der Offenbarung. Knight Uska wartet auf dich am Central Plaza.
+QUEST_20150317_000818	Willkommen auf Klaipeda's Einkaufsmeile. {nl}Hier findest du viele verschiedene Laeden fuer Schmuck, Handwerksausruestung {nl} Waffen, Ruestungen und anderen Dingen.
+QUEST_20150317_000819	Benutzte die Treppen zu deiner rechten um zum Klaipeda Central Plaza zu kommen.
 QUEST_20150317_000820	Klaipeda Central Plaza
 QUEST_20150317_000821	Signboard
 QUEST_20150317_000822	East Siauliai Woods
@@ -827,7 +827,7 @@ QUEST_20150317_000827	Danger! The vacant lot below these crossroads {nl}has regu
 QUEST_20150317_000828	People are now praying less and less to the Goddesses. {nl}They're losing hope…
 QUEST_20150317_000829	How could I forget you… {nl}Please do not roam around this cursed land {nl}and go to the arms of the Goddess.
 QUEST_20150317_000830	Holiday Notice
-QUEST_20150317_000831	I have been enlisted to the army to save the kingdom. {nl}Therefore, the restaurant will be closed in the meantime. {nl} - Owner of Klaipeda's Specialty Restaurant, Vulinya
+QUEST_20150317_000831	Ich wurde in die Armee einberufen um das Koenigreich zu beschuetzen. {nl}Bis dahin, ist das Restaurant geschloßen. {nl} - Besitzer des Klaipeda's Spezialitaeten Restaurant, Vulinya
 QUEST_20150317_000832	$Don't blow out the candles. {nl}They guide the souls so they don't lose their way.
 QUEST_20150317_000833	As you know, the King died on Medis Diena and the fate of other royalty and nobility were no different. {nl}The kingdom is holding together somehow but… now we can only pray.
 QUEST_20150317_000834	{memo X}Now we can only pray…
@@ -837,7 +837,7 @@ QUEST_20150317_000837	{memo X}Dear Revelator. {nl}Listen to the interpretations 
 QUEST_20150317_000838	Hahaha… {nl}Who would've thought that I would be challenged by humans…
 QUEST_20150317_000839	Your death shall be most painful!
 QUEST_20150317_000840	Soldier Recruitment Notice
-QUEST_20150317_000841	We want you! {nl}Protect your family and your kingdom. {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000841	Wir brauchen dich! {nl}Beschuetze deine Familie und das Koenigreich. {nl} - Klaipeda Rekrutierungsstation
 QUEST_20150317_000842	We are seeking brave young men who will bring order to this chaotic time. {nl}The world wants you! {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000844	Warning! Civilians prohibited.
@@ -2030,7 +2030,7 @@ QUEST_20150714_002034	$Well, you're a new face. Did Julian send you?
 QUEST_20150714_002035	{memo X}$Yeah. There's something weird about Goddess Laima. {nl}No one seems to know when she disappeared. To be honest nobody seems to really know whether or not she actually is a Goddess.
 QUEST_20150714_002036	$She has never appeared before. {nl}Although I've read somewhere that she does appear every now and then…
 QUEST_20150714_002037	$Even though it would be bad for my business, I wish I could just live peacefully rather than live in fear of monster attacks coming at any moment.
-QUEST_20150714_002038	$Welcome! {nl}While I can do basic repairs, I don't have the materials to create anything. {nl}Take a look at what I have.
+QUEST_20150714_002038	Willkommen! {nl}Ich kann einfache Reperaturen ausfuehren, aber ich habe keine Materialien um neue Dinge {nl} zu schmieden. Aber schau dir doch an was ich habe.
 QUEST_20150714_002039	$When all is said and done, I don't lie about my prices. Everything I sell is priced honestly and accordingly.
 QUEST_20150714_002040	$Fire is a grace sent to us by Goddess Gabija. {nl} You won't become a great Pyromancer if you don't acknowledge that.
 QUEST_20150714_002041	$The Goddesses may be all gone but my powers are still doing fine. {nl} I'm sure it's proof that Goddess Gabija is at least safe somewhere.
@@ -2080,9 +2080,9 @@ QUEST_20150714_002084	$Don't forget that we won 600 years ago. {nl}Join the mili
 QUEST_20150714_002085	$Please move with us if possible. {nl}There's been a number of monster sightings near here.
 QUEST_20150714_002086	$The supplies should be here soon… {nl}Are they going to be late again?
 QUEST_20150714_002087	$You will need various tools when travelling. {nl}It's better to buy them in advance.
-QUEST_20150714_002088	$Goddess Laima… Actually, I don't know her that well. No one does, except for her priests. {nl}I heard she's the Goddess of Destiny and Forecasts, but she has not once appeared before us.
-QUEST_20150714_002089	$I just remembered something while I was talking to you. {nl}Maybe Goddess Laima knew everything about the disaster beforehand.
-QUEST_20150714_002090	$I pray to Goddess Gabija everyday. It keeps the house warm. {nl}As you may already know, Goddess Gabija controls fire and since I'm a housewife, I am close to fire as well.
+QUEST_20150714_002088	Die Goettin Laima… Um Ehrlich zu sein weis ich nicht viel ueber sie.{nl} Niemand tut das, außer ihre Priester. Ich habe gehoert sie ist die Goettin des Schicksals und der {nl} Vorhersehung. Aber sie ist noch nie einem Menschen erschienen.
+QUEST_20150714_002089	Mir faellt gerade auf. {nl}Eventuell weis die Goettin Laima etwas ueber das Unglueck.
+QUEST_20150714_002090	Ich bete zur Goetting Gabija jeden Tag. Es haelt das Haus warm. {nl}Wie du sicherlich weist kontroliert die Goetting Gabija das Feuer und da ich eine Hausfrau bin,{nl} kommt mir das Feuer oft sehr nah.
 QUEST_20150714_002091	$If you cleverly use the dry air that forms around areas of severe cold, you'd be able to freeze any object even in a desert. {nl}However, if you can't receive the blessing from the Goddess, it won't be possible to make that kind of air.
 QUEST_20150714_002092	$The Records of the Master Himself
 QUEST_20150714_002093	$I've studied magic for a long time as a sorcerer. {nl}From the process, the advancement of sorcery can't be explained without relating with demons, and since they've fought against the Goddesses, the field has been widened to the study of the Goddesses as well.
@@ -2243,8 +2243,8 @@ QUEST_20150714_002247	$Saltistter? What are you talking about? {nl}Such nonsense
 QUEST_20150715_002248	{memo X}$The Gambler of Klaipeda
 QUEST_20150715_002249	{memo X}$Modestas admitted defeat and said he'd pay him pay back. As he was leaving the place with wagon in tow, the old alchemist broke into a strange smile that caught Modestas' attention.
 QUEST_20150717_002250	$Please enter the name of your companion.
-QUEST_20150717_002251	Companions can help you in combat. {nl}You can make your companions watch you or teach them special attributes. 
-QUEST_20150717_002252	What do you think? They make a pretty good friend, right? {nl}But do take note that only certain classes can ride Companions. {nl}
+QUEST_20150717_002251	Begleiter koennen dich im Kampf unterstuetzen. {nl}Du kannst deinen Begleiter zuschauen lassen oder ihm neue Attribute beibringen. 
+QUEST_20150717_002252	Was denkst du? Sie sind richtig gute Freunde, denkst du nicht auch? {nl}Beachte aber das nur bestimmte Klassen Begleiter auch reiten koennen. {nl}
 QUEST_20150717_002253	Item Merchant 
 QUEST_20150717_002254	$I am sorry, but I can't come forward myself. {nl}It's just, if I use magic, the demons will sense it.
 QUEST_20150717_002255	$I will correct the disrupted magic of this tower.{nl} I will have to use magic at first so monsters will rush in. Please protect me.
@@ -2275,12 +2275,12 @@ QUEST_20150729_002283	{memo X}I will give you an appropriate quest when you retu
 QUEST_20150729_002284	$There is a good request that just came in.{nl}Would you like to take it?
 QUEST_20150729_002285	Anyway, that is very strange.{nl}If it was Goddess Laima's will, not just anyone could undo her seal.
 QUEST_20150729_002286	$Whether this revelation will become a new beacon of hope or a start of a new disaster, is indeed {nl}difficult to judge… We are thinking of continuing our investigation.
-QUEST_20150729_002287	)}My son volunteered to join the army.{nl}So I have been offering my prayers to the greatest Goddess Ausrine.{nl}
+QUEST_20150729_002287	)}Mein Sohn hat sich fuer die Armee gemeldet.{nl}Also habe ich zur großen Goettin Ausrine gebetet.{nl}
 QUEST_20150729_002288	)}Monsters have been multiplying to the point where people cannot safely live in the forest anymore.{nl}At least Klaipeda is still safe.{nl}
 QUEST_20150729_002289	Maybe the Goddess Ausrine gave us her protection.{nl}Isn't she the Goddess who leads all other Goddesses?
-QUEST_20150729_002290	)}I am glad my son dreams of becoming a soldier…{nl}But the monsters keep increasing in number, and I'm worried he will be injured.
+QUEST_20150729_002290	)}Ich bin erleichtert das der Traum meines Sohnes, ein Soldat zu werden,{nl} in Erfuellung ging…{nl}Aber die Monsterzahlen steigen rapide, ich habe Angst das er verletzt wird.
 QUEST_20150729_002291	Told him about the Revelation found at the Crystal Mines.
-QUEST_20150729_002292	$The morning dawns after the night, does it not? Goddess Ausrine is the one who brings us the morning. {nl}Not only that, when we die, we go to her as well.
+QUEST_20150729_002292	Das Morgengrauen kommt nach der Nacht, oder etwa nicht? Goettin Ausrine ist diejenige die {nl}uns den Morgen bringt. Aber nicht nur das, wenn wir sterben, kommen wir zu ihr.
 QUEST_20150729_002293	{memo X}$Eternal life…{nl}Through the Goddess Ausrine's power, my life extends for every Owl Statue I sculpt.{nl}If this old body of mine can give her strength and help the world then I am determined to carry on forever. 
 QUEST_20150729_002294	{memo X}$Are you interested in everlasting life?{nl}Since necromancers deal with the dead, they can sense life forces, and, depending on their ability, manipulate it. {nl}If you are as good as I am, absorbing that life force to extend your own is possible.
 QUEST_20150729_002295	{memo X}$Are you curious as to how I obtained eternal life?{nl}If stilled time is eternal, then you can consider it life everlasting.{nl}By stopping time I maintain a body that is neither aging nor dying.{nl}Whether or not quiescence can be described as eternal, I do not have an answer.
@@ -2397,7 +2397,7 @@ QUEST_20150918_002405	Historic Site Ruins
 QUEST_20150918_002406	Historic Site Ruins (Recommended Lv : 90){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 QUEST_20150918_002407	Right. Goddess Laima is the strangest of them all.{nl}No one knows when she disappeared. To be honest, I don't know if she really is a Goddess.{nl}
 QUEST_20150918_002408	Even if they say the world is doomed, our soldiers will guard this place until the end. {nl}However, we won't be responsible for you getting yourself into trouble, so be careful.
-QUEST_20150918_002409	${memo Uska is a knight}Welcome. Sir Uska is waiting for you in the central square of Klaipeda. {nl}Well, is there anything that you are unsure of?
+QUEST_20150918_002409	{memo Uska is a knight}Willkommen. Sir Uska wartet auf dich am Central Plaza in Klaipeda. {nl}Gibt es noch etwas das du wissen moechtest?
 QUEST_20150918_002410	{memo X}$But this is also my ordeal and mission that Laima has seen. {nl}I will tell you Laima's message.{nl}
 QUEST_20150918_002411	$Welcome! What do you need? {nl}Unlike my previous items, I made my best effort to collect these.
 QUEST_20150918_002412	$I heard that the Revelator appeared and saved the Mage Tower. {nl}I can't imagine what would have happened to Fedimian if the Mage Tower fell. It's such a relief.{nl}Here, feel free to look around anytime.
@@ -2453,7 +2453,7 @@ QUEST_20151001_002461	Thorny Vines Forest (Recommended Lv : 175){nl}Only you and
 QUEST_20151001_002462	It was a disaster… Many people were either injured or killed. {nl}Gentle creatures grew fierce and many new monsters emerged.{nl}
 QUEST_20151001_002463	I think the best weapons and the armors are the ones that you get used to over a long period time. In order to do so, you must start first by buying good items.
 QUEST_20151001_002464	The things I sell are good both in price and quality.
-QUEST_20151001_002465	A lot of people seem to be coming thanks to Sir Uska's recruitment notice.{nl}Take a look around slowly without feeling pressure.
+QUEST_20151001_002465	Dank Sir Uska's Rekrutierungsnachricht scheinen viele Menschen zu kommen.{nl}Schau dich in Ruhe um.
 QUEST_20151001_002466	The days were better when Commander Uska took care of Klaipeda himself.
 QUEST_20151001_002467	Intelligence, calm judgment and cold rationality. These are the qualities required for our Cryomancer.{nl}They are the principles that will never change no matter what happens to the world.
 QUEST_20151001_002468	It is vain death that lies at the end for those who only seek dauntlessness.{nl}If you wish to save the world, lift the shield of the Peltasta.
