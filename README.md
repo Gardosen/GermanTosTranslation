@@ -22,15 +22,15 @@ Der Monstername "Blue Kapa" wird nicht übersetzt in "Blaues Kapa"
 
 4. Collaborator
   
-4.1 Aufnahme
-Es wird grundsätzlich jeder aufgenommen der Helfen möchte. Hierbei gibt es keine Beschränkungen. Jedoch sollte sich jeder bewusst sein, dass Grundkenntnisse in Deutsch eine Voraussetzung sind.
-Dazu sollte sich jeder bewusst darüber sein, dass dieses Projekt viel Arbeit bedeutet. Siehe Abschnitt 4.2 für die Ausschlußregelung
+4.1 Aufnahme<br>
+Es wird grundsätzlich jeder aufgenommen der helfen möchte. Hierbei gibt es keine Beschränkungen. Jedoch sollte sich jeder bewusst sein, dass Grundkenntnisse in Deutsch eine Voraussetzung sind.
+Dazu sollte sich jeder bewusst darüber sein, dass dieses Projekt viel Arbeit bedeutet. Siehe Abschnitt 4.2 für die Ausschlußregelung.
 
-4.2 Ausschluß
+4.2 Ausschluß<br>
 Sollte ein Collaborator mit 
  - weniger als 500 Zeilen mehr als 7 Tage 
  - weniger als 1,000 Zeilen mehr als 14 Tage
- - weniger als 5,000 Zeilen mehr als 1 Monat
+ - weniger als 5,000 Zeilen mehr als 1 Monat<br>
 inaktiv sein ohne sich abzumelden, wird er aus der Collaborator Gruppe entfernt.
 Auch wenn dieses Projekt freiwillig ist, ist diese Regel erforderlich um Collaboratorleichen zu vermeiden.
 
