@@ -1,5 +1,5 @@
 QUEST_LV_0100_20150317_000001	$Guard
-QUEST_LV_0100_20150317_000002	$Falls du nach Klaipeda gehen willst empfehle ich den Pfad durch den Schattenwald. {n1}Die tiefen Wälder sind gefährlich also versuche von ihnen fern zu bleiben.
+QUEST_LV_0100_20150317_000002	Falls du nach Klaipeda gehen willst empfehle ich den Pfad durch den Schattenwald. {nl }Die tiefen Wälder sind gefährlich also versuche von ihnen fern zu bleiben.
 QUEST_LV_0100_20150317_000003	$Versteckter Mann
 QUEST_LV_0100_20150317_000004	$En... Endlich! Ist Hilfe gekommen ?{n1}Häh?! Es ist bloss ein Kind? Hey... , sind da draußen immernoch Vubbes?
 QUEST_LV_0100_20150317_000005	$Agh. Verschwinde ! Sprich nicht mit mir, die Vubbes werden uns erwischen !{n1}Das ist mein Platz, also geht !
@@ -262,7 +262,7 @@ QUEST_LV_0100_20150317_000261	$Thank you for your help.{nl}I think this will be 
 QUEST_LV_0100_20150317_000262	{memo X}$)}{nl}If you have time, please tell our troops to assemble.{nl} If you choose not to, you may just go ahead to Klaipeda.
 QUEST_LV_0100_20150317_000263	$Scout
 QUEST_LV_0100_20150317_000264	{memo X}$Go back, it's dangerous!{nl}Kepas will soon be marching in.
-QUEST_LV_0100_20150317_000265	$Oh, you're a Revelator. It must be fate that we are to fight together. {nl}Let me give you an inside scoop.
+QUEST_LV_0100_20150317_000265	Oh du bist ein Erlöser. Es muss Schicksal sein das wir zusammen gekämpft haben. {nl}LAss mich dir einen kurzen Einblick geben.
 QUEST_LV_0100_20150317_000266	$You mentioned that we need to assemble, right?{nl}Help me find some missing belongings and I'll go as soon as I can.
 QUEST_LV_0100_20150317_000267	$Have you found my belongings yet? I can't go back without it.
 QUEST_LV_0100_20150317_000268	$Thank you. You found it sooner than I expected.{nl}
@@ -280,7 +280,7 @@ QUEST_LV_0100_20150317_000279	$)} You'll meet the troops right away.
 QUEST_LV_0100_20150317_000280	$)}Alright, good job.{nl}You'll arrive at Klaipeda shortly if you follow the Shadow Forest Road.{nl}Don't forget to drop by Sir Uska.
 QUEST_LV_0100_20150317_000281	$Battle Commander
 QUEST_LV_0100_20150317_000282	$I will have my men notify the troops to assemble.{nl}You may return to Sir Titas to let him know.
-QUEST_LV_0100_20150317_000283	$It's nothing too difficult.{nl}If you don't want to help, I'll send you off to Klaipeda right away.
+QUEST_LV_0100_20150317_000283	Es ist nicht all zu kompliziert.{nl}Wenn du mir jedoch nicht helfen möchtest, kann ich dich auch direkt nach Klaipeda bringen.
 QUEST_LV_0100_20150317_000284	$Search Scout
 QUEST_LV_0100_20150317_000285	{memo X}$It sure is a problem.{nl}I didn't know Kepas could grow that big.
 QUEST_LV_0100_20150317_000286	$Shouldn't a Revelator be heading to Klaipeda instead of hanging around here?
@@ -297,7 +297,7 @@ QUEST_LV_0100_20150317_000296	{memo X}$Stamina is consumed when you move.{nl}You
 QUEST_LV_0100_20150317_000297	{memo X}$I heard news from my men and was becoming worried.{nl}All is well if it ended up good.
 QUEST_LV_0100_20150317_000298	$Klaipeda Resident
 QUEST_LV_0100_20150317_000299	$)} {nl}When do you think the Goddess is coming back?{nl}Even if I ask the Revelators, all they say is that they must go to Klaipeda...
-QUEST_LV_0100_20150317_000300	$Are you a Revelator?{nl}Didn't the Goddess appear in your dream?{nl}I heard so from the soldiers.
+QUEST_LV_0100_20150317_000300	Bist du der Erlöser?{nl}Dir ist die Göttin im Traum erschienen, nicht wahr?{nl}Ich habe soetwas von den Soldaten gehört.
 QUEST_LV_0100_20150317_000301	$Trooper
 QUEST_LV_0100_20150317_000302	$I wonder what the Goddesses are doing...
 QUEST_LV_0100_20150317_000303	{memo X}$Thank you for making your way here.{nl}I am Uska, the Knight Commander in charge of Siauliai and Klaipeda.
@@ -530,7 +530,7 @@ QUEST_LV_0100_20150317_000529	Soldiers are reporting that other monsters are app
 QUEST_LV_0100_20150317_000530	Those silly things keep coming to us.{nl}Now may be the only chance we have to go and get Sparnas.{nl}Tell me when you are ready.
 QUEST_LV_0100_20150317_000531	They are just creating so many problems.{nl}They even got their hands on the supplies, I will not feel enough even if I hit him with a bat in the middle of the market.
 QUEST_LV_0100_20150317_000532	What? Tutu?{nl}I don't have time to think about those insignificant critters.
-QUEST_LV_0100_20150317_000533	$When you level up, you can increase a status of your choice and become stronger. {nl} Would you like to try doing so now?
+QUEST_LV_0100_20150317_000533	Wenn du im Level aufsteigst, kannst du einen Statuspunkt verteilen und dadurch Stärker werden. {nl} Willst du es mal versuchen?
 QUEST_LV_0100_20150317_000534	It's important to keep in mind what you would want to be. {nl} That's never an easy thing.
 QUEST_LV_0100_20150317_000535	{memo X}Yes. That's how you do it. {nl} Pretty simple, huh?
 QUEST_LV_0100_20150317_000536	Aras is in the center area of the woods. {nl} But there has been a tremendous increase in monsters around here, so I suggest you don't go in.
@@ -2366,10 +2366,10 @@ QUEST_LV_0100_20150317_002365	$[Tutorial] Talk to Knight Titas (1)
 QUEST_LV_0100_20150317_002366	$Return to Knight Titas
 QUEST_LV_0100_20150317_002367	{memo X}$[Tutorial] Talk to Knight Titas (2)
 QUEST_LV_0100_20150317_002368	{memo X}$Offer to help gather soldiers
-QUEST_LV_0100_20150317_002369	$Decline
-QUEST_LV_0100_20150317_002370	$Talk to the Scout (1)
-QUEST_LV_0100_20150317_002371	$I'm just here to tell the troops to assemble
-QUEST_LV_0100_20150317_002372	$Quickly run away
+QUEST_LV_0100_20150317_002369	Ablehnen
+QUEST_LV_0100_20150317_002370	Sprich mit dem Scout (1)
+QUEST_LV_0100_20150317_002371	Ich bin hier um den Truppen bescheid zu geben
+QUEST_LV_0100_20150317_002372	Schnell wegrennen
 QUEST_LV_0100_20150317_002373	Sprich mit dem Scout (2)
 QUEST_LV_0100_20150317_002374	$I'll find the missing belongings.
 QUEST_LV_0100_20150317_002375	$I'll wait until you find it
@@ -2853,7 +2853,7 @@ QUEST_LV_0100_20150317_002852	Attack of Mushcaria
 QUEST_LV_0100_20150317_002853	{memo X}Notice/!/Defeat Muchcaria!#8
 QUEST_LV_0100_20150317_002854	Learning Skills
 QUEST_LV_0100_20150317_002855	Try to learn a skill
-QUEST_LV_0100_20150317_002856	Give me time to think about it
+QUEST_LV_0100_20150317_002856	Gib mir Zeit um darüber nachzudenken
 QUEST_LV_0100_20150317_002857	{memo X}Press the key to check the skills. #7
 QUEST_LV_0100_20150317_002858	Black-colored Honor (1)
 QUEST_LV_0100_20150317_002859	Destroy the corrupted Guardian
@@ -3537,8 +3537,8 @@ QUEST_LV_0100_20150317_003536	Another enemy
 QUEST_LV_0100_20150317_003537	I'll go and check on it
 QUEST_LV_0100_20150317_003538	Fear from the Sky (1)
 QUEST_LV_0100_20150317_003539	I'll participate
-QUEST_LV_0100_20150317_003540	$Using Status Points
-QUEST_LV_0100_20150317_003541	Try increasing a Status.
+QUEST_LV_0100_20150317_003540	Benutzte Statuspunkte
+QUEST_LV_0100_20150317_003541	Versuche Statuspunkte zu verteilen
 QUEST_LV_0100_20150317_003542	{memo X}to check status #7
 QUEST_LV_0100_20150317_003543	The Road Back 
 QUEST_LV_0100_20150317_003544	Not As Intended (2)
@@ -3833,9 +3833,9 @@ QUEST_LV_0100_20150317_003832	{memo X}Gather soldiers in the forest
 QUEST_LV_0100_20150317_003833	{memo X}I need soldiers if I want to go to Klaipeda.
 QUEST_LV_0100_20150317_003834	$Talk to the Scout in the marked area
 QUEST_LV_0100_20150317_003835	$You were asked to tell the troops to assemble before going to Klaipeda. Tell the Scout about it.
-QUEST_LV_0100_20150317_003836	$Defeat the Kepas surging in
+QUEST_LV_0100_20150317_003836	Besiege die angreifenden Kepas
 QUEST_LV_0100_20150317_003837	$Kepas are attacking without warning! Defeat them.
-QUEST_LV_0100_20150317_003838	$Check on the Scout
+QUEST_LV_0100_20150317_003838	Rede mit dem Scout
 QUEST_LV_0100_20150317_003839	$Check the status of the Scout attacked by the Kepas.
 QUEST_LV_0100_20150317_003840	$Remind the Scout that there is an order to assemble to Klaipeda
 QUEST_LV_0100_20150317_003841	$Remind the Scout again that there is an order to assemble to Klaipeda.
@@ -6698,8 +6698,8 @@ QUEST_LV_0100_20150414_006697	Believer Domas says he needs Cauliflower Sap becau
 QUEST_LV_0100_20150414_006698	{memo X}Combine Ridimed leaf and detox solvent to make antidote.
 QUEST_LV_0100_20150428_006699	I heard the sound of fighting so I cam here in a hurry..Have you defeated it?{nl}I only spotted Siaulambs.{nl}Well done. You have performanced a meritorious deed.
 QUEST_LV_0100_20150428_006700	I feel stuffy.
-QUEST_LV_0100_20150428_006701	If you have time, please tell our troops to assemble. {nl}If you don't want to, you may just go ahead to Klaipeda.
-QUEST_LV_0100_20150428_006702	$Thank you so much for your support.{nl}Turn left at the crossroads ahead and follow the road. {-scp SCR_DIALOG_NPC_ANIM(
+QUEST_LV_0100_20150428_006701	Wenn du Zeit hast, sag den Truppen bitte das sie sich bereit machen sollen. {nl}Falls du nicht willst, geh einfach weiter nach Klaipeda.
+QUEST_LV_0100_20150428_006702	Vielen Dank das du mir hilfst.{nl}Gehe an der Kreuzung dort oben nach links und folge dem Weg. {-scp SCR_DIALOG_NPC_ANIM(
 QUEST_LV_0100_20150428_006703	{memo X}Vubbe Fighter is hiding deep in the Nudegi Felled Area. {nl} We got the orders to kill but it may be safer to wait for additional troops.
 QUEST_LV_0100_20150428_006704	$We should check it by rubbing Hallowventer Charcoal.{nl}The next epitaph is at the right side of Negyvas Field.
 QUEST_LV_0100_20150428_006705	$We can suppress the evil forces if the magic of the Royal Mausoleum is released.{nl}This requires a number of activating stones located inside active guardians.
@@ -7619,8 +7619,8 @@ QUEST_LV_0100_20150714_007618	$You've filled the Goddess Austeja's Scripture wit
 QUEST_LV_0100_20150714_007619	$You've filled the Goddess Austeja's Scripture with sacred energy. Offer it to the Sealed Tower.
 QUEST_LV_0100_20150714_007620	$You've restored the seal. Tell Ramelia about it.
 QUEST_LV_0100_20150717_007621	{memo X}$Also, drop by the Tools Merchant for the warp scrolls I left with her.
-QUEST_LV_0100_20150717_007622	$Sprich mit Knight Titas (1)
-QUEST_LV_0100_20150717_007623	$Sprich mit Knight Titas (2)
+QUEST_LV_0100_20150717_007622	Sprich mit Knight Titas (1)
+QUEST_LV_0100_20150717_007623	Sprich mit Knight Titas (2)
 QUEST_LV_0100_20150717_007624	$Collect %s from Spare Purifier
 QUEST_LV_0100_20150717_007625	$Defeat the Red Vubbe Fighter that suddenly appeared
 QUEST_LV_0100_20150717_007626	$A Red Vubbe Fighter appeared when you opened the box! Defeat it.
@@ -8095,7 +8095,7 @@ QUEST_LV_0100_20150908_008093	The roots of Nioles have been disconnected!
 QUEST_LV_0100_20150908_008094	The roots of Nioles have been disconnected!
 QUEST_LV_0100_20150908_008095	Making Beef Jerky
 QUEST_LV_0100_20150908_008096	Beej Jerky appeared!
-QUEST_LV_0100_20150918_008097	$This place has become dangerous ever since Medis Diena, when the monsters emerged.{nl}Go back quickly while you still can, Kepas will overrun this position soon.
+QUEST_LV_0100_20150918_008097	Dieser Bereich ist sehr gefährlich geworden seit Medis Diena, als die Monster sich vereinigten.{nl}Du solltest zurück gehen solange du noch kannst, Kepas werden diese Position bald überrennen.
 QUEST_LV_0100_20150918_008098	$Ah, you said you came to tell me about the order to assemble, right?{nl}If you help me find my belongings, I will be able to do so more quickly.
 QUEST_LV_0100_20150918_008099	$Have you ever tried offering worship to a Goddess Statue?{nl}The Goddesses might have vanished, but I believe they are still out there somewhere.
 QUEST_LV_0100_20150918_008100	I was worried that the monsters caused harm to the Goddess Statue.{nl}Even though the world is messed up.. It's terrible.
@@ -8120,7 +8120,7 @@ QUEST_LV_0100_20150918_008118	Thank you for passing Laimonas' regards.{nl}You sh
 QUEST_LV_0100_20150918_008119	$There might be more of these Large Kepas roaming in the area nearby.{nl}Could you take a look for me, please?{nl}
 QUEST_LV_0100_20150918_008120	$It was just as I thought, right? It was this instinct that kept me alive during Medis Diena.
 QUEST_LV_0100_20150918_008121	$It's been too long, my men should've come back, but I haven't heard anything from them yet.{nl}I know it's been four years since Medis Diena, but my men have been getting too relaxed recently.
-QUEST_LV_0100_20150918_008123	The Goddesses disappearing, things like golems appearing... {nl}Is there really any hope?
+QUEST_LV_0100_20150918_008123	Die Göttinnen verschwinden und Golems tauchen auf... {nl}Ich frage mich ob es noch Hoffnung gibt?
 QUEST_LV_0100_20150918_008124	How was it? Were there many skills that seemed useful?{nl}If you use skills effectively, they will be very useful in combat.{nl}
 QUEST_LV_0100_20150918_008125	If that's the case, you will become bait and take care of the Royal Mausoleum defense device at Sesija Entrance.{nl}I will only say this once, so you better listen carefully.
 QUEST_LV_0100_20150918_008126	No one can disturb the eternal sleep of the great king.
@@ -8298,7 +8298,7 @@ QUEST_LV_0100_20151001_008297	As I have told you before, the revelation is in th
 QUEST_LV_0100_20151001_008298	But Bramble is also not in its usual condition due to the previous battle. {nl}It is recovering by turning the forest into a thorn forest and extracting nourishments. 
 QUEST_LV_0100_20151001_008299	My believers are waiting for you in Gate Route. {nl}Please take back the revelation from him. 
 QUEST_LV_0100_20151001_008300	I haved carved many owls for a long time to help Goddess Arusine.{nl}At one point in time, they got their lives and determination.{nl}
-QUEST_LV_0100_20151001_008301	Medis Diena was just the beginning. {nl}A forest far away from the capital such as this one is also starting to soak its way into the evil energy. {nl} 
+QUEST_LV_0100_20151001_008301	Medis Diena war nur der Anfang. {nl}Ein Wald weit weg von der Hauptstadt, beginnt auch langsam von der dunklen Energy verschlungen zu werden. {nl} 
 QUEST_LV_0100_20151001_008302	I will be able to guide you to the revelation if I use all the strength left in me. {nl}That is why you should release me. 
 QUEST_LV_0100_20151001_008303	But please don't reveal my existence for now. {nl}It is in nature of humans to want to depend on somewhere. {nl}If they find out about the helplessness of the Goddess, the world will be full of moans and confusion. 
 QUEST_LV_0100_20151001_008304	That portal is.. a fantasy... No. A portal going to Goddess Saule. {nl} Anyway, opening the portal is very important.

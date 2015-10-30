@@ -424,9 +424,9 @@ UI_20150317_000423	Gratulation! Dein Level hat sich erhöht.
 UI_20150317_000424	Item-Alarm
 UI_20150317_000425	{@st64}Details{/}
 UI_20150317_000426	Wie man Spielt
-UI_20150317_000427	${@st42b}          Bewege dich einmal mit jeder Taste{/}
-UI_20150317_000428	${@st42b}         Benutze einen Grundangriff{/}
-UI_20150317_000429	${@st42b}                Spring hoch{/}
+UI_20150317_000427	{@st42b}          Bewege dich einmal mit jeder Taste{/}
+UI_20150317_000428	{@st42b}         Normal Angreifen{/}
+UI_20150317_000429	{@st42b}                Springen{/}
 UI_20150317_000430	{@st42b}     Benutze zwei Tasten um diagonal zu gehen{/}
 UI_20150317_000431	Nebel-Map-Tool
 UI_20150317_000432	Tool um Monster zu töten
@@ -1378,7 +1378,7 @@ UI_20150323_001377	{@st43}Persönliches Lager{/}
 UI_20150323_001378	{memo X}{@st59}Close Personal Storage{/}
 UI_20150323_001379	{memo X}{@sti6}Storing and taking items from storage costs %s silver...{/}
 UI_20150323_001380	{memo X}{@st59}Alt+Z to change weapons{/}
-UI_20150323_001381	{@st59}TeamName speichern{/}
+UI_20150323_001381	{@st59}Familienname speichern{/}
 UI_20150323_001382	Haus wechseln
 UI_20150323_001383	{@st59}Close Change Lodge Window
 UI_20150323_001384	{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
@@ -1580,7 +1580,7 @@ UI_20150714_001579	>>Show More Info...
 UI_20150714_001580	%s (Rank %s)
 UI_20150714_001581	Job Name
 UI_20150714_001582	{@st41b}Invite
-UI_20150714_001583	{@st41}If you want to use the joypad or mouse to control your character, you can select this option from the game settings in the system menu.{nl}
+UI_20150714_001583	{@st41}Wenn du mit einem Gamepad oder der Maus spielen willst, kannst du dies in den Spieleinstellungen festlegen.{nl}
 UI_20150714_001584	{memo X}When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{memo X}{@st42}Play Style{/}
 UI_20150714_001586	{@st42}Level Dif.{/}
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	${@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
+UI_20150729_001741	{@st42b}         Swordsman koennen mittels eines {nl}         doppelten Tastenanschlags Sprinten{/}
 UI_20150729_001742	{@st41}Party Einstellungen
 UI_20150729_001743	{@st41}Party Recruit Einstellungen
 UI_20150729_001744	{@st42}Suche nach Spielern{/}
@@ -1814,7 +1814,7 @@ UI_20151001_001813	Handlung
 UI_20151001_001814	Standardeinstellungen wiederherstellen
 UI_20151016_001815	{@st59}Der Ausgewählte Gegenstand wird blockiert{/}
 UI_20151016_001816	{@st59}Du kannst das Aussehen deines Hauses verändern.
-UI_20151016_001817	%s Charaktere{/}
+UI_20151016_001817	%s Chars{/}
 UI_20151016_001818	{@st42b}Vorschau
 UI_20151016_001819	{@st42b}Zurück
 UI_20151016_001820	{@st42b}Kaufen
@@ -1826,7 +1826,7 @@ UI_20151016_001825	Notice
 UI_20151022_001826	{@st41}Server Queue
 UI_20151022_001827	{#000000}{s18}The server is currently full. Queueing for entry.
 UI_20151022_001828	{@st66b18}Current Position : %s
-UI_20151022_001829	{@st66b}Show Other Character's Effects
+UI_20151022_001829	{@st66b}Zeige Effekte von Fremden
 UI_20151023_001830	{@st41b}iCoin{/}
 UI_20151023_001831	{@st41}iCoin
 UI_20151023_001832	iCoin

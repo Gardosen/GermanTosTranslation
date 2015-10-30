@@ -44,7 +44,7 @@ QUEST_20150317_000044	Items to be deleted
 QUEST_20150317_000045	Select GenType
 QUEST_20150317_000046	Select Coordinates
 QUEST_20150317_000047	$Knight Titas
-QUEST_20150317_000048	$If so, go see Knight Commander Uska in Klaipeda. {nl}But first, I have an earnest request that I'd like you to attend to.
+QUEST_20150317_000048	Wenn dem so ist, solltest du Knight Commander Uska in Klaipeda aufsuchen. {nl}Aber zuerst, habe ich eine Bitte an dich.
 QUEST_20150317_000049	$It would be nice if I could find a moment to relax…
 QUEST_20150317_000050	Sparnas… {nl}Not someone to take lightly…
 QUEST_20150317_000051	Soldier Moody
@@ -99,13 +99,13 @@ QUEST_20150317_000099	Everything that flies out of his mouth is a lie. Don't tru
 QUEST_20150317_000100	Siauliai Guard
 QUEST_20150317_000101	{memo X}There are monsters beyond this point. Be careful.
 QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but souls roaming about.
-QUEST_20150317_000103	$This is what people who have seen a Goddess in their dreams are being called.
-QUEST_20150317_000104	$I thought the Revelators' visions were madness at first. {nl}The Goddesses have been gone for a long time after all.
-QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding to our prayers ever since Medis Diena four years ago?
+QUEST_20150317_000103	So werden die Menschen genannt denen die Göttin im Traum erschienen ist.
+QUEST_20150317_000104	Ich habe zuerst gedacht das die Visionen der Erlöser qualvolle Heimsuchungen wären. {nl}Immerhin sind die Göttinnen vor langer Zeit verschwunden.
+QUEST_20150317_000105	Seit dem Medis Diena vor vier Jahren, hat keine Göttin mehr unsere Gebete erhöhrt.
 QUEST_20150317_000106	Du findest Klassenmeister ueberall im Königreich. {nl}Du solltest sie besuchen um etwas zu lernen?
-QUEST_20150317_000107	$You don't know about Medis Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
+QUEST_20150317_000107	Du weist nichts von Medis Diena? Du musst von sehr weit weg kommen. {nl}Vor vier Jahren sind die Dinge in der Hauptstadt außer Kontrolle geraten.
 QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
-QUEST_20150317_000109	$If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
+QUEST_20150317_000109	Wenn du wissen willst was bei Medis Diena vor vier Jahren passiert ist, dann solltest du nach Klaipeda gehen. {nl}Viele Überlebende sind dorthin geflüchtet.
 QUEST_20150317_000110	Eastern Woods Sentinel
 QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
 QUEST_20150317_000112	Damn, those stubborn things chased us this far!
@@ -838,7 +838,7 @@ QUEST_20150317_000838	Hahaha… {nl}Who would've thought that I would be challen
 QUEST_20150317_000839	Your death shall be most painful!
 QUEST_20150317_000840	Soldier Recruitment Notice
 QUEST_20150317_000841	Wir brauchen dich! {nl}Beschuetze deine Familie und das Königreich. {nl} - Klaipeda Rekrutierungsstation
-QUEST_20150317_000842	We are seeking brave young men who will bring order to this chaotic time. {nl}The world wants you! {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000842	Wir suchen junge mutige Männer die Ordnung in diese chaotischen Zeiten bringen wollen. {nl}Die Welt braucht Euch! {nl} - Klaipeda Rekrutierungsstation
 QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
 QUEST_20150317_000844	Warning! Civilians prohibited.
 QUEST_20150317_000845	{memo X}Only authorized personnel are allowed inside.
@@ -1231,12 +1231,12 @@ QUEST_20150317_001232	And so, some people believed Modestas, having undertaken t
 QUEST_20150317_001233	{memo X}Since that time, whenever Modestas took on a wager, he always bet the same thing. The answer to the question of who the Statue of Klaipeda honored.{nl}To uncover the name of the Goddess, numerous people challenged Modestas to a bet.{nl} {nl} But no matter the impossible odds, Modestas never lost a bet. Therefore nobody was able to win the answer from Modestas for years and time flew by.{nl}
 QUEST_20150317_001234	Though Modestas died an undefeated, invincible gambler, by then he had never bet anything other than the Goddess' identity, living purely off the profits gained from such bets through the end of his life. {nl}
 QUEST_20150317_001235	{memo X}In the end, this unknown Goddess, in exchange for giving income to a certain gambler from Klaipeda, created an interesting, mysterious, yet beautiful statue for the city of Klaipeda, and a tale to last for times to come.{nl} {nl}
-QUEST_20150317_001236	Talk To Knight Titas
-QUEST_20150317_001237	$Talk to the Scout
-QUEST_20150317_001238	Road to Klaipeda
-QUEST_20150317_001239	Talk to the Battle Commander
+QUEST_20150317_001236	Sprich mit Knight Titas
+QUEST_20150317_001237	Sprich mit dem Scout
+QUEST_20150317_001238	Der Weg nach Klaipeda
+QUEST_20150317_001239	Sprich mit dem Battle Commander
 QUEST_20150317_001240	Sentinel's Favor
-QUEST_20150317_001241	Not As Intended
+QUEST_20150317_001241	Nicht wie gedacht
 QUEST_20150317_001242	Aras' Commission
 QUEST_20150317_001243	Supply Soldier's Favor
 QUEST_20150317_001244	Treasure Map of the Stonemason Family
@@ -1978,9 +1978,9 @@ QUEST_20150428_001982	{memo X}$Dina Bee Farm is in danger of monster attacks. {n
 QUEST_20150511_001983	$It's better to use the cable car than to fight through the monsters.
 QUEST_20150511_001984	$Just don't believe everything he says. {nl}He was known for being quite the show-off back at home.
 QUEST_20150511_001985	$It would be nice if all these Revelators being here meant that the Goddesses are back.
-QUEST_20150511_001986	$Strength is the most important stat for swordsmen. {nl}You could also train yourself to be agile and possess strong stamina. {nl}You should take a moment to decide on what to prioritize from now on.
-QUEST_20150511_001987	$Strength is the most important stat for archers. {nl}But, of course you can't ignore agile movement. {nl}You should take a moment to decide on what to prioritize from now on.
-QUEST_20150511_001988	$Intelligence is the most important stat for clerics. {nl}But sometimes you may need more strength or a stronger spirit. {nl}You should take a moment to decide what to prioritize from now on.
+QUEST_20150511_001986	Stärke ist der wichtigste Status für einen Swordsmen. {nl}Du kannst auch trainieren um Agiler zu werden oder mehr Stamina zu haben. {nl}Du solltest dir ab jetzt Zeit nehmen um zu entscheiden wie du dich verbessern willst.
+QUEST_20150511_001987	Stärke ist der wichtigste Status für einen Archer. {nl}Aber du solltest die Agilität nicht vergessen. {nl}Du solltest dir ab jetzt Zeit nehmen um zu entscheiden wie du dich verbessern willst.
+QUEST_20150511_001988	Intelligenz ist der wichtigste Status für einen Cleric. {nl}Aber manchmal wirst du auch mehr Stärke oder Spirit benötigen. {nl}Du solltest dir ab jetzt Zeit nehmen um zu entscheiden wie du dich verbessern willst.
 QUEST_20150511_001989	$Helping reconstruct Fedimian may be more meaningful than pottery. {nl}But people need something to soothe their hearts.
 QUEST_20150511_001990	$If I had the journal, I could continue my adventure, but I wasn't chosen… {nl}But for you things might be different…
 QUEST_20150511_001991	{memo X}$If you cleverly use the dry air that forms around areas of severe cold, you'd be able to freeze any object even in a desert. {nl}However, if you can't receive the blessing from the Goddess, it won't be possible to make that kind of air.
@@ -2396,7 +2396,7 @@ QUEST_20150918_002404	$There are only missions that seem difficult to you.{nl} P
 QUEST_20150918_002405	Historic Site Ruins
 QUEST_20150918_002406	Historic Site Ruins (Recommended Lv : 90){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 QUEST_20150918_002407	Right. Goddess Laima is the strangest of them all.{nl}No one knows when she disappeared. To be honest, I don't know if she really is a Goddess.{nl}
-QUEST_20150918_002408	Even if they say the world is doomed, our soldiers will guard this place until the end. {nl}However, we won't be responsible for you getting yourself into trouble, so be careful.
+QUEST_20150918_002408	Selbst wenn sie sagen das die Welt verdammt ist, unsere Soldaten werden diesen Ort bis zum Ende verteidigen. {nl}Aber sei vorsichtig, wir sind nicht dafür verantwortlich wenn du dich selbst in Gefahr bringst.
 QUEST_20150918_002409	{memo Uska is a knight}Willkommen. Sir Uska wartet auf dich am Central Plaza in Klaipeda. {nl}Gibt es noch etwas das du wissen möchtest?
 QUEST_20150918_002410	{memo X}$But this is also my ordeal and mission that Laima has seen. {nl}I will tell you Laima's message.{nl}
 QUEST_20150918_002411	$Welcome! What do you need? {nl}Unlike my previous items, I made my best effort to collect these.
@@ -2450,7 +2450,7 @@ QUEST_20151001_002458	There's a request that is being progressed.{nl}Come see me
 QUEST_20151001_002459	The request can be accepted by the party leader.
 QUEST_20151001_002460	Thorny Vines Forest Dungeon
 QUEST_20151001_002461	Thorny Vines Forest (Recommended Lv : 175){nl}Only you and your party members can enter together.{nl}Do you want to enter?
-QUEST_20151001_002462	It was a disaster… Many people were either injured or killed. {nl}Gentle creatures grew fierce and many new monsters emerged.{nl}
+QUEST_20151001_002462	Es war ein Disaster… Viele Menschen wurden verletzt oder getötet. {nl}Sampfte Wesen wurden auf einmal Wild, und Monster tauchten auf.{nl}
 QUEST_20151001_002463	I think the best weapons and the armors are the ones that you get used to over a long period time. In order to do so, you must start first by buying good items.
 QUEST_20151001_002464	The things I sell are good both in price and quality.
 QUEST_20151001_002465	Dank Sir Uska's Rekrutierungsnachricht scheinen viele Menschen zu kommen.{nl}Schau dich in Ruhe um.

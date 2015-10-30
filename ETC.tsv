@@ -4267,11 +4267,11 @@ ETC_20150317_004266	Moni
 ETC_20150317_004267	 key has been assigned to 
 ETC_20150317_004268	 to your Quick Slot.
 ETC_20150317_004269	Space bar \
-ETC_20150317_004270	{@st41} Key to start a conversation {/}
-ETC_20150317_004271	{@st41} Movement {/}
-ETC_20150317_004272	{@st41} Attack{/}
-ETC_20150317_004273	{@st41} Jump {/}
-ETC_20150317_004274	{@st41} Diagonal Movement {/}
+ETC_20150317_004270	{@st41} Taste um Unterhaltung zu starten {/}
+ETC_20150317_004271	{@st41} Laufen {/}
+ETC_20150317_004272	{@st41} Angreifen{/}
+ETC_20150317_004273	{@st41} Springen {/}
+ETC_20150317_004274	{@st41} Diagonal Laufen {/}
 ETC_20150317_004275	{@st41} = diagonal {/}
 ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
@@ -4742,7 +4742,7 @@ ETC_20150317_004741	No data
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
 ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
-ETC_20150317_004745	${@st43} Learn the basic controls of the game!
+ETC_20150317_004745	{@st43} Lerne die Grundsteuerung des Spiels!
 ETC_20150317_004746	(In the block)
 ETC_20150317_004747	Select your {@st41b} reward: {/}
 ETC_20150317_004748	No items
@@ -5023,9 +5023,9 @@ ETC_20150317_005022	{memo X}The Mausoleum lanterns are being attacked by the gua
 ETC_20150317_005023	{memo X}Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	$Crafting
-ETC_20150317_005026	$A Revelator?
+ETC_20150317_005026	Ein Erlöser?
 ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	$Ask about Medis Diena
+ETC_20150317_005028	Frage nach Medis Diena
 ETC_20150317_005029	Ask about the disappearance of the Goddess
 ETC_20150317_005030	Ask what happened
 ETC_20150317_005031	I think you forgot to mention the Goddess Laima
@@ -5370,7 +5370,7 @@ ETC_20150317_005369	It's a Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	2nd Mine Lot Closed
 ETC_20150317_005372	Evacuate the residents!
-ETC_20150317_005373	Stop that person!!
+ETC_20150317_005373	Stoppt die Person!!
 ETC_20150317_005374	Eastern Woods Soldier
 ETC_20150317_005375	Come on let's go! Honey! Dad!
 ETC_20150317_005376	That's really good news. Let's go!
@@ -11310,7 +11310,7 @@ ETC_20150428_011311	Summon familiar spirits
 ETC_20150428_011312	Stick to target and explode when touched
 ETC_20150428_011313	Hide underground
 ETC_20150428_011314	{memo X}Glitter Buff
-ETC_20150428_011315	{s18}{#001100}Use the Return button to teleport to an NPC when you complete a quest.{/}
+ETC_20150428_011315	{s18}{#001100}Benutzte den Rückkehr Knopf um direkt zu einem NPC teleportiert zu werden wenn eine Quest abgeschloßen ist.{/}
 ETC_20150428_011316	{s18}{#001100}Recover Stamina by destroying this Tree Root Crystal.{/}
 ETC_20150428_011317	{s18}{#001100}You can acquire special items when defeating a Treasure Monster!{/}
 ETC_20150428_011318	First Room of Barrier
@@ -13693,7 +13693,7 @@ ETC_20150729_013695	Drücke {img N 40 40} um die Weltkarte zu öffnen.
 ETC_20150729_013696	Nur erforschte Gebiete werden auf der Weltkarte angezeigt. Unerforschte Gebiete werden auf der Weltkarte nicht angezeigt.
 ETC_20150729_013697	Bewege deine Maus über das erforschte Gebiet {nl} und das Gebiet wird im Detail angezeigt.
 ETC_20150729_013698	Benutzte die Statuspunkte die du pro Klassen Levelaufstieg erhaelst, um deine Faehigkeiten zu verbessern.
-ETC_20150729_013699	Druecke {img F1 40 40} um das Charakterfenster zu oeffnen.
+ETC_20150729_013699	Druecke {img F1 30 30} um das Charakterfenster zu oeffnen.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window.
@@ -14035,7 +14035,7 @@ ETC_20150730_014037	Damages will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20150730_014041	Du kannst deinen Character verstärken indem du Punkte in STR/CON/INT/SPR/DEX verteilst.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
 ETC_20150730_014042	{memo X}DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	{memo X}Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	{memo X}DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
