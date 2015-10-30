@@ -1,14 +1,14 @@
-UI_20150317_000001	{@st41b}Lerne Faehigkeiten{nl}von dem Meister einer Klasse.{/}
-UI_20150317_000002	{@st43}Faehigkeitenliste {/}
-UI_20150317_000003	{@st59}Faehigkeitenliste schließen {/}
-UI_20150317_000004	{@st43}Faehigkeit lernen{/}
-UI_20150317_000005	{@st59}Faehigkeitenfenster schließen{/}
+UI_20150317_000001	{@st41b}Lerne Fähigkeiten{nl}von dem Meister einer Klasse.{/}
+UI_20150317_000002	{@st43}Fähigkeitenliste {/}
+UI_20150317_000003	{@st59}Fähigkeitenliste schließen {/}
+UI_20150317_000004	{@st43}Fähigkeit lernen{/}
+UI_20150317_000005	{@st59}Fähigkeitenfenster schließen{/}
 UI_20150317_000006	{@st41b}Silber{/}
 UI_20150317_000007	Meine Errungenschaften
 UI_20150317_000008	Server Wertung
-UI_20150317_000009	{@st59}Ein unerwartetes Event ist verfuegbar.{/}
+UI_20150317_000009	{@st59}Ein unerwartetes Event ist verfügbar.{/}
 UI_20150317_000010	{@st59}Es gibt eine neue Hilfemitteilung{/}
-UI_20150317_000011	{@st41}Bist du dir sicher das du diesen Pfeiltypen schmieden moechtest?{/}
+UI_20150317_000011	{@st41}Bist du dir sicher das du diesen Pfeiltypen schmieden möchtest?{/}
 UI_20150317_000012	{@st41b}Einzeln{/}
 UI_20150317_000013	{@st41b}Alle{/}
 UI_20150317_000014	{@st41b}Pause{/}
@@ -34,22 +34,22 @@ UI_20150317_000033	{@st45}Party Lagerhaus{/}
 UI_20150317_000034	{@st49}Nichts
 UI_20150317_000035	{@st49}Lagern
 UI_20150317_000036	{@st49}Herausholen
-UI_20150317_000037	{@st45}Pruefen{/}
+UI_20150317_000037	{@st45}Prüfen{/}
 UI_20150317_000038	{@st49}Erstellen
-UI_20150317_000039	{@st49}Loeschen
+UI_20150317_000039	{@st49}Löschen
 UI_20150317_000040	{@st44}Speichern{/}
 UI_20150317_000041	{@st44}Abbrechen{/}
 UI_20150317_000042	{@st43}{s22}Haar Shop{/}
 UI_20150317_000043	{@st59}Vorheriger Haarstil{/}
-UI_20150317_000044	{@st59}Naechster Haarstil{/}
-UI_20150317_000045	{@st41b} {s18} aendern (100 iCoins benoetigt) {/}
-UI_20150317_000046	{@st59}Auf ausgewaehlten Haarstil wechseln.{/}
+UI_20150317_000044	{@st59}Nächster Haarstil{/}
+UI_20150317_000045	{@st41b} {s18} ändern (100 iCoins benötigt) {/}
+UI_20150317_000046	{@st59}Auf ausgewählten Haarstil wechseln.{/}
 UI_20150317_000047	{@st41}Abbrechen
 UI_20150317_000048	{@st43}Schwarzmarkt{/}
 UI_20150317_000049	Name des Buches
-UI_20150317_000050	{@St59}aufhoeren zu lesen{/}
+UI_20150317_000050	{@St59}aufhören zu lesen{/}
 UI_20150317_000051	{@st59}vorheriege Seite{/}
-UI_20150317_000052	{@st59}naechste Seite{/}
+UI_20150317_000052	{@st59}nächste Seite{/}
 UI_20150317_000053	{@st47}%s erscheint!
 UI_20150317_000054	{@st43}Score{/}
 UI_20150317_000055	Schaden erhalten
@@ -69,13 +69,13 @@ UI_20150317_000068	{memo X}{@st43}Abbrechen
 UI_20150317_000069	Buff Vending Machine
 UI_20150317_000070	{@st59}Schließe die Buff Vending Machine.
 UI_20150317_000071	{@st59}Buff Vending Machine{nl} - Du kannst Silber bezahlen um Buffs von einem anderen Spieler zu erhalten.
-UI_20150317_000072	Transport Menue
+UI_20150317_000072	Transport Menü
 UI_20150317_000073	{ol}{s22}Aussteigen{/}
 UI_20150317_000074	Casting
 UI_20150317_000075	{@st43}Spieleinstellungen{/}
-UI_20150317_000076	{@st64}Benutze die Pfeil Tasten um ein Element auszuwaehlen!
+UI_20150317_000076	{@st64}Benutze die Pfeil Tasten um ein Element auszuwählen!
 UI_20150317_000077	{@st43}Entwicklungsinformation {/}
-UI_20150317_000078	{@st43}Auswaehlen
+UI_20150317_000078	{@st43}Auswählen
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Circle {/}
 UI_20150317_000081	Wie viele Circles
@@ -98,36 +98,36 @@ UI_20150317_000097	{@st59}Alle{/}
 UI_20150317_000098	{@st59}Normal (/s Nachricht){/}
 UI_20150317_000099	{@st59}Rufen (/y Nachricht){/}
 UI_20150317_000100	{@st59}Party (/p Nachricht){/}
-UI_20150317_000101	{@st59}Fluestern (/w Familienname Nachricht){/}
+UI_20150317_000101	{@st59}Flüstern (/w Familienname Nachricht){/}
 UI_20150317_000102	{@st59}Anpassen des Chat Fensters{/}
 UI_20150317_000103	{@st43}{s22}Chat Makro{/}
 UI_20150317_000104	{@st43}Makro{/}
-UI_20150317_000105	{@st59b}Makro {nl} {@st59s} - Anleitung: {nl} 1. Ziehe das Gesten Symbol an die Unterseite in einen Slot. {nl} 2. Schreibe deinen Ausdruck und speichere ihn. {nl} 3. Benutze die Tastenkombination um deine Geste auszufuehren. {/}
+UI_20150317_000105	{@st59b}Makro {nl} {@st59s} - Anleitung: {nl} 1. Ziehe das Gesten Symbol an die Unterseite in einen Slot. {nl} 2. Schreibe deinen Ausdruck und speichere ihn. {nl} 3. Benutze die Tastenkombination um deine Geste auszuführen. {/}
 UI_20150317_000106	{@st59}Makro schließen{/}
 UI_20150317_000107	{@st41b}Speichern{/}
-UI_20150317_000108	{@st59}Speichere deine Aenderungen{/}
+UI_20150317_000108	{@st59}Speichere deine Änderungen{/}
 UI_20150317_000109	{@st41b}Abbrechen{/}
-UI_20150317_000110	{@st59}Abbrechen deiner Aenderungen{/}
+UI_20150317_000110	{@st59}Abbrechen deiner Änderungen{/}
 UI_20150317_000111	{@st42}Chateinstellungen
 UI_20150317_000112	{@st42}Transparenz
 UI_20150317_000113	Zeige Chat-Sprechblasen
-UI_20150317_000114	Zeige Rufe darueber an
+UI_20150317_000114	Zeige Rufe darüber an
 UI_20150317_000115	{@st43}Cheat Liste{/}
 UI_20150317_000116	{memo X}{@st42b}Item{/}
 UI_20150317_000117	{memo X}{@st42b}Monster{/}
 UI_20150317_000118	{memo X}{@st42b}Move map{/}
 UI_20150317_000119	{memo X}{@st42b}Combat Order{/}
 UI_20150317_000120	{@st41b}Schließen{/}
-UI_20150317_000121	{s16}{b}Erstelle einen Gegenstand, indem du auf die Erstellen Schaltflaeche drueckst oder einen Doppelklick ausfuehrst.
+UI_20150317_000121	{s16}{b}Erstelle einen Gegenstand, indem du auf die Erstellen Schaltfläche drückst oder einen Doppelklick ausführst.
 UI_20150317_000122	{memo X}{s16}{b}ea
 UI_20150317_000123	{memo X}{s16}{b}Lv.
 UI_20150317_000124	{@st41b}Suchen{/}
-UI_20150317_000125	{s16}{b}Rufe ein Monster herbei, indem du auf die Erstellen Schaltflaeche drueckst oder einen Doppelklick ausfuehrst.
+UI_20150317_000125	{s16}{b}Rufe ein Monster herbei, indem du auf die Erstellen Schaltfläche drückst oder einen Doppelklick ausführst.
 UI_20150317_000126	{memo X}{s16}{b}ea
-UI_20150317_000127	{s16}{b}Waehle ein gewuenschtes Gebiet.
+UI_20150317_000127	{s16}{b}Wähle ein gewünschtes Gebiet.
 UI_20150317_000128	{s18}{b}Betrachte Minimap{/}
 UI_20150317_000129	{@st41b}Tool Liste{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Kaufe das Collection Deck um Sammlerstuecke zu deiner Collection hinzuzufuegen. {nl} - Der Collection Hotkey wird aktiviert wenn du das Collection Deck verwenden willst. {nl} {/}
+UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Kaufe das Collection Deck um Sammlerstücke zu deiner Collection hinzuzufügen. {nl} - Der Collection Hotkey wird aktiviert wenn du das Collection Deck verwenden willst. {nl} {/}
 UI_20150317_000131	{@st59}Schließe Collection Information{/}
 UI_20150317_000132	{@st43}Collection{/}
 UI_20150317_000133	{@st43}Farbspray{/}
@@ -145,7 +145,7 @@ UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Preis %s{/}
 UI_20150317_000146	{@st59}Schließe das Companion Adoption Fenster {/}
 UI_20150317_000147	{@st41b}Adoptieren
-UI_20150317_000148	{@st59}Adoption bestaetigen {/}
+UI_20150317_000148	{@st59}Adoption bestätigen {/}
 UI_20150317_000149	{@st43}Begleiter Shop
 UI_20150317_000150	{@st59}Schließe den Begleiter Shop{/}
 UI_20150317_000151	{@st43}Weitere Charakter-Info{/}{@st42}
@@ -160,7 +160,7 @@ UI_20150317_000159	{memo X}Abenteuer Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s
 UI_20150317_000160	Abenteuer Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
 UI_20150317_000161	Achievements gesamt : {#ffff00}%s{/}
 UI_20150317_000162	Einstellungen
-UI_20150317_000163	Loesche den Tab-Titel um den Tab zu loeschen.
+UI_20150317_000163	Lösche den Tab-Titel um den Tab zu löschen.
 UI_20150317_000164	{@st49}Alle{/}
 UI_20150317_000165	{@st49}System{/}
 UI_20150317_000166	{@st49}Reden{/}
@@ -171,7 +171,7 @@ UI_20150317_000170	{memo X}{@st43}Lock-Target Einstellungen {/}
 UI_20150317_000171	NPC Name
 UI_20150317_000172	Vergleichen
 UI_20150317_000173	Illustration
-UI_20150317_000174	Waehle eine Konversation
+UI_20150317_000174	Wähle eine Konversation
 UI_20150317_000175	Text Hilfe
 UI_20150317_000176	{@st41}Item Schmieden{/}
 UI_20150317_000177	{@st45tw2}Item wird geschmiedet...
@@ -179,7 +179,7 @@ UI_20150317_000178	%r Sekunden
 UI_20150317_000179	{@st41}Abbrechen{/}
 UI_20150317_000180	{@st45tw2}Menge{/}
 UI_20150317_000181	{@st45tw2}Willst du dieses Item schmieden?
-UI_20150317_000182	{@st41}Bestaetigen{/}
+UI_20150317_000182	{@st41}Bestätigen{/}
 UI_20150317_000183	Quest Information
 UI_20150317_000184	{@st59}Handel abbrechen{/}
 UI_20150317_000185	{@st43}Eigener Handel{/}
@@ -187,12 +187,12 @@ UI_20150317_000186	Meine Handelsliste
 UI_20150317_000187	Silber : %s
 UI_20150317_000188	{memo X}Enter
 UI_20150317_000189	{@st41}Akzeptieren
-UI_20150317_000190	{@st41}Bestaetigen
+UI_20150317_000190	{@st41}Bestätigen
 UI_20150317_000191	Other Player's(%s) Handelsliste
 UI_20150317_000192	Other Player's Name
 UI_20150317_000193	{s18}{ol} {gr gradation1}Feld Event{/}
-UI_20150317_000194	{s20}{ol}Besiege den Vubbe Stamm! Moechtest du beitreten?
-UI_20150317_000195	{s20}{ol}%s Moechtest du beitreten?
+UI_20150317_000194	{s20}{ol}Besiege den Vubbe Stamm! Möchtest du beitreten?
+UI_20150317_000195	{s20}{ol}%s Möchtest du beitreten?
 UI_20150317_000196	{s20}{ol}Teilnehmer : (1/5)
 UI_20150317_000197	{s20}{ol}Teilnehmer : (%s/%s)
 UI_20150317_000198	{s20}{ol}Das Spiel beginnt nach 1 Sekunde.
@@ -203,13 +203,13 @@ UI_20150317_000202	Spiel beitreten
 UI_20150317_000203	Starte ein Spiel mit anderen Spielern.
 UI_20150317_000204	Lehne eine Spieleinladung ab.
 UI_20150317_000205	Spray Presets
-UI_20150317_000206	{@st49}Auswaehlen{/}
+UI_20150317_000206	{@st49}Auswählen{/}
 UI_20150317_000207	{@st49}Abbrechen{/}
-UI_20150317_000208	{@st49}Loeschen{/}
+UI_20150317_000208	{@st49}Löschen{/}
 UI_20150317_000209	Gebe einen Dateinamen zum speichern ein.
 UI_20150317_000210	{@st43}Freunde
 UI_20150317_000211	{@st59}Schließe Freundesliste{/}
-UI_20150317_000212	{@st59b}Freund{nl}{@st59s} - Werde Freunde mit anderen Spielern. {nl} - Du kannst den Status deiner Freunde ueber den Freundeslisten-Tab einsehen. {nl} - Im Verwalten-Tab kannst du Freunde einladen, ablehnen oder blockieren. {/}
+UI_20150317_000212	{@st59b}Freund{nl}{@st59s} - Werde Freunde mit anderen Spielern. {nl} - Du kannst den Status deiner Freunde über den Freundeslisten-Tab einsehen. {nl} - Im Verwalten-Tab kannst du Freunde einladen, ablehnen oder blockieren. {/}
 UI_20150317_000213	{@st41b}Zeige Freunde Online{/}
 UI_20150317_000214	{@st41b}Liste
 UI_20150317_000215	{@st41b}Verwalten
@@ -227,13 +227,13 @@ UI_20150317_000226	{@st42}Erstellen{/}
 UI_20150317_000227	{@st42}Schließen{/}
 UI_20150317_000228	{@st42}Alle{/}
 UI_20150317_000229	{@st42}Rankings Heute{/}
-UI_20150317_000230	{@st42}Rankings Woechentlich{/}
+UI_20150317_000230	{@st42}Rankings Wöchentlich{/}
 UI_20150317_000231	{@st56}Rang {/}
 UI_20150317_000232	{@st56}Punkte{/}
 UI_20150317_000233	{@st56}Klasse{/}
 UI_20150317_000234	{@st56}Name {/}
 UI_20150317_000235	Vorige Seite
-UI_20150317_000236	Naechste Seite
+UI_20150317_000236	Nächste Seite
 UI_20150317_000237	{@st42}Suche ID{/}
 UI_20150317_000238	Gebe zum Suchen die ID ein
 UI_20150317_000239	Schließe die Hall of Fame
@@ -241,33 +241,33 @@ UI_20150317_000240	Gebe zum suchen die ID ein
 UI_20150317_000241	{memo X}{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Hilfe-Liste{/}
 UI_20150317_000243	{@st59}Schließe das Hilfe-Listen Fenster{/}
-UI_20150317_000244	{@st59b}Hilfe-Liste{nl}{@st59s} - Wenn du Hilfe mit bei etwas brauchst, kannst du immer die Hilfethemen lesen. {nl} - Waehle ein Thema um mehr Information darueber zu sehen. {/}
+UI_20150317_000244	{@st59b}Hilfe-Liste{nl}{@st59s} - Wenn du Hilfe mit bei etwas brauchst, kannst du immer die Hilfethemen lesen. {nl} - Wähle ein Thema um mehr Information darüber zu sehen. {/}
 UI_20150317_000245	{@st43}{s22}Hilfe{/}
 UI_20150317_000246	{@st47_b}{b}Hilfethemen{/}
 UI_20150317_000247	{@st42b}Einfach-Hilfe Inhalte{/}
 UI_20150317_000248	{@st59}Zeige Details{/}
 UI_20150317_000249	Bitte Menge angeben
 UI_20150317_000250	{@st59}Inhalte angeben{/}
-UI_20150317_000251	{@st41b}Bestaetigen
-UI_20150317_000252	{@st59}Bestaetigen {/}
+UI_20150317_000251	{@st41b}Bestätigen
+UI_20150317_000252	{@st59}Bestätigen {/}
 UI_20150317_000253	{@st41b}Schließen
 UI_20150317_000254	{@st59}Abbrechen {/}
 UI_20150317_000255	{@st43}Teleportieren{/}
 UI_20150317_000256	{@st59}Schließe das Teleportationsfenster{/}
-UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Erlaubt es dir schnell zwischen bereits besuchten Regionen zu reisen. {nl} - Das Feature ist aktiviert wenn zwei oder mehr Warp-Punkte verfuegbar sind. {nl} {/}
+UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Erlaubt es dir schnell zwischen bereits besuchten Regionen zu reisen. {nl} - Das Feature ist aktiviert wenn zwei oder mehr Warp-Punkte verfügbar sind. {nl} {/}
 UI_20150317_000258	{@st41}Aktueller Standort : %s{/}
 UI_20150317_000259	{@st43}{s22}Warp{/}
-UI_20150317_000260	{@st41b}Moechtest du in dieses Gebiet reisen?{/}
+UI_20150317_000260	{@st41b}Möchtest du in dieses Gebiet reisen?{/}
 UI_20150317_000261	Was ist mit Siauliai
 UI_20150317_000262	Coin verbraucht : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventar{/}
 UI_20150317_000265	{@st59}Inventar schließen{/}
-UI_20150317_000266	{memo X}{@st59b}Ausruestung {nl} {@st59s}- Haarstil/Kostuem: Ausruestung um das Aussehen eines Charakters zu veraendern. {nl} - Waffe: Kann Ein- oder Zweihandwaffen ausruesten. {nl} (Sub-Waffe/Schild kann mit einer Einhandwaffe ausgeruestet werden) {nl} - Ruestung: Oberteil, Hose, Handschuhe, Schuhe. {nl} - Accessoires: Kann 1 Halskette und 2 Armbaender ausruesten. {nl} {/}
+UI_20150317_000266	{memo X}{@st59b}Ausrüstung {nl} {@st59s}- Haarstil/Kostüm: Ausrüstung um das Aussehen eines Charakters zu verändern. {nl} - Waffe: Kann Ein- oder Zweihandwaffen ausrüsten. {nl} (Sub-Waffe/Schild kann mit einer Einhandwaffe ausgerüstet werden) {nl} - Rüstung: Oberteil, Hose, Handschuhe, Schuhe. {nl} - Accessoires: Kann 1 Halskette und 2 Armbänder ausrüsten. {nl} {/}
 UI_20150317_000267	{@st59}Haarschmuck 1{/}
 UI_20150317_000268	{@st59}Haarschmuck 2{/}
 UI_20150317_000269	{@st59}Halskette{/}
-UI_20150317_000270	{@st59}Kostuem{/}
+UI_20150317_000270	{@st59}Kostüm{/}
 UI_20150317_000271	{@st59}Oberteil{/}
 UI_20150317_000272	{@st59}Handschuhe{/}
 UI_20150317_000273	{@st59}Hose{/}
@@ -279,9 +279,9 @@ UI_20150317_000278	{@st59}Armband 2{/}
 UI_20150317_000279	{@st59}Armband{/}
 UI_20150317_000280	{@st59}Suchen{/}
 UI_20150317_000281	Gewicht
-UI_20150317_000282	{memo X}{@st43}Ausruestungs-Buff{/}
+UI_20150317_000282	{memo X}{@st43}Ausrüstungs-Buff{/}
 UI_20150317_000283	{@st59}Schließe das Reparaturfenster{/}
-UI_20150317_000284	{memo X}{@st42}Fuer Buff verfuegbar
+UI_20150317_000284	{memo X}{@st42}Für Buff verfügbar
 UI_20150317_000285	{memo X}{@st42}Verbrauchen{/}
 UI_20150317_000286	{memo X}{@st42}Laufen
 UI_20150317_000287	{memo X}{@st42}Ziel-Item{/}
@@ -297,9 +297,9 @@ UI_20150317_000296	Keyboard Krieger
 UI_20150317_000297	Kills
 UI_20150317_000298	99 Minuten 99 Sekunden
 UI_20150317_000299	38000 Punkte
-UI_20150317_000300	Verstaerkte Speed Potion
-UI_20150317_000301	{@st41}Bestaetigen{/}
-UI_20150317_000302	${@st59b} Abenteuer-Tagebuch {nl}{@st59s}- Dein Spielfortschritt wird im Abenteuer-Tagebuch aufgenommen. {nl} - Du kannst deinen Abenteuer-Index durch Inhalte wie: Items sammeln, Monster jagen, schmieden und Karten-Erkundschaftung erweitern.{nl}    Abenteuer-Index : Die Summe all deiner Indexe. {nl}    Wachstum : 5 Punkte pro Charakter-Level und Klassen-Level {nl}    Items : Ausruestung : Typ X 10 Punkte, Buecher : 10 Punkte, Andere : 1 Punkt {nl}    Monster : 10 Punkte pro Monster (50 Punkte fuer Boss-Monster) {nl}    Maps : 1 Punkt pro 10% Erkundung {nl}    Quests : 1 Punkt pro Quest {nl}    Achievements : Variiert je nach Achievement {nl}    Schmieden : 10 Punkte {nl}    Collection : 5 Punkte fuer ein Deck und 45 Punkte wenn es komplett ist {nl} - Du kannst anhand deines Abenteuer-Index besondere Belohnungen von einem NPC in der Stadt erhalten. {/}
+UI_20150317_000300	Verstärkte Speed Potion
+UI_20150317_000301	{@st41}Bestätigen{/}
+UI_20150317_000302	${@st59b} Abenteuer-Tagebuch {nl}{@st59s}- Dein Spielfortschritt wird im Abenteuer-Tagebuch aufgenommen. {nl} - Du kannst deinen Abenteuer-Index durch Inhalte wie: Items sammeln, Monster jagen, schmieden und Karten-Erkundschaftung erweitern.{nl}    Abenteuer-Index : Die Summe all deiner Indexe. {nl}    Wachstum : 5 Punkte pro Charakter-Level und Klassen-Level {nl}    Items : Ausrüstung : Typ X 10 Punkte, Bücher : 10 Punkte, Andere : 1 Punkt {nl}    Monster : 10 Punkte pro Monster (50 Punkte für Boss-Monster) {nl}    Maps : 1 Punkt pro 10% Erkundung {nl}    Quests : 1 Punkt pro Quest {nl}    Achievements : Variiert je nach Achievement {nl}    Schmieden : 10 Punkte {nl}    Collection : 5 Punkte für ein Deck und 45 Punkte wenn es komplett ist {nl} - Du kannst anhand deines Abenteuer-Index besondere Belohnungen von einem NPC in der Stadt erhalten. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Errungenschaften{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Punkte{/}
 UI_20150317_000305	{@st42b} Durchschnitt / %s Punkte {/}
@@ -322,16 +322,16 @@ UI_20150317_000321	{@st56}Kill{/}
 UI_20150317_000322	{@st56}Overkill{/}
 UI_20150317_000323	{@st56}Schuss{/}
 UI_20150317_000324	{@st56}Tot{/}
-UI_20150317_000325	Magiestaerke
+UI_20150317_000325	Magiestärke
 UI_20150317_000326	Defensive
 UI_20150317_000327	Magieresistenz
 UI_20150317_000328	Kritische Trefferrate
 UI_20150317_000329	{@st43}Sockel{/}
 UI_20150317_000330	{@st59}Sockel-Verwaltung schließen{/}
-UI_20150317_000331	Bitte fuege deine Items ein
+UI_20150317_000331	Bitte füge deine Items ein
 UI_20150317_000332	Potential
-UI_20150317_000333	{memo X}Zusaetzliche Sockelkosten : {#ff9933}%s{/}{nl}Gem Extraktionskosten : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Sockel hinzufuegen
+UI_20150317_000333	{memo X}Zusätzliche Sockelkosten : {#ff9933}%s{/}{nl}Gem Extraktionskosten : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Sockel hinzufügen
 UI_20150317_000335	{@st41b}Gem extrahieren
 UI_20150317_000336	{@st41}Schmieden{/}
 UI_20150317_000337	{@st41}%s %s ea
@@ -342,8 +342,8 @@ UI_20150317_000341	{@st59}Karte schließen (M){/}
 UI_20150317_000342	{@st41}Karte{/}
 UI_20150317_000343	Shift(clear), Strg(mid fill)
 UI_20150317_000344	{ol}Titel
-UI_20150317_000345	{@st41}Hinzufuegen{/}
-UI_20150317_000346	{@st41}Loeschen{/}
+UI_20150317_000345	{@st41}Hinzufügen{/}
+UI_20150317_000346	{@st41}Löschen{/}
 UI_20150317_000347	{@st41}Speichern{/}
 UI_20150317_000348	{@st41}Auto{/}
 UI_20150317_000349	{@st41}Reset{/}
@@ -358,7 +358,7 @@ UI_20150317_000357	{@st43}{s24}Market{/}
 UI_20150317_000358	{@st42b}Filter{/}
 UI_20150317_000359	{@st42b}Typ{/}
 UI_20150317_000360	{@st42b}Ben. Lv{/}
-UI_20150317_000361	{@st42b}Verstaerk. Lv{/}
+UI_20150317_000361	{@st42b}Verstärk. Lv{/}
 UI_20150317_000362	{@st42b}Name
 UI_20150317_000363	{@st41b}Item Cabinet%s
 UI_20150317_000364	{@st41b}Verkaufen
@@ -372,17 +372,17 @@ UI_20150317_000371	{@st41b} Erhalten
 UI_20150317_000372	{@st43}{s22}Verkaufen
 UI_20150317_000373	{@st42b}Menge
 UI_20150317_000374	{@st42b}Preis
-UI_20150317_000375	{@st42b}Verkaeufername verbergen{/}
-UI_20150317_000376	{@st41b}Hinzufuegen
+UI_20150317_000375	{@st42b}Verkäufername verbergen{/}
+UI_20150317_000376	{@st41b}Hinzufügen
 UI_20150317_000377	Siege Coin
-UI_20150317_000378	Jemand hat jemanden getoetet
+UI_20150317_000378	Jemand hat jemanden getötet
 UI_20150317_000379	{@st43}Minigames{/}
 UI_20150317_000380	{@st49}Katapult feuern{/}
 UI_20150317_000381	{@st44}Richtung steuern{/}
 UI_20150317_000382	{@st44}Feuern{/}
 UI_20150317_000383	Minigame
 UI_20150317_000384	{s18}{ol}{gr gradation1}Versteckspiel Minigame{/}
-UI_20150317_000385	{s16}Moechtest du dem Minigame beitreten?
+UI_20150317_000385	{s16}Möchtest du dem Minigame beitreten?
 UI_20150317_000386	{s16}Teilnehmer : (0/5)
 UI_20150317_000387	{s16}Teilnehmer : (%s /%s)
 UI_20150317_000388	{s16}Das Spiel startet nach 1 Sekunde.
@@ -392,7 +392,7 @@ UI_20150317_000391	{@st59}Rauszoomen{/}
 UI_20150317_000392	{@st59}Karte (M){/}
 UI_20150317_000393	{@st42b} Gebietskarte
 UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Bitte waehle das Item, das du herstellen willst{/}{/}
+UI_20150317_000395	{s16}{#FFcc66}{ol}Bitte wähle das Item, das du herstellen willst{/}{/}
 UI_20150317_000396	{s16}{#FFcc66}{ol}Ziehe die Zutaten in die Slots
 UI_20150317_000397	{@st42}Herstellen{/}
 UI_20150317_000398	{@st42} Abbrechen {/}
@@ -410,17 +410,17 @@ UI_20150317_000409	Objekt
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Necronomicon UI schließen{/}
 UI_20150317_000412	{memo X}{@st59}Ich bin zu faul zum denken.{/}
-UI_20150317_000413	Beschwoerungs-Item : {#ffcc33}%s{/}
+UI_20150317_000413	Beschwörungs-Item : {#ffcc33}%s{/}
 UI_20150317_000414	{memo X}Untote Harpie
 UI_20150317_000415	{memo X}Skill : %s
 UI_20150317_000416	{memo X}Skill 1, Skill 2
-UI_20150317_000417	{memo X}Fragmente benoetigt : %s
+UI_20150317_000417	{memo X}Fragmente benötigt : %s
 UI_20150317_000418	{memo X}Biest 60 / Insekt 20/ Mutant 10
 UI_20150317_000419	Zahl der Fragmente
 UI_20150317_000420	{memo X}Teile 1
 UI_20150317_000421	{memo X}Teile 2
 UI_20150317_000422	{memo X}Teile 3
-UI_20150317_000423	Gratulation! Dein Level hat sich erhoeht.
+UI_20150317_000423	Gratulation! Dein Level hat sich erhöht.
 UI_20150317_000424	Item-Alarm
 UI_20150317_000425	{@st64}Details{/}
 UI_20150317_000426	Wie man Spielt
@@ -429,22 +429,22 @@ UI_20150317_000428	${@st42b}         Benutze einen Grundangriff{/}
 UI_20150317_000429	${@st42b}                Spring hoch{/}
 UI_20150317_000430	{@st42b}     Benutze zwei Tasten um diagonal zu gehen{/}
 UI_20150317_000431	Nebel-Map-Tool
-UI_20150317_000432	Tool um Monster zu toeten
+UI_20150317_000432	Tool um Monster zu töten
 UI_20150317_000433	Tool um Minimaps zu erstellen
 UI_20150317_000434	Dialog Tool
 UI_20150317_000435	{@st43}GM Einstellungen{/}
 UI_20150317_000436	{@st59}Party Information schließen{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Klicke auf den "Party erstellen" Button weiter unten um eine Party zu erstellen. {nl} - Rechtsklicke auf andere Spieler um Party-Einladungen zu senden. {nl} - Anpassungen an der Party koennen im Einstellungen-Tab gemacht werden. {nl} - Setze Spezifikationen der Party-Mitgliedersuche in der Oeffentlichen-Partyliste fest. {/}
+UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Klicke auf den "Party erstellen" Button weiter unten um eine Party zu erstellen. {nl} - Rechtsklicke auf andere Spieler um Party-Einladungen zu senden. {nl} - Anpassungen an der Party können im Einstellungen-Tab gemacht werden. {nl} - Setze Spezifikationen der Party-Mitgliedersuche in der Öffentlichen-Partyliste fest. {/}
 UI_20150317_000438	{@st43}Party Information{/}
 UI_20150317_000439	{@st41b}Mitglieder{/}
 UI_20150317_000440	{@st41b}Party Event {/}
 UI_20150317_000441	{@st41b}Einstellungen{/}
 UI_20150317_000442	{memo X}{@st41}Mitglieder{/}
-UI_20150317_000443	{memo X}{@st41}Beitrittsbedingungen fuer die Party
-UI_20150317_000444	{memo X}{@st41b}oeffentlich
+UI_20150317_000443	{memo X}{@st41}Beitrittsbedingungen für die Party
+UI_20150317_000444	{memo X}{@st41b}öffentlich
 UI_20150317_000445	{memo X}{@st41b}Privat
-UI_20150317_000446	{memo X}Benoetigtes Level ~
-UI_20150317_000447	{memo X}{@st41}Item Prioritaet
+UI_20150317_000446	{memo X}Benötigtes Level ~
+UI_20150317_000447	{memo X}{@st41}Item Priorität
 UI_20150317_000448	{memo X}{@st41b}Individueller Loot
 UI_20150317_000449	{memo X}{@st41b}Round Robin
 UI_20150317_000450	{memo X}{@st41b}Random
@@ -456,25 +456,25 @@ UI_20150317_000455	{memo X}{@st41}Quest-Sharing
 UI_20150317_000456	{memo X}{@st41b}Aktiviert
 UI_20150317_000457	{memo X}{@st41b}Deaktiviert
 UI_20150317_000458	{@st41b}Party erstellen
-UI_20150317_000459	{@st43}Oeffentliche-Partyliste {/}
-UI_20150317_000460	${@st59b}Oeffentliche-Partyliste{nl}{@st59s} - Suche nach Parties, denen du dich anschließen moechtest. {nl} - "Suche benutzen" nutzt deine Suchkonditionen um geeignete Parties zu finden. {/}
+UI_20150317_000459	{@st43}Öffentliche-Partyliste {/}
+UI_20150317_000460	${@st59b}Öffentliche-Partyliste{nl}{@st59s} - Suche nach Parties, denen du dich anschließen möchtest. {nl} - "Suche benutzen" nutzt deine Suchkonditionen um geeignete Parties zu finden. {/}
 UI_20150317_000461	{@st59}Party-Liste schließen{/}
 UI_20150317_000462	Suche benutzen
 UI_20150317_000463	Quest-Sharing
-UI_20150317_000464	EXP Prioritaeten
-UI_20150317_000465	Item Prioritaeten
+UI_20150317_000464	EXP Prioritäten
+UI_20150317_000465	Item Prioritäten
 UI_20150317_000466	{@st43}Einladung
 UI_20150317_000467	{@st41b}Einladen{/}
 UI_20150317_000468	{memo X}{s18}{ol}{gr gradation1}Logout PC Regeln{/}
-UI_20150317_000469	{ol}Bedingungen fuer angewendete Regeln
-UI_20150317_000470	{ol}Aktionen fuer angewendete Regeln
-UI_20150317_000471	Gebe ein Namen fuer die Regel ein
+UI_20150317_000469	{ol}Bedingungen für angewendete Regeln
+UI_20150317_000470	{ol}Aktionen für angewendete Regeln
+UI_20150317_000471	Gebe ein Namen für die Regel ein
 UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Registrationsregeln
 UI_20150317_000474	{Gr gradation1}Abbrechen{/}
 UI_20150317_000475	Aktion abbrechen
 UI_20150317_000476	{@st43}Companion-Info
-UI_20150317_000477	{@st59b} Companion-Info{nl}{@st59s} - Du kannst deinen Companion als Aktiv oder im Ruhe-Modus mit dem unteren Button setzen. {nl} - Die Attribute und ausgeruesteten Items deines Companions koennen angepasst werden. {/}
+UI_20150317_000477	{@st59b} Companion-Info{nl}{@st59s} - Du kannst deinen Companion als Aktiv oder im Ruhe-Modus mit dem unteren Button setzen. {nl} - Die Attribute und ausgerüsteten Items deines Companions können angepasst werden. {/}
 UI_20150317_000478	{@st59}Companion-Info schließen{/}
 UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}
 UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Vertrautheit : {@sti9}%s {@st41b}Level{/}
@@ -494,11 +494,11 @@ UI_20150317_000493	{@st43}Giftkessel{/}
 UI_20150317_000494	{@st59}Giftkessel UI schließen{/}
 UI_20150317_000495	{@st59}Need to write{/}
 UI_20150317_000496	{memo X}Die Menge an Gift: %s
-UI_20150317_000497	{memo X}Items die zum herstellen von Gift benutzt werden koennen
+UI_20150317_000497	{memo X}Items die zum herstellen von Gift benutzt werden können
 UI_20150317_000498	{memo X}Alle markieren
 UI_20150317_000499	Klicke nochmal um alle zu demarkieren
 UI_20150317_000500	{memo X}Herstellung
-UI_20150317_000501	{memo X}Mischen, mischen, ruehren und mischen
+UI_20150317_000501	{memo X}Mischen, mischen, rühren und mischen
 UI_20150317_000502	{@st43}Kategorie{/}
 UI_20150317_000503	{@st43}Ich{/}
 UI_20150317_000504	{@st43}Objekt{/}
@@ -507,16 +507,16 @@ UI_20150317_000506	{@st43}Geld{/}
 UI_20150317_000507	{@st43}Rate{/}
 UI_20150317_000508	{@st43}PvP Gewinnrate{/}
 UI_20150317_000509	{@st59}Schließen{/}
-UI_20150317_000510	{@sti5}Gesamte Anzahl an Kaeufen : %s{/}
+UI_20150317_000510	{@sti5}Gesamte Anzahl an Käufen : %s{/}
 UI_20150317_000511	{@sti5}Gesamte Anzahl : %s{/}
-UI_20150317_000512	{@st41b} Kaeufe
-UI_20150317_000513	{memo X}{@st43}Materialien fuer Crafting-Items erhalten!
+UI_20150317_000512	{@st41b} Käufe
+UI_20150317_000513	{memo X}{@st43}Materialien für Crafting-Items erhalten!
 UI_20150317_000514	{@st43}Magnum Opus{/}
-UI_20150317_000515	{@st41}Alle loeschen
-UI_20150317_000516	{memo X}{@st42}Pensionsobjekt {@stx1}(%s benoetigt){/}
+UI_20150317_000515	{@st41}Alle löschen
+UI_20150317_000516	{memo X}{@st42}Pensionsobjekt {@stx1}(%s benötigt){/}
 UI_20150317_000517	{@st41}Kombinieren
 UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Wenn du eine neue Quest beginnst, wird sie in den Quest-Tracker aufgenommen. {nl} - Eine Hauptquest wird in gelb angezeigt, wohingegen eine Nebenquest in blau angezeigt wird. {nl} - Der Pfeil am Fuß deines Charakters fuehrt dich zum Quest-Zielort. {nl} - Ein "Return"-Icon wird im Quest-Tracker angezeigt, wenn du eine Quest beendet hast. {nl}    (Teleportiert dich zum Quest-NPC wenn du die Loeschen-Taste oder die linke Maustaste drueckst) {nl} - Loesche oder fuege Quests zum Quest-Tracker hinzu indem du das Kaestchen vor dem Questnamen markierst oder demarkierst. {/}
+UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Wenn du eine neue Quest beginnst, wird sie in den Quest-Tracker aufgenommen. {nl} - Eine Hauptquest wird in gelb angezeigt, wohingegen eine Nebenquest in blau angezeigt wird. {nl} - Der Pfeil am Fuß deines Charakters führt dich zum Quest-Zielort. {nl} - Ein "Return"-Icon wird im Quest-Tracker angezeigt, wenn du eine Quest beendet hast. {nl}    (Teleportiert dich zum Quest-NPC wenn du die Löschen-Taste oder die linke Maustaste drückst) {nl} - Lösche oder füge Quests zum Quest-Tracker hinzu indem du das Kästchen vor dem Questnamen markierst oder demarkierst. {/}
 UI_20150317_000520	{@st41b}Im Gange{/}
 UI_20150317_000521	{@st41b}Aufgeben{/}
 UI_20150317_000522	${@st43}{s22}Quest-Informationen{/}
@@ -527,18 +527,18 @@ UI_20150317_000526	{s18}{ol}Quest-Informationen
 UI_20150317_000527	{s16}Verbleibende Zeit
 UI_20150317_000528	Quest-Item benutzen
 UI_20150317_000529	Quest-Hinweis
-UI_20150317_000530	{@st41}Bestaetigen{/}
+UI_20150317_000530	{@st41}Bestätigen{/}
 UI_20150317_000531	{@st43}{s22}Quest Abgeschlossen{/}
 UI_20150317_000532	{@st41b}Abgeschlossen{/}
 UI_20150317_000533	{@st41}Akzeptieren{/}
 UI_20150317_000534	{@st41}Ablehnen{/}
-UI_20150317_000535	{@st44}Zurueckkehren{/}
-UI_20150317_000536	Zu welcher Quest moechtest du zurueckkehren?
+UI_20150317_000535	{@st44}Zurückkehren{/}
+UI_20150317_000536	Zu welcher Quest möchtest du zurückkehren?
 UI_20150317_000537	{memo X}{@st41b}Questklassen-Name{/}
 UI_20150317_000538	{@st59}Slot erweitern {/}
 UI_20150317_000539	{@st59}Slot verkleinern{/}
-UI_20150317_000540	{memo X}{@st59}Companion beschwoeren.{/}
-UI_20150317_000541	{@st44}Menue{/}
+UI_20150317_000540	{memo X}{@st59}Companion beschwören.{/}
+UI_20150317_000541	{@st44}Menü{/}
 UI_20150317_000542	{@st60}Charakterauswahl{/}
 UI_20150317_000543	{@st60}Ausloggen{/}
 UI_20150317_000544	{@st60}Spiel beenden{/}
@@ -548,18 +548,18 @@ UI_20150317_000547	{@st41}Skip Tutorial{/}
 UI_20150317_000548	{@st41}Character Selection{/}
 UI_20150317_000549	{@st41}Logout{/}
 UI_20150317_000550	{@st41}Spiel beenden{/}
-UI_20150317_000551	{@st41}Zurueck{/}
+UI_20150317_000551	{@st41}Zurück{/}
 UI_20150317_000552	{@st43}{s22}Raid versammeln!
-UI_20150317_000553	{@st41b}Monster naehern sich dem Rand der Stadtburg. Nur du kannst dieses Problem bewaeltigen.
+UI_20150317_000553	{@st41b}Monster nähern sich dem Rand der Stadtburg. Nur du kannst dieses Problem bewältigen.
 UI_20150317_000554	{@st43}{s22}Spieleinstellungen{/}
-UI_20150317_000555	{@sti7}Suche Parties fuer Raid...{/}
+UI_20150317_000555	{@sti7}Suche Parties für Raid...{/}
 UI_20150317_000556	{@st41b}Teilnahme abbrechen
-UI_20150317_000557	{@st41b}Ich versuchs zu klaeren!
+UI_20150317_000557	{@st41b}Ich versuchs zu klären!
 UI_20150317_000558	{@st41b}Ich glaube nicht, dass ich diesmal helfen kann...
-UI_20150317_000559	{@sti7}{s24}Raid-Belohnungen waehlen{/}
+UI_20150317_000559	{@sti7}{s24}Raid-Belohnungen wählen{/}
 UI_20150317_000560	{@st42b}Verbleibende Zeit {@st43}%s{@st42b} Sekunden{/}
-UI_20150317_000561	{@st41b}Anzahl der Auswahl erhoehen
-UI_20150317_000562	{@43b}{s22} Wie oft auswaehlbar : {@st43}%s{/}
+UI_20150317_000561	{@st41b}Anzahl der Auswahl erhöhen
+UI_20150317_000562	{@43b}{s22} Wie oft auswählbar : {@st43}%s{/}
 UI_20150317_000563	shadow_box tentativeremoval
 UI_20150317_000564	{@st43}Ranking{/}
 UI_20150317_000565	{@st59}Rankings-Fenster schließen{/}
@@ -567,33 +567,33 @@ UI_20150317_000566	{@st41}Monster Kill Top 100{/}
 UI_20150317_000567	{@st41}Schaden Top 100{/}
 UI_20150317_000568	{@st41}Geld, Geld Top 100{/}
 UI_20150317_000569	{@st41}Level-Up Top 100{/}
-UI_20150317_000570	{@st41b}Menue{/}
-UI_20150317_000571	{@st43}{s22}Item verstaerken{/}
-UI_20150317_000572	{@st41b}Ausgewaehltes Item
+UI_20150317_000570	{@st41b}Menü{/}
+UI_20150317_000571	{@st43}{s22}Item verstärken{/}
+UI_20150317_000572	{@st41b}Ausgewähltes Item
 UI_20150317_000573	{@st41b}Amboss
-UI_20150317_000574	{@st41}{s20}Amboss Hit-Zaehler :{@st43} %s
+UI_20150317_000574	{@st41}{s20}Amboss Hit-Zähler :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Preis : %s
-UI_20150317_000576	{@st41b}Verstaerken{/}
-UI_20150317_000577	{@st59}Item-Verstaerkung starten{/}
-UI_20150317_000578	{@st59}Verstaerkung schließen{/}
-UI_20150317_000579	{@st41b} Moechtest du die ausgewaehlten {@sti9}×%s{/} Items verstaerken?{/}
-UI_20150317_000580	{memo X}{@st43}Verstaerken
-UI_20150317_000581	{@st44}Item verstaerken{/}
-UI_20150317_000582	{s24}{b}{#000000}Verstaerkung abgeschlossen!
-UI_20150317_000583	{@st41}Nochmal verstaerken{/}
+UI_20150317_000576	{@st41b}Verstärken{/}
+UI_20150317_000577	{@st59}Item-Verstärkung starten{/}
+UI_20150317_000578	{@st59}Verstärkung schließen{/}
+UI_20150317_000579	{@st41b} Möchtest du die ausgewählten {@sti9}×%s{/} Items verstärken?{/}
+UI_20150317_000580	{memo X}{@st43}Verstärken
+UI_20150317_000581	{@st44}Item verstärken{/}
+UI_20150317_000582	{s24}{b}{#000000}Verstärkung abgeschlossen!
+UI_20150317_000583	{@st41}Nochmal verstärken{/}
 UI_20150317_000584	{@st41}Schließen{/}
-UI_20150317_000585	{s18}{ol}{gr gradation1}Ausruestung reparieren{/}
-UI_20150317_000586	Getragene Ausruestung
-UI_20150317_000587	Mitgefuehrte Ausruestung
-UI_20150317_000588	{Gr gradation1}Alle auswaehlen{/}
-UI_20150317_000589	Alle auswaehlen
+UI_20150317_000585	{s18}{ol}{gr gradation1}Ausrüstung reparieren{/}
+UI_20150317_000586	Getragene Ausrüstung
+UI_20150317_000587	Mitgeführte Ausrüstung
+UI_20150317_000588	{Gr gradation1}Alle auswählen{/}
+UI_20150317_000589	Alle auswählen
 UI_20150317_000590	{Gr gradation1}Reparieren{/}
 UI_20150317_000591	{@st43}Reparieren{/}
 UI_20150317_000592	{memo X}Liste der Items zur Reparatur
 UI_20150317_000593	{@st41b}Reparaturkosten{/}
 UI_20150317_000594	{@st41b}Nach-Reparatur{/}
-UI_20150317_000595	{@st41b}Ausruestung reparieren{/}
-UI_20150317_000596	Repariert die gewaehlte Ausruestung.
+UI_20150317_000595	{@st41b}Ausrüstung reparieren{/}
+UI_20150317_000596	Repariert die gewählte Ausrüstung.
 UI_20150317_000597	{@st59}Item-Reparatur schließen{/}
 UI_20150317_000598	{@st43}Item-Reparatur{/}
 UI_20150317_000599	{@st41}Liste der zu reparierenden Items{/}
@@ -602,30 +602,30 @@ UI_20150317_000601	{@st42}Reparieren{/}
 UI_20150317_000602	{@st59}Reparieren als derzeitige Einstellung{/}
 UI_20150317_000603	{@st59}Nicht reparieren{/}
 UI_20150317_000604	{@st44}Fortsetzen{/}
-UI_20150317_000605	{memo X}{@st41b}Du bist {/}{s20}{#cc6600}{ol} kampfunfaehig geworden{/}{@st41b}{/}
+UI_20150317_000605	{memo X}{@st41b}Du bist {/}{s20}{#cc6600}{ol} kampfunfähig geworden{/}{@st41b}{/}
 UI_20150317_000606	{memo X}{@st41b}Respawn vom letzten Revival Point{/}
 UI_20150317_000607	{memo X}{@st41b}Hier respawnen (requires %s iCoins) {/}
-UI_20150317_000608	{memo X}{@st41b}Zum Feld zurueckkehren{/}
+UI_20150317_000608	{memo X}{@st41b}Zum Feld zurückkehren{/}
 UI_20150317_000609	{memo X}{@st41b}Quest abbrechen und neu starten{/}
 UI_20150317_000610	{memo X}{@st41b}Nochmal versuchen{/}
 UI_20150317_000611	Sanctuary of Resurrection (70031)
-UI_20150317_000612	Dieses Item wird benoetigt.
+UI_20150317_000612	Dieses Item wird benötigt.
 UI_20150317_000613	Ausruhen Quickslot
 UI_20150317_000614	{@st43}Dialogfenster{/}
-UI_20150317_000615	Temporaerer Name
+UI_20150317_000615	Temporärer Name
 UI_20150317_000616	{memo X}{@st41b} {s18} Deinem Inventar fehlt Platz. 
 UI_20150317_000617	{memo X}Du kannst das Item nicht aufnehmen, da dein Inventar voll ist{nl}Stelle sicher, dass du genug Platz in deinem Inventar hast.
 UI_20150317_000618	{@st44}Item-Set erhalten!{/}
-UI_20150317_000619	Bitte waehle ein Item aus
-UI_20150317_000620	{memo X}{@st59b} Shop {nl} {@st59s} - Wenn du eine Itemzahl in Menge kaufen willst, dann druecke die rechte Maustaste {nl} - Benutze einen rechten Doppelklick um eine Menge zu verkaufen {/}
+UI_20150317_000619	Bitte wähle ein Item aus
+UI_20150317_000620	{memo X}{@st59b} Shop {nl} {@st59s} - Wenn du eine Itemzahl in Menge kaufen willst, dann drücke die rechte Maustaste {nl} - Benutze einen rechten Doppelklick um eine Menge zu verkaufen {/}
 UI_20150317_000621	{@st59}Shop schließen{/}
 UI_20150317_000622	{@st59}Erste Seite{/}
-UI_20150317_000623	{@st59}Naechste Seite{/}
+UI_20150317_000623	{@st59}Nächste Seite{/}
 UI_20150317_000624	{@st59}Letzte Seite{/}
-UI_20150317_000625	{@st41b}Zuruecksetzen{/}
-UI_20150317_000626	{@st59}Einkaufswagen zuruecksetzen{/}
-UI_20150317_000627	{@st41b}Bestaetigen{/}
-UI_20150317_000628	{@st59}Transaktion bestaetigen{/}
+UI_20150317_000625	{@st41b}Zurücksetzen{/}
+UI_20150317_000626	{@st59}Einkaufswagen zurücksetzen{/}
+UI_20150317_000627	{@st41b}Bestätigen{/}
+UI_20150317_000628	{@st59}Transaktion bestätigen{/}
 UI_20150317_000629	{@st43}Shop{/}
 UI_20150317_000630	{@st41b}Items Gekauft{/}
 UI_20150317_000631	{@st41b}Items Verkauft{/}
@@ -642,18 +642,18 @@ UI_20150317_000641	{@st41}Crafting-Skills
 UI_20150317_000642	{@st42}Level %s{/}
 UI_20150317_000643	Crafting-Kosten
 UI_20150317_000644	Crafting-Menge
-UI_20150317_000645	Ungefaehr %s Sekunden verbraucht
+UI_20150317_000645	Ungefähr %s Sekunden verbraucht
 UI_20150317_000646	{@st41}Herstellen
 UI_20150317_000647	{memo X}${@st43}Skills & Attribute{/}
 UI_20150317_000648	{memo X}${@st59}Klassen & Skills schließen{/}
-UI_20150317_000649	{@st59b}Klassen{nl}{@st59s}- Du kannst neue Skills erlernen wenn du in dem Circle deiner Klasse aufsteigst. {nl} - Du kannst zwischen 3 verfuegbaren Klassen auswaehlen um von deiner 1. zur 2. aufzusteigen. {nl} - Du kannst bis zu 3 mal in der selben Klasse aufsteigen. {nl} - Bei einem Circle wechsel musst du alle deine Skillpunkte benutzen um aufsteigen zu koennen. {nl} - Du kannst die gleiche Klasse auswaehlen.{nl}{@st59b}Faehigkeiten{nl}{@st59s} - Du kannst den Rang jeder Faehigkeit bis zu Level 5 erhoehen.{nl} - Attribute, die von deinen Meister erlernt wurden, kannst du unter deinen Faehigkeiten sehen. {/}
+UI_20150317_000649	{@st59b}Klassen{nl}{@st59s}- Du kannst neue Skills erlernen wenn du in dem Circle deiner Klasse aufsteigst. {nl} - Du kannst zwischen 3 verfügbaren Klassen auswählen um von deiner 1. zur 2. aufzusteigen. {nl} - Du kannst bis zu 3 mal in der selben Klasse aufsteigen. {nl} - Bei einem Circle wechsel musst du alle deine Skillpunkte benutzen um aufsteigen zu können. {nl} - Du kannst die gleiche Klasse auswählen.{nl}{@st59b}Fähigkeiten{nl}{@st59s} - Du kannst den Rang jeder Fähigkeit bis zu Level 5 erhöhen.{nl} - Attribute, die von deinen Meister erlernt wurden, kannst du unter deinen Fähigkeiten sehen. {/}
 UI_20150317_000650	{memo X}{@st41b}Anwenden{/}
 UI_20150317_000651	{@st59}Anwenden{/}
 UI_20150317_000652	Cleric
 UI_20150317_000653	{@st59}Abbrechen{/}
 UI_20150317_000654	Lernt {#ff4400}%s (Lv. %s){/}...
 UI_20150317_000655	Psychohassle
-UI_20150317_000656	%s Mins. uebrig
+UI_20150317_000656	%s Mins. übrig
 UI_20150317_000657	{@st43}Posen{/}
 UI_20150317_000658	{@st59}Posen schließen{/}
 UI_20150317_000659	{@st41}Board{/}
@@ -663,9 +663,9 @@ UI_20150317_000662	{@st41b}Schreiben{/}
 UI_20150317_000663	{@st41}Registrieren{/}
 UI_20150317_000664	{@st59}Post registrieren{/}
 UI_20150317_000665	{@st41}Starte MyPage{/}
-UI_20150317_000666	{@st59}Veroeffentliche MyPage{/}
-UI_20150317_000667	{@st59}Begrueßung schreiben{/}
-UI_20150317_000668	{@st41b}1. Menue{/}
+UI_20150317_000666	{@st59}Veröffentliche MyPage{/}
+UI_20150317_000667	{@st59}Begrüßung schreiben{/}
+UI_20150317_000668	{@st41b}1. Menü{/}
 UI_20150317_000669	{@st41}Besuchen{/}
 UI_20150317_000670	{@st59}Besuche MyPage{/}
 UI_20150317_000671	{@st41}Verkaufen{/}
@@ -677,7 +677,7 @@ UI_20150317_000676	{@st41}Karte erstellen{/}
 UI_20150317_000677	{@st41}%s/Min (%s in der Hand){/}
 UI_20150317_000678	Keyboard Krieger
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
-UI_20150317_000680	{@st41_yellow}Beschaeftigungszeit
+UI_20150317_000680	{@st41_yellow}Beschäftigungszeit
 UI_20150317_000681	{@st43}Graffiti{/}
 UI_20150317_000682	{@st59}Schließe Spray{/}
 UI_20150317_000683	{@st41b}Tip : Zeichne ein Bild in den Rahmen{/}
@@ -685,7 +685,7 @@ UI_20150317_000684	{@st41b}Farben{/}
 UI_20150317_000685	{@st41b}Anzahl{/}
 UI_20150317_000686	{@st41b}pinseln{/}
 UI_20150317_000687	{@st43}malen{/}
-UI_20150317_000688	{@st59}Male das vollstaendige Bild vor Ort.{/}
+UI_20150317_000688	{@st59}Male das vollständige Bild vor Ort.{/}
 UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Speichern{/}{/}
 UI_20150317_000690	{@st59}Speichere deine Zeichnungen{/}
 UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Laden{/}{/}
@@ -693,25 +693,25 @@ UI_20150317_000692	{@st59}Lade deine Bilder die du gemalt hast.{/}
 UI_20150317_000693	{@st59}Farbe 1{/}
 UI_20150317_000694	{@st59}Farbe 2{/}
 UI_20150317_000695	{@st59}Farbpalette{/}
-UI_20150317_000696	{@st59}Pinsel auswaehlen{/}
+UI_20150317_000696	{@st59}Pinsel auswählen{/}
 UI_20150317_000697	{@st59}Pinsel 1{/}
 UI_20150317_000698	{@st59}Pinsel 2{/}
 UI_20150317_000699	{@st59}Pinsel 3{/}
 UI_20150317_000700	{@st59}Pinsel 4{/}
 UI_20150317_000701	{@st59}Pinsel 5{/}
 UI_20150317_000702	{@st59}Pinsel 6{/}
-UI_20150317_000703	{@st49}Leute denen das gefaellt{/}
+UI_20150317_000703	{@st49}Leute denen das gefällt{/}
 UI_20150317_000704	{s20}{#050505}Beschreibe irgendwas
 UI_20150317_000705	{@st41} Alle {/}
 UI_20150317_000706	{@st41} Party {/}
 UI_20150317_000707	{@st41} Monster {/}
 UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Verbleibende Status-Punkte ▶ {@st46}%s
-UI_20150317_000709	{@st59b}Meine Informationen{nl}{@st59s}- Status : Durch Level-Ups kannst du Statuspunkte erhalten, welche du benutzen kannst um die 5 Stati weiter zu entwickeln damit du staerker wirst. {nl}- Informationen : Dies sind die Informationen ueber deinen Charakter anhand deines momentanen Status und deiner Ausruestung. {nl}- Titel : Titel koennen verdient werden indem man Achievements bewaeltigt. {nl} {/}
+UI_20150317_000709	{@st59b}Meine Informationen{nl}{@st59s}- Status : Durch Level-Ups kannst du Statuspunkte erhalten, welche du benutzen kannst um die 5 Stati weiter zu entwickeln damit du stärker wirst. {nl}- Informationen : Dies sind die Informationen über deinen Charakter anhand deines momentanen Status und deiner Ausrüstung. {nl}- Titel : Titel können verdient werden indem man Achievements bewältigt. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{memo X}{@st41b}Titel{/}
 UI_20150317_000712	Klasse zeigen
 UI_20150317_000713	Charakter-Namen zeigen
-UI_20150317_000714	{@st59}Charakter-Namen aendern{/}
+UI_20150317_000714	{@st59}Charakter-Namen ändern{/}
 UI_20150317_000715	{memo X}{@st41b}Anwenden
 UI_20150317_000716	{@st59}Anwenden{/}
 UI_20150317_000717	{@st41b}Abbrechen
@@ -733,7 +733,7 @@ UI_20150317_000732	{@st59}Freunde (F7){/}
 UI_20150317_000733	{@st59}Makro (F8) {/}
 UI_20150317_000734	{@st59}Begleiter (F9) {/}
 UI_20150317_000735	{@st59}Hilfe (F10) {/}
-UI_20150317_000736	{@st59}System-Menue (Esc){/}
+UI_20150317_000736	{@st59}System-Menü (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
 UI_20150317_000738	Hilfe(F1)
 UI_20150317_000739	Inhalte
@@ -744,15 +744,15 @@ UI_20150317_000743	{memo X}{@st41b}Zeige gesammelte EXP{/}
 UI_20150317_000744	{memo X}{@st41b}Zeige Charakter-Name{/}
 UI_20150317_000745	{memo X}{@st41b}Zeige nur Team-Name{/}
 UI_20150317_000746	{memo X}{@st41b}Zeige Quest-Guide{/}
-UI_20150317_000747	{@st43}Aufloesung{/}
+UI_20150317_000747	{@st43}Auflösung{/}
 UI_20150317_000748	{@st43}Grafik{/}
 UI_20150317_000749	{memo X}{@st41b}Vollbild{/}
 UI_20150317_000750	{memo X}{@st41b}Fenstermodus{/}
 UI_20150317_000751	{@st43}Sound{/}
-UI_20150317_000752	{memo X}{@st41b}Sound-Effects Lautstaerke (%s){/}
-UI_20150317_000753	{memo X}{@st41b}BGM Lautstaerke (%s){/}
-UI_20150317_000754	{memo X}{@st41b}Lautstaerke (%s){/}
-UI_20150317_000755	{@st43}{b}Sprache waehlen{/}
+UI_20150317_000752	{memo X}{@st41b}Sound-Effects Lautstärke (%s){/}
+UI_20150317_000753	{memo X}{@st41b}BGM Lautstärke (%s){/}
+UI_20150317_000754	{memo X}{@st41b}Lautstärke (%s){/}
+UI_20150317_000755	{@st43}{b}Sprache wählen{/}
 UI_20150317_000756	{@st59}Einstellungen schließen{/}
 UI_20150317_000757	{memo X}Niedrig-Modus {@st41b} {/}
 UI_20150317_000758	{@st41b}Anzeigen{/}
@@ -773,13 +773,13 @@ UI_20150317_000772	{@st42}Heutiger Zeitplan
 UI_20150317_000773	{@st53}Zum Anfang :
 UI_20150317_000774	{@st53b}Geschenke erhalten : ×%s
 UI_20150317_000775	{@st43b}Sende Geschenk an %s{/}
-UI_20150317_000776	{@st55_a}Naechstes Spiel
+UI_20150317_000776	{@st55_a}Nächstes Spiel
 UI_20150317_000777	{@st53}- Klicke auf den Namen zum beobachten{nl}- Rechtsklick um ein Geschenk zu senden
 UI_20150317_000778	Mein Charakter als Kamera
 UI_20150317_000779	{@st55_a}Gratulation!
 UI_20150317_000780	{@st42}Kamera wechseln
 UI_20150317_000781	{@st44}Abenteuer-Tagebuch{/}
-UI_20150317_000782	{@st59}aendere Ansichtseinstellungen{/}
+UI_20150317_000782	{@st59}ändere Ansichtseinstellungen{/}
 UI_20150317_000783	{@st41} Statistiken {/}
 UI_20150317_000784	{@st41}Crafting {/}
 UI_20150317_000785	{@st41} Jagd {/}
@@ -804,7 +804,7 @@ UI_20150317_000803	{@st41}Suche
 UI_20150317_000804	{memo X}{@st43}Schlachtfeld Rankings
 UI_20150317_000805	{memo X}{@st59}Schlachtfeld Rankings schließen
 UI_20150317_000806	{@st56}Skill-Name{/}
-UI_20150317_000807	{@st41}Koordinaten pruefen{/}
+UI_20150317_000807	{@st41}Koordinaten prüfen{/}
 UI_20150317_000808	{@st41}Finden{/}
 UI_20150317_000809	{@st42b}Monster-Heilung Verwalten{/}
 UI_20150317_000810	{@st42b}Monster-Liste{/}
@@ -813,13 +813,13 @@ UI_20150317_000812	{@st42b}Karten-Nebel{/}
 UI_20150317_000813	{@st42b}Karte erstellen{/}
 UI_20150317_000814	{@st42b}Minimap erstellen{/}
 UI_20150317_000815	{@st42b}Dialog {/}
-UI_20150317_000816	{@st42b}Quest-Rewards aendern{/}
+UI_20150317_000816	{@st42b}Quest-Rewards ändern{/}
 UI_20150317_000817	{@st42b}Gruppen-Heilung{/}
 UI_20150317_000818	{@st42b}Karten-Standort festlegen{/}
 UI_20150317_000819	{@st42b}Skills-Karte{/}
 UI_20150317_000820	{@st42b}Liste der Events{/}
-UI_20150317_000821	{@st42b}Koordinaten pruefen{/}
-UI_20150317_000822	{@st42b} Pruefe XAC, Texturpfad{/}
+UI_20150317_000821	{@st42b}Koordinaten prüfen{/}
+UI_20150317_000822	{@st42b} Prüfe XAC, Texturpfad{/}
 UI_20150317_000823	{@st42b}Performance AN/AUS{/}
 UI_20150317_000824	Dialog-Liste
 UI_20150317_000825	Suche
@@ -828,7 +828,7 @@ UI_20150317_000827	{@st41}Aus{/}
 UI_20150317_000828	{@st41}Entfernen{/}
 UI_20150317_000829	{@st41}Alle speichern{/}
 UI_20150317_000830	{@st41}Bild anwenden{/}
-UI_20150317_000831	{#FFFFFF}{ds}Event auswaehlen
+UI_20150317_000831	{#FFFFFF}{ds}Event auswählen
 UI_20150317_000832	{#FFFFFF}{ds}Event bearbeiten
 UI_20150317_000833	{ol}Liste
 UI_20150317_000834	Name der zu speichernden Gruppe
@@ -839,7 +839,7 @@ UI_20150317_000838	{@st59}Gebe Gruppen-Namen zum suchen ein{/}
 UI_20150317_000839	{@st41}Neue Gruppe{/}
 UI_20150317_000840	Filtern
 UI_20150317_000841	{@st59}Filter eingeben{/}
-UI_20150317_000842	{ol}Faehigkeitswert
+UI_20150317_000842	{ol}Fähigkeitswert
 UI_20150317_000843	Klassenliste
 UI_20150317_000844	Apply to XML
 UI_20150317_000845	{#FFFFFF}{ds}Log
@@ -849,21 +849,21 @@ UI_20150317_000848	Alle Attributwerte
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Wert
 UI_20150317_000851	$Rogue
-UI_20150317_000852	{ol}aenderung
+UI_20150317_000852	{ol}Änderung
 UI_20150317_000853	${ol}Rogue
 UI_20150317_000854	Klassenliste
 UI_20150317_000855	XML Conversion
 UI_20150317_000856	{ol}Klassenname
-UI_20150317_000857	{ol}Faehigkeitsname
-UI_20150317_000858	{ol}Geaenderter Wert
-UI_20150317_000859	{ol}Bestaetigen
-UI_20150317_000860	Ordner oeffnen
-UI_20150317_000861	Alle ueberpruefen
+UI_20150317_000857	{ol}Fähigkeitsname
+UI_20150317_000858	{ol}Geänderter Wert
+UI_20150317_000859	{ol}Bestätigen
+UI_20150317_000860	Ordner öffnen
+UI_20150317_000861	Alle überprüfen
 UI_20150317_000862	Verlauf
 UI_20150317_000863	Rollback Value
-UI_20150317_000864	{ol}Gegenstand auswaehlen
+UI_20150317_000864	{ol}Gegenstand auswählen
 UI_20150317_000865	Suchbegriff eingeben
-UI_20150317_000866	{@st42}Bestaetigen{/}
+UI_20150317_000866	{@st42}Bestätigen{/}
 UI_20150317_000867	{@st41}UI erstellen{/}
 UI_20150317_000868	{ol}Frame
 UI_20150317_000869	{@st41}Frame{/}
@@ -873,39 +873,39 @@ UI_20150317_000872	{@st42b}Normal{img btn_close}
 UI_20150317_000873	{@st42b}Auction{img btn_close}
 UI_20150317_000874	{@st41}Karten Position festlegen{/}
 UI_20150317_000875	{@st41}Umbenennen{/}
-UI_20150317_000876	{@st59}Gebe die Woerter ein, nach welche du filtern moechtest{/}
+UI_20150317_000876	{@st59}Gebe die Wörter ein, nach welche du filtern möchtest{/}
 UI_20150317_000877	{@st41}Erstellen{/}
 UI_20150317_000878	{@st56}XML speichern{/}
-UI_20150317_000879	{@st56}Zuruecksetzen{/}
+UI_20150317_000879	{@st56}Zurücksetzen{/}
 UI_20150317_000880	{@st56}Attribute{/}
 UI_20150317_000881	{@st56}Wert{/}
 UI_20150317_000882	{@st42}Inhalt{/}
-UI_20150317_000883	{@st41}Zurueck{/}
+UI_20150317_000883	{@st41}Zurück{/}
 UI_20150317_000884	{@st41}Alles Speichern{/}
-UI_20150317_000885	{@st41}XML oeffnen{/}
-UI_20150317_000886	{@st42b}Unveraenderlicher Skill : 0{/}
-UI_20150317_000887	{@st42b}Unveraenderlicher Skill : %s{/}
+UI_20150317_000885	{@st41}XML öffnen{/}
+UI_20150317_000886	{@st42b}Unveränderlicher Skill : 0{/}
+UI_20150317_000887	{@st42b}Unveränderlicher Skill : %s{/}
 UI_20150317_000888	{@st42b}Maus zielsuchend{/}
 UI_20150317_000889	{@st42b}Skill Name{/}
 UI_20150317_000890	{@st41}Monster Liste{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
-UI_20150317_000892	{ol}Quest auswaehlen
-UI_20150317_000893	fuer die Suche Quest Name eingeben
-UI_20150317_000894	{ol}Karte auswaehlen
-UI_20150317_000895	fuer die Suche Kartenname eingeben
+UI_20150317_000892	{ol}Quest auswählen
+UI_20150317_000893	für die Suche Quest Name eingeben
+UI_20150317_000894	{ol}Karte auswählen
+UI_20150317_000895	für die Suche Kartenname eingeben
 UI_20150317_000896	{@st42}Derzeitige Karte{/}
 UI_20150317_000897	{ol}Kartenname
 UI_20150317_000898	{ol}Koordinaten
-UI_20150317_000899	{@st41}Quest Belohnung aendern{/}
+UI_20150317_000899	{@st41}Quest Belohnung ändern{/}
 UI_20150317_000900	{@st59}zum suchen Quest eingeben{/}
 UI_20150317_000901	{@st59}Gegenstand zum suchen eingeben{/}
 UI_20150317_000902	{@st42}EXP
 UI_20150317_000903	{ol}Belohnungen
 UI_20150317_000904	{ol}Menge
-UI_20150317_000905	{ol}Zusaetzliche Belohnungen
-UI_20150317_000906	{@st45}haeufig verwendete Cheats
-UI_20150317_000907	{@st41}Faehigkeitenkarte{/}
-UI_20150317_000908	{@st42}Faehigkeit{/}
+UI_20150317_000905	{ol}Zusätzliche Belohnungen
+UI_20150317_000906	{@st45}häufig verwendete Cheats
+UI_20150317_000907	{@st41}Fähigkeitenkarte{/}
+UI_20150317_000908	{@st42}Fähigkeit{/}
 UI_20150317_000909	{@st42}Warrior{/}
 UI_20150317_000910	{@st42}Wizard{/}
 UI_20150317_000911	{@st42}Archer{/}
@@ -950,7 +950,7 @@ UI_20150317_000949	{@st59}Lodge Einstellungen schließen{/}
 UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Team Name{/}
 UI_20150317_000951	{@st59}Team Name eingeben {/}
 UI_20150317_000952	{memo X}{@st59}Team Name speichern{/}
-UI_20150317_000953	vorlaeufig loeschen
+UI_20150317_000953	vorläufig löschen
 UI_20150317_000954	{@St59}Haus Gestaltung schließen{/}
 UI_20150317_000955	{@St43}Zimmer Gestaltung{/}
 UI_20150317_000956	{@St41b}Theme{/}
@@ -959,20 +959,20 @@ UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Preis
 UI_20150317_000960	{@St41b}Zustand
 UI_20150317_000961	{@St44}Neuer Charakter{/}
-UI_20150317_000962	{@St41b}{s22}Waehle eine Charakterklasse{/}
-UI_20150317_000963	{@St41b}Zurueck{/}
-UI_20150317_000964	{@St59}Zurueck zum Haus, ohne das ein Charakter erstellt wird
+UI_20150317_000962	{@St41b}{s22}Wähle eine Charakterklasse{/}
+UI_20150317_000963	{@St41b}Zurück{/}
+UI_20150317_000964	{@St59}Zurück zum Haus, ohne das ein Charakter erstellt wird
 UI_20150317_000965	Charakter wechseln
 UI_20150317_000966	{@St41}Charakter{/}
 UI_20150317_000967	{@St59}im Uhrzeigersinn drehen{/}
 UI_20150317_000968	{@St59}gegen den Uhrzeigersinn drehen{/}
 UI_20150317_000969	{@St43b}Charakter drehen{/}
 UI_20150317_000970	{@st43}Charakter Name{/}
-UI_20150317_000971	Gebe eine Namen ein fuer {@st59} {/}
-UI_20150317_000972	{@St43b}Geschlecht waehlen{/}
+UI_20150317_000971	Gebe eine Namen ein für {@st59} {/}
+UI_20150317_000972	{@St43b}Geschlecht wählen{/}
 UI_20150317_000973	{@St59}Weiblich{/}
-UI_20150317_000974	{@St59}Maennlich{/}
-UI_20150317_000975	{@st43b}Frisur waehlen{/}
+UI_20150317_000974	{@St59}Männlich{/}
+UI_20150317_000975	{@st43b}Frisur wählen{/}
 UI_20150317_000976	{@st59}Frisur1{/}
 UI_20150317_000977	{@st59}Frisur2{/}
 UI_20150317_000978	{@St59}Frisur3{/}
@@ -983,7 +983,7 @@ UI_20150317_000982	{@st59}Frisur7{/}
 UI_20150317_000983	{@st59}Frisur8{/}
 UI_20150317_000984	{@st59}Frisur9{/}
 UI_20150317_000985	{@st59}Frisur10{/}
-UI_20150317_000986	{@St43b}Klasse waehlen{/}
+UI_20150317_000986	{@St43b}Klasse wählen{/}
 UI_20150317_000987	{@st59}Swordsman{/}
 UI_20150317_000988	{@st59}Wizard{/}
 UI_20150317_000989	{@st59}Archer{/}
@@ -991,12 +991,12 @@ UI_20150317_000990	{@st59}Cleric{/}
 UI_20150317_000991	{@St41b}Zimmer besuchen {/}
 UI_20150317_000992	{@St59}Das Zimmer eines anderen Spielers besuchen.{/}
 UI_20150317_000993	{@St41b}Logout{/}
-UI_20150317_000994	{@St59}Zurueck zum Login Bildschirm{/}
+UI_20150317_000994	{@St59}Zurück zum Login Bildschirm{/}
 UI_20150317_000995	{@St41b}Spiel beenden{/}
 UI_20150317_000996	{@St59}Tree of Savior beenden{/}
-UI_20150317_000997	{@st41b}Kanal waehlen{/}
+UI_20150317_000997	{@st41b}Kanal wählen{/}
 UI_20150317_000998	{memo X}{@st43}Betreten{/}
-UI_20150317_000999	{@St59}Starte das Spiel mit deinen gewaehlten Charakter{/}
+UI_20150317_000999	{@St59}Starte das Spiel mit deinen gewählten Charakter{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Familienname{/}
 UI_20150317_001002	{memo X}{@st41b}Change Team Name{/}
@@ -1012,7 +1012,7 @@ UI_20150317_001011	{@St59}Charaktererstelliung abbrechen{/}
 UI_20150317_001012	{@St59}Schließen{/}
 UI_20150317_001013	{@St59}Team Name erstellen{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Gebe deinen Team Name ein!
-UI_20150317_001015	{memo X}{@St41b}Ein Team Name ist ein Name, dieser wird von all euren Charakteren getragen.{nl}Es ist ein gemeinsamer Name, der im Spiel benutzt wird.{nl}               Der Team Name kann nachtraeglich geaendert werden.{/}
+UI_20150317_001015	{memo X}{@St41b}Ein Team Name ist ein Name, dieser wird von all euren Charakteren getragen.{nl}Es ist ein gemeinsamer Name, der im Spiel benutzt wird.{nl}               Der Team Name kann nachträglich geändert werden.{/}
 UI_20150317_001016	Hintergrund wird geladen
 UI_20150317_001017	Tip
 UI_20150317_001018	Spiel Tips
@@ -1022,14 +1022,14 @@ UI_20150317_001021	{@st59}Gebe deine Account ID ein{/}
 UI_20150317_001022	Passwort
 UI_20150317_001023	{@St59}Gebe dein Passwort ein{/}
 UI_20150317_001024	{@St43}Enter{/}
-UI_20150317_001025	{@St59}Mit dem ausgewaehlten Server verbinden{/}
+UI_20150317_001025	{@St59}Mit dem ausgewählten Server verbinden{/}
 UI_20150317_001026	{@st41b}Wiederholung{/}
 UI_20150317_001027	{@st41b}Single Mode{/}
 UI_20150317_001028	{@St41b}Spiel verlassen{/}
 UI_20150317_001029	Speichern
-UI_20150317_001030	{@St59}Ist dies ausgewaehlt, wird dein Account gespeichert{/}
+UI_20150317_001030	{@St59}Ist dies ausgewählt, wird dein Account gespeichert{/}
 UI_20150317_001031	Server Liste
-UI_20150317_001032	{@St59}Server auswaehlen{/}
+UI_20150317_001032	{@St59}Server auswählen{/}
 UI_20150317_001033	Login Title
 UI_20150317_001034	[Closed Beta version]
 UI_20150317_001035	Optionen
@@ -1039,7 +1039,7 @@ UI_20150317_001038	Sichtweite :
 UI_20150317_001039	Charakter :
 UI_20150317_001040	Hintergrundobjekte :
 UI_20150317_001041	Topography - Gras (%) :
-UI_20150317_001042	Topography- Baeume (%) :
+UI_20150317_001042	Topography- Bäume (%) :
 UI_20150317_001043	Topography-Objekte(%) :
 UI_20150317_001044	Schatten
 UI_20150317_001045	{S20}{#BBBBBB}Shadow Maps
@@ -1047,7 +1047,7 @@ UI_20150317_001046	Using Shadow Map
 UI_20150317_001047	Shadow Quality :
 UI_20150317_001048	SSAO Anwendung
 UI_20150317_001049	SSAO Methode :
-UI_20150317_001050	SSAO Aufloesung :
+UI_20150317_001050	SSAO Auflösung :
 UI_20150317_001051	Wasser Spiegelung
 UI_20150317_001052	{s20}{#BBBBBB}Wasser Spiegelung
 UI_20150317_001053	Charakter Wasser Spiegelung
@@ -1056,17 +1056,17 @@ UI_20150317_001055	{s20}{#BBBBBB}Beleuchtungseinstellung
 UI_20150317_001056	Beleuchtung benutzen
 UI_20150317_001057	{@st41}Angriff{/}
 UI_20150317_001058	{@St41}Verteidigung{/}
-UI_20150317_001059	{@st41}Unterstuetzung{/}
+UI_20150317_001059	{@st41}Unterstützung{/}
 UI_20150317_001060	{@st41}Schwierigkeitsgrad{/}
 UI_20150317_001061	{@st41}Frisur
 UI_20150317_001062	{@st41}Drehen
 UI_20150317_001063	{@st43}Charakter erstellen
 UI_20150317_001064	{@st59}Erstelle deinen Charakter{/}
 UI_20150317_001065	{@st41b}Abbrechen
-UI_20150317_001066	{@st59}Ausgewaehlten Charakter nicht erstellen{/}
+UI_20150317_001066	{@st59}Ausgewählten Charakter nicht erstellen{/}
 UI_20150317_001067	Charakter Information
 UI_20150317_001068	{@st41}Mitbringen
-UI_20150317_001069	{@st59}Waehle einen Charakter als Companion, welcher dir folgen wird.{/}
+UI_20150317_001069	{@st59}Wähle einen Charakter als Companion, welcher dir folgen wird.{/}
 UI_20150317_001070	UI Item Erstellung
 UI_20150317_001071	{s24}Name :
 UI_20150317_001072	{s16} STR :
@@ -1084,32 +1084,32 @@ UI_20150317_001083	For adenomas hwageuk
 UI_20150317_001084	Puncture sex
 UI_20150317_001085	Yeonhwagyo
 UI_20150317_001086	{S16}Geschlecht und Aussehen
-UI_20150317_001087	Maennlich
+UI_20150317_001087	Männlich
 UI_20150317_001088	Weiblich
 UI_20150317_001089	Frisuranpassung
 UI_20150317_001090	Key Adjustment
 UI_20150317_001091	Schulterbreite
-UI_20150317_001092	Hand- und Fußgroeße
+UI_20150317_001092	Hand- und Fußgröße
 UI_20150317_001093	Oberweite
 UI_20150317_001094	Bundweite
-UI_20150317_001095	Hueftlaenge
-UI_20150317_001096	{S18} Kopfgroeße
-UI_20150317_001097	{S14} Koerpergroeßeanpassung
+UI_20150317_001095	Hüftlänge
+UI_20150317_001096	{S18} Kopfgröße
+UI_20150317_001097	{S14} Körpergrößeanpassung
 UI_20150317_001098	{S14} Schulterbreite
-UI_20150317_001099	{S14} Hand- und Fußgroeße
+UI_20150317_001099	{S14} Hand- und Fußgröße
 UI_20150317_001100	{S14} Oberweite
 UI_20150317_001101	{S14} Taillenumfang
-UI_20150317_001102	{S14} Beckengroeße
+UI_20150317_001102	{S14} Beckengröße
 UI_20150317_001103	Voreinstellungen verwwenden
-UI_20150317_001104	Zufaellig
+UI_20150317_001104	Zufällig
 UI_20150317_001105	Erstelle einen neuen Charakter
 UI_20150317_001106	Charaktererstellung abbrechen
 UI_20150317_001107	{@St43}{s40}{gr gradation4}Spiel Starten{/}
 UI_20150317_001108	{@St43}{s40}{gr gradation4}Vorschau beenden{/}
-UI_20150317_001109	{@St43}{s40}{gr gradation4}Zurueck zum Gebiet{/}
-UI_20150317_001110	{@St59}Zurueck zum Gebiet.{/}
-UI_20150317_001111	{@St41b}Zurueck{/}
-UI_20150317_001112	{@St59}Zurueck zu Mein Haus.{/}
+UI_20150317_001109	{@St43}{s40}{gr gradation4}Zurück zum Gebiet{/}
+UI_20150317_001110	{@St59}Zurück zum Gebiet.{/}
+UI_20150317_001111	{@St41b}Zurück{/}
+UI_20150317_001112	{@St59}Zurück zu Mein Haus.{/}
 UI_20150317_001113	{@St43}{s24}Hausname{/}
 UI_20150317_001114	{@St59}Hausname{/}
 UI_20150317_001115	{@st41b}Dekorieren{/}
@@ -1121,7 +1121,7 @@ UI_20150317_001120	Green
 UI_20150317_001121	Density
 UI_20150317_001122	Like HP
 UI_20150317_001123	{@st59}Haarschmuck{/}
-UI_20150317_001124	{@st59}Schmuckstueck{/}
+UI_20150317_001124	{@st59}Schmuckstück{/}
 UI_20150317_001125	{@St42}Text{/}
 UI_20150317_001126	Name des voreingestellen Inhalts
 UI_20150317_001127	Name der voreingestellen Gruppe
@@ -1136,8 +1136,8 @@ UI_20150317_001135	Nicht erweiterbar
 UI_20150317_001136	N/A
 UI_20150317_001137	Gegenstand
 UI_20150317_001138	N/A
-UI_20150317_001139	Lv und hoeher
-UI_20150317_001140	Jeder kann sich damit ausruesten
+UI_20150317_001139	Lv und höher
+UI_20150317_001140	Jeder kann sich damit ausrüsten
 UI_20150317_001141	{memo X}Maximum Sockets : ×%s
 UI_20150317_001142	Item Name
 UI_20150317_001143	Shop Verkaufswert : %s silver
@@ -1176,7 +1176,7 @@ UI_20150317_001175	{@St41}Skill Names
 UI_20150317_001176	{@St41}Attributpunkte
 UI_20150317_001177	{@St41}Klassen Name
 UI_20150317_001178	Charakter Name
-UI_20150317_001179	{@Sti7}Loeschen{/}
+UI_20150317_001179	{@Sti7}Löschen{/}
 UI_20150317_001180	Charakter Level
 UI_20150317_001181	{@St42}Quest Verteilung{/}
 UI_20150317_001182	{@St42}EXP Verteilung{/}
@@ -1193,7 +1193,7 @@ UI_20150317_001192	{memo X}Randomly
 UI_20150317_001193	Wie mache ich
 UI_20150317_001194	Du siehst nicht, wer es ist
 UI_20150317_001195	{@st41b}Abenteuer Tagebuch wurde aktualisiert
-UI_20150317_001196	Menue Objekte fuer Quest
+UI_20150317_001196	Menü Objekte für Quest
 UI_20150317_001197	Kategorien der Quest
 UI_20150317_001198	Objektliste der Quest
 UI_20150317_001199	N/A
@@ -1230,7 +1230,7 @@ UI_20150317_001229	{@st42b}Aktueller Preis {img icon_item_silver 20 20}{@st57}%s
 UI_20150317_001230	{@St41}Sofort Kaufen! {Img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001231	{@St41b}Gegenstand erhalten{/}
 UI_20150317_001232	{@st42b} Gebotener Preis {img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001233	{@Sti7}Zurueck
+UI_20150317_001233	{@Sti7}Zurück
 UI_20150317_001234	{@St59}Kopf{/}
 UI_20150317_001235	{@St59}Linker Armreif{/}
 UI_20150317_001236	{@St59}Rechter Armreif{/}
@@ -1246,7 +1246,7 @@ UI_20150317_001245	{@Sti7}%s Punkte{/}
 UI_20150317_001246	{@st41b}%s Ergebnis
 UI_20150317_001247	Quest beendet 25
 UI_20150317_001248	[Sub]Thron Forest
-UI_20150317_001249	{@St42}Gegenstand ausgeruestet
+UI_20150317_001249	{@St42}Gegenstand ausgerüstet
 UI_20150317_001250	{@St44}Rang %s Klassen Information{/}
 UI_20150317_001251	Aufstiegsalarm
 UI_20150317_001252	Like Heart
@@ -1255,7 +1255,7 @@ UI_20150317_001254	Level %s
 UI_20150317_001255	{memo X}Memo : {#666666}%s
 UI_20150317_001256	Ayase
 UI_20150317_001257	In einer Beziehung mit %s
-UI_20150317_001258	{#FFFF33}%s{/} Moechte dein Freund werden{/}
+UI_20150317_001258	{#FFFF33}%s{/} Möchte dein Freund werden{/}
 UI_20150317_001259	{@St41b}Annehmen
 UI_20150317_001260	{memo X}{@St41b}Ablehnen
 UI_20150317_001261	{@St53b}Freundesliste wird geladen.
@@ -1263,9 +1263,9 @@ UI_20150317_001262	Level %s{/}
 UI_20150317_001263	{@st41} Abbrechen
 UI_20150317_001264	Please add the buff to sell.
 UI_20150317_001265	Preis : %s{/}
-UI_20150317_001266	Menge uebrig
+UI_20150317_001266	Menge übrig
 UI_20150317_001267	{@St41}Kaufen
-UI_20150317_001268	Menge uebrig : %s {/}
+UI_20150317_001268	Menge übrig : %s {/}
 UI_20150317_001269	{@St41}Gegenstand{/}
 UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Craft
@@ -1287,12 +1287,12 @@ UI_20150317_001286	{@St42}Verbleibende Zeit : %s
 UI_20150317_001287	{@St53}Item Crafting
 UI_20150323_001288	{@st59}Lege den Gegenstand hier ab{/}
 UI_20150323_001289	{@st42}Abbrechen
-UI_20150323_001290	{@st42}Bestaetigen
+UI_20150323_001290	{@st42}Bestätigen
 UI_20150323_001291	{@st43}Briquetting{/}
 UI_20150323_001292	Current Potential
 UI_20150323_001293	Verbrauchtes Material
 UI_20150323_001294	Verbrauchte Menge
-UI_20150323_001295	Verfuegbare Menge
+UI_20150323_001295	Verfügbare Menge
 UI_20150323_001296	{memo X}{@sti6}Transaction Record
 UI_20150323_001297	{memo X}{@st43}Base Camp
 UI_20150323_001298	Signboard Title
@@ -1315,7 +1315,7 @@ UI_20150323_001314	{memo X}{@st41b}Food type
 UI_20150323_001315	{memo X}{@st41b}Table
 UI_20150323_001316	{@st59}Schließen{/}
 UI_20150323_001317	{@st43}Zauberbuch{/}
-UI_20150323_001318	{@st59}Zabuerbuch UI schließen{/}
+UI_20150323_001318	{@st59}Zauberbuch schließen{/}
 UI_20150323_001319	{memo X}My Summon Skill
 UI_20150323_001320	Hauptkarte
 UI_20150323_001321	Nebenkarte
@@ -1335,10 +1335,10 @@ UI_20150323_001334	{memo X}{@st41b}Log{/}
 UI_20150323_001335	{memo X}Price to receive
 UI_20150323_001336	${@st59}Juwel platzieren{/}
 UI_20150323_001337	Verbrauchtes Material
-UI_20150323_001338	Stueckzahl uebrig
+UI_20150323_001338	Stückzahl übrig
 UI_20150323_001339	{@st42}Schließen
 UI_20150323_001340	${@st43}Waffen Wartung{/}
-UI_20150323_001341	${@st43}Ausruestung Wartung{/}
+UI_20150323_001341	${@st43}Ausrüstung Wartung{/}
 UI_20150323_001342	{memo X}{@st41b}Price to receive
 UI_20150323_001343	{@st41b}Material
 UI_20150323_001344	{@st43}Reparieren{/}
@@ -1349,10 +1349,10 @@ UI_20150323_001348	{@st43}Item upgrade dungeon
 UI_20150323_001349	{@st41}Material erforderlich
 UI_20150323_001350	{@st59}Material erforderlich{/}
 UI_20150323_001351	Empfohlenes Level : %s
-UI_20150323_001352	{memo X}{@st43}UI Waehle Modus{/}
+UI_20150323_001352	{memo X}{@st43}UI Wähle Modus{/}
 UI_20150323_001353	{@st43}Ankauf Shop
 UI_20150323_001354	Shop Name
-UI_20150323_001355	{@st41b}Shop oeffnen
+UI_20150323_001355	{@st41b}Shop öffnen
 UI_20150323_001356	{@st59}Ankauf Shop starten{/}
 UI_20150323_001357	{@st59}Abbrechen{/}
 UI_20150323_001358	{@st59}Ankauf Shop schließen{/}
@@ -1374,7 +1374,7 @@ UI_20150323_001373	{memo X}{@st41b}Apply FXAA{/}
 UI_20150323_001374	{memo X}{@st41b}Apply GLOW{/}
 UI_20150323_001375	{memo X}{@st41b}Apply Depth {/}
 UI_20150323_001376	{memo X}{@st41b}Apply SoftParticle{/}
-UI_20150323_001377	{@st43}Persoenliches Lager{/}
+UI_20150323_001377	{@st43}Persönliches Lager{/}
 UI_20150323_001378	{memo X}{@st59}Close Personal Storage{/}
 UI_20150323_001379	{memo X}{@sti6}Storing and taking items from storage costs %s silver...{/}
 UI_20150323_001380	{memo X}{@st59}Alt+Z to change weapons{/}
@@ -1391,12 +1391,12 @@ UI_20150323_001390	{@st59}Hauseinstellungen wechseln{/}
 UI_20150323_001391	{memo X}{@st45ty}Character Greeting{/}
 UI_20150323_001392	{memo X}{@st45ty}Buy-in Shop
 UI_20150323_001393	{@st41b}Wechseln
-UI_20150323_001394	{@st59}Charakterbegrueßung wechseln{/}
+UI_20150323_001394	{@st59}Charakterbegrüßung wechseln{/}
 UI_20150323_001395	{@st59}Ankauf Shop festlegen{/}
 UI_20150323_001396	Abnahmemenge : %s{/}
-UI_20150323_001397	Gegenstaende zum kaufen suchen
+UI_20150323_001397	Gegenstände zum kaufen suchen
 UI_20150323_001398	Anzahl
-UI_20150323_001399	Stueckpreis
+UI_20150323_001399	Stückpreis
 UI_20150323_001400	{memo X}{@sti5}×%s{/}
 UI_20150323_001401	{@st41}Essen
 UI_20150323_001402	{@st41}Anfertigen
@@ -1405,12 +1405,12 @@ UI_20150323_001404	{memo X}{@st41}Consumable Material
 UI_20150401_001405	{@st59}Close Briquetting{/}
 UI_20150401_001406	{memo X}{@st41}Remove Base Camp
 UI_20150401_001407	{@st43}[Zirkel %s]{/}
-UI_20150401_001408	{@st43}Faehigkeiten{/}
+UI_20150401_001408	{@st43}Fähigkeiten{/}
 UI_20150401_001409	{@st43}Klassen Tip{/}
 UI_20150401_001410	Klassen Tip
 UI_20150401_001411	{memo X}{@st42}{#ffff00}Lock Target {/}
 UI_20150401_001412	{memo X}{@st41}Remove Table
-UI_20150401_001413	{@st43}Faerben{/}
+UI_20150401_001413	{@st43}Färben{/}
 UI_20150401_001414	Joystick Quick Slot
 UI_20150401_001415	{memo X}{@st42}{#ffff00}Keyboard Mode{/}
 UI_20150401_001416	{@st43}Open Offering Box
@@ -1439,14 +1439,14 @@ UI_20150401_001438	{@st41b}Craft{/}
 UI_20150401_001439	{memo X}{@st59}Mix mix turn and mix{/}
 UI_20150401_001440	{@st41b}Achievements{/}
 UI_20150401_001441	Haarfarbe
-UI_20150401_001442	Verfuegbare Titel
+UI_20150401_001442	Verfügbare Titel
 UI_20150401_001443	{memo X}{@st41b}Joystick UI mode{/}
 UI_20150401_001444	{@st41}{#ffffcc}Name
 UI_20150401_001445	{@st41}{#ffffcc}Price
 UI_20150401_001446	{@st41}{#ffffcc}Status
 UI_20150401_001447	{@st41b}Cancel Preview
 UI_20150401_001448	{@st41}{#ffff00}My iCoins : %s{/}
-UI_20150401_001449	Ausgeruestet
+UI_20150401_001449	Ausgerüstet
 UI_20150401_001450	{memo X}Description : {#FFFF00}%s{/}
 UI_20150401_001451	{memo X}Average Level : {#FFFF00}%s{/}
 UI_20150401_001452	{memo X}Conditions
@@ -1504,7 +1504,7 @@ UI_20150428_001503	{@st41b}Bug description :{/}
 UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
 UI_20150428_001505	{@st41b}Send
 UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
-UI_20150428_001507	{@st59}Visiere dein Ziel an, unabhaengig von Entfernung oder Richtung
+UI_20150428_001507	{@st59}Visiere dein Ziel an, unabhängig von Entfernung oder Richtung
 UI_20150428_001508	Party found!
 UI_20150428_001509	Joystick Rest Quickslot
 UI_20150428_001510	{@st41b}Rest Mode
@@ -1564,10 +1564,10 @@ UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001564	{memo X}{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{memo X}{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Inventar {nl}{@st59s} - Haarstil/Kostuem: Ausruestung um das Aussehen des Charakters zu veraendern. {nl} - Waffen: Ein oder Zwei-Hand Waffen {nl} (Sekundaer Waffen/Schilde koennen mit Ein-Hand Waffen kombiniert werden) {nl} - Ruestung: Kopf, Hose, Handschuhe, Schuhe. {nl} - Schmuck: 1 Halskette and 2 Armbaender. {nl} {/}
+UI_20150714_001567	{@st59b}Inventar {nl}{@st59s} - Haarstil/Kostüm: Ausrüstung um das Aussehen des Charakters zu verändern. {nl} - Waffen: Ein oder Zwei-Hand Waffen {nl} (Sekundär Waffen/Schilde können mit Ein-Hand Waffen kombiniert werden) {nl} - Rüstung: Kopf, Hose, Handschuhe, Schuhe. {nl} - Schmuck: 1 Halskette and 2 Armbänder. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
-UI_20150714_001570	{@st66}Alle Auswaehlen
+UI_20150714_001570	{@st66}Alle Auswählen
 UI_20150714_001571	{@st43}Craft Arrow{/}
 UI_20150714_001572	{@st59}Close UI{/}
 UI_20150714_001573	{@st66b}Check{/}
@@ -1596,14 +1596,14 @@ UI_20150714_001595	Teilen
 UI_20150714_001596	Pro Level
 UI_20150714_001597	{@st42}Quest Teilen
 UI_20150714_001598	Deaktiviert
-UI_20150714_001599	{@st42}Oeff. Party{/}
+UI_20150714_001599	{@st42}Öff. Party{/}
 UI_20150714_001600	{memo X}Level
 UI_20150714_001601	{@st42}'Empfohlene Party'{/}
 UI_20150714_001602	Per Distanz
 UI_20150714_001603	Per Klasse
 UI_20150714_001604	Per Level
 UI_20150714_001605	Per Quest
-UI_20150714_001606	Naehste
+UI_20150714_001606	Nähste
 UI_20150714_001607	{memo X}{@st42}Share Party Invite Link
 UI_20150714_001608	>>Party Preview...
 UI_20150714_001609	Party Name : %s
@@ -1616,13 +1616,13 @@ UI_20150714_001615	Simple Help Details
 UI_20150714_001616	{@st43}Postfach
 UI_20150714_001617	{@st41b}Alle
 UI_20150714_001618	{@st41b}Ungelesen
-UI_20150714_001619	{memo X}{@st43}{s22}Waehle einen Charakter der den Gegenstand erhalten soll.{/}
+UI_20150714_001619	{memo X}{@st43}{s22}Wähle einen Charakter der den Gegenstand erhalten soll.{/}
 UI_20150714_001620	{@st41b}Enhance
-UI_20150714_001621	{@st66}Reperaturbeduerftig
+UI_20150714_001621	{@st66}Reperaturbedürftig
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
-UI_20150714_001624	{@st59}Faehigkeiten & Attribute schließen{/}
-UI_20150714_001625	{@st43}Faehigkeiten & Attribute{/}
+UI_20150714_001624	{@st59}Fähigkeiten & Attribute schließen{/}
+UI_20150714_001625	{@st43}Fähigkeiten & Attribute{/}
 UI_20150714_001626	Verbleibende Statuspunkte {nl}{@st46}%s
 UI_20150714_001627	Likes erhalten : %s
 UI_20150714_001628	{memo X}{@st66b}Show EXP acquired{/}
@@ -1635,9 +1635,9 @@ UI_20150714_001634	{@st66b}Tastatur{/}
 UI_20150714_001635	{@st66b}Mause
 UI_20150714_001636	{@st66b}Vollbild{/}
 UI_20150714_001637	{@st66b}Fenster Modus{/}
-UI_20150714_001638	{@st66b}Effekt Lautstaerke (%s){/}
-UI_20150714_001639	{@st66b}Hintergrundmusik Lautstaerke (%s){/}
-UI_20150714_001640	{@st66b}Lautstaerke (%s){/}
+UI_20150714_001638	{@st66b}Effekt Lautstärke (%s){/}
+UI_20150714_001639	{@st66b}Hintergrundmusik Lautstärke (%s){/}
+UI_20150714_001640	{@st66b}Lautstärke (%s){/}
 UI_20150714_001641	{@st66b}Low Mode{/}
 UI_20150714_001642	{@st66b}Auto Setup{/}
 UI_20150714_001643	{@st66b}Don't Use{/}
@@ -1662,7 +1662,7 @@ UI_20150714_001661	Deaths
 UI_20150714_001662	Damage
 UI_20150714_001663	{@st41}Return to the zone
 UI_20150714_001664	{@st41b}Return to the zone in just %s seconds...{/}
-UI_20150714_001665	{@st59}Postfach oeffnen{/}
+UI_20150714_001665	{@st59}Postfach öffnen{/}
 UI_20150714_001666	{@st42}Haus wechseln{/}
 UI_20150714_001667	{@st42}Hauseinstellungen{/}
 UI_20150714_001668	{@st65}%s Punkte{/}
@@ -1713,8 +1713,8 @@ UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{memo X}{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
 UI_20150717_001715	{@st42}Party Name & Beschreibung{/}
-UI_20150717_001716	{@st42}Hinzufuegen eines Party Einladungs-Tag
-UI_20150717_001717	{@st41b}Oeffentliche Partyliste{/}
+UI_20150717_001716	{@st42}Hinzufügen eines Party Einladungs-Tag
+UI_20150717_001717	{@st41b}Öffentliche Partyliste{/}
 UI_20150717_001718	{memo X}{@st41b}Recommended Character List{/}
 UI_20150717_001719	{@st41b}Einladung erhalten
 UI_20150717_001720	Dies kann nur der Party Leader benutzen.
@@ -1723,16 +1723,16 @@ UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20150717_001724	{@st59}Mouse Info{/}
 UI_20150717_001725	{@st66b}sortieren
-UI_20150717_001726	{@st59}Gegenstaende sortieren.{/}
-UI_20150717_001727	{@st59}Lege eine Waffe in deinen Slot{nl}Druecke Alt+Z um deine Waffe zu tauschen{/}
+UI_20150717_001726	{@st59}Gegenstände sortieren.{/}
+UI_20150717_001727	{@st59}Lege eine Waffe in deinen Slot{nl}Drücke Alt+Z um deine Waffe zu tauschen{/}
 UI_20150717_001728	Einen anderen Charakter zuschauen
 UI_20150717_001729	{@st41}Battle Field
 UI_20150717_001730	Ergebnisse
 UI_20150717_001731	{@st41}Bewege dich sofort
-UI_20150717_001732	${@st41b}            Ein Team Name steht fuer alle Charaktere.{nl}                 Es wird eine allgemeine Bezeichnung im Spiel verwendet.{nl}                  Der Team Name kann spaeter geaendert werden.{/}
-UI_20150729_001733	{@st42}Zeigt nur an welche Attribute erlernt werden koennen{/}
+UI_20150717_001732	${@st41b}            Ein Team Name steht für alle Charaktere.{nl}                 Es wird eine allgemeine Bezeichnung im Spiel verwendet.{nl}                  Der Team Name kann später geändert werden.{/}
+UI_20150729_001733	{@st42}Zeigt nur an welche Attribute erlernt werden können{/}
 UI_20150729_001734	Leg Count
-UI_20150729_001735	Koerpergroeße
+UI_20150729_001735	Körpergröße
 UI_20150729_001736	Gewicht
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
@@ -1746,7 +1746,7 @@ UI_20150729_001745	Wenn ein Spieler die Kriterien eingestellt hat, erscheint die
 UI_20150729_001746	{@st41b}Empfohlene Spielerliste{/}
 UI_20150729_001747	{@st41}Attribute Information
 UI_20150729_001748	{@st59}Verbesserung abbrechen{/}
-UI_20150729_001749	{@st59b}Edelsteine/Karten Verbesserung{nl}{@st59s} - Waehle ein Edelstein aus oder eine Karte aus dein Inventar, um es zu verbessern.{nl} - Alle Gegenstaende mit Ausnahme von Quest-Gegenstaende koennen zur Verbesserungen der Edelsteine verwendet werden.{nl} (Der groeßte Effekt wird erzielt wenn man, ein Edelstein als Material verwendet){nl} - Karten koennen nur durch die Verwendung anderer Karten verbessert werden.{/}
+UI_20150729_001749	{@st59b}Edelsteine/Karten Verbesserung{nl}{@st59s} - Wähle ein Edelstein aus oder eine Karte aus dein Inventar, um es zu verbessern.{nl} - Alle Gegenstände mit Ausnahme von Quest-Gegenstände können zur Verbesserungen der Edelsteine verwendet werden.{nl} (Der größte Effekt wird erzielt wenn man, ein Edelstein als Material verwendet){nl} - Karten können nur durch die Verwendung anderer Karten verbessert werden.{/}
 UI_20150729_001750	{#000000}{s22}Der Server wird beigetreten ..
 UI_20150729_001751	{#000000}{s22}Der Server ist voll. Du befindest dich in der Warteschlange.
 UI_20150729_001752	{#000000}{s22}Current Rank : %s
@@ -1758,13 +1758,13 @@ UI_20150729_001757	{@st59}Team Battle League Rankings schließen
 UI_20150729_001758	Team Name
 UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Party Mission akzeptieren{/}
-UI_20150729_001761	{@st59}Loesche dieses Ticket{/}
+UI_20150729_001761	{@st59}Lösche dieses Ticket{/}
 UI_20150729_001762	Punkte
 UI_20150729_001763	Team Battle League beitreten
 UI_20150730_001764	{memo X}{@st56}My Rank
 UI_20150730_001765	{memo X}{@st56}Kill Rank
 UI_20150730_001766	{memo X}{@st56}Damage Rank
-UI_20150803_001767	General: /s chat{nl}Rufen: /y chat {nl}Party: /p chat{nl} Fluestern: /w TeamName Chat
+UI_20150803_001767	General: /s chat{nl}Rufen: /y chat {nl}Party: /p chat{nl} Flüstern: /w TeamName Chat
 UI_20150803_001768	{@st66b}Gamepad Vibration{/}
 UI_20150803_001769	Ein Kampf wurde gefunden. Bitte warte bis du das Spiel beitreten kannst.
 UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Pick the character to receive the item(s).{/}
@@ -1778,45 +1778,45 @@ UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s
 UI_20150918_001778	Personal Warehouse
 UI_20150918_001779	{@st41b}Typ : {@sti7}%s{/}
 UI_20150918_001780	{@st41b}Schwierigkeitsgrad : {@sti7}%s{/}
-UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Spieler moegen diesen Charakter
+UI_20150918_001781	{#ffff00}{ol}%s{/}{/} Spieler mögen diesen Charakter
 UI_20150918_001782	{@st43}Instanced Dungeons
 UI_20150918_001783	{@st41}untersuche Standort
 UI_20150918_001784	{#000000}Dungeon Name{/}
 UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
-UI_20150918_001787	{#000000}Die Anzahl der Eintraege wird zurueckgesetzt bei %s.{/}
+UI_20150918_001787	{#000000}Die Anzahl der Einträge wird zurückgesetzt bei %s.{/}
 UI_20150918_001788	{img silver 20 20} Preis
 UI_20150918_001789	Information von nahegelegenen Partys
 UI_20150918_001790	Fragmente erforderlich : %s 
 UI_20150918_001791	{@st66b}Leer
-UI_20150918_001792	{@st42}Zeige Partys in der Naehe an{/}
+UI_20150918_001792	{@st42}Zeige Partys in der Nähe an{/}
 UI_20150918_001793	Freundschaft mit {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Freundschaft
 UI_20150918_001795	{@st41b}Du hast einen Crafting Gegenstand erhalten!
 UI_20150918_001796	{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
-UI_20150918_001797	{@st66b}Erneut anfangen vom naechstgelegenen Revival Point{/}
+UI_20150918_001797	{@st66b}Erneut anfangen vom nächstgelegenen Revival Point{/}
 UI_20150918_001798	{@st66b}Hier erneut anfangen  (kostet %s iCoins){/}
-UI_20150918_001799	{@st66b}Zurueck zum Bereich{/}
+UI_20150918_001799	{@st66b}Zurück zum Bereich{/}
 UI_20150918_001800	{@st66b}Beendet die Quest und versuche es noch einmal{/}
 UI_20150918_001801	{@st66b}Versuche es noch einmal{/}
-UI_20150918_001802	{@st66b}Gegenstaende verkauft{/}
+UI_20150918_001802	{@st66b}Gegenstände verkauft{/}
 UI_20150918_001803	{@st53}Ranking Punkte : %s
 UI_20150918_001804	Gesamt handelbar: %s
-UI_20150918_001805	{@st42b}Dialoge ueberpruefen{/}
+UI_20150918_001805	{@st42b}Dialoge überprüfen{/}
 UI_20150918_001806	{@st66b}Gebe Food einen außenstehenden der Party{/}
-UI_20150918_001807	{@st41b}Schild Titel aendern
+UI_20150918_001807	{@st41b}Schild Titel ändern
 UI_20150918_001808	{@sti9}Mein Rang
 UI_20150918_001809	{@sti9}Kill Rang
 UI_20150918_001810	{@sti9}Damage Rang
-UI_20151001_001811	{@st43}Schluessel Einstellungen{/}
+UI_20151001_001811	{@st43}Schlüssel Einstellungen{/}
 UI_20151001_001812	{@st45tw2}kategorie
 UI_20151001_001813	Handlung
 UI_20151001_001814	Standardeinstellungen wiederherstellen
-UI_20151016_001815	{@st59}Der Ausgewaehlte Gegenstand wird blockiert{/}
+UI_20151016_001815	{@st59}Der Ausgewählte Gegenstand wird blockiert{/}
 UI_20151016_001816	{@st59}Du kannst das Aussehen.
 UI_20151016_001817	%s Charaktere{/}
 UI_20151016_001818	{@st42b}Vorschau
-UI_20151016_001819	{@st42b}Zurueck
+UI_20151016_001819	{@st42b}Zurück
 UI_20151016_001820	{@st42b}Kaufen
 UI_20151016_001821	{@st42b}Annehmen
 UI_20151016_001822	Guild Name and Description

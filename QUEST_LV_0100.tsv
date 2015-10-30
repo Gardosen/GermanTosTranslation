@@ -8,7 +8,7 @@ QUEST_LV_0100_20150317_000007	$En... Endlich! Ist Hilfe gekommen ?{n1}Häh?! Es 
 QUEST_LV_0100_20150317_000008	$Was ist das für ein Papier das du da hältst? Es sieht vertraut aus...{n1}Lass mich das sehen! Was tust du da? Hey, ein Erwachsener spricht mit dir !
 QUEST_LV_0100_20150317_000009	$Dieses Papier, es gehört mir ! Ich werde es nie wieder weggeben !!{n1} Es ist nichts... was du brauchst - Ich werde es einfach zerreissen. Hier.
 QUEST_LV_0100_20150317_000010	$Ahhh, das ist lahm ...
-QUEST_LV_0100_20150317_000011	Das ist nicht das erste Zeichen, dass aufgetaucht ist nachdem die Goettinnen verschwanden.{n1}Vielleicht wird einer dieser Leute derjenige sein der die Goettinnen zurueckbringt.
+QUEST_LV_0100_20150317_000011	Das ist nicht das erste Zeichen, dass aufgetaucht ist nachdem die Göttinnen verschwanden.{n1}Vielleicht wird einer dieser Leute derjenige sein der die Göttinnen zurückbringt.
 QUEST_LV_0100_20150317_000012	$Soldat Blak
 QUEST_LV_0100_20150317_000013	$Seid gewarnt!{n1} Die Monster greifen an, deswegen müssen alle Zivilisten evakuiert werden!{n1} Warum sind diese Zivilisten überhaupt in der Militärzone?{n1}
 QUEST_LV_0100_20150317_000014	$Ah, du bist also der Prophezeite! Es tut mir Leid dass ich dich nicht erkannt habe.{n1}Monster greifen immoment unseren Außenposten an.{n1}Ich brauche noch dringend einige wichtige Vorräte von dem Posten. Bitte helft mir !
@@ -54,8 +54,8 @@ QUEST_LV_0100_20150317_000053	$Söldner Mirta
 QUEST_LV_0100_20150317_000054	${memo X}Didn't I already warn you?{nl}Please be careful next time.
 QUEST_LV_0100_20150317_000055	$Historiker Kepeck
 QUEST_LV_0100_20150317_000056	$Niels muss dich geschickt haben.{n1}Nun, da du in Eile bist, archivier es selbst und bring es zurück zu Niels.
-QUEST_LV_0100_20150317_000057	$Wenn du geradeaus gehst, nimm den Weg zu deiner Rechten und überquere die Brücke. Dort wirst du die Artefakte des großen Königs Zachariels sehen.{n1}Archiviert sie und bringt sie zurück zu Niels. Er wird es verstehen.
-QUEST_LV_0100_20150317_000058	$Das ist also Kepecks Archiv... Söldnerin Mirta hat danach gesucht.{n1}Du hast geholfen die Sicherheit zweier Individuen zu bestätigen. Danke für deine Mühen.
+QUEST_LV_0100_20150317_000057	$Wenn du geradeaus gehst, nimm den Weg zu deiner Rechten und überqüre die Brücke. Dort wirst du die Artefakte des großen Königs Zachariels sehen.{n1}Archiviert sie und bringt sie zurück zu Niels. Er wird es verstehen.
+QUEST_LV_0100_20150317_000058	$Das ist also Kepecks Archiv... Söldnerin Mirta hat danach gesucht.{n1}Du hast geholfen die Sicherheit zweier Individün zu bestätigen. Danke für deine Mühen.
 QUEST_LV_0100_20150317_000059	$Ahylas Jonas
 QUEST_LV_0100_20150317_000060	${memo X}Now take the unsealing stone and go to Broken Pillar Canyon. {nl}The Disciple of Gustas will teach you how to release the seal there.
 QUEST_LV_0100_20150317_000061	${memo X}Were you not guided yet?{nl}Take it to the Disciple of Gustas in Broken Pillar Canyon.{nl}It is made to let only the chosen one enter.
@@ -200,9 +200,9 @@ QUEST_LV_0100_20150317_000199	{memo X}$That smell.. I think the purifying device
 QUEST_LV_0100_20150317_000200	$Do you know about the legend of Cunningham?{nl}The legend states that a great demon was sealed here in the Crystal Mine.{nl}There is a book with more details about it at the Mine Worker's Resting Place in Crystal Mine 2F.{nl}
 QUEST_LV_0100_20150317_000201	{memo X}$Anyway, my guess is that the demon is re-awakening and is controlling the Vubbes.{nl}The Bishop's dream and the Legend of Cunningham... I feel they may be a sign that something huge is about to happen.{nl}
 QUEST_LV_0100_20150317_000202	$Only the Goddess would know if it will be hope or despair.{nl}
-QUEST_LV_0100_20150317_000203	Die Filter koennen von jedem repariert werden. Aber es koennte schwer werden die benoetigten Teile zu finden.{nl}In diesem Fall, benutzte einfach den Kompass den ich dir gegeben habe, um sie zu finden.{nl}
+QUEST_LV_0100_20150317_000203	Die Filter können von jedem repariert werden. Aber es könnte schwer werden die benötigten Teile zu finden.{nl}In diesem Fall, benutzte einfach den Kompass den ich dir gegeben habe, um sie zu finden.{nl}
 QUEST_LV_0100_20150317_000204	$Well then, I have some things to do so I will meet you at 3F of the Crystal Mine.{nl}In the name of the Goddess, I pray for success in your struggles.
-QUEST_LV_0100_20150317_000205	Benutzte den Kompass um die Teile die du benoetigst, um die Filter zu reparieren, zu finden.{nl}
+QUEST_LV_0100_20150317_000205	Benutzte den Kompass um die Teile die du benötigst, um die Filter zu reparieren, zu finden.{nl}
 QUEST_LV_0100_20150317_000206	$Village Aunt
 QUEST_LV_0100_20150317_000207	$You've come to save us? Right?
 QUEST_LV_0100_20150317_000208	$It's alright, We are going to be okay now!
@@ -380,7 +380,7 @@ QUEST_LV_0100_20150317_000379	$All I see are monsters and we're out of supplies.
 QUEST_LV_0100_20150317_000380	$Until I'm assigned a new task, I'm thinking of going back to my duties as a search scout.{nl}Observing the monsters, you know.
 QUEST_LV_0100_20150317_000381	{memo X}$The Miners' Village is under siege and entrance is prohibited for civilians.{nl}Remember that we can't guarantee your safety if you do not get my permission.
 QUEST_LV_0100_20150317_000382	{memo X}$You have to cheer up.{nl} Even Aras is holding on.
-QUEST_LV_0100_20150317_000383	Die Goettin Zemyna bewacht die Erde.{nl}Es gibt Geruechte das die Goettin uns verstoßen hat, aber das ist Unsinn.{nl}Die Statue erleuchtet immernoch Wunderschoen wenn du zu ihr betest.
+QUEST_LV_0100_20150317_000383	Die Göttin Zemyna bewacht die Erde.{nl}Es gibt Gerüchte das die Göttin uns verstoßen hat, aber das ist Unsinn.{nl}Die Statue erleuchtet immernoch Wunderschön wenn du zu ihr betest.
 QUEST_LV_0100_20150317_000384	$Vubbes suddenly came pouring in into the Siauliai Woods from the Crystal Mines.{nl}Thus, the Miners' Village situated between the Mines and the Woods became a battlefield.{nl}
 QUEST_LV_0100_20150317_000385	$For safety reasons, I can't permit entrance to the Miners Village. {nl}Of course it would be a different story if your skill are good enough to ensure your own safety {nl}without the guards' protection.
 QUEST_LV_0100_20150317_000386	Gosh, it could have been really dangerous.{nl}That huge thing was hiding so well.
@@ -423,11 +423,11 @@ QUEST_LV_0100_20150317_000422	$The Bishop of Klaipeda saw a Goddess in his dream
 QUEST_LV_0100_20150317_000423	$Mother of a Soldier
 QUEST_LV_0100_20150317_000424	{memo X}$)}My son has enlisted in the Army.{nl}He said who would, if not him, at such difficult times like this.
 QUEST_LV_0100_20150317_000425	{memo X}$)}Monster are growing and the forest is too chaotic for people to live in.{nl}At least, Klaipeda is safe.
-QUEST_LV_0100_20150317_000426	$)}Selbst wenn Klaideda sicher ist, gibt es nicht auch andere Staedte die sicher sind?{nl}Neben dem Capitol, Fedimian ist komplett kollabiert, außer der heilige Bereich.
+QUEST_LV_0100_20150317_000426	$)}Selbst wenn Klaideda sicher ist, gibt es nicht auch andere Städte die sicher sind?{nl}Neben dem Capitol, Fedimian ist komplett kollabiert, außer der heilige Bereich.
 QUEST_LV_0100_20150317_000427	{memo X}$)}It's a good thing that my son accomplished his dream of becoming a solder...{nl}But the monsters are rising and I'm worried he might get hurt.
-QUEST_LV_0100_20150317_000428	)}Vielleicht ist Klaipeda die Stadt der die Goettin ihren Segen gegeben hat.{nl}Ich hoffe der Segen wird meinen Sohn in der Armee erreichen.
+QUEST_LV_0100_20150317_000428	)}Vielleicht ist Klaipeda die Stadt der die Göttin ihren Segen gegeben hat.{nl}Ich hoffe der Segen wird meinen Sohn in der Armee erreichen.
 QUEST_LV_0100_20150317_000429	$)}My husband used to be a miner. I am relieved that he isn't anymore.{nl}It would be too dangerous if the monsters raid at times like this, wouldn't it?
-QUEST_LV_0100_20150317_000430	Viele Fluechtlinge sind aus zerstoerten Staedten gekommen.{nl}Unsere Nahrungsmittel gehen zur Neige, aber wir muessen uns gegenseitig helfen.
+QUEST_LV_0100_20150317_000430	Viele Flüchtlinge sind aus zerstörten Städten gekommen.{nl}Unsere Nahrungsmittel gehen zur Neige, aber wir müssen uns gegenseitig helfen.
 QUEST_LV_0100_20150317_000431	$I may not bring in the items of the best quality, but isn't having all items necessary a skill of its own?{nl}I've got to work hard to get through tough times.
 QUEST_LV_0100_20150317_000432	{memo X}$I think the best weapons and armor are the ones that you get used to over a long period time.{nl}In order to do so, you must first start by buying good items.
 QUEST_LV_0100_20150317_000433	$I used to pack my things and go around travelling in the past but I guess that would be difficult now.
@@ -480,7 +480,7 @@ QUEST_LV_0100_20150317_000479	$I am tired of living a life running away from the
 QUEST_LV_0100_20150317_000480	$Thinking of the peaceful days in the past makes me feel like I'm dreaming.{nl}Being awake is like a very long nightmare.
 QUEST_LV_0100_20150317_000481	$I want to run away to another place if I can.{nl}Is there a future for the kingdom?
 QUEST_LV_0100_20150317_000482	$I can't sleep well nowadays.{nl}It's all because of those monsters.
-QUEST_LV_0100_20150317_000483	In Frieden in einer Welt leben wo Monster frei herumlaufen... Unmoeglich.
+QUEST_LV_0100_20150317_000483	In Frieden in einer Welt leben wo Monster frei herumlaufen... Unmöglich.
 QUEST_LV_0100_20150317_000484	$Does salvation even exist?{nl}Hanging on each day in hopes of the Goddess's return is really miserable.
 QUEST_LV_0100_20150317_000485	$We can't go out nor can we just stay. Is this really ok?{nl}I can't seem to find an answer no matter how much I think about it.
 QUEST_LV_0100_20150317_000486	$Getting used to a world where we live together with monsters, what could be more terrible and scary?
@@ -577,9 +577,9 @@ QUEST_LV_0100_20150317_000576	Belief in yourself. Endless confidence. {nl} These
 QUEST_LV_0100_20150317_000577	A Linker is someone who connects people with ropes of Mana.{nl}How strong the connection is depends on the quality of Mana.
 QUEST_LV_0100_20150317_000578	Cataphract Master
 QUEST_LV_0100_20150317_000579	$Cataphracts have the power to charge though any enemies that block their way.{nl}They are brave warriors whom fight on the front lines.
-QUEST_LV_0100_20150317_000580	Wie kann ich dir helfen? {nl}Gluecklicherweise, haben wir ein paar Traenke auf Lager.
-QUEST_LV_0100_20150317_000581	Suchst du nach guter Ausruestung? {nl} Ich habe die beste Ausruestung parat. {nl} Schau dich um, die Preise sind fair.
-QUEST_LV_0100_20150317_000582	Oh, dieser Amboss ist mein Geschenk an dich, fuer meine Rettung. {nl} Es ist ein nuetzlicher Gegenstand mit dem du deine Ausruestung verbessern kannst. {nl}
+QUEST_LV_0100_20150317_000580	Wie kann ich dir helfen? {nl}Glücklicherweise, haben wir ein paar Tränke auf Lager.
+QUEST_LV_0100_20150317_000581	Suchst du nach guter Ausrüstung? {nl} Ich habe die beste Ausrüstung parat. {nl} Schau dich um, die Preise sind fair.
+QUEST_LV_0100_20150317_000582	Oh, dieser Amboss ist mein Geschenk an dich, für meine Rettung. {nl} Es ist ein nützlicher Gegenstand mit dem du deine Ausrüstung verbessern kannst. {nl}
 QUEST_LV_0100_20150317_000583	Well then, see you in the mines.
 QUEST_LV_0100_20150317_000584	$Miners' Village Mayor
 QUEST_LV_0100_20150317_000585	{memo X}
@@ -701,9 +701,9 @@ QUEST_LV_0100_20150317_000700	$This monster is called a Moa. {nl}It ran away to 
 QUEST_LV_0100_20150317_000701	{memo X}
 QUEST_LV_0100_20150317_000702	{memo X}Did Laima know that the world would turn out like this?{nl}She is the Goddess of destiny and forecasts.
 QUEST_LV_0100_20150317_000703	$It would not be strange if the world ended tomorrow.{nl}However, I just want to know. Why the Goddesses disappeared..
-QUEST_LV_0100_20150317_000704	Druecke {Img F1 30 30} um die Verbleibenden Statuspunkte im Charakterfenster auf den gewuenschten Status zu verteilen.{nl}
-QUEST_LV_0100_20150317_000705	Druecke {Img F10 30 30} um die Hilfe-Liste zu oeffnen und mehr Informationen zu erhalten .
-QUEST_LV_0100_20150317_000706	Druecke {Img F3 30 30} um das Skillfenster zu oeffnen.{nl}Benutzte die Skillpunkte fuer die Faehigkeiten die du verbessern willst,{nl} danach drueckst du auf das 'O'. {nl}
+QUEST_LV_0100_20150317_000704	Drücke {Img F1 30 30} um die Verbleibenden Statuspunkte im Charakterfenster auf den gewünschten Status zu verteilen.{nl}
+QUEST_LV_0100_20150317_000705	Drücke {Img F10 30 30} um die Hilfe-Liste zu öffnen und mehr Informationen zu erhalten .
+QUEST_LV_0100_20150317_000706	Drücke {Img F3 30 30} um das Skillfenster zu öffnen.{nl}Benutzte die Skillpunkte für die Fähigkeiten die du verbessern willst,{nl} danach drückst du auf das 'O'. {nl}
 QUEST_LV_0100_20150317_000707	{memo X}Find and offer worship to all the Goddess Statues scattered around the world while you travel. You will surely be compensated for doing so. {nl}
 QUEST_LV_0100_20150317_000708	{memo X}Press {Img F10 40 40} to open the Help window for more information.
 QUEST_LV_0100_20150317_000709	Other troops are fighting in the Miners' Village and we are blocking the monsters from here. {nl}I don't think the Vubbes are smart enough to make use of tactics... I am concerned about that.
@@ -1212,7 +1212,7 @@ QUEST_LV_0100_20150317_001211	{memo X}Golem, that's awesome. {nl} And you rememb
 QUEST_LV_0100_20150317_001212	I guess the Revelator really is different. {nl} You you seem to be different from the other Revelators too...
 QUEST_LV_0100_20150317_001213	You looked so cool when you defeated the Golem. {nl} Where did you learn to do that?
 QUEST_LV_0100_20150317_001214	I'm grateful for your help. {nl} Commander Uska is waiting for you in Klaipeda, so go find him.
-QUEST_LV_0100_20150317_001215	Ich bin mir absolut sicher das die Goettinnen irgendwann wiederkommen. {nl}Ich habe keinen Zweifel daran. Wir muessen daran glauben. {nl}Wenn wir nicht an die Goettinen glauben, wer dann?
+QUEST_LV_0100_20150317_001215	Ich bin mir absolut sicher das die Göttinnen irgendwann wiederkommen. {nl}Ich habe keinen Zweifel daran. Wir muessen daran glauben. {nl}Wenn wir nicht an die Göttinen glauben, wer dann?
 QUEST_LV_0100_20150317_001216	Bitte beeil dich und Hilf den Menschen im Miners' Village. {nl} Jemand wie du wird eine große Hilfe sein.
 QUEST_LV_0100_20150317_001217	I heard the stories. So you defeated the Vubbe Fighter, huh? {nl} That's incredible.
 QUEST_LV_0100_20150317_001218	I was anxiously watching from a distance, but that fight was really awesome.
@@ -1362,9 +1362,9 @@ QUEST_LV_0100_20150317_001361	{memo X}My men should have returned by now but the
 QUEST_LV_0100_20150317_001362	My men said they were going to Delon Shelter. {nl} The Golem may appear anytime and yet they are so carefree. 
 QUEST_LV_0100_20150317_001363	$Rocktortuga is coming this way. {nl}Please lend us your strength to make sure it doesn't break through our defenses. 
 QUEST_LV_0100_20150317_001364	Have you seen any baby Poata? {nl} We better drive them out quickly so that the mother Poata won't keep showing up. 
-QUEST_LV_0100_20150317_001365	Die Vubbes haben ihre Basis außerhalb der Stadt gebaut. {nl} Da wir jetzt nicht einmal Soldaten hier haben, koennte etwas Furchtbares passieren,{nl} wenn wir sie nicht aus ihrer Basis vertreiben. 
+QUEST_LV_0100_20150317_001365	Die Vubbes haben ihre Basis außerhalb der Stadt gebaut. {nl} Da wir jetzt nicht einmal Soldaten hier haben, könnte etwas Furchtbares passieren,{nl} wenn wir sie nicht aus ihrer Basis vertreiben. 
 QUEST_LV_0100_20150317_001366	Vielen Dank fuer deinen Mut. 
-QUEST_LV_0100_20150317_001367	Wie soll ich nur meine Dankbarkeit zeigen. {nl}Ich bin mir sicher das die Goettin dich zu uns geschickt hat.
+QUEST_LV_0100_20150317_001367	Wie soll ich nur meine Dankbarkeit zeigen. {nl}Ich bin mir sicher das die Göttin dich zu uns geschickt hat.
 QUEST_LV_0100_20150317_001368	This patient told us that Chafer has appeared. {nl} Can you help us out and go check on it?
 QUEST_LV_0100_20150317_001369	Now, I have to treat this patient... So thank you.
 QUEST_LV_0100_20150317_001370	Those refugees are probably having a hard time getting here because of the monsters.
@@ -1449,8 +1449,8 @@ QUEST_LV_0100_20150317_001448	Believer Simas
 QUEST_LV_0100_20150317_001449	{memo X}
 QUEST_LV_0100_20150317_001450	{memo X}There are rumors about Golems appearing so don't go far too deep. {nl} It will be safer to take the bigger roads where there are less monsters or just head straight to Klaipeda.
 QUEST_LV_0100_20150317_001451	So, I guess there is actually someone good among those who say they've dreamed of the Goddess.
-QUEST_LV_0100_20150317_001452	Ich bin erleichtert, dass es Leute gibt die sagen ihnen ist die Goettin im Traum erschienen. {nl} Aber es gibt davon so viele.
-QUEST_LV_0100_20150317_001453	Ein Traum von einer der verschwunden Goettinnen. Ist das nicht wunderbar?
+QUEST_LV_0100_20150317_001452	Ich bin erleichtert, dass es Leute gibt die sagen ihnen ist die Göttin im Traum erschienen. {nl} Aber es gibt davon so viele.
+QUEST_LV_0100_20150317_001453	Ein Traum von einer der verschwunden Göttinnen. Ist das nicht wunderbar?
 QUEST_LV_0100_20150317_001454	The colleague who I used to work with has disappeared.{nl}He was definitely with me at the Forest of Fireflies, but I won't go back there. It's scary.
 QUEST_LV_0100_20150317_001455	Where is he. I am scared.
 QUEST_LV_0100_20150317_001456	{memo X}My colleague is dead?{nl}That's nonsense. If I had not tempted him..{nl}
@@ -1548,12 +1548,12 @@ QUEST_LV_0100_20150317_001547	$Somehow I'll treat this man. Can you defeat the m
 QUEST_LV_0100_20150317_001548	$In order for these people to safely return to the village,{nl}we have to defeat these monsters.
 QUEST_LV_0100_20150317_001549	$Thank you. The patient also regained his consciousness. {nl} Though.. I think there is a problem.
 QUEST_LV_0100_20150317_001550	{memo X}$This has to be because there is the evidence of salvation or something. {nl}I'm sure that's where the villagers were taken away to.
-QUEST_LV_0100_20150317_001551	Die Goettin hat Hilfe gesandt.. {nl}Folge dem Weg nach Osten um zum Außenposten der Vubbe's zu gelangen.
+QUEST_LV_0100_20150317_001551	Die Göttin hat Hilfe gesandt.. {nl}Folge dem Weg nach Osten um zum Außenposten der Vubbe's zu gelangen.
 QUEST_LV_0100_20150317_001552	$Thank you for saving me. {nl} Seems like you're the Revelator who's looking for evidence of salvation. {nl}
 QUEST_LV_0100_20150317_001553	{memo X}$I was taken in late so I was left here, the others were all brought to the mine. {nl} I'll tell you the rest of the story in the Crystal Mine.
-QUEST_LV_0100_20150317_001554	Du bist gekommen. {nl} Lass uns als erstes die Wagons die den Weg blockieren wegraeumen. {nl}
-QUEST_LV_0100_20150317_001555	Die Wagons koennen mit Sprengstoff, den ich vorbereitet habe, aus dem Weg geraeumt{nl} werden. Ich mache mir sorgen das die Vubbes von der Explosion angelockt werden.{nl}Aber ich denke mit dir an unserer Seite, sind wir sicher.
-QUEST_LV_0100_20150317_001556	Ich ueberlasse dir die Vubbe's. {nl} Ich muss mich noch um andere Geschaefte kuemmern. {nl}
+QUEST_LV_0100_20150317_001554	Du bist gekommen. {nl} Lass uns als erstes die Wagons die den Weg blockieren wegräumen. {nl}
+QUEST_LV_0100_20150317_001555	Die Wagons können mit Sprengstoff, den ich vorbereitet habe, aus dem Weg geräumt{nl} werden. Ich mache mir sorgen das die Vubbes von der Explosion angelockt werden.{nl}Aber ich denke mit dir an unserer Seite, sind wir sicher.
+QUEST_LV_0100_20150317_001556	Ich ueberlasse dir die Vubbe's. {nl} Ich muss mich noch um andere Geschäfte kuemmern. {nl}
 QUEST_LV_0100_20150317_001557	$Thank you. Thank you very much. {nl} You're a savior of our town. {nl}
 QUEST_LV_0100_20150317_001558	$Oh, have you seen a girl about 5 years of age? {nl} I heard she was together with them when the villagers were kidnapped.
 QUEST_LV_0100_20150317_001559	$Don't just stand there. {nl} Move if you want to help or go away.
@@ -1561,7 +1561,7 @@ QUEST_LV_0100_20150317_001560	$Mine Manager
 QUEST_LV_0100_20150317_001561	$I'm hanging on somehow but I'm losing strength in my arms.
 QUEST_LV_0100_20150317_001562	$I should have been more careful. {nl} It's all my fault.
 QUEST_LV_0100_20150317_001563	$I have my roots deep in hunting. {nl} Don't worry about me. Go look after the others.
-QUEST_LV_0100_20150317_001564	Als ihr Buergermeister kann ich die Dorfbewohner nicht einfach im Stich lassen. {nl} Wie kann das der Goettin nur so gleichgueltig sein?
+QUEST_LV_0100_20150317_001564	Als ihr Buergermeister kann ich die Dorfbewohner nicht einfach im Stich lassen. {nl} Wie kann das der Göttin nur so gleichgueltig sein?
 QUEST_LV_0100_20150317_001565	{memo X}$Aren't you a Revelator? The Goddess must've sent help. {nl} In order to enter the mine, you must save a young man name Vaidotas first. {nl}He was kidnapped and brought to the Vubbe Outpost. {nl} Please, I'm begging for your help.
 QUEST_LV_0100_20150317_001566	Kind Owl Sculptor
 QUEST_LV_0100_20150317_001567	There are so many wandering spirits these days.{nl}This really..
@@ -2212,9 +2212,9 @@ QUEST_LV_0100_20150317_002211	Broker between the life and death of humans. {nl} 
 QUEST_LV_0100_20150317_002212	You don't look like a delivery man. What's up?{nl}
 QUEST_LV_0100_20150317_002213	There's no head of a Long-Branched Tree in here. Should I get it for them?
 QUEST_LV_0100_20150317_002214	Klaipeda ist eine kleine und ruhige Stadt. {nl} Wir haben es noch nie erlebt, dass soviele Menschen herkommen.
-QUEST_LV_0100_20150317_002215	Hat die Goettin gesagt wo sie sich befindet in deinem Traum der Erleuchtung?
+QUEST_LV_0100_20150317_002215	Hat die Göttin gesagt wo sie sich befindet in deinem Traum der Erleuchtung?
 QUEST_LV_0100_20150317_002216	Geh nach Klaipeda. {nl}Commander Uska wartet auf dich am Central Plaza.{nl}
-QUEST_LV_0100_20150317_002217	Ich habe gehoert das der Bischof einen Traum ueber eine Goettin hatte, vielleicht hat das alles etwas damit zutun.
+QUEST_LV_0100_20150317_002217	Ich habe gehört das der Bischof einen Traum ueber eine Göttin hatte, vielleicht hat das alles etwas damit zutun.
 QUEST_LV_0100_20150317_002218	That girl. {nl} She just appeared in town some time ago. {nl}
 QUEST_LV_0100_20150317_002219	I mean she didn't speak and her clothes were all dirty. {nl} She seemed hungry so I brought her home to feed her some food and this happened.
 QUEST_LV_0100_20150317_002220	I mean the girl who was confined together with us before. {nl} Do you think she has a family? It seemed like she could not speak at all. {nl}
@@ -2384,7 +2384,7 @@ QUEST_LV_0100_20150317_002383	{memo X}$Notice/!/ Use jump to avoid attacks from 
 QUEST_LV_0100_20150317_002384	${memo http://data.grammarbook.com/blog/apostrophes/apostrophes-with-words-ending-in-s/}Laimonas's Favor
 QUEST_LV_0100_20150317_002385	$What will happen next?
 QUEST_LV_0100_20150317_002386	$I'm not interested
-QUEST_LV_0100_20150317_002387	Ueber die Statuen der Goettinnen
+QUEST_LV_0100_20150317_002387	Ueber die Statuen der Göttinnen
 QUEST_LV_0100_20150317_002388	$The Road to Klaipeda (1)
 QUEST_LV_0100_20150317_002389	$I can do that
 QUEST_LV_0100_20150317_002390	$The Road to Klaipeda (2)
@@ -2770,7 +2770,7 @@ QUEST_LV_0100_20150317_002769	Ich gehe zur Basis der Vubbe's und werde sie besie
 QUEST_LV_0100_20150317_002770	Ablehnen
 QUEST_LV_0100_20150317_002771	Die entfuehrten Dorfbewohner
 QUEST_LV_0100_20150317_002772	{memo X}By freeing the degree of Tasman/MAKING/2/TRACK_AFTER/None
-QUEST_LV_0100_20150317_002773	Verdaechtige Schatztruhe
+QUEST_LV_0100_20150317_002773	Verdächtige Schatztruhe
 QUEST_LV_0100_20150317_002774	Zu den Minen
 QUEST_LV_0100_20150317_002775	I'll destroy the wagons
 QUEST_LV_0100_20150317_002776	Ich bin noch nicht bereit
@@ -4518,7 +4518,7 @@ QUEST_LV_0100_20150317_004517	{memo X}Red Vubbe Fighter appeared when you kicked
 QUEST_LV_0100_20150317_004518	There were no kidnapped people but only Vubbes. You better go back to Vaitodas.
 QUEST_LV_0100_20150317_004519	$You need to remove the wagons in order to enter the mines. Talk to Vaitodas about how to remove them.
 QUEST_LV_0100_20150317_004520	Besiege die Vubbes die durch die Explosion angelockt wurden.
-QUEST_LV_0100_20150317_004521	Vaitodas sagt, dass die Wagons durch Sprengstoff zerstoert werden koennen. Aber die Vubbes koennten die Explosion hoeren und angreifen, sei also vorsichtig. 
+QUEST_LV_0100_20150317_004521	Vaitodas sagt, dass die Wagons durch Sprengstoff zerstört werden können. Aber die Vubbes könnten die Explosion hören und angreifen, sei also vorsichtig. 
 QUEST_LV_0100_20150317_004522	{memo X}Enter Crystal Mine 1st Gallery
 QUEST_LV_0100_20150317_004523	You removed the wagons and can finally enter the Crystal Mines. Meet Vaitodas at Crystal Mine 1F.
 QUEST_LV_0100_20150317_004524	Talk to Kind Owl Sculpture
@@ -7929,7 +7929,7 @@ QUEST_LV_0100_20150908_007927	Untersuche den Reiniger
 QUEST_LV_0100_20150908_007928	Some parts of the purifier are missing!{nl}Look for the parts from Vubbes that have question marks above their heads!
 QUEST_LV_0100_20150908_007929	The repair is done!{nl}The purifier at the entrance is activating again!
 QUEST_LV_0100_20150908_007930	You've repaired all purifiers!{nl}Meet Bidotas at 3rd floor!
-QUEST_LV_0100_20150908_007931	Oeffne das Ventil
+QUEST_LV_0100_20150908_007931	Öffne das Ventil
 QUEST_LV_0100_20150908_007932	It seems that some important device is broken{nl}Use the mine compass to look for anything that could be the subsitute for the broken device
 QUEST_LV_0100_20150908_007933	The mine compass is pointing at 4th district{nl}Go to 4th district and look for a spare part.
 QUEST_LV_0100_20150908_007934	Defeat Beakaras that appeared in front of the spare purifier!
@@ -8110,8 +8110,8 @@ QUEST_LV_0100_20150918_008108	$It's not like there weren't any monsters at all f
 QUEST_LV_0100_20150918_008109	That's it, that's how you do it. Easy, right?{nl}There is no way to tell what is going to become of this world now that the Goddesses have left,{nl}so we have to steadily put effort into it ourselves.
 QUEST_LV_0100_20150918_008110	A shield that is advanced to level 4 will be enough.{nl}The determination should be checked.
 QUEST_LV_0100_20150918_008111	You are so determined unlike other guys nowadays.{nl}You can come to learn from me anytime you want.
-QUEST_LV_0100_20150918_008112	Waehrend deiner Reise wirst du feststellen das diese Statuen ueberall im Koenigreich verteilt{nl} sind. Bete zu ihnen und du wirst ihren Segen erhalten.
-QUEST_LV_0100_20150918_008113	Druecke {img F10 30 30} um die Hilfe-Liste zu oeffnen und mehr Informationen zu erhalten.
+QUEST_LV_0100_20150918_008112	Während deiner Reise wirst du feststellen das diese Statuen ueberall im Königreich verteilt{nl} sind. Bete zu ihnen und du wirst ihren Segen erhalten.
+QUEST_LV_0100_20150918_008113	Druecke {img F10 30 30} um die Hilfe-Liste zu öffnen und mehr Informationen zu erhalten.
 QUEST_LV_0100_20150918_008114	The Writings on the Wall
 QUEST_LV_0100_20150918_008115	Which factors are decisive for determining outcomes of battles?{nl}If you just continue to attack thoughtlessly, then you may get attacked instead.
 QUEST_LV_0100_20150918_008116	Golems in this situation...{nl}You remember what I taught you right?
@@ -8146,10 +8146,10 @@ QUEST_LV_0100_20150918_008145	$Stonemason Canolyn told you that a monster called
 QUEST_LV_0100_20150918_008146	$Find Historian Rexipher
 QUEST_LV_0100_20150918_008147	$Collect Hogma Teeth
 QUEST_LV_0100_20150918_008148	Pursue Rexipher at the Royal Mausoleum Entrance
-QUEST_LV_0100_20151001_008149	Kennst du die Legende von Cunningham? {nl}Es ist die Legende darueber wie ein starker Daemon, in der Vergangenheit, hier in der Crystal Mine gefangen wurde. {nl}
-QUEST_LV_0100_20151001_008150	Ich denke das dieser Daemon aufgewacht ist und die Vubbe's kontroliert. {nl}Der Traum ueber den Bischof und die Legende von Cunningham... {nl}Ich frage mich ob das eine Warnung ist, zu einem großen Ereignis das uns bevorsteht.{nl}
-QUEST_LV_0100_20151001_008151	Nur die Goettin weis ob die Hoffnung oder die Verzweiflung siegen wird. {nl}Du findest mehr Details dazu in einem Buch das sich am Mine Worker's Resting Place im 2. Stock befindet.
-QUEST_LV_0100_20151001_008152	Wie auch immer, es scheint als wenn die Vubbe's die Filter zerstoert haben. {nl}Du solltest sie besser schnell reparieren, bevor den Geiseln die Luft ausgeht. 
+QUEST_LV_0100_20151001_008149	Kennst du die Legende von Cunningham? {nl}Es ist die Legende darueber wie ein starker Dämon, in der Vergangenheit, hier in der Crystal Mine gefangen wurde. {nl}
+QUEST_LV_0100_20151001_008150	Ich denke das dieser Dämon aufgewacht ist und die Vubbe's kontroliert. {nl}Der Traum ueber den Bischof und die Legende von Cunningham... {nl}Ich frage mich ob das eine Warnung ist, zu einem großen Ereignis das uns bevorsteht.{nl}
+QUEST_LV_0100_20151001_008151	Nur die Göttin weis ob die Hoffnung oder die Verzweiflung siegen wird. {nl}Du findest mehr Details dazu in einem Buch das sich am Mine Worker's Resting Place im 2. Stock befindet.
+QUEST_LV_0100_20151001_008152	Wie auch immer, es scheint als wenn die Vubbe's die Filter zerstört haben. {nl}Du solltest sie besser schnell reparieren, bevor den Geiseln die Luft ausgeht. 
 QUEST_LV_0100_20151001_008153	I will protect this village for my dead comrades.
 QUEST_LV_0100_20151001_008154	If the Bokor Master told you that I would know it..{nl}There's one place that comes to mind.{nl}
 QUEST_LV_0100_20151001_008155	You're saying something that's really hard to believe. {nl}You mean this revelation is Goddess Laima and we have to collect all these for the Goddess to return?{nl}
@@ -8258,11 +8258,11 @@ QUEST_LV_0100_20151001_008257	My colleague is dead?{nl}That can't be. Only if I 
 QUEST_LV_0100_20151001_008258	This map is useless to me now, without my colleague.{nl}Please pray that my colleague goes to the Goddess safely.
 QUEST_LV_0100_20151001_008259	I can't leave with everything behind...
 QUEST_LV_0100_20151001_008260	Was tun wir jetzt? {nl}Die Vubbes haben uns ueberfallen und die Dorfbewohner entfuehrt!
-QUEST_LV_0100_20151001_008261	Du bist der Erloeser, richtig? {nl}Die Goettin hat uns erhoert. {nl}
+QUEST_LV_0100_20151001_008261	Du bist der Erlöser, richtig? {nl}Die Göttin hat uns erhört. {nl}
 QUEST_LV_0100_20151001_008262	This is all because of the dream of the bishop of Klaipeda. {nl}What is he talking about evidence of salvation in the Crystal Mine. I have never seen such thing. {nl}
 QUEST_LV_0100_20151001_008263	I'm not sure if that is the reason but the Vubbes suddenly rushed out of the Crystal Mine. {nl}Those Vubbes took all the villagers they see into the mines. {nl}
 QUEST_LV_0100_20151001_008264	Please... Save the villagers. {nl}I beg of you!
-QUEST_LV_0100_20151001_008265	Lass uns zur Crystal Mine gehen. {nl}Ich werde dir den Rest der Geschichte am Eingang der Crystal Mine erzaehlen. 
+QUEST_LV_0100_20151001_008265	Lass uns zur Crystal Mine gehen. {nl}Ich werde dir den Rest der Geschichte am Eingang der Crystal Mine erzählen. 
 QUEST_LV_0100_20151001_008266	Warte! Da ist etwas das du wissen solltest. {nl}Wir sind auch in die Minen gegangen um die entfuerhten Dorfbewohner zu retten.{nl}Aber wir sind gescheitert, die Filter sind kaputt. Dadurch ist die Mine mit giftigem Gas gefüllt. {nl}
 QUEST_LV_0100_20151001_008267	Ye..Yes..{nl}Find a young man named Vaidotas!{nl}
 QUEST_LV_0100_20151001_008268	That fellow knows well about the purifiers in the Crystal Mine. {nl}It hasn't been long since he was taken away by the Vubbes so he must be in the Vubbe Outpost. 
