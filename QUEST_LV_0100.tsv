@@ -265,7 +265,7 @@ QUEST_LV_0100_20150317_000264	{memo X}$Go back, it's dangerous!{nl}Kepas will so
 QUEST_LV_0100_20150317_000265	Oh du bist ein Erlöser. Es muss Schicksal sein das wir zusammen gekämpft haben. {nl}LAss mich dir einen kurzen Einblick geben.
 QUEST_LV_0100_20150317_000266	$You mentioned that we need to assemble, right?{nl}Help me find some missing belongings and I'll go as soon as I can.
 QUEST_LV_0100_20150317_000267	$Have you found my belongings yet? I can't go back without it.
-QUEST_LV_0100_20150317_000268	$Thank you. You found it sooner than I expected.{nl}
+QUEST_LV_0100_20150317_000268	Vielen Dank. Du hast es schneller gefunden als ich erwartet habe.{nl}
 QUEST_LV_0100_20150317_000269	$If you follow the road to the north, you will find the Search Scout.{nl}Good luck.
 QUEST_LV_0100_20150317_000270	$Laimonas
 QUEST_LV_0100_20150317_000271	{memo X}$Have you ever offered worship to the Statue?{nl}If not, I'd really recommend it.
@@ -277,21 +277,21 @@ QUEST_LV_0100_20150317_000276	{memo X}$Please do me a favor if you are headed to
 QUEST_LV_0100_20150317_000277	$Maybe taking care of the statues will make the Goddesses return sooner...
 QUEST_LV_0100_20150317_000278	{memo X}$Follow the road on the left at the camp crossroads.{nl}{-scp SCR_DIALOG_NPC_ANIM(
 QUEST_LV_0100_20150317_000279	$)} You'll meet the troops right away.
-QUEST_LV_0100_20150317_000280	$)}Alright, good job.{nl}You'll arrive at Klaipeda shortly if you follow the Shadow Forest Road.{nl}Don't forget to drop by Sir Uska.
+QUEST_LV_0100_20150317_000280	$)}Gut gemacht.{nl}Du wirst bald in Klaipeda ankommen wenn du der Shadow Forest Road folgst.{nl}Vergiss nicht dich bei Sir Uska zu melden.
 QUEST_LV_0100_20150317_000281	$Battle Commander
-QUEST_LV_0100_20150317_000282	$I will have my men notify the troops to assemble.{nl}You may return to Sir Titas to let him know.
+QUEST_LV_0100_20150317_000282	Ich werde meinen Männern bescheid geben allen bescheid zu sagen sich vorzubereiten.{nl}Du solltest zu Sir Titas gehen und ihm Bericht erstatten.
 QUEST_LV_0100_20150317_000283	Es ist nicht all zu kompliziert.{nl}Wenn du mir jedoch nicht helfen möchtest, kann ich dich auch direkt nach Klaipeda bringen.
 QUEST_LV_0100_20150317_000284	$Search Scout
 QUEST_LV_0100_20150317_000285	{memo X}$It sure is a problem.{nl}I didn't know Kepas could grow that big.
-QUEST_LV_0100_20150317_000286	$Shouldn't a Revelator be heading to Klaipeda instead of hanging around here?
+QUEST_LV_0100_20150317_000286	Sollte ein Erlöser nicht auf dem Weg nach Klaipeda sein, anstelle hier herumzulungern?
 QUEST_LV_0100_20150317_000287	{memo X}$I feel so relieved to be stationed in the Western Woods.{nl}There are some places where you'd rather die than be stationed.
 QUEST_LV_0100_20150317_000288	{memo X}$When you see a Goddess Statue, try offering your worship.{nl}Surely something nice will happen.
 QUEST_LV_0100_20150317_000289	$This is a dangerous area. What are you doing here?
-QUEST_LV_0100_20150317_000290	$Thank you.{nl}I should report the roaming Large Kepa to Titas.
+QUEST_LV_0100_20150317_000290	Vielen Dank.{nl}Ich sollte die umherziehenden Large Kepa an Titas melden.
 QUEST_LV_0100_20150317_000291	{memo X}$Weird... That is not a type of monster you'd face in a place like this.{nl}It must be hard to travel around.
 QUEST_LV_0100_20150317_000292	{memo X}$Assemble already?{nl}That's tough. There's still a pile of missions.
 QUEST_LV_0100_20150317_000293	{memo X}$First, defeat the Hanamings around here.{nl}Then, collect their petals.
-QUEST_LV_0100_20150317_000294	$Even if this wasn't about the Revelators, but the Goddesses returning instead,{nl}I wouldn't abandon my mission before it was over.
+QUEST_LV_0100_20150317_000294	Selbst wenn all dies nichts mit den Erlösern zutun hat, oder den Göttinnen,{nl}Ich werde nicht aufhören bevor meine Mission erledigt ist.
 QUEST_LV_0100_20150317_000295	{memo X}$Yes. This should be enough.{nl}Here is a pill that will restore your stamina instantly. I have enough of it so I will give you this as a gift.{nl}
 QUEST_LV_0100_20150317_000296	{memo X}$Stamina is consumed when you move.{nl}You can recover stamina by destroying a Tree Root Crystal or by resting.{nl}But you might not have time for that when you are being chased by monsters.{nl}That's when this pill comes in handy.
 QUEST_LV_0100_20150317_000297	{memo X}$I heard news from my men and was becoming worried.{nl}All is well if it ended up good.
@@ -299,14 +299,14 @@ QUEST_LV_0100_20150317_000298	$Klaipeda Resident
 QUEST_LV_0100_20150317_000299	$)} {nl}When do you think the Goddess is coming back?{nl}Even if I ask the Revelators, all they say is that they must go to Klaipeda...
 QUEST_LV_0100_20150317_000300	Bist du der Erlöser?{nl}Dir ist die Göttin im Traum erschienen, nicht wahr?{nl}Ich habe soetwas von den Soldaten gehört.
 QUEST_LV_0100_20150317_000301	$Trooper
-QUEST_LV_0100_20150317_000302	$I wonder what the Goddesses are doing...
+QUEST_LV_0100_20150317_000302	Ich frage mich was die Göttinnen gerade tun...
 QUEST_LV_0100_20150317_000303	{memo X}$Thank you for making your way here.{nl}I am Uska, the Knight Commander in charge of Siauliai and Klaipeda.
 QUEST_LV_0100_20150317_000304	{memo X}$The Bishop also dreamed of a revelation.{nl}He told me to send the Revelators to the Crystal Mine.{nl}
 QUEST_LV_0100_20150317_000305	$Let me know when you are ready to go to the Crystal Mine.{nl}I'll tell you the location and how to get in.
 QUEST_LV_0100_20150317_000306	$The Bishop told us to send the Revelators to the Crystal Mine.{nl}He said the Goddess told him to do so.{nl}
 QUEST_LV_0100_20150317_000307	{memo X}$But the Miners' Village is at war with the Vubbes {nl}and its entrance is limited to authorized people only. Knight Aras is the one managing troops in the East Siauliai Woods. {nl}You should talk to him.
 QUEST_LV_0100_20150317_000308	{memo X}$Monsters have been around for a long time, {nl}but they only started becoming violent four years ago. {nl}The ones that were most affected would be the plant types. They did not exist before.{nl}
-QUEST_LV_0100_20150317_000309	$Of course, beasts were no exception.{nl}When monsters that seem to have fused with demons appeared, I thought the end was near.
+QUEST_LV_0100_20150317_000309	Natürlich waren Bestien keine Ausnahme.{nl}Als Monster auftauchten die scheinbar mit Dämonen fusionierten, dachte ich das Ende ist nah.
 QUEST_LV_0100_20150317_000310	$Knight Aras
 QUEST_LV_0100_20150317_000311	{memo X}$Aren't you hurt?{nl}I appreciate that you got rid of the Poata, because it was really reckless.
 QUEST_LV_0100_20150317_000312	{memo X}$You want to get into the Crystal Mine?{nl}The Miners' Village is currently at war with the Vubbes and it's very dangerous,{nl}so I cannot permit that.
@@ -385,7 +385,7 @@ QUEST_LV_0100_20150317_000384	$Vubbes suddenly came pouring in into the Siauliai
 QUEST_LV_0100_20150317_000385	$For safety reasons, I can't permit entrance to the Miners Village. {nl}Of course it would be a different story if your skill are good enough to ensure your own safety {nl}without the guards' protection.
 QUEST_LV_0100_20150317_000386	Gosh, it could have been really dangerous.{nl}That huge thing was hiding so well.
 QUEST_LV_0100_20150317_000387	It's very important to study monsters at times like this.{nl}It's like weather forecasts where you try to find out the cause and see what would happen.
-QUEST_LV_0100_20150317_000388	$I am certain that the Leaf Bugs at Uoros farm stole them.{nl}They have stolen from us before.
+QUEST_LV_0100_20150317_000388	Ich bin mir sicher das die Leaf Bugs auf der Uoros Farm sie gestohlen haben.{nl}Die haben schon früher Sachen von uns geklaut.
 QUEST_LV_0100_20150317_000389	Send my regards to the Guard Captain when you meet him.
 QUEST_LV_0100_20150317_000390	{memo X}$In order to test if your skills are good enough to enter the Miners Village,{nl}I need you to help us solve a problem we have.{nl}
 QUEST_LV_0100_20150317_000391	First, take back the farm from the Pokubus.{nl}I believe this would be a fairly easy task.
@@ -531,7 +531,7 @@ QUEST_LV_0100_20150317_000530	Those silly things keep coming to us.{nl}Now may b
 QUEST_LV_0100_20150317_000531	They are just creating so many problems.{nl}They even got their hands on the supplies, I will not feel enough even if I hit him with a bat in the middle of the market.
 QUEST_LV_0100_20150317_000532	What? Tutu?{nl}I don't have time to think about those insignificant critters.
 QUEST_LV_0100_20150317_000533	Wenn du im Level aufsteigst, kannst du einen Statuspunkt verteilen und dadurch Stärker werden. {nl} Willst du es mal versuchen?
-QUEST_LV_0100_20150317_000534	It's important to keep in mind what you would want to be. {nl} That's never an easy thing.
+QUEST_LV_0100_20150317_000534	Es ist wichtig immer daran zu denken was man erreichen will. {nl} Denn das ist nie einfach.
 QUEST_LV_0100_20150317_000535	{memo X}Yes. That's how you do it. {nl} Pretty simple, huh?
 QUEST_LV_0100_20150317_000536	Aras is in the center area of the woods. {nl} But there has been a tremendous increase in monsters around here, so I suggest you don't go in.
 QUEST_LV_0100_20150317_000537	Somehow Klaipeda has managed to hold back the monsters for now,{nl}but we have to find and remove the cause or we won't hold out for long.{nl}
@@ -1370,8 +1370,8 @@ QUEST_LV_0100_20150317_001369	Now, I have to treat this patient... So thank you.
 QUEST_LV_0100_20150317_001370	Those refugees are probably having a hard time getting here because of the monsters.
 QUEST_LV_0100_20150317_001371	I can't help but think about it since he's worked here for so long.
 QUEST_LV_0100_20150317_001372	Thank you. Now I can feel at ease and return to the village. {nl} May the blessing of the Goddess be with you always.
-QUEST_LV_0100_20150317_001373	Being attacked by the Golem will get them back to their senses. 
-QUEST_LV_0100_20150317_001374	Usually, you can't find them no matter how hard you try. {nl} Strange huh?
+QUEST_LV_0100_20150317_001373	Von einem Golem angegriffen zu werden, wird sie wieder zur Besinnung bringen. 
+QUEST_LV_0100_20150317_001374	Normalerweise kannst du sie nicht finden, egal wie sehr du dich anstrengst. {nl} Eigenartig oder?
 QUEST_LV_0100_20150317_001375	$I am pleased that my friend was able to go back safely.{nl}I was worried because of the stories that Molich is wandering around.
 QUEST_LV_0100_20150317_001376	$After removing the seal, learn the next few steps for the other seal from the brothers there.
 QUEST_LV_0100_20150317_001377	$You have the Seal Release Crystal to remove the seal.{nl}You are the person who Jonas sent right?{nl}
@@ -1721,7 +1721,7 @@ QUEST_LV_0100_20150317_001720	{memo X}The archer gives an arrow as a present, bu
 QUEST_LV_0100_20150317_001721	Es gibt welche die zu einem Schwert passen und es gibt die wo es nicht passt. {nl} Das bedeutet du solltest etwas anderes von Wert finden, anstelle dein Leben wegzuwerfen.
 QUEST_LV_0100_20150317_001722	$A Ranger's arrows target many, not only one.{nl}
 QUEST_LV_0100_20150317_001723	{memo X}It's very likely you'll be exposed to the enemy when you shoot arrows. {nl} So my theory is that you have to use whatever comes in handy, like shields or stones. 
-QUEST_LV_0100_20150317_001724	$One thing I'd like to tell you... I think your attack lacks something. {nl} If you learn skills, you'll be able to make more powerful attacks when you need to.
+QUEST_LV_0100_20150317_001724	Eine Sache die ich dir noch sagen will... Ich denke deinem Angriff fehlt etwas. {nl} Wenn du Fähigkeiten lernst, wirst du in der Lage sein stärkere Angriffe auszuführen.
 QUEST_LV_0100_20150317_001725	There are different skills for each class but you will be able to fight better when you learn it. {nl} Also, you can do a lot of things aside from attacking.
 QUEST_LV_0100_20150317_001726	{memo X}What do you think? There are a lot of useful skills, right? {nl} Using the skills effectively will be of great help in combat. {nl}
 QUEST_LV_0100_20150317_001727	$Oh, you said we need to assemble? {nl} Please let the Battle Commander know about it too. He's over there on the right.
@@ -2371,36 +2371,36 @@ QUEST_LV_0100_20150317_002370	Sprich mit dem Scout (1)
 QUEST_LV_0100_20150317_002371	Ich bin hier um den Truppen bescheid zu geben
 QUEST_LV_0100_20150317_002372	Schnell wegrennen
 QUEST_LV_0100_20150317_002373	Sprich mit dem Scout (2)
-QUEST_LV_0100_20150317_002374	$I'll find the missing belongings.
-QUEST_LV_0100_20150317_002375	$I'll wait until you find it
+QUEST_LV_0100_20150317_002374	Ich werde die fehlenden Sachen finden.
+QUEST_LV_0100_20150317_002375	Ich warte bis du alles hast
 QUEST_LV_0100_20150317_002376	{memo X}$key to check the map #7
 QUEST_LV_0100_20150317_002377	Sprich mit Knight Titas (3)
 QUEST_LV_0100_20150317_002378	Nagut
 QUEST_LV_0100_20150317_002379	Abbrechen
-QUEST_LV_0100_20150317_002380	$Talk to the Search Scout
+QUEST_LV_0100_20150317_002380	Mit dem Search Scout reden
 QUEST_LV_0100_20150317_002381	$There is an order to assemble
 QUEST_LV_0100_20150317_002382	$Nothing. Never mind
 QUEST_LV_0100_20150317_002383	{memo X}$Notice/!/ Use jump to avoid attacks from the Large Kepa!
-QUEST_LV_0100_20150317_002384	${memo http://data.grammarbook.com/blog/apostrophes/apostrophes-with-words-ending-in-s/}Laimonas's Favor
+QUEST_LV_0100_20150317_002384	Laimonas's Gefallen
 QUEST_LV_0100_20150317_002385	$What will happen next?
 QUEST_LV_0100_20150317_002386	$I'm not interested
 QUEST_LV_0100_20150317_002387	Ueber die Statuen der Göttinnen
-QUEST_LV_0100_20150317_002388	$The Road to Klaipeda (1)
-QUEST_LV_0100_20150317_002389	$I can do that
-QUEST_LV_0100_20150317_002390	$The Road to Klaipeda (2)
-QUEST_LV_0100_20150317_002391	$I'll lend my strength to you
-QUEST_LV_0100_20150317_002392	$Enter Klaipeda
-QUEST_LV_0100_20150317_002393	$Talk to the Battle Commander (1)
-QUEST_LV_0100_20150317_002394	$I'll help out with the missions
-QUEST_LV_0100_20150317_002395	$I'll wait then
-QUEST_LV_0100_20150317_002396	$About the monsters
-QUEST_LV_0100_20150317_002397	Talk to the Battle Commander (2)
+QUEST_LV_0100_20150317_002388	Die Straße nach Klaipeda (1)
+QUEST_LV_0100_20150317_002389	Das kann ich machen
+QUEST_LV_0100_20150317_002390	Die Straße nach Klaipeda (2)
+QUEST_LV_0100_20150317_002391	Ich stehe dir zur Seite
+QUEST_LV_0100_20150317_002392	Klaipeda betreten
+QUEST_LV_0100_20150317_002393	Sprich mit dem Battle Commander (1)
+QUEST_LV_0100_20150317_002394	Ich helfe dir mit den Missionen
+QUEST_LV_0100_20150317_002395	Ich warte solange
+QUEST_LV_0100_20150317_002396	Über die Monster
+QUEST_LV_0100_20150317_002397	Sprich mit dem Battle Commander (2)
 QUEST_LV_0100_20150317_002398	$Accept
-QUEST_LV_0100_20150317_002399	$Start of the Trouble
-QUEST_LV_0100_20150317_002400	$I'll try to look for them
-QUEST_LV_0100_20150317_002401	$They will be back soon
-QUEST_LV_0100_20150317_002402	$Something Fishy
-QUEST_LV_0100_20150317_002403	$I'll take a look for you
+QUEST_LV_0100_20150317_002399	Ärger zieht auf
+QUEST_LV_0100_20150317_002400	Ich werde mal nach ihnen suchen
+QUEST_LV_0100_20150317_002401	Sie werden bald wieder zurück sein
+QUEST_LV_0100_20150317_002402	Etwas Ängstlich
+QUEST_LV_0100_20150317_002403	Ich werde für dich nachsehen
 QUEST_LV_0100_20150317_002404	$The Bishop's Dream of the Revelation
 QUEST_LV_0100_20150317_002405	$I have come with the revelation
 QUEST_LV_0100_20150317_002406	$Camp Crisis 
@@ -2851,7 +2851,7 @@ QUEST_LV_0100_20150317_002850	That would not happen.
 QUEST_LV_0100_20150317_002851	{memo X}Notice/!/Defeat Chafer!
 QUEST_LV_0100_20150317_002852	Attack of Mushcaria
 QUEST_LV_0100_20150317_002853	{memo X}Notice/!/Defeat Muchcaria!#8
-QUEST_LV_0100_20150317_002854	Learning Skills
+QUEST_LV_0100_20150317_002854	Fähigkeiten lernen
 QUEST_LV_0100_20150317_002855	Try to learn a skill
 QUEST_LV_0100_20150317_002856	Gib mir Zeit um darüber nachzudenken
 QUEST_LV_0100_20150317_002857	{memo X}Press the key to check the skills. #7
@@ -3841,23 +3841,23 @@ QUEST_LV_0100_20150317_003840	$Remind the Scout that there is an order to assemb
 QUEST_LV_0100_20150317_003841	$Remind the Scout again that there is an order to assemble to Klaipeda.
 QUEST_LV_0100_20150317_003842	$Besiege die Leaf Bugs und sammle die stolen belongings.
 QUEST_LV_0100_20150317_003843	The Scout says he can't return until he finds his belongings. Find the Scout's stolen belongings from the Leaf Bugs.
-QUEST_LV_0100_20150317_003844	Return the belongings
+QUEST_LV_0100_20150317_003844	Bringe die Sachen zurück
 QUEST_LV_0100_20150317_003845	Return the belongings to the Scout and tell him to return to Klaipeda.
 QUEST_LV_0100_20150317_003846	$Besiege die Leaf Bugs und sammle %s
 QUEST_LV_0100_20150317_003847	$Talk to the Battle Commander
 QUEST_LV_0100_20150317_003848	$Talk to the Battle Commander.
 QUEST_LV_0100_20150317_003849	{memo X}Persuasion of the Battle Commander
 QUEST_LV_0100_20150317_003850	$The Battle Commander says he will tell his men to do the rest. Report back to Knight Titas.
-QUEST_LV_0100_20150317_003851	Report to Knight Titas
+QUEST_LV_0100_20150317_003851	Berichte Knight Titas
 QUEST_LV_0100_20150317_003852	{memo X}Please be prepared to now go to the Klaipeda.
 QUEST_LV_0100_20150317_003853	$Find the Search Scout in the marked area
 QUEST_LV_0100_20150317_003854	$You were asked to inform the troops to assemble before heading to Klaipeda. Inform the Search Scout about the assembly.
-QUEST_LV_0100_20150317_003855	$Inform the Search Scout about the order.
+QUEST_LV_0100_20150317_003855	Informiere den Search Scout über die Order.
 QUEST_LV_0100_20150317_003856	$A Large Kepa suddenly appeared. Defeat it.
-QUEST_LV_0100_20150317_003857	$Talk to the Search Scout
+QUEST_LV_0100_20150317_003857	Sprich mit dem Search Scout
 QUEST_LV_0100_20150317_003858	$Inform the Search Scout about the order to assemble and find the location of the next soldier.
-QUEST_LV_0100_20150317_003859	$Defeat the Large Kepa
-QUEST_LV_0100_20150317_003860	$Talk to Laimonas
+QUEST_LV_0100_20150317_003859	Besiege Large Kepa
+QUEST_LV_0100_20150317_003860	Sprich mit Laimonas
 QUEST_LV_0100_20150317_003861	$Let's listen to Laimonas' favor like Sir Titas said.
 QUEST_LV_0100_20150317_003862	$Worship the Goddess Statue
 QUEST_LV_0100_20150317_003863	$Worship the Statue of Goddess Zemyna. The statue is located at the end of the road on the right of Laimonas.
@@ -3873,29 +3873,29 @@ QUEST_LV_0100_20150317_003872	$Let's go to Klaipeda.
 QUEST_LV_0100_20150317_003873	$Defeat the Rocktortuga that suddenly appeared
 QUEST_LV_0100_20150317_003874	$Defeat the Rocktortuga that suddenly appeared before the entrance to Klaipeda.
 QUEST_LV_0100_20150317_003875	$Report to the Guard Captain on Rocktortuga's defeat.
-QUEST_LV_0100_20150317_003876	$Pass the orders to the Battle Commander
+QUEST_LV_0100_20150317_003876	Überbringe die Order dem Battle Commander
 QUEST_LV_0100_20150317_003877	$You were asked to tell troops to assemble before going to Klaipeda. Inform the Battle Commander about it.
-QUEST_LV_0100_20150317_003878	$Go to the Hanaming-infested area
+QUEST_LV_0100_20150317_003878	Gehe zum Hanaming-Infizierten Bereich
 QUEST_LV_0100_20150317_003879	$Go to the Hanaming-infested area and quickly complete the the Battle Commander's assignment.
 QUEST_LV_0100_20150317_003880	$Chase the Hanamings
 QUEST_LV_0100_20150317_003881	$Defeat the surrounding Hanamings
 QUEST_LV_0100_20150317_003882	$Go to the Hanaming habitat
 QUEST_LV_0100_20150317_003883	$Go to the Hanaming habitat and quickly complete the Battle Commander's assignment.
-QUEST_LV_0100_20150317_003884	$Collect Hanaming Petals to investigate.
+QUEST_LV_0100_20150317_003884	Sammle Hanaming Petals um sie zu untersuchen.
 QUEST_LV_0100_20150317_003885	$Collect petals from Hanamings to complete the Battle Commander's assignment.
-QUEST_LV_0100_20150317_003886	$Give the Hanaming Petals to the Battle Commander
+QUEST_LV_0100_20150317_003886	Gib die Hanaming Petals dem Battle Commander
 QUEST_LV_0100_20150317_003887	$Return to the Battle Commander and give him the Hanaming Petals, so you can be relieved sooner to go to Klaipeda.
-QUEST_LV_0100_20150317_003888	$Collect %s to investigate
+QUEST_LV_0100_20150317_003888	Sammle %s um sie zu untersuchen.
 QUEST_LV_0100_20150317_003889	$Talk to the Battle Commander. Something dubious seems to have happened.
-QUEST_LV_0100_20150317_003890	Scout the dangerous looking area
+QUEST_LV_0100_20150317_003890	Untersuche die gefährliche Gegend
 QUEST_LV_0100_20150317_003891	$Go check on the Battle Commander's troop, and take care of anything unusual.
-QUEST_LV_0100_20150317_003892	Report to the Battle Commander
+QUEST_LV_0100_20150317_003892	Berichte dem Battle Commander
 QUEST_LV_0100_20150317_003893	$It appears that the root of the chaos in the Western Woods was from the Golem that you just defeated. Tell the Battle Commander about it.
-QUEST_LV_0100_20150317_003894	$Defeat the Golem
+QUEST_LV_0100_20150317_003894	Besiege den Golem
 QUEST_LV_0100_20150317_003895	$The Search Scout seems to be in trouble. Try talking to him.
-QUEST_LV_0100_20150317_003896	$Defeat the Large Kepa
+QUEST_LV_0100_20150317_003896	Besiege das Large Kepa
 QUEST_LV_0100_20150317_003897	$Defeat the Large Kepa in the area that the Search Scout mentioned.
-QUEST_LV_0100_20150317_003898	$Return to the Search Scout
+QUEST_LV_0100_20150317_003898	Kehre zurück zum Search Scout
 QUEST_LV_0100_20150317_003899	$Return to the Search Scout and tell him that the Large Kepa was defeated.
 QUEST_LV_0100_20150317_003900	$Talk to Knight Commander Uska
 QUEST_LV_0100_20150317_003901	$Knight Commander Uska is looking for people who came to Klaipeda after witnessing the dream of Goddess. Meet Sir Uska and tell him about the Dream of Revelation.
@@ -4672,11 +4672,11 @@ QUEST_LV_0100_20150317_004671	$Chafer suddenly appeared on your way back to the 
 QUEST_LV_0100_20150317_004672	$Inform the results to the Healer Lady
 QUEST_LV_0100_20150317_004673	$Inform the Healer Lady that you drove out Chafer.
 QUEST_LV_0100_20150317_004674	$Defeat Chafer that is blocking the way
-QUEST_LV_0100_20150317_004675	$Mushcaria suddenly appeared
-QUEST_LV_0100_20150317_004676	$Defeat Mushcaria
-QUEST_LV_0100_20150317_004677	$Defeat Mushcaria
-QUEST_LV_0100_20150317_004678	Learn how to earn skills from the Search Scout.
-QUEST_LV_0100_20150317_004679	Learn how to earn skills from{nl} the Search Scout.
+QUEST_LV_0100_20150317_004675	$Mushcaria ist erschienen
+QUEST_LV_0100_20150317_004676	Besiege Mushcaria
+QUEST_LV_0100_20150317_004677	Besiege Mushcaria
+QUEST_LV_0100_20150317_004678	Lerne wie man Fähigkeiten erlernt vom Search Scout.
+QUEST_LV_0100_20150317_004679	Lerne wie man Fähigkeiten erlernt vom{nl}Search Scout.
 QUEST_LV_0100_20150317_004680	key to open the Skill window and learn skills. Try learning a skill.
 QUEST_LV_0100_20150317_004681	You have successfully learned a new skill. Talk to the Soldier again
 QUEST_LV_0100_20150317_004682	$Talk to the Guardian's Stone Statue
@@ -5934,7 +5934,7 @@ QUEST_LV_0100_20150317_005933	Talk to the Scout.
 QUEST_LV_0100_20150317_005934	$Talk to the Scout to learn about status points.
 QUEST_LV_0100_20150317_005935	 - use this key to open your Character Information then use Status Points
 QUEST_LV_0100_20150317_005936	Listen to the Scout and try using a Status.
-QUEST_LV_0100_20150317_005937	Talk to the Scout
+QUEST_LV_0100_20150317_005937	Sprich mit dem Scout
 QUEST_LV_0100_20150317_005938	Talk to the Scout again
 QUEST_LV_0100_20150317_005939	On the road back
 QUEST_LV_0100_20150317_005940	You feel something suspicious when worshipping the Goddess Statue. Talk to the Statue again.
@@ -6628,7 +6628,7 @@ QUEST_LV_0100_20150414_006627	$It's better to use the cable car rather than figh
 QUEST_LV_0100_20150414_006628	$I think there are monsters crawling out of the mysterious barrier at Nuotori Cliff.{nl}Is it possible for you to get rid of that barrier?
 QUEST_LV_0100_20150414_006629	$With that barrier gone, maintenance will be a lot easier now.
 QUEST_LV_0100_20150414_006630	Go down from the middle of Twin Bridge and you'll arrive at Srautas Gorge. {nl}Go further right from there and you'll get to Gele Plateau.
-QUEST_LV_0100_20150414_006631	First, defeat the Hanamings around here. {nl}And gather Hanaming Petals while you're at it.
+QUEST_LV_0100_20150414_006631	Zuerst musst du die Hanamings hier in der Nähe töten. {nl}Und sammle ihre Hanaming Patals währenddessen.
 QUEST_LV_0100_20150414_006632	The Miners' Village is a problem but we also haven't gotten any rest from the endless battle. {nl}Defeating those Chupacabras would make it a lot better.
 QUEST_LV_0100_20150414_006633	Defeat Vubbe Fighter. {nl}Search Scouts are on stand by in Nudegi Felled Area.
 QUEST_LV_0100_20150414_006634	You need to cross Srautas Gorge to get to Gele Plateau. {nl}Go down from the Twin Bridge and you'll arrive at Srautas Gorge.
@@ -7683,7 +7683,7 @@ QUEST_LV_0100_20150729_007682	$You obtained the Spiritual Stone and the Monster 
 QUEST_LV_0100_20150729_007683	$Ask the Bokor Master about the Mysterious Slate. She lives at the residential area in Klaipeda's left end.
 QUEST_LV_0100_20150729_007684	$Worship the Statue of Goddess Ausrine
 QUEST_LV_0100_20150729_007685	$Worship to the Statue of Goddess Ausrine in Central Square of Klaipeda as preparation to leave for the Eastern Woods.
-QUEST_LV_0100_20150729_007686	$Defeat the Vubbes and get %s
+QUEST_LV_0100_20150729_007686	Besiege die Vubbes und sammle %s
 QUEST_LV_0100_20150729_007687	$The entire territory of Kateen Forest Entrance
 QUEST_LV_0100_20150729_007688	$Knight Commander Uska requested you to investigate the disappearances of Prince Tilenis and the mayor. Search for the traces using the Spirit Eye in Sidabras Rest Place in Veja Ravine.
 QUEST_LV_0100_20150729_007689	$You placed the Spirit Eye at the spot where you think the disappearances occurred. Check the Spirit Eye.
@@ -7903,7 +7903,7 @@ QUEST_LV_0100_20150804_007902	$Historian Rexipher says that the symbols are cove
 QUEST_LV_0100_20150804_007903	$Historian Rexipher disappeared with the symbols of the ordeal. Talk to Liaison Officer Bale at King's Plateau to ask about his whereabouts.
 QUEST_LV_0100_20150804_007904	$You must somehow find Rexipher since he has all the symbols of the ordeal. Ask him again.
 QUEST_LV_0100_20150804_007905	When you were about to remove the seal of the cliffs, the monsters suddenly appeared. Defeat the monsters!
-QUEST_LV_0100_20150908_007906	Check the map by pressing M
+QUEST_LV_0100_20150908_007906	Untersuche die Karte indem du M drückst
 QUEST_LV_0100_20150908_007907	You can avoid the attacks of large Kepa using jump!
 QUEST_LV_0100_20150908_007908	Find the location of the treasure by right clicking on the treasure map!
 QUEST_LV_0100_20150908_007909	Yonazolem has appeared at the marked spot with the locked treasure chest!{nl}Defeat Yonazolem to find clues to open the box!
@@ -8096,18 +8096,18 @@ QUEST_LV_0100_20150908_008094	The roots of Nioles have been disconnected!
 QUEST_LV_0100_20150908_008095	Making Beef Jerky
 QUEST_LV_0100_20150908_008096	Beej Jerky appeared!
 QUEST_LV_0100_20150918_008097	Dieser Bereich ist sehr gefährlich geworden seit Medis Diena, als die Monster sich vereinigten.{nl}Du solltest zurück gehen solange du noch kannst, Kepas werden diese Position bald überrennen.
-QUEST_LV_0100_20150918_008098	$Ah, you said you came to tell me about the order to assemble, right?{nl}If you help me find my belongings, I will be able to do so more quickly.
+QUEST_LV_0100_20150918_008098	Ah, du bist hergekommen um mir mitzuteilen das die Truppen sich zusammen finden sollen, {nl} richtig? Wenn du mir hilfst meine Sachen zusammen zu suchen, kann ich mich schneller vorbereiten.
 QUEST_LV_0100_20150918_008099	$Have you ever tried offering worship to a Goddess Statue?{nl}The Goddesses might have vanished, but I believe they are still out there somewhere.
 QUEST_LV_0100_20150918_008100	I was worried that the monsters caused harm to the Goddess Statue.{nl}Even though the world is messed up.. It's terrible.
-QUEST_LV_0100_20150918_008101	$This has really gotten out of hand.{nl}Who knew that Kepas could grow so big...{nl}I wonder if it's because of Medis Diena?
-QUEST_LV_0100_20150918_008102	Don't forget to worship a Goddess Statue when you see one.{nl}I'm sure doing so will bestow a blessing upon you.{nl}I firmly believe that the Goddesses have not forsaken us.
+QUEST_LV_0100_20150918_008101	Das gerät langsam außer Kontrolle.{nl}Wer konnte schon ahnen das Kepas zu groß werden können...{nl}Ich frage mich ob das alles wegen Medis Diena passiert?
+QUEST_LV_0100_20150918_008102	Vergiss nicht Statuen der Göttinnen zu huldigen wenn du eine siehst.{nl}Ich bin mir sicher das es dir hilft und sie dich segnen werden.{nl}Ich glaube fest daran das die Göttinnen uns nicht aufgegeben haben.
 QUEST_LV_0100_20150918_008103	This is not the type of monster that can be encountered here so it is rather strange.{nl}I think the world is being ruined.
-QUEST_LV_0100_20150918_008104	$We need to assemble already?{nl}The world may be on the brink of destruction, but I can't accept this kind of insane order. {nl}I have enough missions on my hands as it is.
-QUEST_LV_0100_20150918_008105	Alright. This should be enough.{nl}Here is a pill that instantly restores your stamina...{nl}I'll give you one as a gift since I have enough.{nl}
+QUEST_LV_0100_20150918_008104	Wir sollen uns jetzt schon bereit machen?{nl}Die Welt steht vielleicht am Rande des Abgrundes, aber solch eine verrückte Order kann ich nicht akzeptieren. {nl}Ich habe so schon genug Aufgaben am Hals.
+QUEST_LV_0100_20150918_008105	Sehr gut. Das sollten genug sein.{nl}Hier ist eine Pille die dein Stamina wieder vollständig auflädt...{nl}Ich schenke dir eine, ich habe genug davon.{nl}
 QUEST_LV_0100_20150918_008106	You can recover stamina through Tree Root Crystals or by taking a rest.{nl}But, you won't have time for that when you are being chased by monsters. {nl}This potion will come in handy in situations like that.
 QUEST_LV_0100_20150918_008107	I heard the news from my men and I was starting to become worried.{nl}With how messed up the world is, if it ended well, all's well.{nl}
-QUEST_LV_0100_20150918_008108	$It's not like there weren't any monsters at all four years ago, but they weren't so ferocious. {nl}Plant-type monsters seem to have been affected the most, as they weren't like this before.
-QUEST_LV_0100_20150918_008109	That's it, that's how you do it. Easy, right?{nl}There is no way to tell what is going to become of this world now that the Goddesses have left,{nl}so we have to steadily put effort into it ourselves.
+QUEST_LV_0100_20150918_008108	Es ist nicht so als hätte es vor vier Jahren keine Monster gegeben, aber sie waren nie so wild. {nl}Am meisten scheinen die Pflanzenmonster davon beeinflusst worden zu sein, sie waren vorher nicht so wie jetzt.
+QUEST_LV_0100_20150918_008109	Das wars, genau so wird es gemacht. Einfach, oder?{nl}Es gibt einfach keinen Weg zu erklären was in dieser Welt passiert seit die Göttinnen weg sind,{nl}also müssen wir unsere Kraft darauf konzentrieren uns zu verbessern.
 QUEST_LV_0100_20150918_008110	A shield that is advanced to level 4 will be enough.{nl}The determination should be checked.
 QUEST_LV_0100_20150918_008111	You are so determined unlike other guys nowadays.{nl}You can come to learn from me anytime you want.
 QUEST_LV_0100_20150918_008112	Während deiner Reise wirst du feststellen das diese Statuen ueberall im Königreich verteilt{nl} sind. Bete zu ihnen und du wirst ihren Segen erhalten.
@@ -8117,11 +8117,11 @@ QUEST_LV_0100_20150918_008115	Which factors are decisive for determining outcome
 QUEST_LV_0100_20150918_008116	Golems in this situation...{nl}You remember what I taught you right?
 QUEST_LV_0100_20150918_008117	Very good indeed.{nl}As a Paladin Master, I must pay respect to your achievements.
 QUEST_LV_0100_20150918_008118	Thank you for passing Laimonas' regards.{nl}You should enter Klaipeda.{memo Uska is a knight, keep the Sir} Sir Uska is waiting for the Revelators.
-QUEST_LV_0100_20150918_008119	$There might be more of these Large Kepas roaming in the area nearby.{nl}Could you take a look for me, please?{nl}
-QUEST_LV_0100_20150918_008120	$It was just as I thought, right? It was this instinct that kept me alive during Medis Diena.
-QUEST_LV_0100_20150918_008121	$It's been too long, my men should've come back, but I haven't heard anything from them yet.{nl}I know it's been four years since Medis Diena, but my men have been getting too relaxed recently.
+QUEST_LV_0100_20150918_008119	Möglicherweise gibt es noch ein paar von diesen großen Kepas hier in der Nähe.{nl}Koenntest du für mich nachschauen bitte?{nl}
+QUEST_LV_0100_20150918_008120	Es war wie ich es mir dachte, richtig? Es war genau dieser Instinkt der mich am Leben erhiehtl als Medis Diena stattfand.
+QUEST_LV_0100_20150918_008121	Es ist lange her das ich meine Männer losgeschickt habe, ich habe lange nichts von {nl}ihnen gehöhrt. Ich weis, es sind vier Jahre vergangen seit Medis Diena,{nl} aber meine Männer sehen die Dinge zu entspannt.
 QUEST_LV_0100_20150918_008123	Die Göttinnen verschwinden und Golems tauchen auf... {nl}Ich frage mich ob es noch Hoffnung gibt?
-QUEST_LV_0100_20150918_008124	How was it? Were there many skills that seemed useful?{nl}If you use skills effectively, they will be very useful in combat.{nl}
+QUEST_LV_0100_20150918_008124	Und wie wars? Gab es ein paar nützliche Fähigkeiten?{nl}Wenn du die Fähigkeiten klug einsetzt, werden sie sehr hilfreich im Kampf sein.{nl}
 QUEST_LV_0100_20150918_008125	If that's the case, you will become bait and take care of the Royal Mausoleum defense device at Sesija Entrance.{nl}I will only say this once, so you better listen carefully.
 QUEST_LV_0100_20150918_008126	No one can disturb the eternal sleep of the great king.
 QUEST_LV_0100_20150918_008127	$Persuade the spirit that is heading towards Amolallul Hill{nl}and guide it to the Sad Owl Sculpture!
@@ -8158,7 +8158,7 @@ QUEST_LV_0100_20151001_008157	I'd like to ask you a favor. {nl}I have sinned bec
 QUEST_LV_0100_20151001_008158	But I am not a Revelator. {nl}Even if I want to make up for my sins, my duty at the moment is to protect the many citizens of Klaipeda. {nl}
 QUEST_LV_0100_20151001_008159	So please find all the revelations. {nl}I will put my position as the Knight Commander of Klaipeda on the line and help you deal with it. 
 QUEST_LV_0100_20151001_008160	If you're on your way to Klaipeda, let me ask you a favor. {nl}It's not easy to go to Klaipeda because of the Infrorocktors.
-QUEST_LV_0100_20151001_008161	I feel so relieved to be stationed in the Western Woods.{nl}There are some places where you'd rather die than to be stationed.
+QUEST_LV_0100_20151001_008161	Ich bin so erleichtert das ich hier in den Western Woods stationiert bin  .{nl}Es gibt einige Plätze da draußen, da ist man lieber tot, als dort stationiert zu sein.
 QUEST_LV_0100_20151001_008162	Aren't you hurt?{nl}I appreciate that you got rid of the Poatas but what were you thinking? 
 QUEST_LV_0100_20151001_008163	You mean you want to enter the Crystal Mines to find the evidence of Salvation? {nl}
 QUEST_LV_0100_20151001_008164	But that's tough at the moment. {nl}There is a swamp of Vubbes rushing out of the Crystal Mines.{nl}

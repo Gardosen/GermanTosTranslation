@@ -131,7 +131,7 @@ QUEST_20150317_000131	Klaipeda Lady
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the Goddess is somewhere in the world.
 QUEST_20150317_000133	Keep faith. {nl}The Goddess may still send a savior to us.
 QUEST_20150317_000134	Hoplite Master
-QUEST_20150317_000135	$If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
+QUEST_20150317_000135	Wenn ein Schwert das Zeichen von Stärke ist, Dann ist der Speer das Zeichen der Zerstörung. {nl}Stärke oder Zerstörung - was würdest du auf dem Schlachtfeld verwenden?
 QUEST_20150317_000136	Machine Worker
 QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with it and start over?
 QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medis Diena, we ought to work on planting trees or cutting them.
@@ -805,13 +805,13 @@ QUEST_20150317_000805	Flower Shop Lady
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the Goddesses' return. {nl}It's really depressing in many ways.
 QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be… {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the Goddess of the Earth…
 QUEST_20150317_000808	Warning
-QUEST_20150317_000809	$Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
-QUEST_20150317_000810	$Notice: Large Kepa is not an onion!{nl}Wearing goggles is useless against Large Kepa. {nl}Watch out for powerful attacks that shake the ground.
+QUEST_20150317_000809	Vorsicht vor den Leaf Bugs! Das sind keinen normalen Käfer. {nl}Es ist schwer sie zu bekämpfen wenn sie in Schahren kommen, also seid Vorsichtig . 
+QUEST_20150317_000810	Notiz: Large Kepa sind keine Zwiebeln!{nl}Eine Schutzbrille zu tragen wird gegen ein Large Kepa nicht helfen. {nl}Achtet auf die starken Angriffe die den Boden erschüttern.
 QUEST_20150317_000811	$Please worship the Goddess Statue with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed by the Overseer of the Earth herself.
 QUEST_20150317_000812	$The Statue of Goddess Zemyna lies at the end of this road.
-QUEST_20150317_000813	$Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and…{nl}(Red marks are covering the rest.)
-QUEST_20150317_000814	$Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
-QUEST_20150317_000815	P.S. It is better to run away than to pray to the Goddess in case you encounter Golems.
+QUEST_20150317_000813	Warnung! Hanaming-Infizierter Bereich. {nl}Fall nicht auf ihre süße Erscheinung herrein. {nl}Sie greifen in Gruppen an und…{nl}(Rote Striche überdecken den Rest.)
+QUEST_20150317_000814	Achtung! Was hinter diesem Punkt geschieht liegt in Eurer Verantwortung! {nl}Gerüchten zufolge gibt es Golems in dieser Gegend. Nicht weitergehen.
+QUEST_20150317_000815	P.S. Es ist besser wegzurennen als zur Göttin zu beten wen man einen Golem sieht.
 QUEST_20150317_000816	Die Göttinnen sind verschwunden. {nl}Aber wenn wir die Dämonen mutig bekämpfen, vielleicht kommen die Göttinen dann irgendwann zurueck. {nl} - Laimonas
 QUEST_20150317_000817	Achtung, dies gilt all Denen die nach Klaipeda gekommen sind weil sie einen Traum hatten von{nl} der Offenbarung. Knight Uska wartet auf dich am Central Plaza.
 QUEST_20150317_000818	Willkommen auf Klaipeda's Einkaufsmeile. {nl}Hier findest du viele verschiedene Läden fuer Schmuck, Handwerksausruestung {nl} Waffen, Ruestungen und anderen Dingen.
@@ -839,7 +839,7 @@ QUEST_20150317_000839	Your death shall be most painful!
 QUEST_20150317_000840	Soldier Recruitment Notice
 QUEST_20150317_000841	Wir brauchen dich! {nl}Beschuetze deine Familie und das Königreich. {nl} - Klaipeda Rekrutierungsstation
 QUEST_20150317_000842	Wir suchen junge mutige Männer die Ordnung in diese chaotischen Zeiten bringen wollen. {nl}Die Welt braucht Euch! {nl} - Klaipeda Rekrutierungsstation
-QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000843	Ehre. {nl}Das ist woraus eine Uniform gemacht wird. {nl} - Klaipeda Rekrutierungsstation
 QUEST_20150317_000844	Warning! Civilians prohibited.
 QUEST_20150317_000845	{memo X}Only authorized personnel are allowed inside.
 QUEST_20150317_000846	Impossible.
