@@ -423,7 +423,7 @@ QUEST_20150317_000423	This is where a small chapel was once located. {nl}A Statu
 QUEST_20150317_000424	$Stamina can be recovered by destroying Tree Root Crystals.{nl}They are an abnormality that began to appear after Medis Diena. {nl}But rest assured, because the research results have shown it's perfectly safe.
 QUEST_20150317_000425	So Degil sent you… Here… Here it is.
 QUEST_20150317_000426	{memo X}The Goddess taught us to help others. {nl}I'm just abiding by her teachings.
-QUEST_20150317_000427	I'd have just stood there if not for your help. {nl}My arms still hurt… {nl}I understand that the situation is not normal.
+QUEST_20150317_000427	Ich stehe hier nur rum, erwarte keine Hilfe. {nl}Meine Arme tun immernoch weh… {nl}Diese Situation ist einfach nicht normal.
 QUEST_20150317_000428	{memo X}The morning comes after the night goes. {nl}Goddess Ausrine is the one who leads the morning. {nl}Not only that, but she is also the one we meet after we die.
 QUEST_20150317_000429	Strange Goddess Statue
 QUEST_20150317_000430	Come, angry and resentful souls.
@@ -574,7 +574,7 @@ QUEST_20150317_000574	{memo X}Wife of a Refugee Family
 QUEST_20150317_000575	{memo X}I took refuge, following my husband, but it's scarier than I thought.
 QUEST_20150317_000576	Old Man of a Refugee Family
 QUEST_20150317_000577	{memo X}I am just waiting to die of old age, {nl}trying to withhold my wealth will just give these kids a hard time…
-QUEST_20150317_000578	I feel a bit safer here.
+QUEST_20150317_000578	Ich fühle mich hier sicherer.
 QUEST_20150317_000579	{memo X}That's a relief. {nl}Can you go back to town?
 QUEST_20150317_000580	Oh, it's a good thing you made it here.
 QUEST_20150317_000581	I'm so relieved.
@@ -1287,8 +1287,8 @@ QUEST_20150317_001288	Soldier Recruitment
 QUEST_20150317_001289	Unfinished Commission
 QUEST_20150317_001290	Information about Saugas
 QUEST_20150317_001291	{memo X}Investigate the Miners' Village
-QUEST_20150317_001292	$Mine Manager Brinker's Dedication
-QUEST_20150317_001293	$Healer Lady's Worry
+QUEST_20150317_001292	$Mine Manager Brinker's Hingabe
+QUEST_20150317_001293	$Healer Lady's Angst
 QUEST_20150317_001294	Completing the Strength of Soul
 QUEST_20150317_001295	Reluctant Souls
 QUEST_20150317_001296	Memorial Service
@@ -1912,7 +1912,7 @@ QUEST_20150428_001916	$You feel like you're being sucked into the light…
 QUEST_20150428_001917	{memo X}$You can't find anything yet.
 QUEST_20150428_001918	$The Husband of a Refugee
 QUEST_20150428_001919	$The Wife of a Refugee
-QUEST_20150428_001920	$It is very fortunate. {nl}Shall we return to the village?
+QUEST_20150428_001920	Ich bin erleichtert. {nl}Sollten wir in das Dorf zurückkehren?
 QUEST_20150428_001921	Will
 QUEST_20150428_001922	{memo X}$How stingy. I'll have to be stingy as well then.
 QUEST_20150428_001923	Blackened Clue
@@ -1968,7 +1968,7 @@ QUEST_20150428_001972	$The Order to Defeat the Demons
 QUEST_20150428_001973	$I hereby order in the name of Vakarine! {nl}After Medis Diena, they can no longer be forgiven. {nl}They are trying to expand their power by penetrating into the crack that was created in the barrier.
 QUEST_20150428_001974	$All the Kupoles here shall defeat Demon Lords Boolut, Nuaele, and Baltrus first. {nl}The enemy will panic without their commanders and will be easier to defeat.
 QUEST_20150428_001975	$Kupoles who can't attack should concentrate on blocking the crack. {nl}We can't allow more demons from going to the Demon Lords.
-QUEST_20150428_001976	$How should I live from now on? {nl}I should have moved to Klaipeda.
+QUEST_20150428_001976	Wie soll ich nur ab jetzt leben? {nl}Ich hätte nach Klaipeda gehen sollen.
 QUEST_20150428_001977	{memo X}$Since you've placed them into the inventory, you can read them anytime.
 QUEST_20150428_001978	$Mirtis' power was so overwhelming that Cunningham had to make an important decision.
 QUEST_20150428_001979	{memo X}$I hear that more and more monsters are appearing in the Baron Arleruno's land. {nl}Please defeat those monsters before they take any innocent lives.

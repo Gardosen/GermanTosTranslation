@@ -217,10 +217,10 @@ QUEST_LV_0100_20150317_000216	$Thanks for your help last time.{nl}Without you, I
 QUEST_LV_0100_20150317_000217	{memo X}$Perhaps the person that the Goddess sent was you.{nl}You are the most merciful person I have ever seen among the Revelators.
 QUEST_LV_0100_20150317_000218	$Soldier Jays
 QUEST_LV_0100_20150317_000219	{memo X}$I will protect this village for my dead comrades.
-QUEST_LV_0100_20150317_000220	$Even if the world changes, I will never forgive the Vubbes.
+QUEST_LV_0100_20150317_000220	Selbst wenn sich die Welt ändert, ich werde den Vubbes nie vergeben.
 QUEST_LV_0100_20150317_000221	$Soldier Edgar
-QUEST_LV_0100_20150317_000222	$These are the rations that we gathered from East Siauliai Woods.{nl}I will never, ever lose them again. Ever.
-QUEST_LV_0100_20150317_000223	$Thanks to you, I received this much food.{nl}I am relieved.
+QUEST_LV_0100_20150317_000222	Das sind die Vorräte die wir in East Siauliai Woods gesammelt haben.{nl}Ich werde sie nicht nocheinmal verlieren.
+QUEST_LV_0100_20150317_000223	Ich danke dir, das du soviele Vorräte zurückgebracht hast.{nl}Ich bin erleichtert.
 QUEST_LV_0100_20150317_000224	$Knight Commander Uska
 QUEST_LV_0100_20150317_000225	$Is this slate the evidence of salvation?{nl}It just looks like an old slate to me.
 QUEST_LV_0100_20150317_000226	{memo X}$Ask the mayor of the Miners' Village about a way to Leaf Veil Plateau.{nl}I will send the message to the Paladin Master first. {nl}May the blessings of Goddess be with you.
@@ -1365,11 +1365,11 @@ QUEST_LV_0100_20150317_001364	Have you seen any baby Poata? {nl} We better drive
 QUEST_LV_0100_20150317_001365	Die Vubbes haben ihre Basis außerhalb der Stadt gebaut. {nl} Da wir jetzt nicht einmal Soldaten hier haben, könnte etwas Furchtbares passieren,{nl} wenn wir sie nicht aus ihrer Basis vertreiben. 
 QUEST_LV_0100_20150317_001366	Vielen Dank fuer deinen Mut. 
 QUEST_LV_0100_20150317_001367	Wie soll ich nur meine Dankbarkeit zeigen. {nl}Ich bin mir sicher das die Göttin dich zu uns geschickt hat.
-QUEST_LV_0100_20150317_001368	This patient told us that Chafer has appeared. {nl} Can you help us out and go check on it?
-QUEST_LV_0100_20150317_001369	Now, I have to treat this patient... So thank you.
-QUEST_LV_0100_20150317_001370	Those refugees are probably having a hard time getting here because of the monsters.
-QUEST_LV_0100_20150317_001371	I can't help but think about it since he's worked here for so long.
-QUEST_LV_0100_20150317_001372	Thank you. Now I can feel at ease and return to the village. {nl} May the blessing of the Goddess be with you always.
+QUEST_LV_0100_20150317_001368	Der Patient hat uns erzählt das Chafer erschienen ist. {nl} Kannst du uns helfen und dem nachgehen?
+QUEST_LV_0100_20150317_001369	Ich werde bis dahin diesen Patienten heilen... Vielen Dank.
+QUEST_LV_0100_20150317_001370	Die Flüchtlinge haben es sicher schwer bis hierher zu kommen, wegen der ganzen Monster.
+QUEST_LV_0100_20150317_001371	Ich kann weiterhelfen, aber er ist schon so lange hier, vielleicht ist etwas dran.
+QUEST_LV_0100_20150317_001372	Vielen Dank. Jetzt kann ich mich etwas entspannen und ins Dorf zurückkehren. {nl} Mögen die Göttinnen immer an deiner Seite sein.
 QUEST_LV_0100_20150317_001373	Von einem Golem angegriffen zu werden, wird sie wieder zur Besinnung bringen. 
 QUEST_LV_0100_20150317_001374	Normalerweise kannst du sie nicht finden, egal wie sehr du dich anstrengst. {nl} Eigenartig oder?
 QUEST_LV_0100_20150317_001375	$I am pleased that my friend was able to go back safely.{nl}I was worried because of the stories that Molich is wandering around.
@@ -1535,18 +1535,18 @@ QUEST_LV_0100_20150317_001534	$Hunter
 QUEST_LV_0100_20150317_001535	$Oh, you're just in time. We need your help. {nl} Monsters stole all the aids and supplies meant for the refugees. {nl}
 QUEST_LV_0100_20150317_001536	$Fortunately, we found them quickly.
 QUEST_LV_0100_20150317_001537	$I'll stay and aid the people left here. {nl}There are more people who need more than my aid, so please go on ahead.
-QUEST_LV_0100_20150317_001538	$I'm holding this because it looks like it's about to collapse. {nl}We need some stones to do something about it.
+QUEST_LV_0100_20150317_001538	Ich stütze diese Wand weil es so aussieht als wenn sie jeden Moment einstürzen wird. {nl}Wir brauchen ein paar Steine um das zu verhindern.
 QUEST_LV_0100_20150317_001539	$We won't be able to handle it if this wall opens. {nl}How will you stop them then if people are already running away now?
-QUEST_LV_0100_20150317_001540	$Alright. That'll be enough.
-QUEST_LV_0100_20150317_001541	$I must go back to the village. {nl} But as you can see my arms are shaking. {nl} Can you defeat the monsters while I rest my arms for a while?
+QUEST_LV_0100_20150317_001540	Okay. Das sollten genug sein.
+QUEST_LV_0100_20150317_001541	Ich muss zurück zum Dorf. {nl} Aber wie du siehst zittern meine Arme. {nl} Kannst du die Monster um uns herum besiegen, während ich mich erhohle?
 QUEST_LV_0100_20150317_001542	$The Goddesses are so heartless. {nl} Had the Goddesses not disappeared, the monsters wouldn't be invading. 
-QUEST_LV_0100_20150317_001543	$Now I can return to the village with peace of mind. {nl} This grace I shall never forget.
-QUEST_LV_0100_20150317_001544	$I came here to hide from the monsters, but even this area is becoming dangerous. {nl} I'm trying to make it back to the village, so can you bring the other refugees to me?
-QUEST_LV_0100_20150317_001545	$I see you came back safely. {nl} Well then, I must also prepare to leave.
-QUEST_LV_0100_20150317_001546	$What do we do? I think there are even more monsters now than when we first came. {nl} And the patients have not recovered yet. {nl}
-QUEST_LV_0100_20150317_001547	$Somehow I'll treat this man. Can you defeat the monsters around?
-QUEST_LV_0100_20150317_001548	$In order for these people to safely return to the village,{nl}we have to defeat these monsters.
-QUEST_LV_0100_20150317_001549	$Thank you. The patient also regained his consciousness. {nl} Though.. I think there is a problem.
+QUEST_LV_0100_20150317_001543	Jetzt kann ich ruhigen Gewissens in die Stadt zurückkehren. {nl} Das werde ich dir nie vergessen.
+QUEST_LV_0100_20150317_001544	Ich kam hier her um mich vor den Monstern zu verstecken. Aber dieser Ort wird immer{nl} gefährlicher. Ich will wieder in das Dorf gehen,{nl} kannst du die anderen Flüchtlinge herbringen?
+QUEST_LV_0100_20150317_001545	Ich sehe du bist wohlbehalten wieder hier. {nl} Nagut, dann werde ich mich auf die Abreise vorbereiten.
+QUEST_LV_0100_20150317_001546	Was sollen wir nur tun? Es sind nun viel mehr Monster da draußen als wo wir ankamen. {nl} Der Patient hat sich noch nicht erhohlt. {nl}
+QUEST_LV_0100_20150317_001547	Ich kann den Patienten bestimmt heilen. Kannst du dich solange darum kümmern die Monster zu besiegen?
+QUEST_LV_0100_20150317_001548	Wir müssen diese Monster besiegen, damit wir die Flüchtlinge sicher in das Dorf{nl} bringen können.
+QUEST_LV_0100_20150317_001549	Vielen Dank. Der Patient ist wieder bei bewusstsein. {nl} Jedoch.. Ich denke es gibt noch ein anderes Problem.
 QUEST_LV_0100_20150317_001550	{memo X}$This has to be because there is the evidence of salvation or something. {nl}I'm sure that's where the villagers were taken away to.
 QUEST_LV_0100_20150317_001551	Die Göttin hat Hilfe gesandt.. {nl}Folge dem Weg nach Osten um zum Außenposten der Vubbe's zu gelangen.
 QUEST_LV_0100_20150317_001552	$Thank you for saving me. {nl} Seems like you're the Revelator who's looking for evidence of salvation. {nl}
@@ -2251,22 +2251,22 @@ QUEST_LV_0100_20150317_002250	{memo X}Ordinary Man
 QUEST_LV_0100_20150317_002251	{memo X}This is the back plate. {nl} I'll let you craft when we have all the other materials ready.
 QUEST_LV_0100_20150317_002252	{memo X}Here you go. This is a Chest protector made of leather. {nl}It was fun to do this in a long time.
 QUEST_LV_0100_20150317_002253	Bone fragments are seen in the well.
-QUEST_LV_0100_20150317_002254	I'm furious and upset. {nl} If we got here earlier, we wouldn't have been totally wiped out ... {nl}
-QUEST_LV_0100_20150317_002255	$Dear Revelator, I have a favor to ask of you. {nl}Can you recover my comrades' mementos?
+QUEST_LV_0100_20150317_002254	Ich bin so enttäuscht. {nl} Wenn wir früher hier gewesen wären, wären wir nicht überrannt worden ... {nl}
+QUEST_LV_0100_20150317_002255	Erlöser, ich muss dich um etwas bitten. {nl}Kannst du die Andenken an meinen Kameraden wiederbeschaffen?
 QUEST_LV_0100_20150317_002256	{memo X}It's bad enough that they were killed by the Vubbes, but even their keepsakes are being abused. How awful...
 QUEST_LV_0100_20150317_002257	{memo X}Thank you. {nl} My comrades will now be able to rest in peace.
-QUEST_LV_0100_20150317_002258	$Oh my God. The Vubbes stole all our food supplies. {nl} They even took our food for today... Please help us, we need your strength.
-QUEST_LV_0100_20150317_002259	They stole the food meant for both the army and the residents. {nl} What will we do if we can't get our food back.. {nl}
-QUEST_LV_0100_20150317_002260	Thank you. {nl} This will at least get us through the next few days.
-QUEST_LV_0100_20150317_002261	Thank you for your help earlier, but there are more mementos that need to be retrieved. {nl} Think of my comrades who can't rest in peace.. {nl}
-QUEST_LV_0100_20150317_002262	So please help us. {nl} If you can return the rest of the mementos to us, we will provide compensation.
+QUEST_LV_0100_20150317_002258	Oh mein Gott, die Vubbes haben all unsere Vorräte gestohlen. {nl} Selbst die Vorräte von heute... Bitte hilf uns, wir brauchen deine Stärke.
+QUEST_LV_0100_20150317_002259	Sie haben sowohl die Vorräte für die Soldaten, als auch für die Einwohner gestohlen. {nl} Was sollen wir nur tun wenn wir die Vorräte nicht zurück bekommen.. {nl}
+QUEST_LV_0100_20150317_002260	Vielen Dank. {nl} Das wird für die nächsten Tage reichen.
+QUEST_LV_0100_20150317_002261	Vielen Dank für deine Hilfe, aber es gibt noch mehr Erinnerungstücke die fehlen. {nl} Ich denke pausenlos an meine gefallenen Freunde.. {nl}
+QUEST_LV_0100_20150317_002262	Bitte hilf uns. {nl} Wenn du den rest der Erinnerungsstücke wiederholen kannst,{nl} werden wir uns erkenntlich zeigen.
 QUEST_LV_0100_20150317_002263	{memo X}Thank you, but we still need more... {nl} Sorry... {nl}
 QUEST_LV_0100_20150317_002264	{memo X}We've almost collected all the keepsakes... {nl} Please help us til the end.
 QUEST_LV_0100_20150317_002265	{memo X}It hurts to think about giving these keepsakes to my dead comrades' families.
 QUEST_LV_0100_20150317_002266	{memo X}Thank you very much. {nl} My comrades can now rest in peace with the Goddesses.
-QUEST_LV_0100_20150317_002267	We survived the immediate danger with your help earlier, but we still need some assistance. {nl} Could you help us out a bit more?
+QUEST_LV_0100_20150317_002267	Mit deine Hilfe waren wir in der Lage das schlimmste abzuwenden, aber wir brauchen noch einmal deine Hilfe. {nl} Kannst du uns noch etwas helfen?
 QUEST_LV_0100_20150317_002268	I'm enraged thinking about the Vubbes who will be heartily satisfied with our food. {nl}Especially with such difficult times nowadays.
-QUEST_LV_0100_20150317_002269	Thank you. {nl} We're still lacking some goods, but at least we got back this much.
+QUEST_LV_0100_20150317_002269	Vielen Dank. {nl} Wir vermissen immernoch ein paar Sachen, aber das meiste haben wir zurückbekommen.
 QUEST_LV_0100_20150317_002270	Fedimian Resident
 QUEST_LV_0100_20150317_002271	I heard the wise man Maven who built the Great Cathedral left five necklaces.{nl}I also heard that the one who collects those five necklaces will possess a great power.
 QUEST_LV_0100_20150317_002272	$Hey, if you are planning to continue your journey, don't get close to the Cursed City.{nl}It didn't receive a blessing at all on Medis Diena. You will turn into stone if you get too close to that city.
@@ -2752,16 +2752,16 @@ QUEST_LV_0100_20150317_002751	{memo X}Unleashing the seal../MAKING/4/TRACK_BEFOR
 QUEST_LV_0100_20150317_002752	Miners' Village Erkunden(1)
 QUEST_LV_0100_20150317_002753	Retrieve the relief supplies
 QUEST_LV_0100_20150317_002754	I'll help retrieve the relief supplies
-QUEST_LV_0100_20150317_002755	Mine Manager Brinker's Dedication (1)
-QUEST_LV_0100_20150317_002756	I'll gather some stones for it
-QUEST_LV_0100_20150317_002757	Better run away quickly
-QUEST_LV_0100_20150317_002758	Mine Manager Brinker's Dedication (2)
-QUEST_LV_0100_20150317_002759	I'll defeat the monsters around
-QUEST_LV_0100_20150317_002760	Healer Lady's Worry (1)
-QUEST_LV_0100_20150317_002761	I'll bring the refugees
+QUEST_LV_0100_20150317_002755	Mine Manager Brinker's Hingabe (1)
+QUEST_LV_0100_20150317_002756	Ich werde ein paar Steine für dich sammeln
+QUEST_LV_0100_20150317_002757	Du solltest besser schnell wegrennen
+QUEST_LV_0100_20150317_002758	Mine Manager Brinker's Hingabe (2)
+QUEST_LV_0100_20150317_002759	Ich werde die Monster hier besiegen
+QUEST_LV_0100_20150317_002760	Healer Lady's Angst (1)
+QUEST_LV_0100_20150317_002761	Ich werde dir die Flüchtliche bringen
 QUEST_LV_0100_20150317_002762	{memo X}Description of the location of the healer lady/TALK/2/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002763	Healer Lady's Worry (2)
-QUEST_LV_0100_20150317_002764	I'll defeat the menacing monsters
+QUEST_LV_0100_20150317_002763	Healer Lady's Angst (2)
+QUEST_LV_0100_20150317_002764	Ich werde die Monster besiegen
 QUEST_LV_0100_20150317_002765	Kidnapped villagers (1) - Delete
 QUEST_LV_0100_20150317_002766	I'll save the village residents
 QUEST_LV_0100_20150317_002767	Take time to think for a while
@@ -2845,9 +2845,9 @@ QUEST_LV_0100_20150317_002844	To Thorny Forest
 QUEST_LV_0100_20150317_002845	Open the door that leads to Thorny Forest
 QUEST_LV_0100_20150317_002846	{memo X}Key during installation .../MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002847	Defeat the monster blocking the road
-QUEST_LV_0100_20150317_002848	Healer Lady's Worry (3)
-QUEST_LV_0100_20150317_002849	Okay, I'll go look around again
-QUEST_LV_0100_20150317_002850	That would not happen.
+QUEST_LV_0100_20150317_002848	Healer Lady's Angst (3)
+QUEST_LV_0100_20150317_002849	Okay, ich werde mich nochmal umsehen
+QUEST_LV_0100_20150317_002850	Das wird nicht passieren.
 QUEST_LV_0100_20150317_002851	{memo X}Notice/!/Defeat Chafer!
 QUEST_LV_0100_20150317_002852	Attack of Mushcaria
 QUEST_LV_0100_20150317_002853	{memo X}Notice/!/Defeat Muchcaria!#8
@@ -3805,11 +3805,11 @@ QUEST_LV_0100_20150317_003804	Ok, I'll drop by
 QUEST_LV_0100_20150317_003805	To Overlong Bridge Valley
 QUEST_LV_0100_20150317_003806	{memo X}
 QUEST_LV_0100_20150317_003807	{memo X}Notice/Arrived at Kvailas Forest where the Bramble is hiding.#3
-QUEST_LV_0100_20150317_003808	A Soldier's Favor
-QUEST_LV_0100_20150317_003809	I'll gather the mementos
-QUEST_LV_0100_20150317_003810	Stolen Food Supplies
-QUEST_LV_0100_20150317_003811	I'll get back the food supplies from the Vubbes
-QUEST_LV_0100_20150317_003812	Sorry, I'm busy
+QUEST_LV_0100_20150317_003808	Der Gefallen eines Soldaten
+QUEST_LV_0100_20150317_003809	Ich werde die Andenken besorgen
+QUEST_LV_0100_20150317_003810	Gestohlene Vorräte
+QUEST_LV_0100_20150317_003811	Ich hohle die Vorräte von den Vubbes zurück
+QUEST_LV_0100_20150317_003812	Tut mir leid, ich bin beschäftigt
 QUEST_LV_0100_20150317_003813	{memo X}
 QUEST_LV_0100_20150317_003814	To Mage Tower
 QUEST_LV_0100_20150317_003815	{memo X}
@@ -4481,23 +4481,23 @@ QUEST_LV_0100_20150317_004480	$The Hunter says that monsters stole all the relie
 QUEST_LV_0100_20150317_004481	$Gathered all the relief supplies. Talk to the Hunter. 
 QUEST_LV_0100_20150317_004482	$Talk to Mine Manager Brinker
 QUEST_LV_0100_20150317_004483	$You need to go to the Crystal Mine as told by the Goddess in the Bishop's dream but you can't just leave the refugees. Mine Manager Brinker is standing by the wall with one hand on the wall. Ask what is happening.
-QUEST_LV_0100_20150317_004484	$Collect stones for reinforcement from the rubble nearby
+QUEST_LV_0100_20150317_004484	Sammle Steine für die Wiederherstellung in der Umgebung.
 QUEST_LV_0100_20150317_004485	$The wall may collapse if Brinker releases his hands off the wall. Let's look for some rocks nearby to block the holes on the wall for Brinker.
-QUEST_LV_0100_20150317_004486	$Give reinforcement stones to Brinker
+QUEST_LV_0100_20150317_004486	Gib die Steine Brinker
 QUEST_LV_0100_20150317_004487	$Give the stones you collected to Brinker.
 QUEST_LV_0100_20150317_004488	$Repaired the wall but Brinker still looks anxious. Talk to him.
-QUEST_LV_0100_20150317_004489	$Defeat the monsters nearby
+QUEST_LV_0100_20150317_004489	Besiege die Monster in der Nähe
 QUEST_LV_0100_20150317_004490	$Defeat the monsters nearby so that Brinker can return safely.
-QUEST_LV_0100_20150317_004491	$Tell Brinker that it is safe
-QUEST_LV_0100_20150317_004492	$Tell Brinker that he can return safely. 
-QUEST_LV_0100_20150317_004493	$Talk to the Healer Lady
+QUEST_LV_0100_20150317_004491	Sag Brinker das es jetzt sicher ist
+QUEST_LV_0100_20150317_004492	Sag Brinker das es jetzt sicher ist
+QUEST_LV_0100_20150317_004493	Sprich mit der Healer Lady
 QUEST_LV_0100_20150317_004494	$You need to go to the Crystal Mines as told by the Goddess in the Bishop's dream but you can't just leave the refugees. Help the Healer Lady to treat the injured people.
-QUEST_LV_0100_20150317_004495	$Bringing the Refugees
-QUEST_LV_0100_20150317_004496	$Healer Lady is asking a favor for you to bring the other refugees. Bring the couple near the Statue of Goddess Zemyna to the Healer Lady.
-QUEST_LV_0100_20150317_004497	$Turn over the refugees to the Healer Lady
+QUEST_LV_0100_20150317_004495	Den Flüchtlingen helfen
+QUEST_LV_0100_20150317_004496	Healer Lady fragt dich ob du den anderen Flüchlingen helfen kannst, zu ihr zu kommen. Bring das Pärchen in der Nähe der Statue der Göttin Zemyna zur Healer Lady.
+QUEST_LV_0100_20150317_004497	Bringe die Flüchtlinge zur Healer Lady
 QUEST_LV_0100_20150317_004498	$Brought back the refugees safely. Talk to the Healer Lady. 
 QUEST_LV_0100_20150317_004499	$Tell the Healer Lady to go back to the village again.
-QUEST_LV_0100_20150317_004500	$Defeat the monsters
+QUEST_LV_0100_20150317_004500	Besiege die Monster
 QUEST_LV_0100_20150317_004501	$The lady says she can't go back with her patients because there are too many monsters. Defeat the monsters for her. 
 QUEST_LV_0100_20150317_004502	$Defeated the monsters. Tell the lady to go back to the village. 
 QUEST_LV_0100_20150317_004503	Sprich mit dem Buergermeister von Miners' Village
@@ -4665,14 +4665,14 @@ QUEST_LV_0100_20150317_004664	{memo X}Hanaming suddenly appeared
 QUEST_LV_0100_20150317_004665	{memo X}Hanaming's appearance
 QUEST_LV_0100_20150317_004666	{memo X}Defeat the herd of Hanamings that are rushing in
 QUEST_LV_0100_20150317_004667	{memo X}Defeat the Hanamings and go back to Knight Titas
-QUEST_LV_0100_20150317_004668	$Listen to the Healer Lady's request
-QUEST_LV_0100_20150317_004669	$Seems like there is still work to be done. Talk to the Healer Lady again.
-QUEST_LV_0100_20150317_004670	$Defeat Chafer
-QUEST_LV_0100_20150317_004671	$Chafer suddenly appeared on your way back to the village. Defeat it so that the villagers can return safely.
-QUEST_LV_0100_20150317_004672	$Inform the results to the Healer Lady
-QUEST_LV_0100_20150317_004673	$Inform the Healer Lady that you drove out Chafer.
-QUEST_LV_0100_20150317_004674	$Defeat Chafer that is blocking the way
-QUEST_LV_0100_20150317_004675	$Mushcaria ist erschienen
+QUEST_LV_0100_20150317_004668	Höhre Healer Lady's Bitte zu.
+QUEST_LV_0100_20150317_004669	Es sieht so aus als wenn noch etwas zutun wäre. Sprich noch einmal mit Healer Lady.
+QUEST_LV_0100_20150317_004670	Besiege Chafer
+QUEST_LV_0100_20150317_004671	Chafer ist auf deinem Weg zurück in das Dorf aufgetaucht. Besiege es damit die anderen sicher zurück in das Dorf können.
+QUEST_LV_0100_20150317_004672	Berichte Healer Lady was passiert ist
+QUEST_LV_0100_20150317_004673	Berichte Healer Lady das du Chafer besiegt hast.
+QUEST_LV_0100_20150317_004674	Besiege Chafer der den Weg blockiert
+QUEST_LV_0100_20150317_004675	Mushcaria ist erschienen
 QUEST_LV_0100_20150317_004676	Besiege Mushcaria
 QUEST_LV_0100_20150317_004677	Besiege Mushcaria
 QUEST_LV_0100_20150317_004678	Lerne wie man Fähigkeiten erlernt vom Search Scout.
@@ -6345,16 +6345,16 @@ QUEST_LV_0100_20150317_006344	You'll know what to do next when you meet Morkus J
 QUEST_LV_0100_20150317_006345	Goddess Saule says that Bramble stole the revelation in the Thorn Forest. Move to the Thorn Forest.
 QUEST_LV_0100_20150317_006346	{memo X}
 QUEST_LV_0100_20150317_006347	{memo X}
-QUEST_LV_0100_20150317_006348	Talk to Soldier Jace
-QUEST_LV_0100_20150317_006349	Talk to Soldier Jace.
-QUEST_LV_0100_20150317_006350	Retrieving Soldiers' Mementos
-QUEST_LV_0100_20150317_006351	The Vubbes stole the dead soldiers' mementos. Get them back from the Vubbes so that the soldiers can rest in peace.
+QUEST_LV_0100_20150317_006348	Sprich mit Soldier Jace
+QUEST_LV_0100_20150317_006349	Sprich mit Soldier Jace.
+QUEST_LV_0100_20150317_006350	Erinnerungsstücke des Soldaten beschaffen
+QUEST_LV_0100_20150317_006351	Die Vubbes haben die Erinnerungsstücke der toten Soldaten gestohlen. Hohl sie von den Vubbes zurück damit die Soldaten in Frieden ruhen können.
 QUEST_LV_0100_20150317_006352	Colleted all the mementos. Bring them to Soldier Jays.
 QUEST_LV_0100_20150317_006353	{memo X}Defeat Vubbe and get %s
 QUEST_LV_0100_20150317_006354	Defeat the Vubbe Thief
-QUEST_LV_0100_20150317_006355	Talk to Soldier Edgar
+QUEST_LV_0100_20150317_006355	Sprich mit Soldier Edgar
 QUEST_LV_0100_20150317_006356	Edgar seems to be in trouble. Talk to him.
-QUEST_LV_0100_20150317_006357	Retrieve the stolen food supplies from the Vubbes
+QUEST_LV_0100_20150317_006357	Hohle die gestohlenen Vorräte von den Vubbes zurück
 QUEST_LV_0100_20150317_006358	Edgar says the Vubbes stole all the food supplies. Go and get it back from the Vubbes.
 QUEST_LV_0100_20150317_006359	This much food seems enough. Bring it back to Soldier Edgar.
 QUEST_LV_0100_20150317_006360	{memo X}Defeat Vubbes and retrieve %s
@@ -6790,7 +6790,7 @@ QUEST_LV_0100_20150428_006789	Willkommen. {nl} Ich habe nur die seltensten Sache
 QUEST_LV_0100_20150428_006790	{memo X}I'm sorry but can you burn this oration in front of the epitaph in Rukas Plateau? {nl}You have explored different areas of the valley. {nl}I think you are more than qualified to comfort their souls. 
 QUEST_LV_0100_20150428_006791	This place is like a grave for many explorers and historians. {nl} And we study to find more factual history on top of their graves.
 QUEST_LV_0100_20150428_006792	Good job.{nl}I will take the Jewel of Prominence.
-QUEST_LV_0100_20150428_006793	We came here from the Vubbes' attack.{nl}But, This place seems to be not safe.
+QUEST_LV_0100_20150428_006793	Wir kamen hier her als die Vubbes angriffen.{nl}Aber dieser Ort scheint nicht sicher zu sein.
 QUEST_LV_0100_20150428_006794	The demons had been chasing the revelation before I made this revelation. {nl} Gesti, the leader of the demons whom you have met is one of them. {nl}
 QUEST_LV_0100_20150428_006795	Alright, I will tell the troops to assemble
 QUEST_LV_0100_20150428_006796	{memo X}Notice/!/Jonna Jolem appeared with the treasure box from the marked place.{nl}Defeat Jonna Jolem and find a clue to open the box!#7
@@ -7643,8 +7643,8 @@ QUEST_LV_0100_20150729_007642	$So humans can also defeat the demon king.{nl}I ca
 QUEST_LV_0100_20150729_007643	$Please save me!{nl}I don't know how to get out from the barrier!
 QUEST_LV_0100_20150729_007644	$Hurry and run away!{nl}Monsters may be closing in!
 QUEST_LV_0100_20150729_007645	{memo X}$All right.{nl} Oh, don't forget to offer worship to the Statue of Ausrine before you leave.{nl}
-QUEST_LV_0100_20150729_007646	$Thank you for bringing these back, though this still isn't enough... {nl} Sorry... {nl}
-QUEST_LV_0100_20150729_007647	$Almost all the mementos have been collected.{nl}I'm counting on you to bring back the last ones.
+QUEST_LV_0100_20150729_007646	VIelen Dank das du sie zurückbringst, aber das sind noch nicht alle... {nl} Es tut mir leid... {nl}
+QUEST_LV_0100_20150729_007647	Fast alle Erinnerungsstücke sind wieder da.{nl}Ich zähle auf dich das du auch die letzten Zurückbringen kannst.
 QUEST_LV_0100_20150729_007648	{memo X}$Thank you very much. {nl} My comrades can now rest in peace with the Goddesses.
 QUEST_LV_0100_20150729_007649	$The Immortal Nepenthes (1)
 QUEST_LV_0100_20150729_007650	$The Immortal Nepenthes (2)
@@ -7972,7 +7972,7 @@ QUEST_LV_0100_20150908_007970	{memo X}
 QUEST_LV_0100_20150908_007971	Defeat the Golem that suddenly appeared!
 QUEST_LV_0100_20150908_007972	{memo X}
 QUEST_LV_0100_20150908_007973	You can feel a great vibration!
-QUEST_LV_0100_20150908_007974	Defeat the Chafer!
+QUEST_LV_0100_20150908_007974	Besiege Chafer!
 QUEST_LV_0100_20150908_007975	Check the skill by pressing F3 key
 QUEST_LV_0100_20150908_007976	A Biteregina has appeared after eliminating the hive!{nl}Defeat Biteregina!
 QUEST_LV_0100_20150908_007977	The 1st floor of Tenet Cathedral has been sealed due to the power of Gesti.{nl}Find the way to go up to the first floor through the 1st basement!
@@ -8150,7 +8150,7 @@ QUEST_LV_0100_20151001_008149	Kennst du die Legende von Cunningham? {nl}Es ist d
 QUEST_LV_0100_20151001_008150	Ich denke das dieser Dämon aufgewacht ist und die Vubbe's kontroliert. {nl}Der Traum ueber den Bischof und die Legende von Cunningham... {nl}Ich frage mich ob das eine Warnung ist, zu einem großen Ereignis das uns bevorsteht.{nl}
 QUEST_LV_0100_20151001_008151	Nur die Göttin weis ob die Hoffnung oder die Verzweiflung siegen wird. {nl}Du findest mehr Details dazu in einem Buch das sich am Mine Worker's Resting Place im 2. Stock befindet.
 QUEST_LV_0100_20151001_008152	Wie auch immer, es scheint als wenn die Vubbe's die Filter zerstört haben. {nl}Du solltest sie besser schnell reparieren, bevor den Geiseln die Luft ausgeht. 
-QUEST_LV_0100_20151001_008153	I will protect this village for my dead comrades.
+QUEST_LV_0100_20151001_008153	Ich werde dieses Dorf für meine gefallen Kameraden beschützen.
 QUEST_LV_0100_20151001_008154	If the Bokor Master told you that I would know it..{nl}There's one place that comes to mind.{nl}
 QUEST_LV_0100_20151001_008155	You're saying something that's really hard to believe. {nl}You mean this revelation is Goddess Laima and we have to collect all these for the Goddess to return?{nl}
 QUEST_LV_0100_20151001_008156	Goddess Laima is often called the recorded Goddess. {nl}When the Great King Zachariel formed this kingdom, the only record about it is that Goddess Laima blessed it.  {nl}
@@ -8464,7 +8464,7 @@ QUEST_LV_0100_20151001_008463	{nl}To defeat the demons, Nestos may be better, wh
 QUEST_LV_0100_20151001_008464	Damn...{nl}That was his plot.{nl}I thought it was suspicious.
 QUEST_LV_0100_20151001_008465	{nl}Please take this divine object.{nl}You would be able to defeat the demons.
 QUEST_LV_0100_20151001_008466	You are safe.{nl}I've heard from Fabius.{nl}Everything was Vaiga's plot...{nl}We should be cautious all the time.{nl}Thank you.
-QUEST_LV_0100_20151001_008467	It's bad enough that they were killed by the Vubbes, but even their keepsakes are being abused. How awful...
+QUEST_LV_0100_20151001_008467	Es ist schlimm genug das sie von den Vubbes getötet wurden, Aber selbst ihre Habseligkeiten{nl}  sind gestohlen worden. Wie furchtbar...
 QUEST_LV_0100_20151001_008468	Thank you. {nl} My comrades will now be able to rest in peace.
 QUEST_LV_0100_20151001_008469	It hurts to think about giving these keepsakes to my dead comrades' families.
 QUEST_LV_0100_20151001_008470	Thank you very much. {nl} My comrades can now rest in peace with the Goddesses.

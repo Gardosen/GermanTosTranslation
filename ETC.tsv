@@ -1474,26 +1474,26 @@ ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}This name already exists. {nl} Ple
 ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}You cannot create a character.
 ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}You cannot delete this character.
 ETC_20150317_001476	Team does not exist
-ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}This character does not exist
+ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}Dieser Charakter existiert nicht
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{memo X}{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
-ETC_20150317_001480	$You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
-ETC_20150317_001481	$You cannot obtain any more items. You have exceeded the maximum number of items allowed.
-ETC_20150317_001482	Your inventory is full
-ETC_20150317_001483	This server is closed
-ETC_20150317_001484	This item cannot be equipped
-ETC_20150317_001485	[{Word}] is not allowed for use.
-ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
-ETC_20150317_001487	Server version does not match
-ETC_20150317_001488	You do not meet the level requirement.{nl} Check the required level in the item description
-ETC_20150317_001489	Cannot be equipped by male characters. {nl}Check the gender and level requirement in the item description
-ETC_20150317_001490	Cannot be equipped by female characters. {nl}Check the gender and level requirement in the item description
-ETC_20150317_001491	The character name must be at least %s characters.
-ETC_20150317_001492	The character name must be less than %s characters.
+ETC_20150317_001480	Du hast dein maximales Tragegewicht erreicht.{nl}Verkaufe oder Entferne Gegenstände aus deinem Inventar im Gewicht zu verlieren.
+ETC_20150317_001481	Du kannst keine Gegenstände mehr aufheben. Du hast die maximalle Anzahl an Gegenständen überschritten.
+ETC_20150317_001482	Dein Inventar ist voll
+ETC_20150317_001483	Dieser Server ist geschloßen
+ETC_20150317_001484	Dieser Gegenständ kann nicht ausgerüstet werden
+ETC_20150317_001485	[{Word}] darf nicht benutzt werden.
+ETC_20150317_001486	{S20}{ol}{#46c8ff} Du hast nicht genug SP
+ETC_20150317_001487	Server Version stimmt nicht
+ETC_20150317_001488	Du erfüllst nicht die Levelvoraussetzungen.{nl} Überprüfe das benötigte Level in der Itembeschreibung
+ETC_20150317_001489	Kann nicht von männlichen Charakteren angezogen werden. {nl}Prüfe das Geschlecht und das benötigte Level in der Itembeschreibung
+ETC_20150317_001490	Kann nicht von weiblichen Charakteren angezogen werden. {nl}Prüfe das Geschlecht und das benötigte Level in der Itembeschreibung
+ETC_20150317_001491	Der Charaktername muss mindestens %s Zeichen haben.
+ETC_20150317_001492	Der Charactername darf maximal %s Zeichen haben.
 ETC_20150317_001493	{memo X}{S18}{ol}{#ffffcc} Password is incorrect
 ETC_20150317_001494	You cannot join the game. Your level does not match the level requirements.
-ETC_20150317_001495	You do not have permission
-ETC_20150317_001496	This room does not exist. {nl}Please refresh the Room List.
+ETC_20150317_001495	Dazu hast du keine Berechtigung
+ETC_20150317_001496	Dieser Raum existiert nicht mehr. {nl}Bitte aktuallisiere deine Raumliste.
 ETC_20150317_001497	You cannot enter the room as there is no empty slot.
 ETC_20150317_001498	You cannot move as there is no empty slot in the alliance.
 ETC_20150317_001499	You cannot close any more slots of the alliance.
@@ -1993,7 +1993,7 @@ ETC_20150317_001992	All
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
 ETC_20150317_001995	Quest List
-ETC_20150317_001996	Adventure Journal Updated
+ETC_20150317_001996	Abenteuer-Handbuch aktualisiert
 ETC_20150317_001997	{#000000} item is not recorded in the journal.
 ETC_20150317_001998	This monster was not recorded in the journal.
 ETC_20150317_001999	Lance Mastery
@@ -2485,7 +2485,7 @@ ETC_20150317_002484	{memo X}Whereabouts of last key
 ETC_20150317_002485	Whereabouts of Naktis
 ETC_20150317_002486	$The orbs and keys
 ETC_20150317_002487	{memo X}Absorbed the weak Stone Frost.
-ETC_20150317_002488	Collecting
+ETC_20150317_002488	Sammeln
 ETC_20150317_002489	{memo X}Collected petrified flower!
 ETC_20150317_002490	{memo X}Covering
 ETC_20150317_002491	{memo X}Covered with fragrant stone powder!
@@ -3852,8 +3852,8 @@ ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	 - Repeatable ({Auto_1}/{Auto_2})
-ETC_20150317_003856	 - Repeatable ({Auto_1}/infinite)
+ETC_20150317_003855	 - {memo Repeatable} ({Auto_1}/{Auto_2})
+ETC_20150317_003856	 - {memo Repeatable} ({Auto_1}/infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -4305,13 +4305,13 @@ ETC_20150317_004304	{Auto_1} (Not installed)
 ETC_20150317_004305	{memo X}{s16}{ol}{#ffcc33}{Auto_1} Explore Rate {nl}{Auto_2} %% / {Auto_3} %%
 ETC_20150317_004306	{memo X}{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Navigation Rate
 ETC_20150317_004307	{Cl}{s16}{ol}{#ffcc33}{Auto_1}{Auto_2} complete
-ETC_20150317_004308	{b} Reward(s)
+ETC_20150317_004308	{b} Belohnung(en)
 ETC_20150317_004309	EXP:
-ETC_20150317_004310	Please select your reward.
+ETC_20150317_004310	Bitte wähle deine Belohnung.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
-ETC_20150317_004312	{@st41} repeat quests finalized {/}
+ETC_20150317_004312	{@st41} Wiederhohlbare Quest beendet {/}
 ETC_20150317_004313	{@st41} Waehle eine Belohnung
-ETC_20150317_004314	{@st41} Reward(s) {/}
+ETC_20150317_004314	{@st41} Belohnung(en) {/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
 ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(iCoins {Auto_1} consumption)
@@ -7500,7 +7500,7 @@ ETC_20150317_007500	{memo X}Information for the barrier (3)
 ETC_20150317_007501	$Siauliai Miners' Village (1)
 ETC_20150317_007502	$Collect the Relief Supplies
 ETC_20150317_007503	$Mine Manager's Misunderstanding (1)
-ETC_20150317_007504	$Gather stones for reinforcement
+ETC_20150317_007504	Sammle Steine für die Wiederherstellung
 ETC_20150317_007505	$Mine Manager's Misunderstanding (2)
 ETC_20150317_007506	$Take the refugee couple to the Healer Lady
 ETC_20150317_007507	$Rescue the Kidnapped Villagers (1)
