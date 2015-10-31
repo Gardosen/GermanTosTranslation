@@ -33,7 +33,7 @@ QUEST_20150317_000033	{memo X}That's no good! {nl}I can't work for nothing, even
 QUEST_20150317_000034	Wandering Merchant
 QUEST_20150317_000035	Like a dandelion's seeds, I am merely one who follows the wind. {nl}Since we've met in such a curious way, perhaps you could spare a moment to view my curiosities?
 QUEST_20150317_000036	Kristina
-QUEST_20150317_000037	Willkommen! {nl}Du suchst nach einem Begleiter fuer deine Abenteuer, richtig? {nl}Dann wirst du keinen besseren Platz finden als diesen hier um einen Begleiter zu finden!
+QUEST_20150317_000037	Willkommen! {nl}Du suchst nach einem Begleiter für deine Abenteuer, richtig? {nl}Dann wirst du keinen besseren Platz finden als diesen hier um einen Begleiter zu finden!
 QUEST_20150317_000038	{memo X}You can make your companions watch you fight or train special attributes. {nl}Earn enough affection, and you can even buy some cool equipment!
 QUEST_20150317_000039	{memo X}Raising your companion's affection will increase riding stamina and evasion! {nl}So what do you think? Is that enough to make you consider one?
 QUEST_20150317_000040	{memo X}The box requires a matching key.
@@ -557,9 +557,9 @@ QUEST_20150317_000557	Crystal Mine 2F is closed until further notice due to safe
 QUEST_20150317_000558	Business Guide
 QUEST_20150317_000559	Welcome! This is the Mine Worker's Resting Place. {nl}Warm potatoes and drinks have been prepared for you. {nl}{nl}Business hours: same as mining time - may change seasonally.
 QUEST_20150317_000560	Notice
-QUEST_20150317_000561	This is the Crystal Mine. {nl}Violators of the rules below will be punished and forced to leave.
-QUEST_20150317_000562	1. Always wear a helmet and protective gear. {nl}2. Do not enter restricted areas. {nl}3. Never carry flammable objects. {nl}4. If you see any monsters, do not fight them and file a report immediately.
-QUEST_20150317_000563	Also, we are hiring young men and families who wish to migrate. {nl} - Safe workplace, healthy happiness! Crystal Mine Youth Association
+QUEST_20150317_000561	Das ist die Crystal Mine. {nl}Personen die die folgenden Regeln brechen, werden bestraft und müssen das Gelände verlassen.
+QUEST_20150317_000562	1. Trage immer einen Helm und Schutzkleidung. {nl}2. Betrete keine gesperrten Zonen. {nl}3. Keine entflammbaren Objekte mitnehmen. {nl}4. Wenn du ein Monster siehst, fange keinen Kampf an, sondern fülle ein Meldeformular aus.
+QUEST_20150317_000563	Übrigens suchen wir ja jungen Männern und Familien die in die Stadt ziehen wollen. {nl} - Sichere Arbeitsplätze, und eine freundliche Umgebung warten auf euch!{nl} Crystal Mine Jugendgruppe 
 QUEST_20150317_000564	Compass
 QUEST_20150317_000565	Select Information
 QUEST_20150317_000566	Warning
@@ -1276,7 +1276,7 @@ QUEST_20150317_001277	Bothersome Disappearance
 QUEST_20150317_001278	New Researcher's Favor
 QUEST_20150317_001279	Jonas' Drug
 QUEST_20150317_001280	Repariere den zentralen Filter 
-QUEST_20150317_001281	$Activate the Passage Purifier
+QUEST_20150317_001281	Aktiviere den Filter im Gang
 QUEST_20150317_001282	$Circulation Purifier Issues
 QUEST_20150317_001283	$Inoperable Auxiliary Purifier
 QUEST_20150317_001284	$Destroyer of the Main Purifier

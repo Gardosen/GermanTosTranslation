@@ -393,7 +393,7 @@ QUEST_LV_0100_20150317_000392	There seems to be a gap in the rock where you can 
 QUEST_LV_0100_20150317_000393	Let's search Bulvjes Farm first.{nl}But don't chase them or something as it can be dangerous.
 QUEST_LV_0100_20150317_000394	It makes me wonder if you're an envoy of the Goddess.{nl}Anyway, the supply camp is located further below the farm.
 QUEST_LV_0100_20150317_000395	{memo X}
-QUEST_LV_0100_20150317_000396	The Crystal Mine has become infested with Vubbes, so be sure to stay together in groups of five.
+QUEST_LV_0100_20150317_000396	Die Crystal Mine wurde von Vubbes belagert, geht immer in fünfer Gruppen in die Mine.
 QUEST_LV_0100_20150317_000397	Equipment Merchant
 QUEST_LV_0100_20150317_000398	Even at times like this, I struggle to find the best items I can. You can't go easy in terms of dealing with your customers.
 QUEST_LV_0100_20150317_000399	Monsters attack and steal from people who buy items from me. I think they know I can tell which items are good.{nl}I feel sorry for those who were attacked but it also proves that the items are worth it.
@@ -1532,9 +1532,9 @@ QUEST_LV_0100_20150317_001531	$The criminals who fabricate counterfeits of the R
 QUEST_LV_0100_20150317_001532	$There are many monsters here, though it appears there are stone statues moving near the Royal Mausoleum.{nl}Perhaps they attack when the king gets disturbed in his sleep?
 QUEST_LV_0100_20150317_001533	{memo X}$What do we do? {nl} To add to all the chaos in the village, the Vubbes have kidnapped the villagers.
 QUEST_LV_0100_20150317_001534	$Hunter
-QUEST_LV_0100_20150317_001535	$Oh, you're just in time. We need your help. {nl} Monsters stole all the aids and supplies meant for the refugees. {nl}
+QUEST_LV_0100_20150317_001535	Oh genau zur richtigen Zeit. Wir brauchen deine Hilfe. {nl} Monster haben all die Medikamente und Vorräte für die Flüchtlinge gestohlen. {nl}
 QUEST_LV_0100_20150317_001536	$Fortunately, we found them quickly.
-QUEST_LV_0100_20150317_001537	$I'll stay and aid the people left here. {nl}There are more people who need more than my aid, so please go on ahead.
+QUEST_LV_0100_20150317_001537	Ich bleibe und versorge die Leute hier. {nl}Es gibt da draußen noch viele Menschen die deine Hilfe brauchen, geh und finde sie.
 QUEST_LV_0100_20150317_001538	Ich stütze diese Wand weil es so aussieht als wenn sie jeden Moment einstürzen wird. {nl}Wir brauchen ein paar Steine um das zu verhindern.
 QUEST_LV_0100_20150317_001539	$We won't be able to handle it if this wall opens. {nl}How will you stop them then if people are already running away now?
 QUEST_LV_0100_20150317_001540	Okay. Das sollten genug sein.
@@ -1554,14 +1554,14 @@ QUEST_LV_0100_20150317_001553	{memo X}$I was taken in late so I was left here, t
 QUEST_LV_0100_20150317_001554	Du bist gekommen. {nl} Lass uns als erstes die Wagons die den Weg blockieren wegräumen. {nl}
 QUEST_LV_0100_20150317_001555	Die Wagons können mit Sprengstoff, den ich vorbereitet habe, aus dem Weg geräumt{nl} werden. Ich mache mir sorgen das die Vubbes von der Explosion angelockt werden.{nl}Aber ich denke mit dir an unserer Seite, sind wir sicher.
 QUEST_LV_0100_20150317_001556	Ich ueberlasse dir die Vubbe's. {nl} Ich muss mich noch um andere Geschäfte kuemmern. {nl}
-QUEST_LV_0100_20150317_001557	$Thank you. Thank you very much. {nl} You're a savior of our town. {nl}
-QUEST_LV_0100_20150317_001558	$Oh, have you seen a girl about 5 years of age? {nl} I heard she was together with them when the villagers were kidnapped.
-QUEST_LV_0100_20150317_001559	$Don't just stand there. {nl} Move if you want to help or go away.
+QUEST_LV_0100_20150317_001557	Danke. Vielen Dank. {nl} Du bist der Retter unserer Stadt. {nl}
+QUEST_LV_0100_20150317_001558	Oh, hast du ein kleines Mädchen gesehen? Sie ist 5 Jahre alt. {nl} Ich habe gehört das sie bei den Dorfbewohnern war die entführt wurden.
+QUEST_LV_0100_20150317_001559	Steh nicht einfach so rum. {nl} Beweg dich und Hilf oder hau ab.
 QUEST_LV_0100_20150317_001560	$Mine Manager
-QUEST_LV_0100_20150317_001561	$I'm hanging on somehow but I'm losing strength in my arms.
-QUEST_LV_0100_20150317_001562	$I should have been more careful. {nl} It's all my fault.
-QUEST_LV_0100_20150317_001563	$I have my roots deep in hunting. {nl} Don't worry about me. Go look after the others.
-QUEST_LV_0100_20150317_001564	Als ihr Buergermeister kann ich die Dorfbewohner nicht einfach im Stich lassen. {nl} Wie kann das der Göttin nur so gleichgueltig sein?
+QUEST_LV_0100_20150317_001561	Ich komm schon klar irgendwie, aber meine Arme sind nicht mehr so stark wie früher.
+QUEST_LV_0100_20150317_001562	Ich hätte vorsichtiger sein sollen. {nl} Es ist alles meine Schuld.
+QUEST_LV_0100_20150317_001563	Ich lebe für das Jagen. {nl} Sorge dich nicht um mich. Geh und schau nach den Anderen.
+QUEST_LV_0100_20150317_001564	Als ihr Bürgermeister kann ich die Dorfbewohner nicht einfach im Stich lassen. {nl} Wie kann das der Göttin nur so gleichgültig sein?
 QUEST_LV_0100_20150317_001565	{memo X}$Aren't you a Revelator? The Goddess must've sent help. {nl} In order to enter the mine, you must save a young man name Vaidotas first. {nl}He was kidnapped and brought to the Vubbe Outpost. {nl} Please, I'm begging for your help.
 QUEST_LV_0100_20150317_001566	Kind Owl Sculptor
 QUEST_LV_0100_20150317_001567	There are so many wandering spirits these days.{nl}This really..
@@ -2244,7 +2244,7 @@ QUEST_LV_0100_20150317_002243	{memo X}Hey, are you going to take on those Vubbes
 QUEST_LV_0100_20150317_002244	{memo X}Get me a few materials and I'll help you craft some new armors. {nl} The materials needed can be obtained from Large Red Kepa, Yukofus, and Vubbe Thief.
 QUEST_LV_0100_20150317_002245	{memo X}Large Red Kepa, Red Kepa, Yukopus, and Vubbe Thief. {nl} Not sure if it's a good thing but you can craft some pretty useful stuff with what the monsters drop.
 QUEST_LV_0100_20150317_002246	{memo X}I'll give you the recipe so try crafting the armor with the materials I gave you. {nl} You will feel more reassured. Well then, may the Bless of Goddess be with you!
-QUEST_LV_0100_20150317_002247	I am looking for medicines to cure wounded ones.
+QUEST_LV_0100_20150317_002247	Ich suche nach Medizin um die Verwundeten zu heilen.
 QUEST_LV_0100_20150317_002248	{memo X}Oh you brought it. {nl} This is the front plate. {nl} Keep it until we have all the parts ready to craft an armor.
 QUEST_LV_0100_20150317_002249	{memo X}Oh, here we are. Let's see. {nl} Seems like you brought enough of what we needed. {nl} You can make a Mantle with it. {nl} This reminds me of the good old days.
 QUEST_LV_0100_20150317_002250	{memo X}Ordinary Man
@@ -2661,7 +2661,7 @@ QUEST_LV_0100_20150317_002660	{memo X}Purifier working/HANDLING_LEFT/3/TRACK_BEF
 QUEST_LV_0100_20150317_002661	{memo X}Notice /!/Circulation purifier is still not working! Check the Purifier Pipe in 2nd District #5
 QUEST_LV_0100_20150317_002662	$Circulation Purifier Issues (2)
 QUEST_LV_0100_20150317_002663	{memo X}Notice/Defeat Carapace blocking the way to the purifier! #5
-QUEST_LV_0100_20150317_002664	$Circulation Purifier Issues (3)
+QUEST_LV_0100_20150317_002664	Filter Zirkulations Probleme (3)
 QUEST_LV_0100_20150317_002665	{memo X}Notice/You got rid of the Carapace. {nl} Check the Purifier Pipe in the 2nd District #5
 QUEST_LV_0100_20150317_002666	{memo X}Checking Purifier Pipe/GROPE/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002667	{memo X}Notice/Opened the purifier valve. {nl} Return to circulataion purifier and activate it again. #5
@@ -2678,7 +2678,7 @@ QUEST_LV_0100_20150317_002677	$Inoperable Auxiliary Purifier (3)
 QUEST_LV_0100_20150317_002678	{memo X}Notice/Mining compass is still pointing to District 4. {nl}Go around District 4 to find a way to remove the rust. #5
 QUEST_LV_0100_20150317_002679	{memo X}You are greased/SITREAD/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002680	{memo X}Notice/Spell supply device is fixed. {nl} Try running the secondary purifier. #5
-QUEST_LV_0100_20150317_002681	$Inoperable Auxiliary Purifier (4)
+QUEST_LV_0100_20150317_002681	Kaputter Hilfsreiniger (4)
 QUEST_LV_0100_20150317_002682	{memo X}Notice/secondary Purifier is working again. #5
 QUEST_LV_0100_20150317_002683	$Destroyer of the Main Purifier (1)
 QUEST_LV_0100_20150317_002684	{memo X}Notice/Some parts of the purifier seems to have disappeared. {nl} Find the parts using compass mine. #5
@@ -2689,7 +2689,7 @@ QUEST_LV_0100_20150317_002688	{memo X}Notice/One part is missing.{nl}Go to 6th z
 QUEST_LV_0100_20150317_002689	{memo X}Notice/Defeat the Stone Whale that interferes with the search for parts!
 QUEST_LV_0100_20150317_002690	{memo X}Part of the recovery/SITGROPE/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002691	{memo X}Notice /!/Retrieved parts of the purifier! {nl}Fix the Main Purifier and activate it. #5
-QUEST_LV_0100_20150317_002692	$Destroyer of the Main Purifier (3)
+QUEST_LV_0100_20150317_002692	Der zerstörte Hauptfilter (3)
 QUEST_LV_0100_20150317_002693	{memo X}Notice/Successfuly repaired the Main Purifier! {nl} Main Purifier is now working.
 QUEST_LV_0100_20150317_002694	Seal of the Royal Family (1)
 QUEST_LV_0100_20150317_002695	{memo X}
@@ -2750,8 +2750,8 @@ QUEST_LV_0100_20150317_002749	I will unleash the seal of the divine place
 QUEST_LV_0100_20150317_002750	About King Zachariel's Seal
 QUEST_LV_0100_20150317_002751	{memo X}Unleashing the seal../MAKING/4/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002752	Miners' Village Erkunden(1)
-QUEST_LV_0100_20150317_002753	Retrieve the relief supplies
-QUEST_LV_0100_20150317_002754	I'll help retrieve the relief supplies
+QUEST_LV_0100_20150317_002753	Beschaffe die Vorräte wieder
+QUEST_LV_0100_20150317_002754	Ich helfe dir die Hilfsgüter zu finden
 QUEST_LV_0100_20150317_002755	Mine Manager Brinker's Hingabe (1)
 QUEST_LV_0100_20150317_002756	Ich werde ein paar Steine für dich sammeln
 QUEST_LV_0100_20150317_002757	Du solltest besser schnell wegrennen
@@ -4323,25 +4323,25 @@ QUEST_LV_0100_20150317_004322	$Defeat Cyclops
 QUEST_LV_0100_20150317_004323	$Inspect the Passage Purifier on 1F
 QUEST_LV_0100_20150317_004324	$There is a problem with the purifier on the path to Crystal Mine 2F. Go and inspect it.
 QUEST_LV_0100_20150317_004325	$Use the Mine Compass to find the parts needed to repair the purifier.
-QUEST_LV_0100_20150317_004326	$Search District 6 for Purifier Parts
-QUEST_LV_0100_20150317_004327	$The Mine Compass is pointing towards District 6. Follow it and find parts to repair the purifier.
+QUEST_LV_0100_20150317_004326	Durchsuche Bezirk 6 nach dem Ersatzteil
+QUEST_LV_0100_20150317_004327	Der Kompass zeig auf Bezirk 6. Folge ihm und finde die Ersatzteile, um den Filter zu reparieren.
 QUEST_LV_0100_20150317_004328	 Retrieve %s from Specter Monarch
-QUEST_LV_0100_20150317_004329	$Repair the Passage Purifier on 1F
+QUEST_LV_0100_20150317_004329	Repariere den Filter im Gang auf F1
 QUEST_LV_0100_20150317_004330	$Found the parts needed to repair the Passage Purifier. Try to assemble and activate it.
 QUEST_LV_0100_20150317_004331	$Inspect the Circulation Purifier
 QUEST_LV_0100_20150317_004332	$The Circulation Purifier on the 2nd Floor is not working. Figure out what the problem is.
-QUEST_LV_0100_20150317_004333	$Repair the Purifier Pipe
+QUEST_LV_0100_20150317_004333	Repariere die Filterleitung
 QUEST_LV_0100_20150317_004334	$The Circulation Purifier is unable to absorb the toxic fumes. Check the purifier in District 3 and fix it.
-QUEST_LV_0100_20150317_004335	$Inspect the Circulation Purifier
+QUEST_LV_0100_20150317_004335	Inspiziere den Zirkulationsfilter
 QUEST_LV_0100_20150317_004336	$The Purifier in District 3 seems to be working properly now. Try activating the Circulation Purifier again.
-QUEST_LV_0100_20150317_004337	$Inspect the Purifier Pipe in District 2
+QUEST_LV_0100_20150317_004337	Inspiziere die Filterleitung im 2. Bezirk
 QUEST_LV_0100_20150317_004338	$Check if the Purifier Pipe in District 2 is functioning properly.
 QUEST_LV_0100_20150317_004339	$Defeat Carapace
-QUEST_LV_0100_20150317_004340	$Activate the Circulation Purifier
+QUEST_LV_0100_20150317_004340	Aktiviere den Zirkulationsfilter
 QUEST_LV_0100_20150317_004341	$All Purifier Pipes seems to be working properly. Activate the Circulation Purifier.
 QUEST_LV_0100_20150317_004342	$Inspect the Auxiliary Purifier on 2F
 QUEST_LV_0100_20150317_004343	$The Auxiliary Purifier on the 2nd Floor is halted. Find out why it is halted.
-QUEST_LV_0100_20150317_004344	$Use the Mine Compass
+QUEST_LV_0100_20150317_004344	Benutzte den Minenkompass
 QUEST_LV_0100_20150317_004345	$Use the Mine Compass to check what you need to fix the Auxiliary Purifier.
 QUEST_LV_0100_20150317_004346	$Inspect the Magic Supply Device
 QUEST_LV_0100_20150317_004347	$The Mine Compass is pointing towards the Magic Supply Device in District 4. Check what the problem is. 
@@ -4475,7 +4475,7 @@ QUEST_LV_0100_20150317_004474	{memo X}
 QUEST_LV_0100_20150317_004475	{memo X}
 QUEST_LV_0100_20150317_004476	$Go to the Miners' Village Mayor and find out about the village's situation.
 QUEST_LV_0100_20150317_004477	{memo X}
-QUEST_LV_0100_20150317_004478	$Talk to the Hunter
+QUEST_LV_0100_20150317_004478	Sprich mit dem Hunter
 QUEST_LV_0100_20150317_004479	{memo X}You need to go to the Crystal Mine as told by the Goddess in the Bishop's dream but you can't just leave the refugees. Help the angry hunter.
 QUEST_LV_0100_20150317_004480	$The Hunter says that monsters stole all the relief supplies meant for the villagers. {nl}Try to pick up at least what's left on the road.
 QUEST_LV_0100_20150317_004481	$Gathered all the relief supplies. Talk to the Hunter. 
@@ -7169,7 +7169,7 @@ QUEST_LV_0100_20150714_007168	{memo X}Notice/!/You've found the parts!{nl}Return
 QUEST_LV_0100_20150714_007169	Filter wird repariert
 QUEST_LV_0100_20150714_007170	{memo X}Notice/You've repaired the purifier at the hall!{nl}The purifier is activating!#5
 QUEST_LV_0100_20150714_007171	{memo X}$Notice/It seems that there is a problem with the purifier pipe{nl}Check the pipes at in District 3#5
-QUEST_LV_0100_20150714_007172	$Checking the purifier pipes
+QUEST_LV_0100_20150714_007172	Prüfe die Filterleitungen
 QUEST_LV_0100_20150714_007173	{memo X}$Notice/!/You've opened the closed valve{nl}Now go back to the Circulating Purifier#5
 QUEST_LV_0100_20150714_007174	{memo X}$Notice/!/The Circulating Purifier is still not activated.{nl}Check the purifier pipe at District 2#5
 QUEST_LV_0100_20150714_007175	{memo X}$Notice/You've defeated Carapace{nl}Check the purifier pipes at the District 2#5
@@ -7180,7 +7180,7 @@ QUEST_LV_0100_20150714_007179	{memo X}$Notice/The mining compass is pointing tow
 QUEST_LV_0100_20150714_007180	{memo X}$Notice/The device is not working due to rust.{nl}Use the compass to find a way to remove the rust.#5
 QUEST_LV_0100_20150714_007181	{memo X}$Notice/Mining Compass is still pointing towards District 4.{nl}Check around District 4 and find a way to remove the rust.#5
 QUEST_LV_0100_20150714_007182	{memo X}$Notice/Magic supply device is fixed.{nl}Try running the Secondary purifier.#5
-QUEST_LV_0100_20150714_007183	$Activating the purifier
+QUEST_LV_0100_20150714_007183	Filter aktivieren
 QUEST_LV_0100_20150714_007184	{memo X}$Notice/Secondary Purifier is working again.#5
 QUEST_LV_0100_20150714_007185	{memo X}$Notice/Some parts of this purifier are also missing.{nl} Find the parts using Compass Mine.#5
 QUEST_LV_0100_20150714_007186	{memo X}$Notice/The compass is pointing towards District 6.{nl}Search for parts in District 6#5
@@ -7932,22 +7932,22 @@ QUEST_LV_0100_20150908_007930	You've repaired all purifiers!{nl}Meet Bidotas at 
 QUEST_LV_0100_20150908_007931	Öffne das Ventil
 QUEST_LV_0100_20150908_007932	It seems that some important device is broken{nl}Use the mine compass to look for anything that could be the subsitute for the broken device
 QUEST_LV_0100_20150908_007933	The mine compass is pointing at 4th district{nl}Go to 4th district and look for a spare part.
-QUEST_LV_0100_20150908_007934	Defeat Beakaras that appeared in front of the spare purifier!
-QUEST_LV_0100_20150908_007935	Changing the part
-QUEST_LV_0100_20150908_007936	Repaired the central purifier!{nl}The purifier is activating again!
-QUEST_LV_0100_20150908_007937	It seems that an important part is missing{nl}Use the mine compass to look for the part
-QUEST_LV_0100_20150908_007938	The compass is pointing at 6th district{nl}Look for the part at 6th district
-QUEST_LV_0100_20150908_007939	The mine compass is pointing at 6th district{nl}Go to 6th district and look for the part
-QUEST_LV_0100_20150908_007940	The compass is pointing at Specter Master!{nl}Defeat Specter Master and retrieve the part!
-QUEST_LV_0100_20150908_007941	You've found the part!{nl}Go back to the purifier at the hallway and repair it!
-QUEST_LV_0100_20150908_007942	Repaired the purifier at the hallway!{nl}The purifier is working again!
-QUEST_LV_0100_20150908_007943	It seems that there is a problem at the valve{nl}Check the valve at 3rd district
+QUEST_LV_0100_20150908_007934	Besiege Beakaras der vor dem Ersatzfilter erschienen ist!
+QUEST_LV_0100_20150908_007935	Wechsle Ersatzteil aus
+QUEST_LV_0100_20150908_007936	Zentralen Filter repariert!{nl}Der Filter ist wieder aktiv!
+QUEST_LV_0100_20150908_007937	Es sieht so aus als ob ein wichtiges Teil fehlt{nl}Benutzte den Kompass um das Teil zu finden
+QUEST_LV_0100_20150908_007938	Der Kompass zeigt auf Bezirk 6{nl}Suche nach dem fehlenden Teil im Bezirk 6
+QUEST_LV_0100_20150908_007939	Der Kompass zeigt auf Bezirk 6{nl}Suche nach dem fehlenden Teil im Bezirk 6
+QUEST_LV_0100_20150908_007940	Der Kompass zeigt auf den Specter Master!{nl}Besiege den Specter Master und erhalte das fehlende Ersatzteil!
+QUEST_LV_0100_20150908_007941	Du hast das Ersatzteil gefunden!{nl}Geh zurück zu dem Filter im Gang und repariere ihn!
+QUEST_LV_0100_20150908_007942	Filter am Gang wurde repariert!{nl}Der Filter funktioniert wieder!
+QUEST_LV_0100_20150908_007943	Es sieht so aus als gäbe es ein Problem mit dem Ventil{nl}Überprüfe das Ventil im dritten Bezirk
 QUEST_LV_0100_20150908_007944	You've opened the closed valve{nl}Go back to the circulation purifier
 QUEST_LV_0100_20150908_007945	Activating the purifier
-QUEST_LV_0100_20150908_007946	The purifier is still not working{nl}check the purifier at 2nd district
-QUEST_LV_0100_20150908_007947	Defeat the Carapace that is blocking the road to the valve!
-QUEST_LV_0100_20150908_007948	You've defeated Carapace that was interrupting you{nl}Check the purifier at 2nd district
-QUEST_LV_0100_20150908_007949	You've opened the valve of purifier{nl}Go back to the circulation purifier and activate it again
+QUEST_LV_0100_20150908_007946	Der Filter funktioniert immernoch nicht{nl}Prüfe den Filter im zweiten Bezirk
+QUEST_LV_0100_20150908_007947	Besiege das Carapace, dass den Weg zum Ventil blockiert!
+QUEST_LV_0100_20150908_007948	Du hast Carapace besiegt{nl}Prüfe nun die Filterleitung
+QUEST_LV_0100_20150908_007949	Du hast das Ventil des Filters geöffnet{nl}Geh zum Zirkulationsfilter zurück und aktiviere ihn
 QUEST_LV_0100_20150908_007950	The circulation purifier is working again!
 QUEST_LV_0100_20150908_007951	The power is not being supplied appropriately{nl}Use the mine compass
 QUEST_LV_0100_20150908_007952	The mine compass is pointing at 4th district{nl}Check the magic supplier at the 4th district

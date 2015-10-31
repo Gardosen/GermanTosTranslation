@@ -1728,7 +1728,7 @@ ETC_20150317_001727	{memo X}Ring
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
-ETC_20150317_001731	$Obtained
+ETC_20150317_001731	Erhalten
 ETC_20150317_001732	Drag and drop the card into the slot to equip it.
 ETC_20150317_001733	Repair Cost: {Price}{nl} Are you sure you want to repair?
 ETC_20150317_001734	Undecided
@@ -1757,7 +1757,7 @@ ETC_20150317_001756	$Place an item.
 ETC_20150317_001757	Gems
 ETC_20150317_001758	Socket
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
-ETC_20150317_001760	Please select an item to repair.
+ETC_20150317_001760	Bitte wähle ein.
 ETC_20150317_001761	There is no item to repair.
 ETC_20150317_001762	$Not possible on this item type.
 ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"} 
@@ -1993,7 +1993,7 @@ ETC_20150317_001992	All
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
 ETC_20150317_001995	Quest List
-ETC_20150317_001996	Abenteuer-Handbuch aktualisiert
+ETC_20150317_001996	Handbuch aktualisiert
 ETC_20150317_001997	{#000000} item is not recorded in the journal.
 ETC_20150317_001998	This monster was not recorded in the journal.
 ETC_20150317_001999	Lance Mastery
@@ -2437,7 +2437,7 @@ ETC_20150317_002436	{memo X}You will not be able to put the Holy relics at home.
 ETC_20150317_002437	Insert the Holy Relic of Mercy
 ETC_20150317_002438	Insert the Holy Relic of Salvation
 ETC_20150317_002439	{memo X}Already waiting for the soul of the bishop Aurelius.
-ETC_20150317_002440	Checking
+ETC_20150317_002440	Prüfen
 ETC_20150317_002441	You found the item underground
 ETC_20150317_002442	Nothing was found
 ETC_20150317_002443	Type
@@ -2692,7 +2692,7 @@ ETC_20150317_002691	{ItemName} was put up for auction in {MapName}.
 ETC_20150317_002692	{PC} has won {ItemName} from the auction.
 ETC_20150317_002693	You cannot bid higher than the buyout price.
 ETC_20150317_002694	Confirm purchase?
-ETC_20150317_002695	Do you want to adopt this companion?
+ETC_20150317_002695	Willst du diesen Begleiter adoptieren?
 ETC_20150317_002696	Seller
 ETC_20150317_002697	Sell Quantity
 ETC_20150317_002698	Unit Price
@@ -3346,7 +3346,7 @@ ETC_20150317_003345	And to do now!
 ETC_20150317_003346	Scary...
 ETC_20150317_003347	I want to run away but I can't...
 ETC_20150317_003348	Help me, you fools!
-ETC_20150317_003349	Retrieving
+ETC_20150317_003349	Einsammeln
 ETC_20150317_003350	Empty Owl image
 ETC_20150317_003351	You took to gather the people!
 ETC_20150317_003352	Found the Devil monsters! {nl} Tell the weak Owl Statue about it.
@@ -7498,7 +7498,7 @@ ETC_20150317_007498	Attach the Holy Bomb
 ETC_20150317_007499	Collect the mysterious stone
 ETC_20150317_007500	{memo X}Information for the barrier (3)
 ETC_20150317_007501	$Siauliai Miners' Village (1)
-ETC_20150317_007502	$Collect the Relief Supplies
+ETC_20150317_007502	Sammle die Hilfsgüter ein
 ETC_20150317_007503	$Mine Manager's Misunderstanding (1)
 ETC_20150317_007504	Sammle Steine für die Wiederherstellung
 ETC_20150317_007505	$Mine Manager's Misunderstanding (2)
