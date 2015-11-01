@@ -13687,9 +13687,9 @@ ETC_20150729_013689	Press {img ctrl 40 40} to lock a target.
 ETC_20150729_013690	Press {img Alt 40 40} to immediately stop movement of your character.
 ETC_20150729_013691	Press {img space 40 40} to face your target.
 ETC_20150729_013692	Benutze die Karte, um deinen akutellen Standort und andere wichtige Gebiete zu finden.
-ETC_20150729_013693	Drücke {img M 40 40} um deinen akutellen Stanort auf der Karte zu sehen.
+ETC_20150729_013693	Drücke {img M 30 30} um deinen akutellen Stanort auf der Karte zu sehen.
 ETC_20150729_013694	{nl} {nl}Die Karte zeigt Symbole, welche NPC und aktuellen Standort zeigen und weitere Informationen geben.{nl} {nl}{img minimap_leader 25 25} Zeigt deinen akutellen Standort an. {nl}{img minimap_1_MAIN 25 25} Zeigt ein noch aktuelles Quest an. {nl}{img minimap_0 25 25} Zeigt den Standot eines wichtigen NPC an. {nl}{img minimap_goddess 25 25} Zeigt eine Gottheit Statue zum warpen an. {nl}{img minimap_board 25 25} Zeigt das Bulletin Board, welches verschiedene Informationen beinhaltet. {nl}{img minimap_portal 25 25} Markiert einen Weg zu einen anderen Gebiet.{nl} {nl}
-ETC_20150729_013695	Drücke {img N 40 40} um die Weltkarte zu öffnen.
+ETC_20150729_013695	Drücke {img N 30 30} um die Weltkarte zu öffnen.
 ETC_20150729_013696	Nur erforschte Gebiete werden auf der Weltkarte angezeigt. Unerforschte Gebiete werden auf der Weltkarte nicht angezeigt.
 ETC_20150729_013697	Bewege deine Maus über das erforschte Gebiet {nl} und das Gebiet wird im Detail angezeigt.
 ETC_20150729_013698	Benutzte die Statuspunkte die du pro Klassen Levelaufstieg erhaelst, um deine Faehigkeiten zu verbessern.
