@@ -1474,26 +1474,26 @@ ETC_20150317_001473	{memo X}{S18}{ol}{#ffffcc}This name already exists. {nl} Ple
 ETC_20150317_001474	{memo X}{S18}{ol}{#ffffcc}You cannot create a character.
 ETC_20150317_001475	{memo X}{S18}{ol}{#ffffcc}You cannot delete this character.
 ETC_20150317_001476	Team does not exist
-ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}Dieser Charakter existiert nicht
+ETC_20150317_001477	{memo X}{S18}{ol}{#ffffcc}This character does not exist
 ETC_20150317_001478	Cannot start game
 ETC_20150317_001479	{memo X}{S18}{ol}{#ffffcc} Disconnected from the server due to verification failure
-ETC_20150317_001480	Du hast dein maximales Tragegewicht erreicht.{nl}Verkaufe oder Entferne Gegenstände aus deinem Inventar im Gewicht zu verlieren.
-ETC_20150317_001481	Du kannst keine Gegenstände mehr aufheben. Du hast die maximalle Anzahl an Gegenständen überschritten.
-ETC_20150317_001482	Dein Inventar ist voll
-ETC_20150317_001483	Dieser Server ist geschloßen
-ETC_20150317_001484	Dieser Gegenständ kann nicht ausgerüstet werden
-ETC_20150317_001485	[{Word}] darf nicht benutzt werden.
-ETC_20150317_001486	{S20}{ol}{#46c8ff} Du hast nicht genug SP
-ETC_20150317_001487	Server Version stimmt nicht
-ETC_20150317_001488	Du erfüllst nicht die Levelvoraussetzungen.{nl} Überprüfe das benötigte Level in der Itembeschreibung
-ETC_20150317_001489	Kann nicht von männlichen Charakteren angezogen werden. {nl}Prüfe das Geschlecht und das benötigte Level in der Itembeschreibung
-ETC_20150317_001490	Kann nicht von weiblichen Charakteren angezogen werden. {nl}Prüfe das Geschlecht und das benötigte Level in der Itembeschreibung
-ETC_20150317_001491	Der Charaktername muss mindestens %s Zeichen haben.
-ETC_20150317_001492	Der Charactername darf maximal %s Zeichen haben.
+ETC_20150317_001480	$You've exceeded your maximum carrying weight.{nl}Sell or discard items from your inventory to reduce weight. 
+ETC_20150317_001481	$You cannot obtain any more items. You have exceeded the maximum number of items allowed.
+ETC_20150317_001482	Your inventory is full
+ETC_20150317_001483	This server is closed
+ETC_20150317_001484	This item cannot be equipped
+ETC_20150317_001485	[{Word}] is not allowed for use.
+ETC_20150317_001486	{S20}{ol}{#46c8ff} You do not have enough SP
+ETC_20150317_001487	Server version does not match
+ETC_20150317_001488	You do not meet the level requirement.{nl} Check the required level in the item description
+ETC_20150317_001489	Cannot be equipped by male characters. {nl}Check the gender and level requirement in the item description
+ETC_20150317_001490	Cannot be equipped by female characters. {nl}Check the gender and level requirement in the item description
+ETC_20150317_001491	The character name must be at least %s characters.
+ETC_20150317_001492	The character name must be less than %s characters.
 ETC_20150317_001493	{memo X}{S18}{ol}{#ffffcc} Password is incorrect
 ETC_20150317_001494	You cannot join the game. Your level does not match the level requirements.
-ETC_20150317_001495	Dazu hast du keine Berechtigung
-ETC_20150317_001496	Dieser Raum existiert nicht mehr. {nl}Bitte aktuallisiere deine Raumliste.
+ETC_20150317_001495	You do not have permission
+ETC_20150317_001496	This room does not exist. {nl}Please refresh the Room List.
 ETC_20150317_001497	You cannot enter the room as there is no empty slot.
 ETC_20150317_001498	You cannot move as there is no empty slot in the alliance.
 ETC_20150317_001499	You cannot close any more slots of the alliance.
@@ -1628,7 +1628,7 @@ ETC_20150317_001627	Combination of possible equipment:
 ETC_20150317_001628	Return
 ETC_20150317_001629	{@st59} Lock slots{/}
 ETC_20150317_001630	{@st59} Open the slot {/}
-ETC_20150317_001631	{@st59} Zurück (Leertaste) {/}
+ETC_20150317_001631	{@st59} Return (Backspace) {/}
 ETC_20150317_001632	Are you sure you want to delete? {/}
 ETC_20150317_001633	Cannot be used while the character is dead.
 ETC_20150317_001634	{@st59} Move {/}
@@ -1728,7 +1728,7 @@ ETC_20150317_001727	{memo X}Ring
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
 ETC_20150317_001730	Combining items..
-ETC_20150317_001731	Erhalten
+ETC_20150317_001731	$Obtained
 ETC_20150317_001732	Drag and drop the card into the slot to equip it.
 ETC_20150317_001733	Repair Cost: {Price}{nl} Are you sure you want to repair?
 ETC_20150317_001734	Undecided
@@ -1757,7 +1757,7 @@ ETC_20150317_001756	$Place an item.
 ETC_20150317_001757	Gems
 ETC_20150317_001758	Socket
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
-ETC_20150317_001760	Bitte wähle ein.
+ETC_20150317_001760	Please select an item to repair.
 ETC_20150317_001761	There is no item to repair.
 ETC_20150317_001762	$Not possible on this item type.
 ETC_20150317_001763	{memo part of item requirement, sounds awkward, so removed for now. Originally " can equip"} 
@@ -1993,7 +1993,7 @@ ETC_20150317_001992	All
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
 ETC_20150317_001995	Quest List
-ETC_20150317_001996	Handbuch aktualisiert
+ETC_20150317_001996	Adventure Journal Updated
 ETC_20150317_001997	{#000000} item is not recorded in the journal.
 ETC_20150317_001998	This monster was not recorded in the journal.
 ETC_20150317_001999	Lance Mastery
@@ -2437,7 +2437,7 @@ ETC_20150317_002436	{memo X}You will not be able to put the Holy relics at home.
 ETC_20150317_002437	Insert the Holy Relic of Mercy
 ETC_20150317_002438	Insert the Holy Relic of Salvation
 ETC_20150317_002439	{memo X}Already waiting for the soul of the bishop Aurelius.
-ETC_20150317_002440	Prüfen
+ETC_20150317_002440	Checking
 ETC_20150317_002441	You found the item underground
 ETC_20150317_002442	Nothing was found
 ETC_20150317_002443	Type
@@ -2485,7 +2485,7 @@ ETC_20150317_002484	{memo X}Whereabouts of last key
 ETC_20150317_002485	Whereabouts of Naktis
 ETC_20150317_002486	$The orbs and keys
 ETC_20150317_002487	{memo X}Absorbed the weak Stone Frost.
-ETC_20150317_002488	Sammeln
+ETC_20150317_002488	Collecting
 ETC_20150317_002489	{memo X}Collected petrified flower!
 ETC_20150317_002490	{memo X}Covering
 ETC_20150317_002491	{memo X}Covered with fragrant stone powder!
@@ -2692,7 +2692,7 @@ ETC_20150317_002691	{ItemName} was put up for auction in {MapName}.
 ETC_20150317_002692	{PC} has won {ItemName} from the auction.
 ETC_20150317_002693	You cannot bid higher than the buyout price.
 ETC_20150317_002694	Confirm purchase?
-ETC_20150317_002695	Willst du diesen Begleiter adoptieren?
+ETC_20150317_002695	Do you want to adopt this companion?
 ETC_20150317_002696	Seller
 ETC_20150317_002697	Sell Quantity
 ETC_20150317_002698	Unit Price
@@ -2820,9 +2820,9 @@ ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
 ETC_20150317_002820	Bereich: 
 ETC_20150317_002821	${@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
-ETC_20150317_002823	{@st64} Approach the NPC and use 
-ETC_20150317_002824	Space Bar
-ETC_20150317_002825	 to start a conversation
+ETC_20150317_002823	{@st64} Nähere dich den NPC und drücke die  
+ETC_20150317_002824	Leertaste
+ETC_20150317_002825	  um eine Unterhaltung zu starten!
 ETC_20150317_002826	Give up quest
 ETC_20150317_002827	Abandon
 ETC_20150317_002828	Warp to Completion Point
@@ -3346,7 +3346,7 @@ ETC_20150317_003345	And to do now!
 ETC_20150317_003346	Scary...
 ETC_20150317_003347	I want to run away but I can't...
 ETC_20150317_003348	Help me, you fools!
-ETC_20150317_003349	Einsammeln
+ETC_20150317_003349	Retrieving
 ETC_20150317_003350	Empty Owl image
 ETC_20150317_003351	You took to gather the people!
 ETC_20150317_003352	Found the Devil monsters! {nl} Tell the weak Owl Statue about it.
@@ -3811,7 +3811,7 @@ ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
 ETC_20150317_003812	$ activated {nl}
 ETC_20150317_003813	 Use this to warp anywhere!
-ETC_20150317_003814	Du hast noch keine andere Statue aktiviert, du kannst dich nicht teleportieren.
+ETC_20150317_003814	{memo Check if this appears in any other scenario. Don't put a $ here, changes linebreak.}You have not activated any other Goddess Statue, so you cant teleport yet.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
 ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
@@ -3852,8 +3852,8 @@ ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	 - {memo Repeatable} ({Auto_1}/{Auto_2})
-ETC_20150317_003856	 - {memo Repeatable} ({Auto_1}/infinite)
+ETC_20150317_003855	 - Repeatable ({Auto_1}/{Auto_2})
+ETC_20150317_003856	 - Repeatable ({Auto_1}/infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -4110,7 +4110,7 @@ ETC_20150317_004109	{@st59} Click to preview
 ETC_20150317_004110	{@st41b} Using
 ETC_20150317_004111	Placement
 ETC_20150317_004112	Arrangement ({Auto_1})
-ETC_20150317_004113	{/}{nl}{s22} Do you want to delete this character?
+ETC_20150317_004113	{/}{nl}{s22} Möchtest du diesen Charakter {nl} wirklich löschen?
 ETC_20150317_004114	{nl} {nl}{s22} Do you want to delete all your characters?
 ETC_20150317_004115	Enter your account ID
 ETC_20150317_004116	You cannot set the default value of the slide
@@ -4267,11 +4267,11 @@ ETC_20150317_004266	Moni
 ETC_20150317_004267	 key has been assigned to 
 ETC_20150317_004268	 to your Quick Slot.
 ETC_20150317_004269	Space bar \
-ETC_20150317_004270	{@st41} Taste um Unterhaltung zu starten {/}
-ETC_20150317_004271	{@st41} Laufen {/}
-ETC_20150317_004272	{@st41} Angreifen{/}
+ETC_20150317_004270	{@st41} Taste um eine Unterhaltung zu starten {/}
+ETC_20150317_004271	{@st41} Bewegung {/}
+ETC_20150317_004272	{@st41} Angriff{/}
 ETC_20150317_004273	{@st41} Springen {/}
-ETC_20150317_004274	{@st41} Diagonal Laufen {/}
+ETC_20150317_004274	{@st41} Diagonale Bewegung {/}
 ETC_20150317_004275	{@st41} = diagonal {/}
 ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
@@ -4305,13 +4305,13 @@ ETC_20150317_004304	{Auto_1} (Not installed)
 ETC_20150317_004305	{memo X}{s16}{ol}{#ffcc33}{Auto_1} Explore Rate {nl}{Auto_2} %% / {Auto_3} %%
 ETC_20150317_004306	{memo X}{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Navigation Rate
 ETC_20150317_004307	{Cl}{s16}{ol}{#ffcc33}{Auto_1}{Auto_2} complete
-ETC_20150317_004308	{b} Belohnung(en)
+ETC_20150317_004308	{b} Reward(s)
 ETC_20150317_004309	EXP:
-ETC_20150317_004310	Bitte wähle deine Belohnung.
+ETC_20150317_004310	Please select your reward.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
-ETC_20150317_004312	{@st41} Wiederhohlbare Quest beendet {/}
+ETC_20150317_004312	{@st41} repeat quests finalized {/}
 ETC_20150317_004313	{@st41} Waehle eine Belohnung
-ETC_20150317_004314	{@st41} Belohnung(en) {/}
+ETC_20150317_004314	{@st41} Reward(s) {/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
 ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(iCoins {Auto_1} consumption)
@@ -4742,7 +4742,7 @@ ETC_20150317_004741	No data
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
 ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
-ETC_20150317_004745	{@st43} Lerne die Grundsteuerung des Spiels!
+ETC_20150317_004745	{@st43} Lerne die Grundlagen für das Spiel!
 ETC_20150317_004746	(In the block)
 ETC_20150317_004747	Select your {@st41b} reward: {/}
 ETC_20150317_004748	No items
@@ -4761,7 +4761,7 @@ ETC_20150317_004760	 (using)
 ETC_20150317_004761	Ice
 ETC_20150317_004762	{@st41} icon
 ETC_20150317_004763	{@st41}List
-ETC_20150317_004764	{@st54}{b} Wähle eine Belohnung{/}
+ETC_20150317_004764	{@st54}{b} Select Reward{/}
 ETC_20150317_004765	{memo X}Nudoku I was mounting the Son Bol pocket in Kochi.
 ETC_20150317_004766	Nudoku is available in Kochi!
 ETC_20150317_004767	Can be used in the tree Ferri!
@@ -4882,7 +4882,7 @@ ETC_20150317_004881	Default session:
 ETC_20150317_004882	Other sessions:
 ETC_20150317_004883	Session List by made NPC creation without basic session
 ETC_20150317_004884	Please check the details of quest by pressing the key{nl}{@st50}Detailed information can be found through the help
-ETC_20150317_004885	  erlaubt es dir dich zu dem Quest NPC zurück zu teleportieren.{nl}{@st50}Du kannst auch einfach folgendes Icon {img questinfo_return 30 30} drücken.{/}
+ETC_20150317_004885	  allows you to teleport back to the Quest NPC.{nl}{@st50}You may also click on the {img questinfo_return 40 40}  button.{/}
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The destroyer shaman doll has destroyed the Panto totem!
 ETC_20150317_004888	{memo X}The holy beads have been charged by attacking the Demon forces.
@@ -5023,9 +5023,9 @@ ETC_20150317_005022	{memo X}The Mausoleum lanterns are being attacked by the gua
 ETC_20150317_005023	{memo X}Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	$Crafting
-ETC_20150317_005026	Ein Erlöser?
+ETC_20150317_005026	$A Revelator?
 ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	Frage nach Medis Diena
+ETC_20150317_005028	$Ask about Medis Diena
 ETC_20150317_005029	Ask about the disappearance of the Goddess
 ETC_20150317_005030	Ask what happened
 ETC_20150317_005031	I think you forgot to mention the Goddess Laima
@@ -5359,18 +5359,18 @@ ETC_20150317_005358	What's this screaming sound?
 ETC_20150317_005359	Prepare for battle!
 ETC_20150317_005360	It's a surprise attack!!
 ETC_20150317_005361	Refugee
-ETC_20150317_005362	Es... Es bewegt sich!!
-ETC_20150317_005363	Das... Das ist ein Golem!!!
-ETC_20150317_005364	Wieso gibt es noch Golems hier?
-ETC_20150317_005365	Hey!!! Das ist zu Gefährlich!! Rennt!!
-ETC_20150317_005366	Ist es tot?
+ETC_20150317_005362	It's... It's moving!!
+ETC_20150317_005363	It's..It's a golem!!!
+ETC_20150317_005364	Why are there golem remains here?
+ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
+ETC_20150317_005366	Is it dead?
 ETC_20150317_005367	Huh..!!
-ETC_20150317_005368	Besiege das Large Kepa!
-ETC_20150317_005369	Es ist ein Large Kepa!
+ETC_20150317_005368	Defeat the Large Kepa!
+ETC_20150317_005369	It's a Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	2nd Mine Lot Closed
 ETC_20150317_005372	Evacuate the residents!
-ETC_20150317_005373	Stoppt die Person!!
+ETC_20150317_005373	Haltet diese Person auf!
 ETC_20150317_005374	Eastern Woods Soldier
 ETC_20150317_005375	Come on let's go! Honey! Dad!
 ETC_20150317_005376	That's really good news. Let's go!
@@ -5933,7 +5933,7 @@ ETC_20150317_005932	{memo X}the quest immediately by using the Restart button. {
 ETC_20150317_005933	{memo X}You can manage the skills of your character through the skill window.
 ETC_20150317_005934	{memo X}You can open the Skill window by pressing {img F3 40 40}.
 ETC_20150317_005935	{memo X}Click the {img skillup 40 40} button to raise the level of a skill.
-ETC_20150317_005936	Drücke Bestätigen um die Fähigkeit zu verbessern
+ETC_20150317_005936	The skill level will increase after you click 'Apply'.
 ETC_20150317_005937	{memo X}Skills learned are added to the keyboard slot.
 ETC_20150317_005938	{memo X}Learn attributes from Master NPCs to make your character stronger.
 ETC_20150317_005939	{memo X}You can learn the attributes from Master NPC of each class.
@@ -5978,7 +5978,7 @@ ETC_20150317_005977	{memo X}Spontaneous Recovery is slow compared to other recov
 ETC_20150317_005978	{memo X}[Potion Recovery]: Recover HP/SP/Stamina immediately using potions.
 ETC_20150317_005979	{memo X}Potions have a cooldown timer before they can be re-used.
 ETC_20150317_005980	{memo X}[Tree Root Crystal]: Destroy Tree Root Crystals to recover Stamina.
-ETC_20150317_005981	Tree Root Crystals erscheinen zufällig in der Welt.
+ETC_20150317_005981	{memo $}Tree Root Crystals randomly appear in the fields.
 ETC_20150317_005982	{memo X}[Rest Mode]: Using the bonfire during Rest Mode speeds up your recovery.
 ETC_20150317_005983	{memo X}Recovery during Rest Mode is faster than Spontaneous Recovery, and it is even faster if you use a bonfire during Rest Mode.
 ETC_20150317_005984	Overkill will be activated if you kill the monster with a strong finish.
@@ -6047,13 +6047,13 @@ ETC_20150317_006047	{memo X}is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the 
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	{memo X}can obtain character's Status Points
-ETC_20150317_006051	Schatztruhen
-ETC_20150317_006052	 beinhalten spezielle Gegenstände.
-ETC_20150317_006053	Auf vielen Karten koennen, 
-ETC_20150317_006054	 gefunden werden.
+ETC_20150317_006051	Treasure Chest
+ETC_20150317_006052	 contain special items that you can obtain.
+ETC_20150317_006053	Hidden in many fields, a 
+ETC_20150317_006054	 can be discovered by your character.
 ETC_20150317_006055	{memo X}There are many types of treasure chests that you can obtain special items from.
 ETC_20150317_006056	{memo X}You can receive the rewards by pressing {img SPACE 40 40} without any condition for a Lv1 treasure chest.
-ETC_20150317_006057	Schatztruhen Level2+ benötigen einen Schlüssel.
+ETC_20150317_006057	Keys are used to open level 2 chests and greater.
 ETC_20150317_006058	{memo X}You can obtain the keys through quest progress.
 ETC_20150317_006059	Item Enhancement
 ETC_20150317_006060	{memo X}You can enhance your equipment through the enhancement system.
@@ -6242,7 +6242,7 @@ ETC_20150317_006242	{S18} and {#001100} attacking you will be able to obtain a l
 ETC_20150317_006243	{memo X}{S18} {#001100} items when you attack the Treasure monster will drop !!! {/}
 ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the Space key in the vicinity of the red flag of NPC. {/}
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
-ETC_20150317_006246	Swordsmen sind Krieger mit starken physikalischen Faehigkeiten.{nl}Sie benutzen eine Vielzahl an Waffen um an vorderster{nl} Front den Gegner im Nahkampf zu bekaempfen.
+ETC_20150317_006246	Swordsmen sind Krieger mit starken physikalischen {nl} Fähigkeiten. Sie benutzen eine Vielzahl an Waffen um an {nl} vorderster Front den Gegner im Nahkampf zu bekämpfen.
 ETC_20150317_006247	Highlander
 ETC_20150317_006248	{memo X}Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
@@ -6260,7 +6260,7 @@ ETC_20150317_006260	Rodelero
 ETC_20150317_006261	Rodeleros ambush and disintegrate enemies. Their defensive skills using shields are effective for blocking long range attacks.
 ETC_20150317_006262	Squire
 ETC_20150317_006263	Shinobi
-ETC_20150317_006264	{memo $ shifts linebreak}Wizards benutzen Magie um Angriffen auszuweichen und sich selbs zu schuetzen. Sie koennen starke und gezielte {nl}Zauber benutzen, um Gegnern in einem Bereich Schaden zuzufuegen.
+ETC_20150317_006264	{memo $ shifts linebreak}Wizards benutzen Magie um Angriffen auszuweichen und {nl} sich selbst zu schützen. Sie können starke und gezielte {nl} Zauber benutzen, um Gegnern in einem {nl} Bereich Schaden zuzufügen.
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
 ETC_20150317_006267	Cryomancer
@@ -6281,7 +6281,7 @@ ETC_20150317_006281	{memo X}Elementalist
 ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist Priest
-ETC_20150317_006285	Archer benutzen viele verschiedene Boegen und anderes Zubehoer. Ihre Spezialitaeten sind Angriffe ueber lange {nl} Entfernung und beim Bewegen.
+ETC_20150317_006285	Archer benutzen viele verschiedene Bögen und anderes {nl} Zubehör. Ihre Spezialitäten sind Angriffe über lange {nl} Entfernung und beim Bewegen.
 ETC_20150317_006286	Hunter
 ETC_20150317_006287	Hunters are trainers who hunt enemies using companions. Companions use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
 ETC_20150317_006288	Quarrel Shooter
@@ -6299,7 +6299,7 @@ ETC_20150317_006299	Schwarzer Reiter
 ETC_20150317_006300	Fletcher
 ETC_20150317_006301	Pied Piper
 ETC_20150317_006302	Appraiser
-ETC_20150317_006303	$Clerics heal and protect allies through the blessings{nl}of the Goddess, while knocking down their enemies {nl}with powerful blows.
+ETC_20150317_006303	Clerics heilen und schützen Verbündete durch den Segen{nl}der Göttin, während sie auch Gegner {nl}mit starken Angriffen töten können.
 ETC_20150317_006304	Priest
 ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
 ETC_20150317_006306	Krivis
@@ -7498,9 +7498,9 @@ ETC_20150317_007498	Attach the Holy Bomb
 ETC_20150317_007499	Collect the mysterious stone
 ETC_20150317_007500	{memo X}Information for the barrier (3)
 ETC_20150317_007501	$Siauliai Miners' Village (1)
-ETC_20150317_007502	Sammle die Hilfsgüter ein
+ETC_20150317_007502	$Collect the Relief Supplies
 ETC_20150317_007503	$Mine Manager's Misunderstanding (1)
-ETC_20150317_007504	Sammle Steine für die Wiederherstellung
+ETC_20150317_007504	$Gather stones for reinforcement
 ETC_20150317_007505	$Mine Manager's Misunderstanding (2)
 ETC_20150317_007506	$Take the refugee couple to the Healer Lady
 ETC_20150317_007507	$Rescue the Kidnapped Villagers (1)
@@ -7572,7 +7572,7 @@ ETC_20150317_007572	Lydia Schaffen is leaving zeolite (1)
 ETC_20150317_007573	{memo X}Activated Guard Device
 ETC_20150317_007574	{memo X}Rexipher treatment
 ETC_20150317_007575	Chafer's Attack
-ETC_20150317_007576	 drücken um das Fähig-{nl}keitenfenster zu öffnen
+ETC_20150317_007576	 - Press this to open Skill window and learn skills
 ETC_20150317_007577	{memo X}Bait for Demons (1)
 ETC_20150317_007578	{memo X}Bait for Demons (2)
 ETC_20150317_007579	{memo X}Bait for Demons (3)
@@ -7780,17 +7780,17 @@ ETC_20150317_007780	Protect yourself from monsters is attacking
 ETC_20150317_007781	Defeat High Vubbe and get the wooden arrow
 ETC_20150317_007782	Throw the wooden arrow into the fire
 ETC_20150317_007783	Steel the booty of Siaulamb
-ETC_20150317_007784	 - drücken um Statuspunkte zu verteilen
-ETC_20150317_007785	Nach Klaipeda (5)
+ETC_20150317_007784	 - press this key to use a Status Point
+ETC_20150317_007785	To Klaipeda (5)
 ETC_20150317_007786	Recapture Eastern Woods (2)
 ETC_20150317_007787	Guard of Royal Path(2)
-ETC_20150317_007788	Der geheime Platz (2)
+ETC_20150317_007788	Secret Place (2)
 ETC_20150317_007789	{memo X}Help of the messenger Nian
 ETC_20150317_007790	{memo X}To Historian Cyrenia Odell
 ETC_20150317_007791	{memo X}Decoy Material
 ETC_20150317_007792	{memo X}Fleeing Odell (2)
 ETC_20150317_007793	{memo X}Forger Sweep (5)
-ETC_20150317_007794	Sammle Feuerholz
+ETC_20150317_007794	Collect firewood
 ETC_20150317_007795	Take out the counterfeit from a cast
 ETC_20150317_007796	{memo X}Foreknowledge (1)
 ETC_20150317_007797	Collect the Tree Sap
@@ -11310,8 +11310,8 @@ ETC_20150428_011311	Summon familiar spirits
 ETC_20150428_011312	Stick to target and explode when touched
 ETC_20150428_011313	Hide underground
 ETC_20150428_011314	{memo X}Glitter Buff
-ETC_20150428_011315	{s18}{#001100}Benutzte den Rückkehr Knopf um direkt zu einem NPC teleportiert zu werden wenn eine Quest abgeschloßen ist.{/}
-ETC_20150428_011316	{s18}{#001100}Regeneriere Stamina indem du diesen Tree Root Crystal zerstörst.{/}
+ETC_20150428_011315	{s18}{#001100}Use the Return button to teleport to an NPC when you complete a quest.{/}
+ETC_20150428_011316	{s18}{#001100}Recover Stamina by destroying this Tree Root Crystal.{/}
 ETC_20150428_011317	{s18}{#001100}You can acquire special items when defeating a Treasure Monster!{/}
 ETC_20150428_011318	First Room of Barrier
 ETC_20150428_011319	Second Room of Barrier
@@ -12390,7 +12390,7 @@ ETC_20150714_012391	Pulling the rope
 ETC_20150714_012392	Move to the front side of the box
 ETC_20150714_012393	You've burnt the funeral oration
 ETC_20150714_012394	Move
-ETC_20150714_012395	Don't move
+ETC_20150714_012395	Nicht bewegen!
 ETC_20150714_012396	Impure energy is about to pour over! Run away!
 ETC_20150714_012397	$You have defeated Gaigalas!{nl}Cut down Bramble's root
 ETC_20150714_012398	$You have defeated Molich!{nl}Cut down Bramble's root
@@ -13266,7 +13266,7 @@ ETC_20150717_013268	{memo X}button allows you to restart the quest immediately. 
 ETC_20150717_013269	{memo X}Track a quest by marking the checkbox.
 ETC_20150717_013270	{memo X}Manage skills with skill points gained on level up.
 ETC_20150717_013271	{memo X}Press {img F3 40 40} to open your Skill window.
-ETC_20150717_013272	Erlernte Fähigkeiten werden in deiner Schnellauswahl-Leiste platziert. {nl}Du kannst die Belegung jederzeit ändern.
+ETC_20150717_013272	Learned skills will appear in your Quick Slots where you can change the keys to your own choice.
 ETC_20150717_013273	{memo X}Learn attributes by visiting the Class Master NPC of a specific Class.
 ETC_20150717_013274	{memo X}Learning attributes will cost Silver and time. {nl} {nl}
 ETC_20150717_013275	{memo X}You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning. 
@@ -13313,11 +13313,11 @@ ETC_20150717_013315	{memo X}You can restore your HP/SP/Stamina.
 ETC_20150717_013316	{memo X}[Rest Mode] Press {img Insert 40 40} to Rest.
 ETC_20150717_013317	{memo X}While in Rest Mode, movement is limited but restoration speed increases. You can still do other activities.
 ETC_20150717_013318	{memo X}[Bonfire] Light a Bonfire during Rest Mode to increase your restoration speed further.
-ETC_20150717_013319	Benutzte {img key1 30 30}~{img key9 30 30} um den Platz des Lagerfeuers festzulegen. Du brauchst Feuerholz um ein Lagerfeuer zu machen. Dies kannst du bei einem NPC kaufen.
+ETC_20150717_013319	$Use {img key1 40 40}~{img key9 40 40} to pick the location of the Bonfire. You need Firewood to light a Bonfire, which can be bought from a merchant NPC.
 ETC_20150717_013320	{memo X}[Natural Recovery] :
-ETC_20150717_013321	 Status beeinflusst die 
-ETC_20150717_013322	HP Wiederherstellung
-ETC_20150717_013323	{memo freilassen}
+ETC_20150717_013321	 status influences 
+ETC_20150717_013322	HP Recovery Speed
+ETC_20150717_013323	, recovering HP in intervals.
 ETC_20150717_013324	{memo X}Restoring Naturally is very slow compared to other methods, but does not require any control or conditions.
 ETC_20150717_013325	{memo X}[Restore by Potion] Restore HP/SP/STA immediately using various potions.
 ETC_20150717_013326	{memo X}[Destroy Tree Root Crystal] Destroy the Tree Root Crystal to restore the Stamina of all nearby characters.
@@ -13687,18 +13687,18 @@ ETC_20150729_013689	Press {img ctrl 40 40} to lock a target.
 ETC_20150729_013690	Press {img Alt 40 40} to immediately stop movement of your character.
 ETC_20150729_013691	Press {img space 40 40} to face your target.
 ETC_20150729_013692	Benutze die Karte, um deinen akutellen Standort und andere wichtige Gebiete zu finden.
-ETC_20150729_013693	Drücke {img M 30 30} um deinen akutellen Stanort auf der Karte zu sehen.
+ETC_20150729_013693	Drücke {img M 40 40} um deinen akutellen Stanort auf der Karte zu sehen.
 ETC_20150729_013694	{nl} {nl}Die Karte zeigt Symbole, welche NPC und aktuellen Standort zeigen und weitere Informationen geben.{nl} {nl}{img minimap_leader 25 25} Zeigt deinen akutellen Standort an. {nl}{img minimap_1_MAIN 25 25} Zeigt ein noch aktuelles Quest an. {nl}{img minimap_0 25 25} Zeigt den Standot eines wichtigen NPC an. {nl}{img minimap_goddess 25 25} Zeigt eine Gottheit Statue zum warpen an. {nl}{img minimap_board 25 25} Zeigt das Bulletin Board, welches verschiedene Informationen beinhaltet. {nl}{img minimap_portal 25 25} Markiert einen Weg zu einen anderen Gebiet.{nl} {nl}
-ETC_20150729_013695	Drücke {img N 30 30} um die Weltkarte zu öffnen.
+ETC_20150729_013695	Drücke {img N 40 40} um die Weltkarte zu öffnen.
 ETC_20150729_013696	Nur erforschte Gebiete werden auf der Weltkarte angezeigt. Unerforschte Gebiete werden auf der Weltkarte nicht angezeigt.
 ETC_20150729_013697	Bewege deine Maus über das erforschte Gebiet {nl} und das Gebiet wird im Detail angezeigt.
 ETC_20150729_013698	Benutzte die Statuspunkte die du pro Klassen Levelaufstieg erhaelst, um deine Faehigkeiten zu verbessern.
-ETC_20150729_013699	Druecke {img F1 30 30} um das Charakterfenster zu oeffnen.
+ETC_20150729_013699	Druecke {img F1 40 40} um das Charakterfenster zu oeffnen.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
-ETC_20150729_013702	Du kannst die Fähigkeiten deines Charakters im{nl} Fähigkeitenfenster bearbeiten.
-ETC_20150729_013703	Drücke {img F3 30 30} um das Fähigkeitenfenster zu öffnen.
-ETC_20150729_013704	Drücke den {img skillup 30 30} Knopf um das Level zu erhöhen.
+ETC_20150729_013702	You can manage the skills of your character through the Skill window.
+ETC_20150729_013703	Press {img F3 40 40} to open the Skill window.
+ETC_20150729_013704	Click the {img skillup 40 40} button to increase a skill level.
 ETC_20150729_013705	Make your character even stronger by learning attributes from the Master NPCs of each class.
 ETC_20150729_013706	You can learn attributes from a Master NPC.
 ETC_20150729_013707	Silver is required to learn attributes. {nl}Also, some attributes require time to learn.
@@ -13738,15 +13738,15 @@ ETC_20150729_013740	{memo X}You can freely set up a party name, description, Ite
 ETC_20150729_013741	{memo X}You can check the list of Public Parties on the right side of the screen.
 ETC_20150729_013742	View information of monsters nearby or when you face the monster.
 ETC_20150729_013743	Each monster has an element and defense property.
-ETC_20150729_013744	Methoden um deine verbrauchten HP/SP/Stamina{nl} zu regenerieren.
-ETC_20150729_013745	[Erhohlung]: Drücke {img Insert 30 30} zum auszuruhen.
-ETC_20150729_013746	Während du dich Erhohlst, kanns du ein Lagerfeuer anmachen.
-ETC_20150729_013747	Lagerfeuer beschleunigen die Erhohlung.
-ETC_20150729_013748	{memo $}{nl}{nl}[Natürliche Regeneration]: Der 
-ETC_20150729_013749	Natürliche Regeneration ist sehr langsam, hat jedoch keine Voraussetzungen.
-ETC_20150729_013750	{memo $}{nl}{nl}[Heiltränke]: Menke der HP/SP/STA die wiederhergestell werden, hängt vom Trank ab.
-ETC_20150729_013751	Tränke haben eine Abklingzeit bevor sie {nl}wiederverwendet werden können.
-ETC_20150729_013752	{memo $}{nl}{nl}[Tree Root Crystals]: Die Zerstörung eines Tree Root Crystal stellt bei allen Spielern in der Umgebung die Stamina wieder her.
+ETC_20150729_013744	Methods to restore your consumed HP/SP/Stamina.
+ETC_20150729_013745	[Rest Mode]: Press {img Insert 40 40} to rest.
+ETC_20150729_013746	$While you are in Rest Mode, it is possible to light a [Bonfire] to speed up your recovery.
+ETC_20150729_013747	$[Bonfire]: While in Rest Mode, light a Bonfire to speed up your recovery.
+ETC_20150729_013748	{memo $}{nl}{nl}[Natural Recovery]: The 
+ETC_20150729_013749	{memo $}Natural Recovery is very slow compared to other methods, but does not have any requirements.
+ETC_20150729_013750	{memo $}{nl}{nl}[Recovery using Potions]: Amount of HP/SP/STA restored depends on the potion consumed.
+ETC_20150729_013751	However, potions have a cooldown before they can be re-used.
+ETC_20150729_013752	{memo $}{nl}{nl}[Destroying Tree Root Crystals]: Destroying a Tree Root Crystal will restore the Stamina of all nearby players.
 ETC_20150729_013753	Destroying a Tree Root Crystal recovers your Stamina.
 ETC_20150729_013754	Stamina of all the players nearby will be restored when you destroy a Tree Root Crystal.
 ETC_20150729_013755	Team Battle League
@@ -13832,9 +13832,9 @@ ETC_20150729_013834	 to revive at the entrance outside the dungeon.
 ETC_20150729_013835	 $Receive beneficial effects when worshipping a Goddess Statue.
 ETC_20150729_013836	 gives you bonus Status Points.
 ETC_20150729_013837	 enables you to warp to other areas.
-ETC_20150729_013838	Es gibt viele verschiedene Schatztruhen {nl}in denen du besondere Gegenstände findest.
-ETC_20150729_013839	Du kannst die Schatztruhen öffnen indem du {img SPACE 30 30}{nl} direkt vor einer Truhe drückst.
-ETC_20150729_013840	 Schlüssel findest du beim Questen.
+ETC_20150729_013838	There are many types of treasure chests {nl}and you can obtain special items from them.
+ETC_20150729_013839	You can receive the items by pressing {img SPACE 40 40} in front of level 1 treasure chests.
+ETC_20150729_013840	 keys can be obtained through{nl}progressing in quests.
 ETC_20150729_013841	Socialize with other players.
 ETC_20150729_013842	[Friend] You can check your Friends List using {img F7 40 40}. Players should agree with each other in order to add each other into their Friends List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a request to another player that you want to become friends with.
@@ -14035,7 +14035,7 @@ ETC_20150730_014037	Damages will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	Du kannst deinen Character verstärken indem du Punkte in STR/CON/INT/SPR/DEX verteilst.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
 ETC_20150730_014042	{memo X}DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	{memo X}Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	{memo X}DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -16483,4 +16483,3 @@ ETC_20151022_016488	Defea Cocat nest!
 ETC_20151022_016489	Defeat Moyabruka, Menticen!
 ETC_20151022_016490	Survie for 2 minutes!
 ETC_20151023_016491	{Price}NXPConsumedToHire{Minute}Continue?
-
