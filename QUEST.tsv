@@ -33,7 +33,7 @@ QUEST_20150317_000033	{memo X}That's no good! {nl}I can't work for nothing, even
 QUEST_20150317_000034	Wandering Merchant
 QUEST_20150317_000035	Like a dandelion's seeds, I am merely one who follows the wind. {nl}Since we've met in such a curious way, perhaps you could spare a moment to view my curiosities?
 QUEST_20150317_000036	Kristina
-QUEST_20150317_000037	Willkommen! {nl}Du suchst nach einem Begleiter fuer deine Abenteuer, richtig? {nl}Dann wirst du keinen besseren Platz finden als diesen hier um einen Begleiter zu finden!
+QUEST_20150317_000037	Willkommen! {nl}Du suchst nach einem Begleiter für deine Abenteuer, richtig? {nl}Dann wirst du keinen besseren Platz finden als diesen hier um einen Begleiter zu finden!
 QUEST_20150317_000038	{memo X}You can make your companions watch you fight or train special attributes. {nl}Earn enough affection, and you can even buy some cool equipment!
 QUEST_20150317_000039	{memo X}Raising your companion's affection will increase riding stamina and evasion! {nl}So what do you think? Is that enough to make you consider one?
 QUEST_20150317_000040	{memo X}The box requires a matching key.
@@ -43,9 +43,9 @@ QUEST_20150317_000043	Force start?
 QUEST_20150317_000044	Items to be deleted
 QUEST_20150317_000045	Select GenType
 QUEST_20150317_000046	Select Coordinates
-QUEST_20150317_000047	Ritter Titas
-QUEST_20150317_000048	Wenn ja, gehe zum Ritterkommandant Uska in Klaipeda. {nl} aber als erstes habe ich eine ernste Bitte an dich, ob du jemanden besuchen könntest.
-QUEST_20150317_000049	It would be nice if I could find a moment to relax…
+QUEST_20150317_000047	$Knight Titas
+QUEST_20150317_000048	Wenn dem so ist, solltest du Knight Commander Uska in Klaipeda aufsuchen. {nl}Aber zuerst, habe ich eine Bitte an dich.
+QUEST_20150317_000049	$It would be nice if I could find a moment to relax…
 QUEST_20150317_000050	Sparnas… {nl}Not someone to take lightly…
 QUEST_20150317_000051	Soldier Moody
 QUEST_20150317_000052	Let's deal with this monster before talking.
@@ -99,13 +99,13 @@ QUEST_20150317_000099	Everything that flies out of his mouth is a lie. Don't tru
 QUEST_20150317_000100	Siauliai Guard
 QUEST_20150317_000101	{memo X}There are monsters beyond this point. Be careful.
 QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but souls roaming about.
-QUEST_20150317_000103	$This is what people who have seen a Goddess in their dreams are being called.
-QUEST_20150317_000104	$I thought the Revelators' visions were madness at first. {nl}The Goddesses have been gone for a long time after all.
-QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding to our prayers ever since Medis Diena four years ago?
+QUEST_20150317_000103	So werden die Menschen genannt denen die Göttin im Traum erschienen ist.
+QUEST_20150317_000104	Ich habe zuerst gedacht das die Visionen der Erlöser qualvolle Heimsuchungen wären. {nl}Immerhin sind die Göttinnen vor langer Zeit verschwunden.
+QUEST_20150317_000105	Seit dem Medis Diena vor vier Jahren, hat keine Göttin mehr unsere Gebete erhöhrt.
 QUEST_20150317_000106	Du findest Klassenmeister ueberall im Königreich. {nl}Du solltest sie besuchen um etwas zu lernen?
-QUEST_20150317_000107	$You don't know about Medis Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
+QUEST_20150317_000107	Du weist nichts von Medis Diena? Du musst von sehr weit weg kommen. {nl}Vor vier Jahren sind die Dinge in der Hauptstadt außer Kontrolle geraten.
 QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
-QUEST_20150317_000109	$If you want to understand what happened on Medis Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
+QUEST_20150317_000109	Wenn du wissen willst was bei Medis Diena vor vier Jahren passiert ist, dann solltest du nach Klaipeda gehen. {nl}Viele Überlebende sind dorthin geflüchtet.
 QUEST_20150317_000110	Eastern Woods Sentinel
 QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
 QUEST_20150317_000112	Damn, those stubborn things chased us this far!
@@ -131,7 +131,7 @@ QUEST_20150317_000131	Klaipeda Lady
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the Goddess is somewhere in the world.
 QUEST_20150317_000133	Keep faith. {nl}The Goddess may still send a savior to us.
 QUEST_20150317_000134	Hoplite Master
-QUEST_20150317_000135	$If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
+QUEST_20150317_000135	Wenn ein Schwert das Zeichen von Stärke ist, Dann ist der Speer das Zeichen der Zerstörung. {nl}Stärke oder Zerstörung - was würdest du auf dem Schlachtfeld verwenden?
 QUEST_20150317_000136	Machine Worker
 QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with it and start over?
 QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medis Diena, we ought to work on planting trees or cutting them.
@@ -423,7 +423,7 @@ QUEST_20150317_000423	This is where a small chapel was once located. {nl}A Statu
 QUEST_20150317_000424	$Stamina can be recovered by destroying Tree Root Crystals.{nl}They are an abnormality that began to appear after Medis Diena. {nl}But rest assured, because the research results have shown it's perfectly safe.
 QUEST_20150317_000425	So Degil sent you… Here… Here it is.
 QUEST_20150317_000426	{memo X}The Goddess taught us to help others. {nl}I'm just abiding by her teachings.
-QUEST_20150317_000427	I'd have just stood there if not for your help. {nl}My arms still hurt… {nl}I understand that the situation is not normal.
+QUEST_20150317_000427	Ich stehe hier nur rum, erwarte keine Hilfe. {nl}Meine Arme tun immernoch weh… {nl}Diese Situation ist einfach nicht normal.
 QUEST_20150317_000428	{memo X}The morning comes after the night goes. {nl}Goddess Ausrine is the one who leads the morning. {nl}Not only that, but she is also the one we meet after we die.
 QUEST_20150317_000429	Strange Goddess Statue
 QUEST_20150317_000430	Come, angry and resentful souls.
@@ -557,9 +557,9 @@ QUEST_20150317_000557	Crystal Mine 2F is closed until further notice due to safe
 QUEST_20150317_000558	Business Guide
 QUEST_20150317_000559	Welcome! This is the Mine Worker's Resting Place. {nl}Warm potatoes and drinks have been prepared for you. {nl}{nl}Business hours: same as mining time - may change seasonally.
 QUEST_20150317_000560	Notice
-QUEST_20150317_000561	This is the Crystal Mine. {nl}Violators of the rules below will be punished and forced to leave.
-QUEST_20150317_000562	1. Always wear a helmet and protective gear. {nl}2. Do not enter restricted areas. {nl}3. Never carry flammable objects. {nl}4. If you see any monsters, do not fight them and file a report immediately.
-QUEST_20150317_000563	Also, we are hiring young men and families who wish to migrate. {nl} - Safe workplace, healthy happiness! Crystal Mine Youth Association
+QUEST_20150317_000561	Das ist die Crystal Mine. {nl}Personen die die folgenden Regeln brechen, werden bestraft und müssen das Gelände verlassen.
+QUEST_20150317_000562	1. Trage immer einen Helm und Schutzkleidung. {nl}2. Betrete keine gesperrten Zonen. {nl}3. Keine entflammbaren Objekte mitnehmen. {nl}4. Wenn du ein Monster siehst, fange keinen Kampf an, sondern fülle ein Meldeformular aus.
+QUEST_20150317_000563	Übrigens suchen wir ja jungen Männern und Familien die in die Stadt ziehen wollen. {nl} - Sichere Arbeitsplätze, und eine freundliche Umgebung warten auf euch!{nl} Crystal Mine Jugendgruppe 
 QUEST_20150317_000564	Compass
 QUEST_20150317_000565	Select Information
 QUEST_20150317_000566	Warning
@@ -574,7 +574,7 @@ QUEST_20150317_000574	{memo X}Wife of a Refugee Family
 QUEST_20150317_000575	{memo X}I took refuge, following my husband, but it's scarier than I thought.
 QUEST_20150317_000576	Old Man of a Refugee Family
 QUEST_20150317_000577	{memo X}I am just waiting to die of old age, {nl}trying to withhold my wealth will just give these kids a hard time…
-QUEST_20150317_000578	I feel a bit safer here.
+QUEST_20150317_000578	Ich fühle mich hier sicherer.
 QUEST_20150317_000579	{memo X}That's a relief. {nl}Can you go back to town?
 QUEST_20150317_000580	Oh, it's a good thing you made it here.
 QUEST_20150317_000581	I'm so relieved.
@@ -805,13 +805,13 @@ QUEST_20150317_000805	Flower Shop Lady
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the Goddesses' return. {nl}It's really depressing in many ways.
 QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be… {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the Goddess of the Earth…
 QUEST_20150317_000808	Warning
-QUEST_20150317_000809	$Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
-QUEST_20150317_000810	$Notice: Large Kepa is not an onion!{nl}Wearing goggles is useless against Large Kepa. {nl}Watch out for powerful attacks that shake the ground.
+QUEST_20150317_000809	Vorsicht vor den Leaf Bugs! Das sind keinen normalen Käfer. {nl}Es ist schwer sie zu bekämpfen wenn sie in Schahren kommen, also seid Vorsichtig . 
+QUEST_20150317_000810	Notiz: Large Kepa sind keine Zwiebeln!{nl}Eine Schutzbrille zu tragen wird gegen ein Large Kepa nicht helfen. {nl}Achtet auf die starken Angriffe die den Boden erschüttern.
 QUEST_20150317_000811	$Please worship the Goddess Statue with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed by the Overseer of the Earth herself.
 QUEST_20150317_000812	$The Statue of Goddess Zemyna lies at the end of this road.
-QUEST_20150317_000813	$Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and…{nl}(Red marks are covering the rest.)
-QUEST_20150317_000814	$Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
-QUEST_20150317_000815	P.S. It is better to run away than to pray to the Goddess in case you encounter Golems.
+QUEST_20150317_000813	Warnung! Hanaming-Infizierter Bereich. {nl}Fall nicht auf ihre süße Erscheinung herrein. {nl}Sie greifen in Gruppen an und…{nl}(Rote Striche überdecken den Rest.)
+QUEST_20150317_000814	Achtung! Was hinter diesem Punkt geschieht liegt in Eurer Verantwortung! {nl}Gerüchten zufolge gibt es Golems in dieser Gegend. Nicht weitergehen.
+QUEST_20150317_000815	P.S. Es ist besser wegzurennen als zur Göttin zu beten wen man einen Golem sieht.
 QUEST_20150317_000816	Die Göttinnen sind verschwunden. {nl}Aber wenn wir die Dämonen mutig bekämpfen, vielleicht kommen die Göttinen dann irgendwann zurueck. {nl} - Laimonas
 QUEST_20150317_000817	Achtung, dies gilt all Denen die nach Klaipeda gekommen sind weil sie einen Traum hatten von{nl} der Offenbarung. Knight Uska wartet auf dich am Central Plaza.
 QUEST_20150317_000818	Willkommen auf Klaipeda's Einkaufsmeile. {nl}Hier findest du viele verschiedene Läden fuer Schmuck, Handwerksausruestung {nl} Waffen, Ruestungen und anderen Dingen.
@@ -836,10 +836,10 @@ QUEST_20150317_000836	King Zachariel's Will
 QUEST_20150317_000837	{memo X}Dear Revelator. {nl}Listen to the interpretations of the revelation.
 QUEST_20150317_000838	Hahaha… {nl}Who would've thought that I would be challenged by humans…
 QUEST_20150317_000839	Your death shall be most painful!
-QUEST_20150317_000840	Soldaten Rekrutierungsstation Mitteilung
+QUEST_20150317_000840	Soldier Recruitment Notice
 QUEST_20150317_000841	Wir brauchen dich! {nl}Beschuetze deine Familie und das Königreich. {nl} - Klaipeda Rekrutierungsstation
-QUEST_20150317_000842	Wir suchen tapfere junge Menschen, die hier Zeit verbringen wollen. {nl}Diese Welt braucht dich!{nl} - Klaipeda Rekrutierungsstation
-QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000842	Wir suchen junge mutige Männer die Ordnung in diese chaotischen Zeiten bringen wollen. {nl}Die Welt braucht Euch! {nl} - Klaipeda Rekrutierungsstation
+QUEST_20150317_000843	Ehre. {nl}Das ist woraus eine Uniform gemacht wird. {nl} - Klaipeda Rekrutierungsstation
 QUEST_20150317_000844	Warning! Civilians prohibited.
 QUEST_20150317_000845	{memo X}Only authorized personnel are allowed inside.
 QUEST_20150317_000846	Impossible.
@@ -1231,12 +1231,12 @@ QUEST_20150317_001232	And so, some people believed Modestas, having undertaken t
 QUEST_20150317_001233	{memo X}Since that time, whenever Modestas took on a wager, he always bet the same thing. The answer to the question of who the Statue of Klaipeda honored.{nl}To uncover the name of the Goddess, numerous people challenged Modestas to a bet.{nl} {nl} But no matter the impossible odds, Modestas never lost a bet. Therefore nobody was able to win the answer from Modestas for years and time flew by.{nl}
 QUEST_20150317_001234	Though Modestas died an undefeated, invincible gambler, by then he had never bet anything other than the Goddess' identity, living purely off the profits gained from such bets through the end of his life. {nl}
 QUEST_20150317_001235	{memo X}In the end, this unknown Goddess, in exchange for giving income to a certain gambler from Klaipeda, created an interesting, mysterious, yet beautiful statue for the city of Klaipeda, and a tale to last for times to come.{nl} {nl}
-QUEST_20150317_001236	Talk To Knight Titas
-QUEST_20150317_001237	$Talk to the Scout
-QUEST_20150317_001238	Road to Klaipeda
-QUEST_20150317_001239	Talk to the Battle Commander
+QUEST_20150317_001236	Sprich mit Knight Titas
+QUEST_20150317_001237	Sprich mit dem Scout
+QUEST_20150317_001238	Der Weg nach Klaipeda
+QUEST_20150317_001239	Sprich mit dem Battle Commander
 QUEST_20150317_001240	Sentinel's Favor
-QUEST_20150317_001241	Not As Intended
+QUEST_20150317_001241	Nicht wie gedacht
 QUEST_20150317_001242	Aras' Commission
 QUEST_20150317_001243	Supply Soldier's Favor
 QUEST_20150317_001244	Treasure Map of the Stonemason Family
@@ -1276,7 +1276,7 @@ QUEST_20150317_001277	Bothersome Disappearance
 QUEST_20150317_001278	New Researcher's Favor
 QUEST_20150317_001279	Jonas' Drug
 QUEST_20150317_001280	Repariere den zentralen Filter 
-QUEST_20150317_001281	$Activate the Passage Purifier
+QUEST_20150317_001281	Aktiviere den Filter im Gang
 QUEST_20150317_001282	$Circulation Purifier Issues
 QUEST_20150317_001283	$Inoperable Auxiliary Purifier
 QUEST_20150317_001284	$Destroyer of the Main Purifier
@@ -1287,8 +1287,8 @@ QUEST_20150317_001288	Soldier Recruitment
 QUEST_20150317_001289	Unfinished Commission
 QUEST_20150317_001290	Information about Saugas
 QUEST_20150317_001291	{memo X}Investigate the Miners' Village
-QUEST_20150317_001292	$Mine Manager Brinker's Dedication
-QUEST_20150317_001293	$Healer Lady's Worry
+QUEST_20150317_001292	$Mine Manager Brinker's Hingabe
+QUEST_20150317_001293	$Healer Lady's Angst
 QUEST_20150317_001294	Completing the Strength of Soul
 QUEST_20150317_001295	Reluctant Souls
 QUEST_20150317_001296	Memorial Service
@@ -1912,7 +1912,7 @@ QUEST_20150428_001916	$You feel like you're being sucked into the light…
 QUEST_20150428_001917	{memo X}$You can't find anything yet.
 QUEST_20150428_001918	$The Husband of a Refugee
 QUEST_20150428_001919	$The Wife of a Refugee
-QUEST_20150428_001920	$It is very fortunate. {nl}Shall we return to the village?
+QUEST_20150428_001920	Ich bin erleichtert. {nl}Sollten wir in das Dorf zurückkehren?
 QUEST_20150428_001921	Will
 QUEST_20150428_001922	{memo X}$How stingy. I'll have to be stingy as well then.
 QUEST_20150428_001923	Blackened Clue
@@ -1968,7 +1968,7 @@ QUEST_20150428_001972	$The Order to Defeat the Demons
 QUEST_20150428_001973	$I hereby order in the name of Vakarine! {nl}After Medis Diena, they can no longer be forgiven. {nl}They are trying to expand their power by penetrating into the crack that was created in the barrier.
 QUEST_20150428_001974	$All the Kupoles here shall defeat Demon Lords Boolut, Nuaele, and Baltrus first. {nl}The enemy will panic without their commanders and will be easier to defeat.
 QUEST_20150428_001975	$Kupoles who can't attack should concentrate on blocking the crack. {nl}We can't allow more demons from going to the Demon Lords.
-QUEST_20150428_001976	$How should I live from now on? {nl}I should have moved to Klaipeda.
+QUEST_20150428_001976	Wie soll ich nur ab jetzt leben? {nl}Ich hätte nach Klaipeda gehen sollen.
 QUEST_20150428_001977	{memo X}$Since you've placed them into the inventory, you can read them anytime.
 QUEST_20150428_001978	$Mirtis' power was so overwhelming that Cunningham had to make an important decision.
 QUEST_20150428_001979	{memo X}$I hear that more and more monsters are appearing in the Baron Arleruno's land. {nl}Please defeat those monsters before they take any innocent lives.
@@ -1978,9 +1978,9 @@ QUEST_20150428_001982	{memo X}$Dina Bee Farm is in danger of monster attacks. {n
 QUEST_20150511_001983	$It's better to use the cable car than to fight through the monsters.
 QUEST_20150511_001984	$Just don't believe everything he says. {nl}He was known for being quite the show-off back at home.
 QUEST_20150511_001985	$It would be nice if all these Revelators being here meant that the Goddesses are back.
-QUEST_20150511_001986	$Strength is the most important stat for swordsmen. {nl}You could also train yourself to be agile and possess strong stamina. {nl}You should take a moment to decide on what to prioritize from now on.
-QUEST_20150511_001987	$Strength is the most important stat for archers. {nl}But, of course you can't ignore agile movement. {nl}You should take a moment to decide on what to prioritize from now on.
-QUEST_20150511_001988	$Intelligence is the most important stat for clerics. {nl}But sometimes you may need more strength or a stronger spirit. {nl}You should take a moment to decide what to prioritize from now on.
+QUEST_20150511_001986	Stärke ist der wichtigste Status für einen Swordsmen. {nl}Du kannst auch trainieren um Agiler zu werden oder mehr Stamina zu haben. {nl}Du solltest dir ab jetzt Zeit nehmen um zu entscheiden wie du dich verbessern willst.
+QUEST_20150511_001987	Stärke ist der wichtigste Status für einen Archer. {nl}Aber du solltest die Agilität nicht vergessen. {nl}Du solltest dir ab jetzt Zeit nehmen um zu entscheiden wie du dich verbessern willst.
+QUEST_20150511_001988	Intelligenz ist der wichtigste Status für einen Cleric. {nl}Aber manchmal wirst du auch mehr Stärke oder Spirit benötigen. {nl}Du solltest dir ab jetzt Zeit nehmen um zu entscheiden wie du dich verbessern willst.
 QUEST_20150511_001989	$Helping reconstruct Fedimian may be more meaningful than pottery. {nl}But people need something to soothe their hearts.
 QUEST_20150511_001990	$If I had the journal, I could continue my adventure, but I wasn't chosen… {nl}But for you things might be different…
 QUEST_20150511_001991	{memo X}$If you cleverly use the dry air that forms around areas of severe cold, you'd be able to freeze any object even in a desert. {nl}However, if you can't receive the blessing from the Goddess, it won't be possible to make that kind of air.
@@ -2396,7 +2396,7 @@ QUEST_20150918_002404	$There are only missions that seem difficult to you.{nl} P
 QUEST_20150918_002405	Historic Site Ruins
 QUEST_20150918_002406	Historic Site Ruins (Recommended Lv : 90){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 QUEST_20150918_002407	Right. Goddess Laima is the strangest of them all.{nl}No one knows when she disappeared. To be honest, I don't know if she really is a Goddess.{nl}
-QUEST_20150918_002408	Even if they say the world is doomed, our soldiers will guard this place until the end. {nl}However, we won't be responsible for you getting yourself into trouble, so be careful.
+QUEST_20150918_002408	Selbst wenn sie sagen das die Welt verdammt ist, unsere Soldaten werden diesen Ort bis zum Ende verteidigen. {nl}Aber sei vorsichtig, wir sind nicht dafür verantwortlich wenn du dich selbst in Gefahr bringst.
 QUEST_20150918_002409	{memo Uska is a knight}Willkommen. Sir Uska wartet auf dich am Central Plaza in Klaipeda. {nl}Gibt es noch etwas das du wissen möchtest?
 QUEST_20150918_002410	{memo X}$But this is also my ordeal and mission that Laima has seen. {nl}I will tell you Laima's message.{nl}
 QUEST_20150918_002411	$Welcome! What do you need? {nl}Unlike my previous items, I made my best effort to collect these.
@@ -2450,7 +2450,7 @@ QUEST_20151001_002458	There's a request that is being progressed.{nl}Come see me
 QUEST_20151001_002459	The request can be accepted by the party leader.
 QUEST_20151001_002460	Thorny Vines Forest Dungeon
 QUEST_20151001_002461	Thorny Vines Forest (Recommended Lv : 175){nl}Only you and your party members can enter together.{nl}Do you want to enter?
-QUEST_20151001_002462	It was a disaster… Many people were either injured or killed. {nl}Gentle creatures grew fierce and many new monsters emerged.{nl}
+QUEST_20151001_002462	Es war ein Disaster… Viele Menschen wurden verletzt oder getötet. {nl}Sampfte Wesen wurden auf einmal Wild, und Monster tauchten auf.{nl}
 QUEST_20151001_002463	I think the best weapons and the armors are the ones that you get used to over a long period time. In order to do so, you must start first by buying good items.
 QUEST_20151001_002464	The things I sell are good both in price and quality.
 QUEST_20151001_002465	Dank Sir Uska's Rekrutierungsnachricht scheinen viele Menschen zu kommen.{nl}Schau dich in Ruhe um.
